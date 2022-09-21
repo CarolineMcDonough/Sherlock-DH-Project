@@ -15,3 +15,5 @@ Caroline McDonough: cmm311@pitt.edu 412-877-3222
 Alyssa Underwood: aau13@pitt.edu 484-769-6878
 
 Rory Walsh: rpw21@pitt.edu  570-687-7345
+
+Sean Shmulevich: szs23@pitt.edu 267-733-9999
