@@ -10,3 +10,5 @@ search for `(.+(\n?))*` and replace with `<p>\n\0</p>\n`manually tab the last p 
 replace `^\s*([ICDVMXL]{1,6}\..+)` with `<title>\1</title>`
 
 next turn on 'dot matches all and input the regex' `".+?"` and replace it with `<quote>\0</quote>` keep dot matches all on for now.
+
+moving forward find sentencs containing things abt women. 
