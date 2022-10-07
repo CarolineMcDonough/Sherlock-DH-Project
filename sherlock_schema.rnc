@@ -1,0 +1,15 @@
+start = passage
+passage = element passage {chapter, number, title, story}
+chapter = element chapter {number | text}
+number = attribute number {text}
+title = element title {text}
+story = element story {prg+, text}
+prg = element prg {char+ | gender | quote+ | action+ | indv | speaker | text}
+char = element char {gender | text}
+gender = attribute gender {text}
+quote = element quote {speaker, text}
+speaker = attribute speaker {text}
+action = element action {indv, text}
+indv = attribute indv {text}
+
+
