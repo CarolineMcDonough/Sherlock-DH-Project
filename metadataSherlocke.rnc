@@ -3,41 +3,53 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 #subset of TEI header.
 
 start = meta
-meta = element meta{bookDesc, projectDesc, notes}
-bookDesc = element bookDesc{title, author, pubData}
+# bookDesc quantitative book information
+# projectDesc projects goals and methods for all stories
+# notes optional list of file specifiic information
+meta = element meta{bookDesc, projectDesc, notes?}
 
+bookDesc = element bookDesc{title, author, pubData} #maybe add something here?
+    #title
+    #author 
+    #pubData
+        #publisher
+        #isbn #<isbn isbn="xxxxxxxx" />
+        #availability "Freely available on a non-commercial basis."
+        #date <date when="xsd:int"></date>
 author = element author{text}
 title = element title{text}
 backgroundInfo = element author{text}
-pubData = element pubData{publisher, distributor,isbn, availability, date}
+pubData = element pubData{publisher,isbn, availability, date}
 
 publisher = element publisher{text}
-distributor = element distributor{text}
-
 isbn = element isbn{empty, isbn}
-bookNum = attribute isbn{xsd:int}#<isbn isbn="xxxxxxxx" />
-
+bookNum = attribute isbn{xsd:int}
 availability = element availability{text}
 
 date = element date{text, when}
 when = attribute when{xsd:gYear}
 
-projectDesc = element projectDesc{header, projDetails}
-header = element header{text}
+#END BOOKDESC
 
-projDetails = element projDetails{goals, stratagies, regexRef}
+projectDesc = element projectDesc{goals, stratagies, regexRef}
+    #header
+    #pro
+
 goals = element goals{text}
 
-stratagies = element stratagies{ol}
-ol = element ol{li +}
-li = element li{text}
+stratagies = element stratagies{ol}#this shouldnt be xml
+#ordered list.
+ol = element ol{li +}#<ol>
+li = element li{text}#  <l1>{text}</li>
+                     #  <l1>{text}</li>
+                     #<ol>
 
 regexRef = element regexRef{ol}#outlines regex stratagies
 
+#END PROJECTDESC
 
 notes = element notes{remarks, changes}
-remarks = element remarks{p}
-p = element type{text}
+remarks = element remarks{text}
 changes = element changes{ol}
 
 
