@@ -1,0 +1,48 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+#subset of TEI header.
+
+start = meta
+meta = element meta{bookDesc, projectDesc, notes}
+bookDesc = element bookDesc{title, author, pubData}
+
+author = element author{text}
+title = element title{text}
+backgroundInfo = element author{text}
+pubData = element pubData{publisher, distributor,isbn, availability, date}
+
+publisher = element publisher{text}
+distributor = element distributor{text}
+
+isbn = element isbn{empty, isbn}
+bookNum = attribute isbn{xsd:int}#<isbn isbn="xxxxxxxx" />
+
+availability = element availability{text}
+
+date = element date{text, when}
+when = attribute when{xsd:gYear}
+
+projectDesc = element projectDesc{header, projDetails}
+header = element header{text}
+
+projDetails = element projDetails{goals, stratagies, regexRef}
+goals = element goals{text}
+
+stratagies = element stratagies{ol}
+ol = element ol{li +}
+li = element li{text}
+
+regexRef = element regexRef{ol}#outlines regex stratagies
+
+
+notes = element notes{remarks, changes}
+remarks = element remarks{p}
+p = element type{text}
+changes = element changes{ol}
+
+
+
+
+
+
+
