@@ -1,22 +1,16 @@
 start = passage
-passage = element passage {chapter, number, title, story}
-chapter = element chapter {number | text}
-number = attribute number {text}
-title = element title {text}
-<<<<<<< HEAD
-story = element story {p+, text}
-p = element p {char+ | quote+ | action+ | char | speaker | text}
-char = element char {gender | text}
-gender = attribute gender {text}
-quote = element quote {speaker, text}
-=======
-story = element story {(chapter* | p+)*}
-chapter = element chapter {number,text}
-p = element p {(char* | quote* | action*| text)*}
-char = element char {gender,text}
-gender = attribute gender {"male"|"female"}
-quote = element quote {speaker, (text|subq+)*}
-subq = element subq {speaker, text}
->>>>>>> c110ecd05be4956351f97a9f193bf2a974797bb3
-speaker = attribute speaker {text}
-action = element action {char, text}
+passage = element passage { chapter?, number, title, story }
+number = attribute number { text }
+title = element title { text }
+story = element story { chapter+ | p+ }
+chapter = element chapter { number, title?, p+ }
+p =
+    element p {
+        mixed { (char | quote | action)* }
+    }
+char = element char { gender, text }
+gender = attribute gender { "male" | "female" }
+quote = element quote { speaker, (text | subq+)* }
+subq = element subq { speaker, text }
+speaker = attribute speaker { text }
+action = element action { char, text }
