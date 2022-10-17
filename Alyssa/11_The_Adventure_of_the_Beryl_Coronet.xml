@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-XI. THE ADVENTURE OF THE BERYL CORONET
-
-
-“Holmes,” said I as I stood one morning in our bow-window looking down
+<?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<passage>
+    <passage number = "11">XI.</passage> <title>THE ADVENTURE OF THE BERYL CORONET</title>
+<story>
+“<char gender = "male">Holmes</char>,” said I as I stood one morning in our bow-window looking down
 the street, “here is a madman coming along. It seems rather sad that
 his relatives should allow him to come out alone.”
 
@@ -32,7 +32,7 @@ into the most extraordinary contortions.
 “What on earth can be the matter with him?” I asked. “He is looking up
 at the numbers of the houses.”
 
-“I believe that he is coming here,” said Holmes, rubbing his hands.
+“I believe that he is coming here,” said <char gender = "male">Holmes</char>, rubbing his hands.
 
 “Here?”
 
@@ -48,7 +48,7 @@ a while he could not get his words out, but swayed his body and plucked
 at his hair like one who has been driven to the extreme limits of his
 reason. Then, suddenly springing to his feet, he beat his head against
 the wall with such force that we both rushed upon him and tore him away
-to the centre of the room. Sherlock Holmes pushed him down into the
+to the centre of the room. Sherlock <char gender = "male">Holmes</char> pushed him down into the
 easy-chair and, sitting beside him, patted his hand and chatted with
 him in the easy, soothing tones which he knew so well how to employ.
 
@@ -63,7 +63,7 @@ lips tight, and turned his face towards us.
 
 “No doubt you think me mad?” said he.
 
-“I see that you have had some great trouble,” responded Holmes.
+“I see that you have had some great trouble,” responded <char gender = "male">Holmes</char>.
 
 “God knows I have!—a trouble which is enough to unseat my reason, so
 sudden and so terrible is it. Public disgrace I might have faced,
@@ -73,11 +73,11 @@ together, and in so frightful a form, have been enough to shake my very
 soul. Besides, it is not I alone. The very noblest in the land may
 suffer unless some way be found out of this horrible affair.”
 
-“Pray compose yourself, sir,” said Holmes, “and let me have a clear
+“Pray compose yourself, sir,” said <char gender = "male">Holmes</char>, “and let me have a clear
 account of who you are and what it is that has befallen you.”
 
 “My name,” answered our visitor, “is probably familiar to your ears. I
-am Alexander Holder, of the banking firm of Holder & Stevenson, of
+am <char gender = "male">Alexander Holder</char>, of the banking firm of Holder & Stevenson, of
 Threadneedle Street.”
 
 The name was indeed well known to us as belonging to the senior partner
@@ -112,7 +112,7 @@ in England. I was overwhelmed by the honour and attempted, when he
 entered, to say so, but he plunged at once into business with the air
 of a man who wishes to hurry quickly through a disagreeable task.
 
-“‘Mr. Holder,’ said he, ‘I have been informed that you are in the habit
+“‘<char gender = "male">Mr. Holder</char>,’ said he, ‘I have been informed that you are in the habit
 of advancing money.’
 
 “‘The firm does so when the security is good.’ I answered.
@@ -163,7 +163,7 @@ of form. Is the security sufficient?’
 
 “‘Ample.’
 
-“‘You understand, Mr. Holder, that I am giving you a strong proof of
+“‘You understand, <char gender = "male">Mr. Holder</char>, that I am giving you a strong proof of
 the confidence which I have in you, founded upon all that I have heard
 of you. I rely upon you not only to be discreet and to refrain from all
 gossip upon the matter but, above all, to preserve this coronet with
@@ -196,7 +196,7 @@ at Streatham, carrying the jewel with me. I did not breathe freely
 until I had taken it upstairs and locked it in the bureau of my
 dressing-room.
 
-“And now a word as to my household, Mr. Holmes, for I wish you to
+“And now a word as to my household, Mr. <char gender = "male">Holmes</char>, for I wish you to
 thoroughly understand the situation. My groom and my page sleep out of
 the house, and may be set aside altogether. I have three maid-servants
 who have been with me a number of years and whose absolute reliability
@@ -209,7 +209,7 @@ believe her to be a thoroughly good girl in every way.
 
 “So much for the servants. My family itself is so small that it will
 not take me long to describe it. I am a widower and have an only son,
-Arthur. He has been a disappointment to me, Mr. Holmes—a grievous
+<char gender = "male">Arthur</char>. He has been a disappointment to me, Mr. <char gender = "male">Holmes</char>—a grievous
 disappointment. I have no doubt that I am myself to blame. People tell
 me that I have spoiled him. Very likely I have. When my dear wife died
 I felt that he was all I had to love. I could not bear to see the smile
@@ -227,19 +227,19 @@ heavily at cards and to squander money on the turf, until he had again
 and again to come to me and implore me to give him an advance upon his
 allowance, that he might settle his debts of honour. He tried more than
 once to break away from the dangerous company which he was keeping, but
-each time the influence of his friend, Sir George Burnwell, was enough
+each time the influence of his friend, Sir George <char gender = "male">Burnwell</char>, was enough
 to draw him back again.
 
-“And, indeed, I could not wonder that such a man as Sir George Burnwell
+“And, indeed, I could not wonder that such a man as Sir George <char gender = "male">Burnwell</char>
 should gain an influence over him, for he has frequently brought him to
 my house, and I have found myself that I could hardly resist the
-fascination of his manner. He is older than Arthur, a man of the world
+fascination of his manner. He is older than <char gender = "male">Arthur</char>, a man of the world
 to his finger-tips, one who had been everywhere, seen everything, a
 brilliant talker, and a man of great personal beauty. Yet when I think
 of him in cold blood, far away from the glamour of his presence, I am
 convinced from his cynical speech and the look which I have caught in
 his eyes that he is one who should be deeply distrusted. So I think,
-and so, too, thinks my little Mary, who has a woman’s quick insight
+and so, too, thinks my little <char gender = "female">Mary</char>, who has a woman’s quick insight
 into character.
 
 “And now there is only she to be described. She is my niece; but when
@@ -254,18 +254,18 @@ has refused him. I think that if anyone could have drawn him into the
 right path it would have been she, and that his marriage might have
 changed his whole life; but now, alas! it is too late—forever too late!
 
-“Now, Mr. Holmes, you know the people who live under my roof, and I
+“Now, Mr. <char gender = "male">Holmes</char>, you know the people who live under my roof, and I
 shall continue with my miserable story.
 
 “When we were taking coffee in the drawing-room that night after
-dinner, I told Arthur and Mary my experience, and of the precious
+dinner, I told <char gender = "male">Arthur</char> and <char gender = "female">Mary</char> my experience, and of the precious
 treasure which we had under our roof, suppressing only the name of my
 client. Lucy Parr, who had brought in the coffee, had, I am sure, left
-the room; but I cannot swear that the door was closed. Mary and Arthur
+the room; but I cannot swear that the door was closed. <char gender = "female">Mary</char> and <char gender = "male">Arthur</char>
 were much interested and wished to see the famous coronet, but I
 thought it better not to disturb it.
 
-“‘Where have you put it?’ asked Arthur.
+“‘Where have you put it?’ asked <char gender = "male">Arthur</char>.
 
 “‘In my own bureau.’
 
@@ -302,9 +302,9 @@ the room without another word.
 
 “When he was gone I unlocked my bureau, made sure that my treasure was
 safe, and locked it again. Then I started to go round the house to see
-that all was secure—a duty which I usually leave to Mary but which I
+that all was secure—a duty which I usually leave to <char gender = "female">Mary</char> but which I
 thought it well to perform myself that night. As I came down the stairs
-I saw Mary herself at the side window of the hall, which she closed and
+I saw <char gender = "female">Mary</char> herself at the side window of the hall, which she closed and
 fastened as I approached.
 
 “‘Tell me, dad,’ said she, looking, I thought, a little disturbed, ‘did
@@ -324,7 +324,7 @@ you sure that everything is fastened?’
 “‘Then, good-night.’ I kissed her and went up to my bedroom again,
 where I was soon asleep.
 
-“I am endeavouring to tell you everything, Mr. Holmes, which may have
+“I am endeavouring to tell you everything, Mr. <char gender = "male">Holmes</char>, which may have
 any bearing upon the case, but I beg that you will question me upon any
 point which I do not make clear.”
 
@@ -341,7 +341,7 @@ footsteps moving softly in the next room. I slipped out of bed, all
 palpitating with fear, and peeped round the corner of my dressing-room
 door.
 
-“‘Arthur!’ I screamed, ‘you villain! you thief! How dare you touch that
+“‘<char gender = "male">Arthur</char>!’ I screamed, ‘you villain! you thief! How dare you touch that
 coronet?’
 
 “The gas was half up, as I had left it, and my unhappy boy, dressed
@@ -378,11 +378,11 @@ should not have thought was in his nature. ‘If you choose to call the
 police, let the police find what they can.’
 
 “By this time the whole house was astir, for I had raised my voice in
-my anger. Mary was the first to rush into my room, and, at the sight of
-the coronet and of Arthur’s face, she read the whole story and, with a
+my anger. <char gender = "female">Mary</char> was the first to rush into my room, and, at the sight of
+the coronet and of <char gender = "male">Arthur</char>’s face, she read the whole story and, with a
 scream, fell down senseless on the ground. I sent the housemaid for the
 police and put the investigation into their hands at once. When the
-inspector and a constable entered the house, Arthur, who had stood
+inspector and a constable entered the house, <char gender = "male">Arthur</char>, who had stood
 sullenly with his arms folded, asked me whether it was my intention to
 charge him with theft. I answered that it had ceased to be a private
 matter, but had become a public one, since the ruined coronet was
@@ -424,18 +424,18 @@ honour, my gems, and my son in one night. Oh, what shall I do!”
 He put a hand on either side of his head and rocked himself to and fro,
 droning to himself like a child whose grief has got beyond words.
 
-Sherlock Holmes sat silent for some few minutes, with his brows knitted
+Sherlock <char gender = "male">Holmes</char> sat silent for some few minutes, with his brows knitted
 and his eyes fixed upon the fire.
 
 “Do you receive much company?” he asked.
 
 “None save my partner with his family and an occasional friend of
-Arthur’s. Sir George Burnwell has been several times lately. No one
+<char gender = "male">Arthur</char>’s. Sir George <char gender = "male">Burnwell</char> has been several times lately. No one
 else, I think.”
 
 “Do you go out much in society?”
 
-“Arthur does. Mary and I stay at home. We neither of us care for it.”
+“<char gender = "male">Arthur</char> does. <char gender = "female">Mary</char> and I stay at home. We neither of us care for it.”
 
 “That is unusual in a young girl.”
 
@@ -469,7 +469,7 @@ silence appears to me to cut both ways. There are several singular
 points about the case. What did the police think of the noise which
 awoke you from your sleep?”
 
-“They considered that it might be caused by Arthur’s closing his
+“They considered that it might be caused by <char gender = "male">Arthur</char>’s closing his
 bedroom door.”
 
 “A likely story! As if a man bent on felony would slam his door so as
@@ -484,7 +484,7 @@ hope of finding them.”
 “Yes, they have shown extraordinary energy. The whole garden has
 already been minutely examined.”
 
-“Now, my dear sir,” said Holmes, “is it not obvious to you now that
+“Now, my dear sir,” said <char gender = "male">Holmes</char>, “is it not obvious to you now that
 this matter really strikes very much deeper than either you or the
 police were at first inclined to think? It appeared to you to be a
 simple case; to me it seems exceedingly complex. Consider what is
@@ -497,18 +497,18 @@ returned with the other thirty-six into the room in which he exposed
 himself to the greatest danger of being discovered. I ask you now, is
 such a theory tenable?”
 
-“But what other is there?” cried the banker with a gesture of despair.
+“But what other is there?” cried <char gender = "male">the banker</char> with a gesture of despair.
 “If his motives were innocent, why does he not explain them?”
 
-“It is our task to find that out,” replied Holmes; “so now, if you
-please, Mr. Holder, we will set off for Streatham together, and devote
+“It is our task to find that out,” replied <char gender = "male">Holmes</char>; “so now, if you
+please, <char gender = "male">Mr. Holder</char>, we will set off for Streatham together, and devote
 an hour to glancing a little more closely into details.”
 
 My friend insisted upon my accompanying them in their expedition, which
 I was eager enough to do, for my curiosity and sympathy were deeply
 stirred by the story to which we had listened. I confess that the guilt
-of the banker’s son appeared to me to be as obvious as it did to his
-unhappy father, but still I had such faith in Holmes’ judgment that I
+of <char gender = "male">the banker</char>’s son appeared to me to be as obvious as it did to his
+unhappy father, but still I had such faith in <char gender = "male">Holmes</char>’ judgment that I
 felt that there must be some grounds for hope as long as he was
 dissatisfied with the accepted explanation. He hardly spoke a word the
 whole way out to the southern suburb, but sat with his chin upon his
@@ -526,10 +526,10 @@ entrance. On the right side was a small wooden thicket, which led into
 a narrow path between two neat hedges stretching from the road to the
 kitchen door, and forming the tradesmen’s entrance. On the left ran a
 lane which led to the stables, and was not itself within the grounds at
-all, being a public, though little used, thoroughfare. Holmes left us
+all, being a public, though little used, thoroughfare. <char gender = "male">Holmes</char> left us
 standing at the door and walked slowly all round the house, across the
 front, down the tradesmen’s path, and so round by the garden behind
-into the stable lane. So long was he that Mr. Holder and I went into
+into the stable lane. So long was he that <char gender = "male">Mr. Holder</char> and I went into
 the dining-room and waited by the fire until he should return. We were
 sitting there in silence when the door opened and a young lady came in.
 She was rather above the middle height, slim, with dark hair and eyes,
@@ -537,13 +537,13 @@ which seemed the darker against the absolute pallor of her skin. I do
 not think that I have ever seen such deadly paleness in a woman’s face.
 Her lips, too, were bloodless, but her eyes were flushed with crying.
 As she swept silently into the room she impressed me with a greater
-sense of grief than the banker had done in the morning, and it was the
+sense of grief than <char gender = "male">the banker</char> had done in the morning, and it was the
 more striking in her as she was evidently a woman of strong character,
 with immense capacity for self-restraint. Disregarding my presence, she
 went straight to her uncle and passed her hand over his head with a
 sweet womanly caress.
 
-“You have given orders that Arthur should be liberated, have you not,
+“You have given orders that <char gender = "male">Arthur</char> should be liberated, have you not,
 dad?” she asked.
 
 “No, no, my girl, the matter must be probed to the bottom.”
@@ -562,10 +562,10 @@ coronet in his hand?”
 
 “Oh, but he had only picked it up to look at it. Oh, do, do take my
 word for it that he is innocent. Let the matter drop and say no more.
-It is so dreadful to think of our dear Arthur in prison!”
+It is so dreadful to think of our dear <char gender = "male">Arthur</char> in prison!”
 
-“I shall never let it drop until the gems are found—never, Mary! Your
-affection for Arthur blinds you as to the awful consequences to me. Far
+“I shall never let it drop until the gems are found—never, <char gender = "female">Mary</char>! Your
+affection for <char gender = "male">Arthur</char> blinds you as to the awful consequences to me. Far
 from hushing the thing up, I have brought a gentleman down from London
 to inquire more deeply into it.”
 
@@ -577,11 +577,11 @@ stable lane now.”
 “The stable lane?” She raised her dark eyebrows. “What can he hope to
 find there? Ah! this, I suppose, is he. I trust, sir, that you will
 succeed in proving, what I feel sure is the truth, that my cousin
-Arthur is innocent of this crime.”
+<char gender = "male">Arthur</char> is innocent of this crime.”
 
 “I fully share your opinion, and I trust, with you, that we may prove
-it,” returned Holmes, going back to the mat to knock the snow from his
-shoes. “I believe I have the honour of addressing Miss Mary Holder.
+it,” returned <char gender = "male">Holmes</char>, going back to the mat to knock the snow from his
+shoes. “I believe I have the honour of addressing Miss <char gender = "female"><char gender = "female">Mary</char> Holder</char>.
 Might I ask you a question or two?”
 
 “Pray do, sir, if it may help to clear this horrible affair up.”
@@ -609,12 +609,12 @@ have heard uncle’s remarks about the coronet.”
 “I see. You infer that she may have gone out to tell her sweetheart,
 and that the two may have planned the robbery.”
 
-“But what is the good of all these vague theories,” cried the banker
-impatiently, “when I have told you that I saw Arthur with the coronet
+“But what is the good of all these vague theories,” cried <char gender = "male">the banker</char>
+impatiently, “when I have told you that I saw <char gender = "male">Arthur</char> with the coronet
 in his hands?”
 
-“Wait a little, Mr. Holder. We must come back to that. About this girl,
-Miss Holder. You saw her return by the kitchen door, I presume?”
+“Wait a little, <char gender = "male">Mr. Holder</char>. We must come back to that. About this girl,
+<char gender = "female">Miss Holder</char>. You saw her return by the kitchen door, I presume?”
 
 “Yes; when I went to see if the door was fastened for the night I met
 her slipping in. I saw the man, too, in the gloom.”
@@ -622,9 +622,9 @@ her slipping in. I saw the man, too, in the gloom.”
 “Do you know him?”
 
 “Oh, yes! he is the greengrocer who brings our vegetables round. His
-name is Francis Prosper.”
+name is <char gender = "male">Francis Prosper</char>.”
 
-“He stood,” said Holmes, “to the left of the door—that is to say,
+“He stood,” said <char gender = "male">Holmes</char>, “to the left of the door—that is to say,
 farther up the path than is necessary to reach the door?”
 
 “Yes, he did.”
@@ -633,7 +633,7 @@ farther up the path than is necessary to reach the door?”
 
 Something like fear sprang up in the young lady’s expressive black
 eyes. “Why, you are like a magician,” said she. “How do you know that?”
-She smiled, but there was no answering smile in Holmes’ thin, eager
+She smiled, but there was no answering smile in <char gender = "male">Holmes</char>’ thin, eager
 face.
 
 “I should be very glad now to go upstairs,” said he. “I shall probably
@@ -646,7 +646,7 @@ opened and made a very careful examination of the sill with his
 powerful magnifying lens. “Now we shall go upstairs,” said he at last.
 
 The banker’s dressing-room was a plainly furnished little chamber, with
-a grey carpet, a large bureau, and a long mirror. Holmes went to the
+a grey carpet, a large bureau, and a long mirror. <char gender = "male">Holmes</char> went to the
 bureau first and looked hard at the lock.
 
 “Which key was used to open it?” he asked.
@@ -658,7 +658,7 @@ lumber-room.”
 
 “That is it on the dressing-table.”
 
-Sherlock Holmes took it up and opened the bureau.
+Sherlock <char gender = "male">Holmes</char> took it up and opened the bureau.
 
 “It is a noiseless lock,” said he. “It is no wonder that it did not
 wake you. This case, I presume, contains the coronet. We must have a
@@ -668,24 +668,24 @@ and the thirty-six stones were the finest that I have ever seen. At one
 side of the coronet was a cracked edge, where a corner holding three
 gems had been torn away.
 
-“Now, Mr. Holder,” said Holmes, “here is the corner which corresponds
+“Now, <char gender = "male">Mr. Holder</char>,” said <char gender = "male">Holmes</char>, “here is the corner which corresponds
 to that which has been so unfortunately lost. Might I beg that you will
 break it off.”
 
 The banker recoiled in horror. “I should not dream of trying,” said he.
 
-“Then I will.” Holmes suddenly bent his strength upon it, but without
+“Then I will.” <char gender = "male">Holmes</char> suddenly bent his strength upon it, but without
 result. “I feel it give a little,” said he; “but, though I am
 exceptionally strong in the fingers, it would take me all my time to
 break it. An ordinary man could not do it. Now, what do you think would
-happen if I did break it, Mr. Holder? There would be a noise like a
+happen if I did break it, <char gender = "male">Mr. Holder</char>? There would be a noise like a
 pistol shot. Do you tell me that all this happened within a few yards
 of your bed and that you heard nothing of it?”
 
 “I do not know what to think. It is all dark to me.”
 
-“But perhaps it may grow lighter as we go. What do you think, Miss
-Holder?”
+“But perhaps it may grow lighter as we go. What do you think, <char gender = "female">Miss
+    Holder</char>?”
 
 “I confess that I still share my uncle’s perplexity.”
 
@@ -695,7 +695,7 @@ Holder?”
 
 “Thank you. We have certainly been favoured with extraordinary luck
 during this inquiry, and it will be entirely our own fault if we do not
-succeed in clearing the matter up. With your permission, Mr. Holder, I
+succeed in clearing the matter up. With your permission, <char gender = "male">Mr. Holder</char>, I
 shall now continue my investigations outside.”
 
 He went alone, at his own request, for he explained that any
@@ -703,10 +703,10 @@ unnecessary footmarks might make his task more difficult. For an hour
 or more he was at work, returning at last with his feet heavy with snow
 and his features as inscrutable as ever.
 
-“I think that I have seen now all that there is to see, Mr. Holder,”
+“I think that I have seen now all that there is to see, <char gender = "male">Mr. Holder</char>,”
 said he; “I can serve you best by returning to my rooms.”
 
-“But the gems, Mr. Holmes. Where are they?”
+“But the gems, Mr. <char gender = "male">Holmes</char>. Where are they?”
 
 “I cannot tell.”
 
@@ -741,7 +741,7 @@ With his collar turned up, his shiny, seedy coat, his red cravat, and
 his worn boots, he was a perfect sample of the class.
 
 “I think that this should do,” said he, glancing into the glass above
-the fireplace. “I only wish that you could come with me, Watson, but I
+the fireplace. “I only wish that you could come with me, <char gender = "male">Watson</char>, but I
 fear that it won’t do. I may be on the trail in this matter, or I may
 be following a will-o’-the-wisp, but I shall soon know which it is. I
 hope that I may be back in a few hours.” He cut a slice of beef from
@@ -782,7 +782,7 @@ but when I came down to breakfast in the morning there he was with a
 cup of coffee in one hand and the paper in the other, as fresh and trim
 as possible.
 
-“You will excuse my beginning without you, Watson,” said he, “but you
+“You will excuse my beginning without you, <char gender = "male">Watson</char>,” said he, “but you
 remember that our client has rather an early appointment this morning.”
 
 “Why, it is after nine now,” I answered. “I should not be surprised if
@@ -799,7 +799,7 @@ him.
 “I do not know what I have done to be so severely tried,” said he.
 “Only two days ago I was a happy and prosperous man, without a care in
 the world. Now I am left to a lonely and dishonoured age. One sorrow
-comes close upon the heels of another. My niece, Mary, has deserted
+comes close upon the heels of another. My niece, <char gender = "female">Mary</char>, has deserted
 me.”
 
 “Deserted you?”
@@ -820,16 +820,16 @@ so. It is to that remark that she refers in this note:
     your loving,
 
 
-    “‘MARY.’
+“‘<char gender = "female">MARY</char>.’
 
 
-“What could she mean by that note, Mr. Holmes? Do you think it points
+“What could she mean by that note, Mr. <char gender = "male">Holmes</char>? Do you think it points
 to suicide?”
 
 “No, no, nothing of the kind. It is perhaps the best possible solution.
-I trust, Mr. Holder, that you are nearing the end of your troubles.”
+I trust, <char gender = "male">Mr. Holder</char>, that you are nearing the end of your troubles.”
 
-“Ha! You say so! You have heard something, Mr. Holmes; you have learned
+“Ha! You say so! You have heard something, Mr. <char gender = "male">Holmes</char>; you have learned
 something! Where are the gems?”
 
 “You would not think £ 1000 apiece an excessive sum for them?”
@@ -840,7 +840,7 @@ something! Where are the gems?”
 there is a little reward, I fancy. Have you your cheque-book? Here is a
 pen. Better make it out for £ 4000.”
 
-With a dazed face the banker made out the required check. Holmes walked
+With a dazed face <char gender = "male">the banker</char> made out the required check. <char gender = "male">Holmes</char> walked
 over to his desk, took out a little triangular piece of gold with three
 gems in it, and threw it down upon the table.
 
@@ -851,7 +851,7 @@ With a shriek of joy our client clutched it up.
 The reaction of joy was as passionate as his grief had been, and he
 hugged his recovered gems to his bosom.
 
-“There is one other thing you owe, Mr. Holder,” said Sherlock Holmes
+“There is one other thing you owe, <char gender = "male">Mr. Holder</char>,” said Sherlock <char gender = "male">Holmes</char>
 rather sternly.
 
 “Owe!” He caught up a pen. “Name the sum, and I will pay it.”
@@ -860,7 +860,7 @@ rather sternly.
 lad, your son, who has carried himself in this matter as I should be
 proud to see my own son do, should I ever chance to have one.”
 
-“Then it was not Arthur who took them?”
+“Then it was not <char gender = "male">Arthur</char> who took them?”
 
 “I told you yesterday, and I repeat to-day, that it was not.”
 
@@ -878,9 +878,9 @@ morning, however, may open his lips.”
 “I will do so, and I will show you the steps by which I reached it. And
 let me say to you, first, that which it is hardest for me to say and
 for you to hear: there has been an understanding between Sir George
-Burnwell and your niece Mary. They have now fled together.”
+<char gender = "male">Burnwell</char> and your niece <char gender = "female">Mary</char>. They have now fled together.”
 
-“My Mary? Impossible!”
+“My <char gender = "female">Mary</char>? Impossible!”
 
 “It is unfortunately more than possible; it is certain. Neither you nor
 your son knew the true character of this man when you admitted him into
@@ -892,7 +892,7 @@ herself that she alone had touched his heart. The devil knows best what
 he said, but at least she became his tool and was in the habit of
 seeing him nearly every evening.”
 
-“I cannot, and I will not, believe it!” cried the banker with an ashen
+“I cannot, and I will not, believe it!” cried <char gender = "male">the banker</char> with an ashen
 face.
 
 “I will tell you, then, what occurred in your house last night. Your
@@ -908,7 +908,7 @@ downstairs, on which she closed the window rapidly and told you about
 one of the servants’ escapade with her wooden-legged lover, which was
 all perfectly true.
 
-“Your boy, Arthur, went to bed after his interview with you but he
+“Your boy, <char gender = "male">Arthur</char>, went to bed after his interview with you but he
 slept badly on account of his uneasiness about his club debts. In the
 middle of the night he heard a soft tread pass his door, so he rose
 and, looking out, was surprised to see his cousin walking very
@@ -930,16 +930,16 @@ was gone he realised how crushing a misfortune this would be for you,
 and how all-important it was to set it right. He rushed down, just as
 he was, in his bare feet, opened the window, sprang out into the snow,
 and ran down the lane, where he could see a dark figure in the
-moonlight. Sir George Burnwell tried to get away, but Arthur caught
+moonlight. Sir George <char gender = "male">Burnwell</char> tried to get away, but <char gender = "male">Arthur</char> caught
 him, and there was a struggle between them, your lad tugging at one
 side of the coronet, and his opponent at the other. In the scuffle,
-your son struck Sir George and cut him over the eye. Then something
+your son struck <char gender = "male">Sir George</char> and cut him over the eye. Then something
 suddenly snapped, and your son, finding that he had the coronet in his
 hands, rushed back, closed the window, ascended to your room, and had
 just observed that the coronet had been twisted in the struggle and was
 endeavouring to straighten it when you appeared upon the scene.”
 
-“Is it possible?” gasped the banker.
+“Is it possible?” gasped <char gender = "male">the banker</char>.
 
 “You then roused his anger by calling him names at a moment when he
 felt that he had deserved your warmest thanks. He could not explain the
@@ -948,12 +948,12 @@ little enough consideration at his hands. He took the more chivalrous
 view, however, and preserved her secret.”
 
 “And that was why she shrieked and fainted when she saw the coronet,”
-cried Mr. Holder. “Oh, my God! what a blind fool I have been! And his
+cried <char gender = "male">Mr. Holder</char>. “Oh, my God! what a blind fool I have been! And his
 asking to be allowed to go out for five minutes! The dear fellow wanted
 to see if the missing piece were at the scene of the struggle. How
 cruelly I have misjudged him!”
 
-“When I arrived at the house,” continued Holmes, “I at once went very
+“When I arrived at the house,” continued <char gender = "male">Holmes</char>, “I at once went very
 carefully round it to observe if there were any traces in the snow
 which might help me. I knew that none had fallen since the evening
 before, and also that there had been a strong frost to preserve
@@ -1014,15 +1014,15 @@ conjecture became a certainty.
 “And who could it be who was her confederate? A lover evidently, for
 who else could outweigh the love and gratitude which she must feel to
 you? I knew that you went out little, and that your circle of friends
-was a very limited one. But among them was Sir George Burnwell. I had
+was a very limited one. But among them was Sir George <char gender = "male">Burnwell</char>. I had
 heard of him before as being a man of evil reputation among women. It
 must have been he who wore those boots and retained the missing gems.
-Even though he knew that Arthur had discovered him, he might still
+Even though he knew that <char gender = "male">Arthur</char> had discovered him, he might still
 flatter himself that he was safe, for the lad could not say a word
 without compromising his own family.
 
 “Well, your own good sense will suggest what measures I took next. I
-went in the shape of a loafer to Sir George’s house, managed to pick up
+went in the shape of a loafer to <char gender = "male">Sir George</char>’s house, managed to pick up
 an acquaintance with his valet, learned that his master had cut his
 head the night before, and, finally, at the expense of six shillings,
 made all sure by buying a pair of his cast-off shoes. With these I
@@ -1055,10 +1055,12 @@ banker, rising. “Sir, I cannot find words to thank you, but you shall
 not find me ungrateful for what you have done. Your skill has indeed
 exceeded all that I have heard of it. And now I must fly to my dear boy
 to apologise to him for the wrong which I have done him. As to what you
-tell me of poor Mary, it goes to my very heart. Not even your skill can
+tell me of poor <char gender = "female">Mary</char>, it goes to my very heart. Not even your skill can
 inform me where she is now.”
 
-“I think that we may safely say,” returned Holmes, “that she is
-wherever Sir George Burnwell is. It is equally certain, too, that
+“I think that we may safely say,” returned <char gender = "male">Holmes</char>, “that she is
+wherever Sir George <char gender = "male">Burnwell</char> is. It is equally certain, too, that
 whatever her sins are, they will soon receive a more than sufficient
 punishment.”
+</story>
+</passage>
