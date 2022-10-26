@@ -1,13 +1,14 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-#subset of TEI header.
-
-start = meta
 # bookDesc quantitative book information
 # projectDesc projects goals and methods for all stories
-# notes optional list of file specifiic information
-meta = element meta{bookDesc, projectDesc, notes?}
+# notes optional list of file specific information
 
+start = meta
+#root elem
+meta = element meta{bookDesc, projectDesc, notes?}
+#___________________________________________________
+#START BOOKDESC
 bookDesc = element bookDesc{title, author, pubData} #maybe add something here?
     #title
     #author 
@@ -30,14 +31,15 @@ date = element date{text, when}
 when = attribute when{xsd:gYear}
 
 #END BOOKDESC
-
+#__________________________________________________
+#START PROJECTDESC
 projectDesc = element projectDesc{goals, stratagies, regexRef}
-    #header
-    #pro
-
+    #goals
+    #stratagies
+    #regexRef
 goals = element goals{text}
 
-stratagies = element stratagies{ol}#this shouldnt be xml
+stratagies = element stratagies{ol}#this shouldnt be html?
 #ordered list.
 ol = element ol{li +}#<ol>
 li = element li{text}#  <l1>{text}</li>
@@ -47,11 +49,14 @@ li = element li{text}#  <l1>{text}</li>
 regexRef = element regexRef{ol}#outlines regex stratagies
 
 #END PROJECTDESC
-
+#_______________________________________________________________________________________________________
+#START NOTES
+    #remarks
+    #changes
 notes = element notes{remarks, changes}
 remarks = element remarks{text}
 changes = element changes{ol}
-
+#END NOTES
 
 
 
