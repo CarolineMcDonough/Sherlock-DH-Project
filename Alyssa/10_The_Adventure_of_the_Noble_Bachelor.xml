@@ -75,7 +75,7 @@ column of the _Morning Post_, and dates, as you see, some weeks back:
 <subq speaker = "Journalist">A marriage has been arranged,</subq> it says, <subq speaker = "Journalist">and will, if rumour is
 correct, very shortly take place, between Lord Robert <char gender = "male">St. Simon</char>, second
 son of the Duke of Balmoral, and <char gender = "female">Miss Hatty Doran</char>, the only daughter of
-    <char gender = "male">Aloysius Doran</char>. Esq., of San Francisco, Cal., U.S.A.</subq> That is all.</quote></p><p><quote speaker = "Holmes">Terse and to the point,</quote> remarked <char gender = "male">Holmes</char>, stretching his long, thin
+    <char gender = "male">Aloysius Doran</char>. Esq., of San Francisco, Cal., U.S.A.</subq> That is all.</quote></p><p><quote speaker = "Holmes">Terse and to the point,</quote> remarked <action><char gender = "male">Holmes</char>, stretching</action> his long, thin
 legs towards the fire.</p><p><quote speaker = "Watson">There was a paragraph amplifying this in one of the society papers of
 the same week. Ah, here it is: <subq speaker = "Journalist">There will soon be a call for
 protection in the marriage  market, for the present free-trade
@@ -96,7 +96,7 @@ sell his pictures within the last few years, and as Lord <char gender = "male">S
 no property of his own save the small estate of Birchmoor, it is
 obvious that the Californian heiress is not the only gainer by an
 alliance which will enable her to make the easy and common transition
-from a Republican lady to a British peeress.</subq></quote></p><p><quote speaker = "Holmes">Anything else?</quote> asked <char gender = "male">Holmes</char>, yawning.</p><p><quote speaker = "Watson">Oh, yes; plenty. Then there is another note in the _Morning Post_ to
+from a Republican lady to a British peeress.</subq></quote></p><p><quote speaker = "Holmes">Anything else?</quote> asked <action><char gender = "male">Holmes</char>, yawning</action>.</p><p><quote speaker = "Watson">Oh, yes; plenty. Then there is another note in the _Morning Post_ to
 say that the marriage would be an absolutely quiet one, that it would
 be at St. George’s, Hanover Square, that only half a dozen intimate
 friends would be invited, and that the party would return to the
@@ -156,8 +156,8 @@ missed it for worlds. But there is a ring at the bell, <char gender = "male">Wat
 the clock makes it a few minutes after four, I have no doubt that this
 will prove to be our noble client. Do not dream of going, <char gender = "male">Watson</char>, for I
 very much prefer having a witness, if only as a check to my own
-memory.</quote></p><p><quote speaker = "page-boy">Lord Robert <char gender = "male">St. Simon</char>,</quote> announced our <char gender = "male">page-boy</char>, throwing open the
-door. A gentleman entered, with a pleasant, cultured face, high-nosed
+memory.</quote></p><p><quote speaker = "page-boy">Lord Robert <char gender = "male">St. Simon</char>,</quote> announced our <action><char gender = "male">page-boy</char>, throwing open the
+door</action>. A gentleman entered, with a pleasant, cultured face, high-nosed
 and pale, with something perhaps of petulance about the mouth, and with
 the steady, well-opened eye of a man whose pleasant lot it had ever
 been to command and to be obeyed. His manner was brisk, and yet his
@@ -169,7 +169,7 @@ verge of foppishness, with high collar, black frock-coat, white
 waistcoat, yellow gloves, patent-leather shoes, and light-coloured
 gaiters. He advanced slowly into the room, turning his head from left
 to right, and swinging in his right hand the cord which held his golden
-eyeglasses.</p><p><quote speaker = "Holmes">Good-day, Lord <char gender = "male">St. Simon</char>,</quote> said <char gender = "male">Holmes</char>, rising and bowing. <quote speaker = "Holmes">Pray take
+eyeglasses.</p><p><quote speaker = "Holmes">Good-day, Lord <char gender = "male">St. Simon</char>,</quote> said <action><char gender = "male">Holmes</char>, rising and bowing</action>. <quote speaker = "Holmes">Pray take
 the basket-chair. This is my friend and colleague, Dr. <char gender = "male">Watson</char>. Draw up
 a little to the fire, and we will talk this matter over.</quote></p><p><quote speaker = "Robert St. Simon">A most painful matter to me, as you can most readily imagine, Mr.
 <char gender = "male">Holmes</char>. I have been cut to the quick. I understand that you have
@@ -233,7 +233,7 @@ room, covered her bride’s dress with a long ulster, put on a bonnet,
 and went out.</quote></p><p><quote speaker = "Robert St. Simon">Quite so. And she was afterwards seen walking into Hyde Park in
 company with <char gender = "female">Flora Millar</char>, a woman who is now in custody, and who had
     already made a disturbance at <char gender = "male">Mr. Doran’s</char> house that morning.</quote></p><p><quote speaker = "Holmes">Ah, yes. I should like a few particulars as to this young lady, and
-your relations to her.</quote></p><p>Lord <char gender = "male">St. Simon</char> shrugged his shoulders and raised his eyebrows. <quote speaker = "Robert St. Simon">We have
+your relations to her.</quote></p><p>Lord <action><char gender = "male">St. Simon</char> shrugged his shoulders and raised his eyebrows</action>. <quote speaker = "Robert St. Simon">We have
 been on a friendly footing for some years—I may say on a _very_
 friendly footing. She used to be at the Allegro. I have not treated her
 ungenerously, and she had no just cause of complaint against me, but
@@ -257,15 +257,15 @@ has occurred to me as possible that the excitement of this affair, the
 consciousness that she had made so immense a social stride, had the
 effect of causing some little nervous disturbance in my wife.</quote></p><p><quote speaker = "Holmes">In short, that she had become suddenly deranged?</quote></p><p><quote speaker = "Robert St. Simon">Well, really, when I consider that she has turned her back—I will not
 say upon me, but upon so much that many have aspired to without
-success—I can hardly explain it in any other fashion.</quote></p><p><quote speaker = "Holmes">Well, certainly that is also a conceivable hypothesis,</quote> said <char gender = "male">Holmes</char>,
-smiling. <quote speaker = "Holmes">And now, Lord <char gender = "male">St. Simon</char>, I think that I have nearly all my
+success—I can hardly explain it in any other fashion.</quote></p><p><quote speaker = "Holmes">Well, certainly that is also a conceivable hypothesis,</quote> said <action><char gender = "male">Holmes</char>,
+smiling</action>. <quote speaker = "Holmes">And now, Lord <char gender = "male">St. Simon</char>, I think that I have nearly all my
 data. May I ask whether you were seated at the breakfast-table so that
 you could see out of the window?</quote></p><p><quote speaker = "Robert St. Simon">We could see the other side of the road and the Park.</quote></p><p><quote speaker = "Holmes">Quite so. Then I do not think that I need to detain you longer. I
 shall communicate with you.</quote></p><p><quote speaker = "Robert St. Simon">Should you be fortunate enough to solve this problem,</quote> said our
-client, rising.</p><p><quote speaker = "Holmes">I have solved it.</quote></p><p><quote speaker = "Robert St. Simon">Eh? What was that?</quote></p><p><quote speaker = "Holmes">I say that I have solved it.</quote></p><p><quote speaker = "Robert St. Simon">Where, then, is my wife?</quote></p><p><quote speaker = "Holmes">That is a detail which I shall speedily supply.</quote></p><p>Lord <char gender = "male">St. Simon</char> shook his head. <quote speaker = "Robert St. Simon">I am afraid that it will take wiser
+client, rising.</p><p><quote speaker = "Holmes">I have solved it.</quote></p><p><quote speaker = "Robert St. Simon">Eh? What was that?</quote></p><p><quote speaker = "Holmes">I say that I have solved it.</quote></p><p><quote speaker = "Robert St. Simon">Where, then, is my wife?</quote></p><p><quote speaker = "Holmes">That is a detail which I shall speedily supply.</quote></p><p>Lord <action><char gender = "male">St. Simon</char> shook his head</action>. <quote speaker = "Robert St. Simon">I am afraid that it will take wiser
 heads than yours or mine,</quote> he remarked, and bowing in a stately,
 old-fashioned manner he departed.</p><p><quote speaker = "Holmes">It is very good of Lord <char gender = "male">St. Simon</char> to honour my head by putting it on a
-level with his own,</quote> said Sherlock <char gender = "male">Holmes</char>, laughing. <quote speaker = "Holmes">I think that I
+level with his own,</quote> said Sherlock <action><char gender = "male">Holmes</char>, laughing</action>. <quote speaker = "Holmes">I think that I
 shall have a whisky and soda and a cigar after all this
 cross-questioning. I had formed my conclusions as to the case before
 our client came into the room.</quote></p><p><quote speaker = "Watson">My dear <char gender = "male">Holmes</char>!</quote></p><p><quote speaker = "Holmes">I have notes of several similar cases, though none, as I remarked
@@ -283,9 +283,9 @@ bag in his hand. With a short greeting he seated himself and lit the
 cigar which had been offered to him.</p><p><quote speaker = "Holmes">What’s up, then?</quote> asked <char gender = "male">Holmes</char> with a twinkle in his eye. <quote speaker ="Holmes">You look
 dissatisfied.</quote></p><p><quote speaker = "Lestrade">And I feel dissatisfied. It is this infernal St. Simon marriage case.
 I can make neither head nor tail of the business.</quote></p><p><quote speaker = "Holmes">Really! You surprise me.</quote></p><p><quote speaker = "Lestrade">Who ever heard of such a mixed affair? Every clue seems to slip
-through my fingers. I have been at work upon it all day.</quote></p><p><quote speaker = "Holmes">And very wet it seems to have made you,</quote> said <char gender = "male">Holmes</char> laying his hand
-upon the arm of the pea-jacket.</p><p><quote speaker = "Lestrade">Yes, I have been dragging the Serpentine.</quote></p><p><quote speaker = "Holmes">In Heaven’s name, what for?</quote></p><p><quote speaker = "Lestrade">In search of the body of Lady <char gender = "female">St. Simon</char>.</quote></p><p>Sherlock <char gender = "male">Holmes</char> leaned back in his chair and laughed heartily.</p><p><quote speaker = "Holmes">Have you dragged the basin of Trafalgar Square fountain?</quote> he asked.</p><p><quote speaker = "Lestrade">Why? What do you mean?</quote></p><p><quote speaker = "Holmes">Because you have just as good a chance of finding this lady in the one
-as in the other.</quote></p><p>    <char gender = "male">Lestrade</char> shot an angry glance at my companion. <quote speaker = "Lestrade">I suppose you know all
+through my fingers. I have been at work upon it all day.</quote></p><p><quote speaker = "Holmes">And very wet it seems to have made you,</quote> said <action><char gender = "male">Holmes</char> laying his hand
+upon the arm of the pea-jacket</action>.</p><p><quote speaker = "Lestrade">Yes, I have been dragging the Serpentine.</quote></p><p><quote speaker = "Holmes">In Heaven’s name, what for?</quote></p><p><quote speaker = "Lestrade">In search of the body of Lady <char gender = "female">St. Simon</char>.</quote></p><p>Sherlock <action><char gender = "male">Holmes</char> leaned back in his chair and laughed heartily</action>.</p><p><quote speaker = "Holmes">Have you dragged the basin of Trafalgar Square fountain?</quote> he asked.</p><p><quote speaker = "Lestrade">Why? What do you mean?</quote></p><p><quote speaker = "Holmes">Because you have just as good a chance of finding this lady in the one
+as in the other.</quote></p><p>    <action><char gender = "male">Lestrade</char> shot an angry glance at my companion</action>. <quote speaker = "Lestrade">I suppose you know all
 about it,</quote> he snarled.</p><p><quote speaker = "Holmes">Well, I have only just heard the facts, but my mind is made up.</quote></p><p><quote speaker = "Lestrade">Oh, indeed! Then you think that the Serpentine plays no part in the
 matter?</quote></p><p><quote speaker = "Holmes">I think it very unlikely.</quote></p><p><quote speaker = "Lestrade">Then perhaps you will kindly explain how it is that we found this in
 it?</quote> He opened his bag as he spoke, and tumbled onto the floor a
@@ -308,28 +308,28 @@ that Lady <char gender = "female">St. Simon</char> was decoyed away by <char gen
 with confederates, no doubt, was responsible for her disappearance.
 Here, signed with her initials, is the very note which was no doubt
 quietly slipped into her hand at the door and which lured her within
-their reach.</quote></p><p>    <quote speaker = "Holmes">Very good, <char gender = "male">Lestrade</char>,</quote> said <char gender = "male">Holmes</char>, laughing. <quote speaker = "Holmes">You really are very fine
+their reach.</quote></p><p>    <quote speaker = "Holmes">Very good, <char gender = "male">Lestrade</char>,</quote> said <action><char gender = "male">Holmes</char>, laughing</action>. <quote speaker = "Holmes">You really are very fine
 indeed. Let me see it.</quote> He took up the paper in a listless way, but his
 attention instantly became riveted, and he gave a little cry of
-satisfaction. <quote speaker = "Holmes">This is indeed important,</quote> said he.</p><p><quote speaker = "Lestrade">Ha! you find it so?</quote></p><p><quote speaker = "Holmes">Extremely so. I congratulate you warmly.</quote></p><p>    <char gender = "male">Lestrade</char> rose in his triumph and bent his head to look. <quote speaker = "Lestrade">Why,</quote> he
+satisfaction. <quote speaker = "Holmes">This is indeed important,</quote> said he.</p><p><quote speaker = "Lestrade">Ha! you find it so?</quote></p><p><quote speaker = "Holmes">Extremely so. I congratulate you warmly.</quote></p><p>    <action><char gender = "male">Lestrade</char> rose in his triumph and bent his head to look</action>. <quote speaker = "Lestrade">Why,</quote> he
 shrieked, <quote speaker = "Lestrade">you’re looking at the wrong side!</quote></p><p><quote speaker = "Holmes">On the contrary, this is the right side.</quote></p><p><quote speaker = "Lestrade">The right side? You’re mad! Here is the note written in pencil over
 here.</quote></p><p><quote speaker = "Holmes">And over here is what appears to be the fragment of a hotel bill,
 which interests me deeply.</quote></p><p><quote speaker = "Lestrade">There’s nothing in it. I looked at it before,</quote> said Lestrade. <quote speaker = "Lestrade"><subq speaker = "Receipt">Oct.
 4th, rooms 8_s_., breakfast 2_s_. 6_d_., cocktail 1_s_., lunch 2_s_.
 6_d_., glass sherry, 8_d_.</subq> I see nothing in that.</quote></p><p><quote speaker = "Holmes">Very likely not. It is most important, all the same. As to the note,
 it is important also, or at least the initials are, so I congratulate
-you again.</quote></p><p><quote speaker = "Lestrade">I’ve wasted time enough,</quote> said <char gender = "male">Lestrade</char>, rising. <quote speaker = "Lestrade">I believe in hard
+you again.</quote></p><p><quote speaker = "Lestrade">I’ve wasted time enough,</quote> said <action><char gender = "male">Lestrade</char>, rising</action>. <quote speaker = "Lestrade">I believe in hard
 work and not in sitting by the fire spinning fine theories. Good-day,
 Mr. <char gender = "male">Holmes</char>, and we shall see which gets to the bottom of the matter
 first.</quote> He gathered up the garments, thrust them into the bag, and made
 for the door.</p><p><quote speaker = "Holmes">Just one hint to you, <char gender = "male">Lestrade</char>,</quote> drawled <char gender = "male">Holmes</char> before his rival
 vanished; <quote speaker = "Holmes">I will tell you the true solution of the matter. <char gender = "female">Lady St.
     Simon</char> is a myth. There is not, and there never has been, any such
-person.</quote></p><p>    <char gender = "male">Lestrade</char> looked sadly at my companion. Then he turned to me, tapped his
-forehead three times, shook his head solemnly, and hurried away.</p><p>He had hardly shut the door behind him when <char gender = "male">Holmes</char> rose to put on his
-overcoat. <quote speaker = "Holmes">There is something in what the fellow says about outdoor
+person.</quote></p><p>    <action><char gender = "male">Lestrade</char> looked sadly at my companion. Then he turned to me, tapped his
+forehead three times, shook his head solemnly, and hurried away</action>.</p><p>He had hardly shut the door behind him when <action><char gender = "male">Holmes</char> rose to put on his
+overcoat</action>. <quote speaker = "Holmes">There is something in what the fellow says about outdoor
 work,</quote> he remarked, <quote speaker = "Holmes">so I think, <char gender = "male">Watson</char>, that I must leave you to your
-papers for a little.</quote></p><p>It was after five o’clock when Sherlock <char gender = "male">Holmes</char> left me, but I had no
+papers for a little.</quote></p><p>It was after five o’clock when Sherlock <action><char gender = "male">Holmes</char> left me</action>, but I had no
 time to be lonely, for within an hour there arrived a confectioner’s
 man with a very large flat box. This he unpacked with the help of a
 youth whom he had brought with him, and presently, to my very great
@@ -339,7 +339,7 @@ cold woodcock, a pheasant, a _pâté de foie gras_ pie with a group of
 ancient and cobwebby bottles. Having laid out all these luxuries, my
 two visitors vanished away, like the genii of the Arabian Nights, with
 no explanation save that the things had been paid for and were ordered
-to this address.</p><p>Just before nine o’clock Sherlock <char gender = "male">Holmes</char> stepped briskly into the room.
+to this address.</p><p>Just before nine o’clock Sherlock <action><char gender = "male">Holmes</char> stepped briskly into the room</action>.
 His features were gravely set, but there was a light in his eye which
 made me think that he had not been disappointed in his conclusions.</p><p><quote speaker = "Holmes">They have laid the supper, then,</quote> he said, rubbing his hands.</p><p><quote speaker = "Watson">You seem to expect company. They have laid for five.</quote></p><p><quote speaker = "Holmes">Yes, I fancy we may have some company dropping in,</quote> said he. <quote speaker = "Holmes">I am
 surprised that Lord <char gender = "male">St. Simon</char> has not already arrived. Ha! I fancy that
@@ -351,8 +351,8 @@ family has been subjected to such humiliation?</quote></p><p><quote speaker = "H
 humiliation.</quote></p><p><quote speaker = "Robert St. Simon">Ah, you look on these things from another standpoint.</quote></p><p><quote speaker = "Holmes">I fail to see that anyone is to blame. I can hardly see how the lady
 could have acted otherwise, though her abrupt method of doing it was
 undoubtedly to be regretted. Having no mother, she had no one to advise
-her at such a crisis.</quote></p><p><quote speaker = "Robert St. Simon">It was a slight, sir, a public slight,</quote> said Lord <char gender = "male">St. Simon</char>, tapping
-his fingers upon the table.</p><p><quote speaker = "Holmes">You must make allowance for this poor girl, placed in so unprecedented
+her at such a crisis.</quote></p><p><quote speaker = "Robert St. Simon">It was a slight, sir, a public slight,</quote> said Lord <action><char gender = "male">St. Simon</char>, tapping
+his fingers upon the table</action>.</p><p><quote speaker = "Holmes">You must make allowance for this poor girl, placed in so unprecedented
 a position.</quote></p><p><quote speaker = "Robert St. Simon">I will make no allowance. I am very angry indeed, and I have been
 shamefully used.</quote></p><p><quote speaker = "Holmes">I think that I heard a ring,</quote> said <char gender = "male">Holmes</char>. <quote speaker = "Holmes">Yes, there are steps on
 the landing. If I cannot persuade you to take a lenient view of the
@@ -390,23 +390,23 @@ myself not to marry anyone else while he lived. <subq speaker = "Frank">Why shou
 married right away, then,</subq> said he, <subq speaker = "Frank">and then I will feel sure of you;
 and I won’t claim to be your husband until I come back?</subq> Well, we
 talked it over, and he had fixed it all up so nicely, with a clergyman
-all ready in waiting, that we just did it right there; and then <char gender = "male">Frank</char>
-went off to seek his fortune, and I went back to Pa.</quote></p><p><quote speaker = "Mrs. Moulton">The next I heard of <char gender = "male">Frank</char> was that he was in Montana, and then he went
+all ready in waiting, that we just did it right there; and then <action><char gender = "male">Frank</char>
+went off to seek his fortune</action>, and I went back to Pa.</quote></p><p><quote speaker = "Mrs. Moulton">The next I heard of <char gender = "male">Frank</char> was that he was in Montana, and then he went
 prospecting in Arizona, and then I heard of him from New Mexico. After
 that came a long newspaper story about how a miners’ camp had been
 attacked by Apache Indians, and there was my <char gender = "male">Frank’s</char> name among the
 killed. I fainted dead away, and I was very sick for months after. Pa
 thought I had a decline and took me to half the doctors in ’Frisco. Not
 a word of news came for a year and more, so that I never doubted that
-Frank was really dead. Then Lord <char gender = "male">St. Simon</char> came to ’Frisco, and we came
+Frank was really dead. Then Lord <action><char gender = "male">St. Simon</char> came to ’Frisco</action>, and we came
 to London, and a marriage was arranged, and Pa was very pleased, but I
 felt all the time that no man on this earth would ever take the place
 in my heart that had been given to my poor <char gender = "male">Frank</char>.</quote></p><p><quote speaker = "Mrs. Moulton">Still, if I had married Lord <char gender = "male">St. Simon</char>, of course I’d have done my
 duty by him. We can’t command our love, but we can our actions. I went
 to the altar with him with the intention to make him just as good a
 wife as it was in me to be. But you may imagine what I felt when, just
-as I came to the altar rails, I glanced back and saw <char gender = "male">Frank</char> standing and
-looking at me out of the first pew. I thought it was his ghost at
+as I came to the altar rails, I glanced back and saw <action><char gender = "male">Frank</char> standing and
+looking at me out of the first pew</action>. I thought it was his ghost at
 first; but when I looked again there he was still, with a kind of
 question in his eyes, as if to ask me whether I were glad or sorry to
 see him. I wonder I didn’t drop. I know that everything was turning
@@ -442,8 +442,8 @@ openness, but I was so ashamed of it all that I felt as if I should
 like to vanish away and never see any of them again—just sending a line
 to Pa, perhaps, to show him that I was alive. It was awful to me to
 think of all those lords and ladies sitting round that breakfast-table
-and waiting for me to come back. So <char gender = "male">Frank</char> took my wedding-clothes and
-things and made a bundle of them, so that I should not be traced, and
+and waiting for me to come back. So <action><char gender = "male">Frank</char> took my wedding-clothes and
+things and made a bundle of them</action>, so that I should not be traced, and
 dropped them away somewhere where no one could find them. It is likely
 that we should have gone on to Paris to-morrow, only that this good
 gentleman, Mr. <char gender = "male">Holmes</char>, came round to us this evening, though how he
@@ -515,7 +515,7 @@ better in every way that they should make their position a little
 clearer both to the general public and to Lord <char gender = "male">St. Simon</char> in particular.
 I invited them to meet him here, and, as you see, I made him keep the
 appointment.</quote></p><p><quote speaker = "Watson">But with no very good result,</quote> I remarked. <quote speaker = "Holmes">His conduct was certainly
-not very gracious.</quote></p><p><quote speaker = "Holmes">Ah, <char gender = "male">Watson</char>,</quote> said <char gender = "male">Holmes</char>, smiling, <quote speaker = "Holmes">perhaps you would not be very
+not very gracious.</quote></p><p><quote speaker = "Holmes">Ah, <char gender = "male">Watson</char>,</quote> said <action><char gender = "male">Holmes</char>, smiling</action>, <quote speaker = "Holmes">perhaps you would not be very
 gracious either, if, after all the trouble of wooing and wedding, you
 found yourself deprived in an instant of wife and of fortune. I think
 that we may judge Lord <char gender = "male">St. Simon</char> very mercifully and thank our stars
