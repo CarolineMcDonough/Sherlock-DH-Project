@@ -221,127 +221,127 @@ again, and Mr. Hosmer Angel could not come to the house any more.”</quote>
 
 <quote speaker = "sherlock">“No?”</quote>
 
-<quote speaker = "mary">“Well, you know father didn’t like anything of the sort. He wouldn’t
+<quote speaker = "mary">“Well, you know <char gender = "male">father</char> didn’t like anything of the sort. <action char = "father">He wouldn’t
 have any visitors if he could help it, and he used to say that a woman
-should be happy in her own family circle. But then, as I used to say to
-mother, a woman wants her own circle to begin with, and I had not got
+should be happy in her own family circle</action>. But then, as I used to say to
+mother, a <char gender = "female">woman</char> wants her own circle to begin with, and I had not got
 mine yet.”</quote>
 
-“But how about Mr. Hosmer Angel? Did he make no attempt to see you?”
+<quote speaker = "sherlock">“But how about <char gender = "male">Mr. Hosmer Angel</char>? Did he make no attempt to see you?”</quote>
 
-“Well, father was going off to France again in a week, and Hosmer wrote
+<quote speaker = "mary">“Well, <action char = "father"><char gender = "male">father</char> was going off to France again in a week</action>, and <action char = "hosmer">Hosmer wrote
 and said that it would be safer and better not to see each other until
-he had gone. We could write in the meantime, and he used to write every
+he had gone</action>. We could write in the meantime, and he used to write every
 day. I took the letters in in the morning, so there was no need for
-father to know.”
+father to know.”</quote>
 
-“Were you engaged to the gentleman at this time?”
+    <quote speaker = "sherlock">“Were you engaged to the gentleman at this time?”</quote>
 
-“Oh, yes, Mr. Holmes. We were engaged after the first walk that we
+    <quote speaker = "mary">“Oh, yes, Mr. Holmes. We were engaged after the first walk that we
 took. Hosmer—Mr. Angel—was a cashier in an office in Leadenhall
-Street—and—”
+Street—and—”</quote>
 
-“What office?”
+    <quote speaker = "sherlock">“What office?”</quote>
 
-“That’s the worst of it, Mr. Holmes, I don’t know.”
+    <quote speaker = "mary">“That’s the worst of it, <char gender = "male">Mr. Holmes</char>, I don’t know.”</quote>
 
-“Where did he live, then?”
+    <quote speaker = "sherlock">“Where did he live, then?”</quote>
 
-“He slept on the premises.”
+    <quote speaker = "mary">“He slept on the premises.”</quote>
 
-“And you don’t know his address?”
+    <quote speaker = "sherlock">“And you don’t know his address?”</quote>
 
-“No—except that it was Leadenhall Street.”
+    <quote speaker = "mary">“No—except that it was Leadenhall Street.”</quote>
 
-“Where did you address your letters, then?”
+    <quote speaker = "sherlock">“Where did you address your letters, then?”</quote>
 
-“To the Leadenhall Street Post Office, to be left till called for. He
+    <quote speaker = "mary">“To the Leadenhall Street Post Office, to be left till called for. He
 said that if they were sent to the office he would be chaffed by all
-the other clerks about having letters from a lady, so I offered to
-typewrite them, like he did his, but he wouldn’t have that, for he said
+the other clerks about having letters from a lady, so <action char = "mary">I offered to
+    typewrite them, like he did his,</action><char gender = "hosmer"> but he wouldn’t have that, for he said
 that when I wrote them they seemed to come from me, but when they were
 typewritten he always felt that the machine had come between us. That
-will just show you how fond he was of me, Mr. Holmes, and the little
-things that he would think of.”
+will just show you how fond <char gender = "male">he</char> was of me</char>, <char gender = "male">Mr. Holmes</char>, and the little
+things that he would think of.”</quote>
 
-“It was most suggestive,” said Holmes. “It has long been an axiom of
+    <quote speaker = "sherlock">“It was most suggestive,”</quote> said Holmes. <quote speaker = "sherlock">“It has long been an axiom of
 mine that the little things are infinitely the most important. Can you
-remember any other little things about Mr. Hosmer Angel?”
+remember any other little things about <char gender = "male">Mr. Hosmer Angel</char>?”</quote>
 
-“He was a very shy man, Mr. Holmes. He would rather walk with me in the
+    <quote speaker = "mary">“<char gender = "male">He was a very shy man, Mr. Holmes. He would rather walk with me in the
 evening than in the daylight, for he said that he hated to be
 conspicuous. Very retiring and gentlemanly he was. Even his voice was
 gentle. He’d had the quinsy and swollen glands when he was young, he
 told me, and it had left him with a weak throat, and a hesitating,
 whispering fashion of speech. He was always well dressed, very neat and
 plain, but his eyes were weak, just as mine are, and he wore tinted
-glasses against the glare.”
+glasses against the glare</char>.”</quote>
 
-“Well, and what happened when Mr. Windibank, your stepfather, returned
-to France?”
+    <quote speaker = "sherlock">“Well, and what happened when <action char = "mr_windibank"><char gender = "male">Mr. Windibank</char>, your stepfather, returned
+to France</action>?”</quote>
 
-“Mr. Hosmer Angel came to the house again and proposed that we should
+    <quote speaker = "mary">“<action char = "hosmer"><char gender = "male">Mr. Hosmer Angel</char> came to the house again and proposed that we should
 marry before father came back. He was in dreadful earnest and made me
 swear, with my hands on the Testament, that whatever happened I would
-always be true to him. Mother said he was quite right to make me swear,
+always be true to him.</action><action char = "mother"><char gender = "female"> Mother</char> said he was quite right to make me swear,
 and that it was a sign of his passion. Mother was all in his favour
 from the first and was even fonder of him than I was. Then, when they
 talked of marrying within the week, I began to ask about father; but
 they both said never to mind about father, but just to tell him
-afterwards, and mother said she would make it all right with him. I
+afterwards, and mother said she would make it all right with him</action>. <action char = "mary">I
 didn’t quite like that, Mr. Holmes. It seemed funny that I should ask
 his leave, as he was only a few years older than me; but I didn’t want
 to do anything on the sly, so I wrote to father at Bordeaux, where the
 company has its French offices, but the letter came back to me on the
-very morning of the wedding.”
+very morning of the wedding</action>.”</quote>
 
-“It missed him, then?”
+    <quote speaker = "sherlock">“It missed <char gender = "male">him</char>, then?”</quote>
 
-“Yes, sir; for he had started to England just before it arrived.”
+    <quote speaker = "mary">“Yes, sir; <action char = "hosmer">for he had started to England just before it arrived</action>.”</quote>
 
-“Ha! that was unfortunate. Your wedding was arranged, then, for the
-Friday. Was it to be in church?”
+    <quote speaker = "sherlock">“Ha! that was unfortunate. Your wedding was arranged, then, for the
+Friday. Was it to be in church?”</quote>
 
-“Yes, sir, but very quietly. It was to be at St. Saviour’s, near King’s
+    <quote speaker = "mary">“Yes, sir, but very quietly. It was to be at St. Saviour’s, near King’s
 Cross, and we were to have breakfast afterwards at the St. Pancras
 Hotel. Hosmer came for us in a hansom, but as there were two of us he
 put us both into it and stepped himself into a four-wheeler, which
 happened to be the only other cab in the street. We got to the church
-first, and when the four-wheeler drove up we waited for him to step
+first, and<action char = "hsomer"> when the four-wheeler drove up we waited for him to step
 out, but he never did, and when the cabman got down from the box and
 looked there was no one there! The cabman said that he could not
 imagine what had become of him, for he had seen him get in with his own
 eyes. That was last Friday, Mr. Holmes, and I have never seen or heard
-anything since then to throw any light upon what became of him.”
+anything since then to throw any light upon what became of him</action>.”</quote>
 
-“It seems to me that you have been very shamefully treated,” said
+    <quote speaker = "sherlock">“It seems to me that you have been very shamefully treated,”</quote> said
 Holmes.
 
-“Oh, no, sir! He was too good and kind to leave me so. Why, all the
+    <quote speaker = "mary">“Oh, no, sir! <action char = "hosmer">He was too good and kind to leave me so. Why, all the
 morning he was saying to me that, whatever happened, I was to be true;
 and that even if something quite unforeseen occurred to separate us, I
 was always to remember that I was pledged to him, and that he would
-claim his pledge sooner or later. It seemed strange talk for a
-wedding-morning, but what has happened since gives a meaning to it.”
+claim his pledge sooner or later</action>. It seemed strange talk for a
+wedding-morning, but what has happened since gives a meaning to it.”</quote>
 
-“Most certainly it does. Your own opinion is, then, that some
-unforeseen catastrophe has occurred to him?”
+    <quote speaker = "sherlock">“Most certainly it does. Your own opinion is, then, that some
+        unforeseen catastrophe has occurred to <char gender = "male">him</char>?”</quote>
 
-“Yes, sir. I believe that he foresaw some danger, or else he would not
-have talked so. And then I think that what he foresaw happened.”
+    <quote speaker = "mary">“Yes, sir. I believe that he foresaw some danger, or else he would not
+have talked so. And then I think that what he foresaw happened.”</quote>
 
-“But you have no notion as to what it could have been?”
+    <quote speaker = "sherlock">“But you have no notion as to what it could have been?”</quote>
 
-“None.”
+        <quote speaker = "mart">“None.”</quote>
 
-“One more question. How did your mother take the matter?”
+    <quote speaker = "sherlock">“One more question. How did your <char gender = "female">mother</char> take the matter?”</quote>
 
-“She was angry, and said that I was never to speak of the matter
-again.”
+    <quote speaker = "mary">“<action char = "mother">She was angry, and said that I was never to speak of the matter
+again</action>.”</quote>
 
-“And your father? Did you tell him?”
+    <quote speaker = "sherlock">“And your <char gender = "male">father</char>? Did you tell him?”</quote>
 
-“Yes; and he seemed to think, with me, that something had happened, and
+    <quote speaker = "mary">“Yes; and he seemed to think, with me, that something had happened, and
 that I should hear of Hosmer again. As he said, what interest could
 anyone have in bringing me to the doors of the church, and then leaving
 me? Now, if he had borrowed my money, or if he had married me and got
@@ -349,49 +349,49 @@ my money settled on him, there might be some reason, but Hosmer was
 very independent about money and never would look at a shilling of
 mine. And yet, what could have happened? And why could he not write?
 Oh, it drives me half-mad to think of it, and I can’t sleep a wink at
-night.” She pulled a little handkerchief out of her muff and began to
-sob heavily into it.
+night.”</quote> <action char = "mary">She pulled a little handkerchief out of her muff and began to
+sob heavily into it.</action>
 
-“I shall glance into the case for you,” said Holmes, rising, “and I
+    <quote speaker = "sherlock">“I shall glance into the case for you,”</quote> said Holmes, rising, <quote speaker = "sherlock">“and I
 have no doubt that we shall reach some definite result. Let the weight
 of the matter rest upon me now, and do not let your mind dwell upon it
-further. Above all, try to let Mr. Hosmer Angel vanish from your
-memory, as he has done from your life.”
+further. Above all, try to let <char gender = "male">Mr. Hosmer Angel</char> vanish from your
+memory, <action char = "hosmer">as he has done from your life</action>.”</quote>
 
-“Then you don’t think I’ll see him again?”
+    <quote speaker = "mary">“Then you don’t think I’ll see <char gender = "male">him</char> again?”</quote>
 
-“I fear not.”
+    <quote speaker = "sherlock">“I fear not.”</quote>
 
-“Then what has happened to him?”
+    <quote speaker = "mary">“Then what has happened to him?”</quote>
 
-“You will leave that question in my hands. I should like an accurate
-description of him and any letters of his which you can spare.”
+    <quote speaker = "sherlock">“You will leave that question in my hands. I should like an accurate
+description of him and any letters of his which you can spare.”</quote>
 
-“I advertised for him in last Saturday’s _Chronicle_,” said she. “Here
-is the slip and here are four letters from him.”
+    <quote speaker = "mary">“<action char = "mary">I advertised for him in last Saturday’s _Chronicle_</action>,”</quote> said she. <quote speaker = "mary">“Here
+is the slip and here are four letters from him.”</quote>
 
-“Thank you. And your address?”
+    <quote speaker = "sherlock">“Thank you. And your address?”</quote>
 
-“No. 31 Lyon Place, Camberwell.”
+    <quote speaker = "mary">“No. 31 Lyon Place, Camberwell.”</quote>
 
-“Mr. Angel’s address you never had, I understand. Where is your
-father’s place of business?”
+    <quote speaker = "sherlock">“Mr. Angel’s address you never had, I understand. Where is your
+        <char gender = "male">father’s</char> place of business?”</quote>
 
-“He travels for Westhouse &amp; Marbank, the great claret importers of
-Fenchurch Street.”
+    <quote speaker = "mary">“<action char = "father">He travels for Westhouse &amp; Marbank, the great claret importers of
+Fenchurch Street</action>.”</quote>
 
-“Thank you. You have made your statement very clearly. You will leave
+    <quote speaker = "sherlock">“Thank you. You have made your statement very clearly. You will leave
 the papers here, and remember the advice which I have given you. Let
 the whole incident be a sealed book, and do not allow it to affect your
-life.”
+life.”</quote>
 
-“You are very kind, Mr. Holmes, but I cannot do that. I shall be true
-to Hosmer. He shall find me ready when he comes back.”
+    <quote speaker = "mary">“You are very kind, Mr. Holmes, <action char = "mary">but I cannot do that. I shall be true
+to Hosmer. He shall find me ready when he comes back</action>.”</quote>
 
-For all the preposterous hat and the vacuous face, there was something
+    <action char = "mary">For all the preposterous hat and the vacuous face, there was something
 noble in the simple faith of our visitor which compelled our respect.
 She laid her little bundle of papers upon the table and went her way,
-with a promise to come again whenever she might be summoned.
+with a promise to come again whenever she might be summoned.</action>
 
 Sherlock Holmes sat silent for a few minutes with his fingertips still
 pressed together, his legs stretched out in front of him, and his gaze
@@ -400,39 +400,39 @@ and oily clay pipe, which was to him as a counsellor, and, having lit
 it, he leaned back in his chair, with the thick blue cloud-wreaths
 spinning up from him, and a look of infinite languor in his face.
 
-“Quite an interesting study, that maiden,” he observed. “I found her
+    <quote speaker = "sherlock">“Quite an interesting study, that maiden,”</quote> he observed. <quote speaker = "sherlock">“I found <char gender = "female">her</char>
 more interesting than her little problem, which, by the way, is rather
 a trite one. You will find parallel cases, if you consult my index, in
 Andover in ’77, and there was something of the sort at The Hague last
 year. Old as is the idea, however, there were one or two details which
-were new to me. But the maiden herself was most instructive.”
+were new to me. But the <char gender = "female">maiden herself</char> was most instructive.”</quote>
 
-“You appeared to read a good deal upon her which was quite invisible to
-me,” I remarked.
+    <quote speaker = "watson">“<action char = "sherlock">You appeared to read a good deal upon her</action> which was quite invisible to
+me,”</quote> I remarked.
 
-“Not invisible but unnoticed, Watson. You did not know where to look,
+    <quote speaker = "sherlock">“Not invisible but unnoticed, <char gender = "male">Watson</char>. You did not know where to look,
 and so you missed all that was important. I can never bring you to
 realise the importance of sleeves, the suggestiveness of thumb-nails,
 or the great issues that may hang from a boot-lace. Now, what did you
-gather from that woman’s appearance? Describe it.”
+gather from that <char gender = "female">woman’s</char> appearance? Describe it.”</quote>
 
-“Well, she had a slate-coloured, broad-brimmed straw hat, with a
+    <quote speaker = "watson">“Well, <char gender = "female">she had a slate-coloured, broad-brimmed straw hat, with a
 feather of a brickish red. Her jacket was black, with black beads sewn
 upon it, and a fringe of little black jet ornaments. Her dress was
 brown, rather darker than coffee colour, with a little purple plush at
 the neck and sleeves. Her gloves were greyish and were worn through at
 the right forefinger. Her boots I didn’t observe. She had small round,
 hanging gold earrings, and a general air of being fairly well-to-do in
-a vulgar, comfortable, easy-going way.”
+a vulgar, comfortable, easy-going way</char>.”</quote>
 
-Sherlock Holmes clapped his hands softly together and chuckled.
+    <char gender = "male">Sherlock Holmes</char> clapped his hands softly together and chuckled.
 
-“’Pon my word, Watson, you are coming along wonderfully. You have
+    <quote speaker = "sherlock">“’Pon my word, <char gender = "male">Watson</char>, you are coming along wonderfully. You have
 really done very well indeed. It is true that you have missed
 everything of importance, but you have hit upon the method, and you
 have a quick eye for colour. Never trust to general impressions, my
-boy, but concentrate yourself upon details. My first glance is always
-at a woman’s sleeve. In a man it is perhaps better first to take the
+boy, but concentrate yourself upon details. <action char = "sherlock">My first glance is always
+at a <char gender = "female">woman’s</char> sleeve. In a man it is perhaps better first to take the
 knee of the trouser. As you observe, this woman had plush upon her
 sleeves, which is a most useful material for showing traces. The double
 line a little above the wrist, where the typewritist presses against
@@ -441,201 +441,201 @@ type, leaves a similar mark, but only on the left arm, and on the side
 of it farthest from the thumb, instead of being right across the
 broadest part, as this was. I then glanced at her face, and, observing
 the dint of a pince-nez at either side of her nose, I ventured a remark
-upon short sight and typewriting, which seemed to surprise her.”
+upon short sight and typewriting, which seemed to surprise her</action>.”</quote>
 
-“It surprised me.”
+    <quote speaker = "watson">“It surprised me.”</quote>
 
-“But, surely, it was obvious. I was then much surprised and interested
+    <quote speaker = "sherlock">“But, surely, it was obvious. I was then much surprised and interested
 on glancing down to observe that, though the boots which she was
 wearing were not unlike each other, they were really odd ones; the one
 having a slightly decorated toe-cap, and the other a plain one. One was
 buttoned only in the two lower buttons out of five, and the other at
-the first, third, and fifth. Now, when you see that a young lady,
+the first, third, and fifth. Now, when you see that a <char gender = "female">young lady</char>,
 otherwise neatly dressed, has come away from home with odd boots,
 half-buttoned, it is no great deduction to say that she came away in a
-hurry.”
+hurry.”</quote>
 
-“And what else?” I asked, keenly interested, as I always was, by my
-friend’s incisive reasoning.
+    <quote speaker = "watson">“And what else?”</quote> I asked, keenly interested, as I always was, by my
+    <char gender = "male">friend’s</char> incisive reasoning.
 
-“I noted, in passing, that she had written a note before leaving home
+    <quote speaker = "sherlock">“<action char = "sherlock">I noted, in passing, that she had written a note before leaving home
 but after being fully dressed. You observed that her right glove was
 torn at the forefinger, but you did not apparently see that both glove
 and finger were stained with violet ink. She had written in a hurry and
 dipped her pen too deep. It must have been this morning, or the mark
 would not remain clear upon the finger. All this is amusing, though
-rather elementary, but I must go back to business, Watson. Would you
-mind reading me the advertised description of Mr. Hosmer Angel?”
+rather elementary, but I must go back to business,</action><char gender = "male"> Watson</char>. Would you
+        mind reading me the advertised description of <char gender = "male">Mr. Hosmer Angel</char>?”</quote>
 
 I held the little printed slip to the light. “Missing,” it said, “on
-the morning of the fourteenth, a gentleman named Hosmer Angel. About
+the morning of the fourteenth, a <char gender = "male">gentleman named Hosmer Angel. About
 five ft. seven in. in height; strongly built, sallow complexion, black
 hair, a little bald in the centre, bushy, black side-whiskers and
 moustache; tinted glasses, slight infirmity of speech. Was dressed,
 when last seen, in black frock-coat faced with silk, black waistcoat,
 gold Albert chain, and grey Harris tweed trousers, with brown gaiters
 over elastic-sided boots. Known to have been employed in an office in
-Leadenhall Street. Anybody bringing,” &amp;c, &amp;c.
+Leadenhall Street. Anybody bringing</char>,” &amp;c, &amp;c.
 
-“That will do,” said Holmes. “As to the letters,” he continued,
-glancing over them, “they are very commonplace. Absolutely no clue in
-them to Mr. Angel, save that he quotes Balzac once. There is one
-remarkable point, however, which will no doubt strike you.”
+    <quote speaker = "sherlock">“That will do,”</quote> said Holmes.<quote speaker = "sherlock">“As to the letters,”</quote> he continued,
+    glancing over them, <quote speaker = "sherlock">“they are very commonplace. Absolutely no clue in
+        them to <char gender = "male">Mr. Angel</char>, save that he quotes Balzac once. There is one
+remarkable point, however, which will no doubt strike you.”</quote>
 
-“They are typewritten,” I remarked.
+    <quote speaker = "watspn">“They are typewritten,”</quote> I remarked.
 
-“Not only that, but the signature is typewritten. Look at the neat
+“<quote speaker = "sherlock">Not only that, but the signature is typewritten. Look at the neat
 little ‘Hosmer Angel’ at the bottom. There is a date, you see, but no
 superscription except Leadenhall Street, which is rather vague. The
 point about the signature is very suggestive—in fact, we may call it
-conclusive.”
+conclusive.”</quote>
 
-“Of what?”
+    <quote speaker = "watson">“Of what?”</quote>
 
-“My dear fellow, is it possible you do not see how strongly it bears
-upon the case?”
+    <quote speaker = "sherlock">“My dear fellow, is it possible you do not see how strongly it bears
+upon the case?”</quote>
 
-“I cannot say that I do unless it were that he wished to be able to
-deny his signature if an action for breach of promise were instituted.”
+    <quote speaker = "watson">“I cannot say that I do unless it were that <char gender = "male">he</char> wished to be able to
+deny his signature if an action for breach of promise were instituted.”</quote>
 
-“No, that was not the point. However, I shall write two letters, which
+    <quote speaker = "sherlock">“No, that was not the point. However, <action char = "sherlock">I shall write two letters, which
 should settle the matter. One is to a firm in the City, the other is to
-the young lady’s stepfather, Mr. Windibank, asking him whether he could
-meet us here at six o’clock to-morrow evening. It is just as well that
+the <char gender = "male"><char gender = "female">young lady’s</char> stepfather, Mr. Windibank</char>, asking him whether he could
+meet us here at six o’clock to-morrow evening.</action> It is just as well that
 we should do business with the male relatives. And now, Doctor, we can
 do nothing until the answers to those letters come, so we may put our
-little problem upon the shelf for the interim.”
+little problem upon the shelf for the interim.”</quote>
 
-I had had so many reasons to believe in my friend’s subtle powers of
+I had had so many reasons to believe in <char gender = "male">my friend’s subtle powers of
 reasoning and extraordinary energy in action that I felt that he must
 have some solid grounds for the assured and easy demeanour with which
 he treated the singular mystery which he had been called upon to
-fathom. Once only had I known him to fail, in the case of the King of
-Bohemia and of the Irene Adler photograph; but when I looked back to
+fathom. Once only had I known him to fail</char>, in the case of the King of
+Bohemia and of the <char gender = "female">Irene Adler</char> photograph; but when I looked back to
 the weird business of the Sign of Four, and the extraordinary
 circumstances connected with the Study in Scarlet, I felt that it would
 be a strange tangle indeed which he could not unravel.
 
-I left him then, still puffing at his black clay pipe, with the
+<action char = "watson">I left him then, still puffing at his black clay pipe</action>, with the
 conviction that when I came again on the next evening I would find that
-he held in his hands all the clues which would lead up to the identity
-of the disappearing bridegroom of Miss Mary Sutherland.
+<action char = "sherlock">he held in his hands all the clues which would lead up to the identity
+of the disappearing bridegroom of <char gender = "female">Miss Mary Sutherland</char></action>.
 
 A professional case of great gravity was engaging my own attention at
 the time, and the whole of next day I was busy at the bedside of the
 sufferer. It was not until close upon six o’clock that I found myself
 free and was able to spring into a hansom and drive to Baker Street,
 half afraid that I might be too late to assist at the _dénouement_ of
-the little mystery. I found Sherlock Holmes alone, however, half
+the little mystery. I found <char gender = "male">Sherlock Holmes</char> alone, however, half
 asleep, with his long, thin form curled up in the recesses of his
 armchair. A formidable array of bottles and test-tubes, with the
 pungent cleanly smell of hydrochloric acid, told me that he had spent
 his day in the chemical work which was so dear to him.
 
-“Well, have you solved it?” I asked as I entered.
+    <quote speaker = "watson">“Well, have you solved it?”</quote> I asked as I entered.
 
-“Yes. It was the bisulphate of baryta.”
+    <quote speaker = "sherlock">“Yes. It was the bisulphate of baryta.”</quote>
 
-“No, no, the mystery!” I cried.
+    <quote speaker = "watson">“No, no, the mystery!”</quote> I cried.
 
-“Oh, that! I thought of the salt that I have been working upon. There
+    <quote speaker = "sherlock">“Oh, that! I thought of the salt that I have been working upon. There
 was never any mystery in the matter, though, as I said yesterday, some
 of the details are of interest. The only drawback is that there is no
-law, I fear, that can touch the scoundrel.”
+law, I fear, that can touch the scoundrel.”</quote>
 
-“Who was he, then, and what was his object in deserting Miss
-Sutherland?”
+    <quote speaker = "watson">“Who was <char gender = "male">he</char>, then, and <action char = "hosmer">what was his object in deserting Miss
+Sutherland</action>?”</quote>
 
-The question was hardly out of my mouth, and Holmes had not yet opened
+The question was hardly out of my mouth, and <char gender = "male">Holmes</char> had not yet opened
 his lips to reply, when we heard a heavy footfall in the passage and a
 tap at the door.
 
-“This is the girl’s stepfather, Mr. James Windibank,” said Holmes. “He
-has written to me to say that he would be here at six. Come in!”
+    <quote speaker = "sherlock">“This is <char gender = "male">the <char gender = "female">girl’s</char> stepfather, Mr. James Windibank</char>,”</quote> said Holmes. <quote speaker = "sherlock">“He
+has written to me to say that he would be here at six. Come in!”</quote>
 
-The man who entered was a sturdy, middle-sized fellow, some thirty
+<char gender = "male">The man who entered was a sturdy, middle-sized fellow, some thirty
 years of age, clean-shaven, and sallow-skinned, with a bland,
 insinuating manner, and a pair of wonderfully sharp and penetrating
 grey eyes. He shot a questioning glance at each of us, placed his shiny
 top-hat upon the sideboard, and with a slight bow sidled down into the
-nearest chair.
+nearest chair.</char>
 
-“Good-evening, Mr. James Windibank,” said Holmes. “I think that this
-typewritten letter is from you, in which you made an appointment with
-me for six o’clock?”
+    <quote speaker = "sherlock">“Good-evening, <char gender = "male">Mr. James Windibank</char>,”</quote> said Holmes. <quote speaker = "sherlock">“I think that this
+        typewritten letter is from you, in which <action char = "james">you made an appointment with
+me for six o’clock?</action>”</quote>
 
-“Yes, sir. I am afraid that I am a little late, but I am not quite my
-own master, you know. I am sorry that Miss Sutherland has troubled you
-about this little matter, for I think it is far better not to wash
-linen of the sort in public. It was quite against my wishes that she
+    <quote speaker = "james">“Yes, sir. I am afraid that I am a little late, but I am not quite my
+        own master, you know. I am sorry that <action char = "mary"><char gender = "female">Miss Sutherland</char> has troubled you
+about this little matter</action>, for I think it is far better not to wash
+linen of the sort in public. It was quite against my wishes that <char gender = "female">she
 came, but she is a very excitable, impulsive girl, as you may have
 noticed, and she is not easily controlled when she has made up her mind
-on a point. Of course, I did not mind you so much, as you are not
+on a point. </char>Of course, I did not mind you so much, as you are not
 connected with the official police, but it is not pleasant to have a
 family misfortune like this noised abroad. Besides, it is a useless
-expense, for how could you possibly find this Hosmer Angel?”
+expense, for how could you possibly find this <char gender = "male">Hosmer Angel</char>?”</quote>
 
-“On the contrary,” said Holmes quietly; “I have every reason to believe
-that I will succeed in discovering Mr. Hosmer Angel.”
+    <quote speaker = "sherlock">“On the contrary,”</quote> said Holmes quietly; <quote speaker = "sherlock">“I have every reason to believe
+that I will succeed in discovering Mr. Hosmer Angel.”</quote>
 
-Mr. Windibank gave a violent start and dropped his gloves. “I am
-delighted to hear it,” he said.
+Mr. Windibank gave a violent start and dropped his gloves. <quote speaker = "james">“I am
+delighted to hear it,”</quote> he said.
 
-“It is a curious thing,” remarked Holmes, “that a typewriter has really
+    <quote speaker = "sherlock">“It is a curious thing,”</quote> remarked Holmes, <quote speaker = "sherlock">“that a typewriter has really
 quite as much individuality as a man’s handwriting. Unless they are
 quite new, no two of them write exactly alike. Some letters get more
 worn than others, and some wear only on one side. Now, you remark in
 this note of yours, Mr. Windibank, that in every case there is some
 little slurring over of the ‘e,’ and a slight defect in the tail of the
 ‘r.’ There are fourteen other characteristics, but those are the more
-obvious.”
+obvious.”</quote>
 
-“We do all our correspondence with this machine at the office, and no
-doubt it is a little worn,” our visitor answered, glancing keenly at
-Holmes with his bright little eyes.
+<quote speaker = "james">“We do all our correspondence with this machine at the office, and no
+doubt it is a little worn,”</quote> <action char = "james">our visitor answered, glancing keenly at
+Holmes with his bright little eyes</action>.
 
-“And now I will show you what is really a very interesting study, Mr.
-Windibank,” Holmes continued. “I think of writing another little
+<quote speaker = "sherlock">“And now I will show you what is really a very interesting study, <char gender = "male">Mr.
+Windibank</char>,”</quote> Holmes continued. <quote speaker = "sherlock">“I think of writing another little
 monograph some of these days on the typewriter and its relation to
 crime. It is a subject to which I have devoted some little attention. I
 have here four letters which purport to come from the missing man. They
 are all typewritten. In each case, not only are the ‘e’s’ slurred and
 the ‘r’s’ tailless, but you will observe, if you care to use my
 magnifying lens, that the fourteen other characteristics to which I
-have alluded are there as well.”
+have alluded are there as well.”</quote>
 
-Mr. Windibank sprang out of his chair and picked up his hat. “I cannot
-waste time over this sort of fantastic talk, Mr. Holmes,” he said. “If
+    <action char = "james">Mr. Windibank sprang out of his chair and picked up his hat</action>. <quote speaker = "james">“I cannot
+    waste time over this sort of fantastic talk, Mr. Holmes,”</quote> he said. <quote speaker = "james">“If
 you can catch the man, catch him, and let me know when you have done
-it.”
+it.”</quote>
 
-“Certainly,” said Holmes, stepping over and turning the key in the
-door. “I let you know, then, that I have caught him!”
+    <quote speaker = "sherlock">“Certainly,”</quote> said Holmes, <action char = "herlock">stepping over and turning the key in the
+    door</action>. <quote speaker = "sherlock">“I let you know, then, that I have caught him!”</quote>
 
-“What! where?” shouted Mr. Windibank, turning white to his lips and
+    <quote speaker = "sherlock">“What! where?”</quote> shouted Mr. Windibank, turning white to his lips and
 glancing about him like a rat in a trap.
 
-“Oh, it won’t do—really it won’t,” said Holmes suavely. “There is no
+    <quote speaker = "sherlock">“Oh, it won’t do—really it won’t,”</quote> said Holmes suavely. <quote speaker = "sherlock">“There is no
 possible getting out of it, Mr. Windibank. It is quite too transparent,
 and it was a very bad compliment when you said that it was impossible
 for me to solve so simple a question. That’s right! Sit down and let us
-talk it over.”
+talk it over.”</quote>
 
 Our visitor collapsed into a chair, with a ghastly face and a glitter
-of moisture on his brow. “It—it’s not actionable,” he stammered.
+of moisture on his brow. <quote speaker = "sherlock">“It—it’s not actionable,”</quote> he stammered.
 
-“I am very much afraid that it is not. But between ourselves,
+    <quote speaker = "sherlock">“I am very much afraid that it is not. But between ourselves,
 Windibank, it was as cruel and selfish and heartless a trick in a petty
 way as ever came before me. Now, let me just run over the course of
-events, and you will contradict me if I go wrong.”
+events, and you will contradict me if I go wrong.”</quote>
 
 The man sat huddled up in his chair, with his head sunk upon his
 breast, like one who is utterly crushed. Holmes stuck his feet up on
 the corner of the mantelpiece and, leaning back with his hands in his
 pockets, began talking, rather to himself, as it seemed, than to us.
 
-“The man married a woman very much older than himself for her money,”
-said he, “and he enjoyed the use of the money of the daughter as long
+    <quote speaker = "sherlock">“The man married a woman very much older than himself for her money,”</quote>
+    said he, <quote speaker = "sherlock">“and he enjoyed the use of the money of the daughter as long
 as she lived with them. It was a considerable sum, for people in their
 position, and the loss of it would have made a serious difference. It
 was worth an effort to preserve it. The daughter was of a good, amiable
@@ -654,12 +654,12 @@ disguised himself, covered those keen eyes with tinted glasses, masked
 the face with a moustache and a pair of bushy whiskers, sunk that clear
 voice into an insinuating whisper, and doubly secure on account of the
 girl’s short sight, he appears as Mr. Hosmer Angel, and keeps off other
-lovers by making love himself.”
+lovers by making love himself.”</quote>
 
-“It was only a joke at first,” groaned our visitor. “We never thought
-that she would have been so carried away.”
+    <quote speaker = "sherlock">“It was only a joke at first,”</quote> groaned our visitor. <quote speaker = "sherlock">“We never thought
+that she would have been so carried away.”</quote>
 
-“Very likely not. However that may be, the young lady was very
+    <quote speaker = "sherlock">“Very likely not. However that may be, the young lady was very
 decidedly carried away, and, having quite made up her mind that her
 stepfather was in France, the suspicion of treachery never for an
 instant entered her mind. She was flattered by the gentleman’s
@@ -681,39 +681,39 @@ his fate, that for ten years to come, at any rate, she would not listen
 to another man. As far as the church door he brought her, and then, as
 he could go no farther, he conveniently vanished away by the old trick
 of stepping in at one door of a four-wheeler and out at the other. I
-think that was the chain of events, Mr. Windibank!”
+think that was the chain of events, Mr. Windibank!”</quote>
 
 Our visitor had recovered something of his assurance while Holmes had
 been talking, and he rose from his chair now with a cold sneer upon his
 pale face.
 
-“It may be so, or it may not, Mr. Holmes,” said he, “but if you are so
+    <quote speaker = "sherlock">“It may be so, or it may not, Mr. Holmes,”</quote> said he, <quote speaker = "sherlock">“but if you are so
 very sharp you ought to be sharp enough to know that it is you who are
 breaking the law now, and not me. I have done nothing actionable from
 the first, but as long as you keep that door locked you lay yourself
-open to an action for assault and illegal constraint.”
+open to an action for assault and illegal constraint.”</quote>
 
-“The law cannot, as you say, touch you,” said Holmes, unlocking and
-throwing open the door, “yet there never was a man who deserved
+    <quote speaker = "sherlock">“The law cannot, as you say, touch you,”</quote> said Holmes, unlocking and
+    throwing open the door, <quote speaker = "sherlock">“yet there never was a man who deserved
 punishment more. If the young lady has a brother or a friend, he ought
-to lay a whip across your shoulders. By Jove!” he continued, flushing
-up at the sight of the bitter sneer upon the man’s face, “it is not
+to lay a whip across your shoulders. By Jove!”</quote> he continued, flushing
+    up at the sight of the bitter sneer upon the man’s face, <quote speaker = "sherlock">“it is not
 part of my duties to my client, but here’s a hunting crop handy, and I
-think I shall just treat myself to—” He took two swift steps to the
+think I shall just treat myself to—”</quote> He took two swift steps to the
 whip, but before he could grasp it there was a wild clatter of steps
 upon the stairs, the heavy hall door banged, and from the window we
 could see Mr. James Windibank running at the top of his speed down the
 road.
 
-“There’s a cold-blooded scoundrel!” said Holmes, laughing, as he threw
-himself down into his chair once more. “That fellow will rise from
+    <quote speaker = "sherlock">“There’s a cold-blooded scoundrel!”</quote> said Holmes, laughing, as he threw
+    himself down into his chair once more. <quote speaker = "sherlock">“That fellow will rise from
 crime to crime until he does something very bad, and ends on a gallows.
-The case has, in some respects, been not entirely devoid of interest.”
+The case has, in some respects, been not entirely devoid of interest.”</quote>
 
-“I cannot now entirely see all the steps of your reasoning,” I
+    <quote speaker = "sherlock">“I cannot now entirely see all the steps of your reasoning,”</quote> I
 remarked.
 
-“Well, of course it was obvious from the first that this Mr. Hosmer
+    <quote speaker = "sherlock">“Well, of course it was obvious from the first that this Mr. Hosmer
 Angel must have some strong object for his curious conduct, and it was
 equally clear that the only man who really profited by the incident, as
 far as we could see, was the stepfather. Then the fact that the two men
@@ -724,11 +724,11 @@ suspicions were all confirmed by his peculiar action in typewriting his
 signature, which, of course, inferred that his handwriting was so
 familiar to her that she would recognise even the smallest sample of
 it. You see all these isolated facts, together with many minor ones,
-all pointed in the same direction.”
+all pointed in the same direction.”</quote>
 
-“And how did you verify them?”
+    <quote speaker = "sherlock">“And how did you verify them?”</quote>
 
-“Having once spotted my man, it was easy to get corroboration. I knew
+    <quote speaker = "sherlock">“Having once spotted my man, it was easy to get corroboration. I knew
 the firm for which this man worked. Having taken the printed
 description. I eliminated everything from it which could be the result
 of a disguise—the whiskers, the glasses, the voice, and I sent it to
@@ -740,14 +740,14 @@ his reply was typewritten and revealed the same trivial but
 characteristic defects. The same post brought me a letter from
 Westhouse &amp; Marbank, of Fenchurch Street, to say that the description
 tallied in every respect with that of their employé, James Windibank.
-_Voilà tout_!”
+_Voilà tout_!”</quote>
 
-“And Miss Sutherland?”
+    <quote speaker = "sherlock">“And Miss Sutherland?”</quote>
 
-“If I tell her she will not believe me. You may remember the old
+    <quote speaker = "sherlock">“If I tell her she will not believe me. You may remember the old
 Persian saying, ‘There is danger for him who taketh the tiger cub, and
 danger also for whoso snatches a delusion from a woman.’ There is as
-much sense in Hafiz as in Horace, and as much knowledge of the world.”
+much sense in Hafiz as in Horace, and as much knowledge of the world.”</quote>
 </story>
 </passage>
 
