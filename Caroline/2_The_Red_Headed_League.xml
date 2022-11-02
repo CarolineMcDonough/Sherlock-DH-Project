@@ -23,7 +23,7 @@
         and helper in many of my most successful cases, and I have no doubt that he will be of the
         utmost use to me in yours also.</quote></p>
 
-    <p>The stout gentleman half rose from his chair and gave a bob of greeting, with a quick little
+      <p><action><char gender="male">The stout gentleman</char> half rose from his chair and gave a bob of greeting</action>, with a quick little
       questioning glance from his small fat-encircled eyes.</p>
 
     <p><quote speaker="sherlockHolmes">Try the settee,</quote> said Holmes, relapsing into his
@@ -60,8 +60,8 @@
         other similar cases which occur to my memory. In the present instance I am forced to admit
         that the facts are, to the best of my belief, unique.</quote></p>
 
-    <p>The portly client puffed out his chest with an appearance of some little pride and pulled a
-      dirty and wrinkled newspaper from the inside pocket of his greatcoat. As he glanced down the
+    <p><action><char gender="male">The portly client</char> puffed out his chest with an appearance of some little pride and pulled a
+        dirty and wrinkled newspaper from the inside pocket of his greatcoat</action>. As he glanced down the
       advertisement column, with his head thrust forward and the paper flattened out upon his knee,
       I took a good look at the man and endeavoured, after the fashion of my companion, to read the
       indications which might be presented by his dress or appearance.</p>
@@ -81,30 +81,30 @@
         has been in China, and that he has done a considerable amount of writing lately, I can
         deduce nothing else.</quote></p>
 
-    <p>Mr. Jabez Wilson started up in his chair, with his forefinger upon the paper, but his eyes
+    <p><action><char gender="male">Mr. Jabez Wilson</char> started up in his chair</action>, with his forefinger upon the paper, but his eyes
       upon my companion.</p>
 
-    <p><quote speaker="jabez wilson">How, in the name of good-fortune, did you know all that, Mr.
-        Holmes?</quote> he asked. <quote speaker="jabez wilson">How did you know, for example, that
+    <p><quote speaker="jabezWilson">How, in the name of good-fortune, did you know all that, Mr.
+        Holmes?</quote> he asked. <quote speaker="jabezWilson">How did you know, for example, that
         I did manual labour. It's as true as gospel, for I began as a ship's carpenter.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Your hands, my dear sir. Your right hand is quite a size
         larger than your left. You have worked with it, and the muscles are more
       developed.</quote></p>
 
-    <p><quote speaker="jabez wilson">Well, the snuff, then, and the Freemasonry?</quote></p>
+    <p><quote speaker="jabezWilson">Well, the snuff, then, and the Freemasonry?</quote></p>
 
     <p><quote speaker="sherlockHolmes">I won't insult your intelligence by telling you how I read
         that, especially as, rather against the strict rules of your order, you use an
         arc-and-compass breastpin.</quote></p>
 
-    <p><quote speaker="jabez wilson">Ah, of course, I forgot that. But the writing?</quote></p>
+    <p><quote speaker="jabezWilson">Ah, of course, I forgot that. But the writing?</quote></p>
 
     <p><quote speaker="sherlockHolmes">What else can be indicated by that right cuff so very shiny
         for five inches, and the left one with the smooth patch near the elbow where you rest it
         upon the desk?</quote></p>
 
-    <p><quote speaker="jabez wilson">Well, but China?</quote></p>
+    <p><quote speaker="jabezWilson">Well, but China?</quote></p>
 
     <p><quote speaker="sherlockHolmes">The fish that you have tattooed immediately above your right
         wrist could only have been done in China. I have made a small study of tattoo marks and have
@@ -112,8 +112,8 @@
         of a delicate pink is quite peculiar to China. When, in addition, I see a Chinese coin
         hanging from your watch-chain, the matter becomes even more simple.</quote></p>
 
-    <p>Mr. Jabez Wilson laughed heavily. <quote speaker="jabez wilson">Well, I never!</quote> said
-      he. <quote speaker="jabez wilson">I thought at first that you had done something clever, but I
+    <p>Mr. Jabez Wilson laughed heavily. <quote speaker="jabezWilson">Well, I never!</quote> said
+      he. <quote speaker="jabezWilson">I thought at first that you had done something clever, but I
         see that there was nothing in it after all.</quote></p>
 
     <p><quote speaker="sherlockHolmes">I begin to think, Watson,</quote> said Holmes, <quote
@@ -121,8 +121,8 @@
         magnifico_,' you know, and my poor little reputation, such as it is, will suffer shipwreck
         if I am so candid. Can you not find the advertisement, Mr. Wilson?</quote></p>
 
-    <p><quote speaker="jabez wilson">Yes, I have got it now,</quote> he answered with his thick red
-      finger planted halfway down the column. <quote speaker="jabez wilson">Here it is. This is what
+    <p><quote speaker="jabezWilson">Yes, I have got it now,</quote> he answered with his thick red
+      finger planted halfway down the column. <quote speaker="jabezWilson">Here it is. This is what
         began it all. You just read it for yourself, sir.</quote></p>
 
     <p>I took the paper from him and read as follows:</p>
@@ -148,17 +148,17 @@
 
     <p><quote speaker="sherlockHolmes">Very good. Now, Mr. Wilson?</quote></p>
 
-    <p><quote speaker="jabez wilson">Well, it is just as I have been telling you, Mr. Sherlock
-        Holmes,</quote> said Jabez Wilson, mopping his forehead; <quote speaker="jabez wilson">I
+    <p><quote speaker="jabezWilson">Well, it is just as I have been telling you, Mr. Sherlock
+        Holmes,</quote> said Jabez Wilson, mopping his forehead; <quote speaker="jabezWilson">I
         have a small pawnbroker's business at Coburg Square, near the City. It's not a very large
         affair, and of late years it has not done more than just give me a living. I used to be able
-        to keep two assistants, but now I only keep one; and I would have a job to pay him but that
+        to keep two assistants, but now <action><char gender="male">I</char> only keep one</action>; and I would have a job to pay him but that
         he is willing to come for half wages so as to learn the business.</quote></p>
 
     <p><quote speaker="sherlockHolmes">What is the name of this obliging youth?</quote> asked
       Sherlock Holmes.</p>
 
-    <p><quote speaker="jabez wilson">His name is Vincent Spaulding, and he's not such a youth,
+    <p><quote speaker="jabezWilson">His name is Vincent Spaulding, and he's not such a youth,
         either. It's hard to say his age. I should not wish a smarter assistant, Mr. Holmes; and I
         know very well that he could better himself and earn twice what I am able to give him. But,
         after all, if he is satisfied, why should I put ideas in his head?</quote></p>
@@ -168,49 +168,58 @@
         age. I don't know that your assistant is not as remarkable as your
       advertisement.</quote></p>
 
-    <p><quote speaker="jabez wilson">Oh, he has his faults, too,</quote> said Mr. Wilson. <quote
-        speaker="jabez wilson">Never was such a fellow for photography. Snapping away with a camera
+    <p><quote speaker="jabezWilson">Oh, he has his faults, too,</quote> said Mr. Wilson. <quote
+        speaker="jabezWilson">Never was such a fellow for photography. Snapping away with a camera
         when he ought to be improving his mind, and then diving down into the cellar like a rabbit
         into its hole to develop his pictures. That is his main fault, but on the whole he's a good
         worker. There's no vice in him.</quote></p>
 
     <p><quote speaker="sherlockHolmes">He is still with you, I presume?</quote></p>
 
-    <p><quote speaker="jabez wilson">Yes, sir. He and a girl of fourteen, who does a bit of simple
+    <p><quote speaker="jabezWilson">Yes, sir. He and a girl of fourteen, who does a bit of simple
         cooking and keeps the place clean—that's all I have in the house, for I am a widower and
         never had any family. We live very quietly, sir, the three of us; and we keep a roof over
         our heads and pay our debts, if we do nothing more.</quote></p>
 
-    <p>The first thing that put us out was that advertisement. Spaulding, he came down into the
-      office just this day eight weeks, with this very paper in his hand, and he says:</p>
+    <p>The first thing that put us out was that advertisement. <action><char gender="male">Spaulding</char>, he came down into the
+      office</action> just this day eight weeks, with this very paper in his hand, and he says:</p>
 
-    <p><quote speaker="jabez wilson"><subq speaker="vincent spaulding">I wish to the Lord, Mr.
+    <p><quote speaker="jabezWilson"><subq speaker="vincentSpaulding">I wish to the Lord, Mr.
           Wilson, that I was a red-headed man.</subq>
-        <subq speaker="jabez wilson">Why that?</subq> I asks. <subq speaker="vincent spaulding"
-          >Why,</subq> says he, <subq speaker="vincent spaulding">heres another vacancy on the
+        
+        <subq speaker="jabezWilson">Why that?</subq> I asks. <subq speaker="vincentSpaulding">
+            
+            Why,</subq> says he, <subq speaker="vincentSpaulding">heres another vacancy on the
           League of the Red-headed Men. It's worth quite a little fortune to any man who gets it,
           and I understand that there are more vacancies than there are men, so that the trustees
           are at their wits' end what to do with the money. If my hair would only change colour,
           here's a nice little crib all ready for me to step into.</subq>
-        <subq speaker="jabez wilson">Why, what is it, then?</subq> I asked. You see, Mr. Holmes, I
+        
+        <subq speaker="jabezWilson">Why, what is it, then?</subq> I asked. You see, Mr. Holmes, I
         am a very stay-at-home man, and as my business came to me instead of my having to go to it,
         I was often weeks on end without putting my foot over the door-mat. In that way I didn't
-        know much of what was going on outside, and I was always glad of a bit of news. <subq
-          speaker="vincent spaulding">Have you never heard of the League of the Red-headed
-          Men?</subq> he asked with his eyes open. <subq speaker="jabez wilson">Never.</subq>
-        <subq speaker="vincent spaulding">Why, I wonder at that, for you are eligible yourself for
+        know much of what was going on outside, and I was always glad of a bit of news. 
+        
+        <subq speaker="vincentSpaulding">Have you never heard of the League of the Red-headed
+          Men?</subq> he asked with his eyes open. 
+        
+        <subq speaker="jabezWilson">Never.</subq>
+        
+        <subq speaker="vincentSpaulding">Why, I wonder at that, for you are eligible yourself for
           one of the vacancies.</subq>
-        <subq speaker="jabez wilson">And what are they worth?</subq> I asked. <subq
-          speaker="vincent spaulding">Oh, merely a couple of hundred a year, but the work is slight,
+        
+        <subq speaker="jabezWilson">And what are they worth?</subq> I asked. 
+        
+        <subq speaker="vincentSpaulding">Oh, merely a couple of hundred a year, but the work is slight,
           and it need not interfere very much with one's other occupations.</subq></quote></p>
 
-    <p><quote speaker="jabez wilson">Well, you can easily think that that made me prick up my ears,
+    <p><quote speaker="jabezWilson">Well, you can easily think that that made me prick up my ears,
         for the business has not been over good for some years, and an extra couple of hundred would
         have been very handy.</quote></p>
 
-    <p><quote speaker="jabez wilson"><subq speaker="jabez wilson">Tell me all about it,</subq> said
-        I. <subq speaker="vincent spaulding">Well,</subq> said he, showing me the advertisement,
-          <subq speaker="vincent spaulding">you can see for yourself that the League has a vacancy,
+    <p><quote speaker="jabezWilson"><subq speaker="jabezWilson">Tell me all about it,</subq> said I. 
+        <subq speaker="vincentSpaulding">Well,</subq> said <action><char gender="male">he</char>, showing me the advertisement</action>,
+          <subq speaker="vincentSpaulding">you can see for yourself that the League has a vacancy,
           and there is the address where you should apply for particulars. As far as I can make out,
           the League was founded by an American millionaire, Ezekiah Hopkins, who was very peculiar
           in his ways. He was himself red-headed, and he had a great sympathy for all red-headed
@@ -218,150 +227,160 @@
           trustees, with instructions to apply the interest to the providing of easy berths to men
           whose hair is of that colour. From all I hear it is splendid pay and very little to
           do.</subq>
-        <subq speaker="jabez wilson">But,</subq> said I, <subq speaker="jabez wilson">there would be
+        
+        <subq speaker="jabezWilson">But,</subq> said I, <subq speaker="jabezWilson">there would be
           millions of red-headed men who would apply.</subq>
-        <subq speaker="vincent spaulding">Not so many as you might think,</subq> he answered. <subq
-          speaker="vincent spaulding">You see it is really confined to Londoners, and to grown men.
+        
+        <subq speaker="vincentSpaulding">Not so many as you might think,</subq> he answered. 
+        
+        <subq speaker="vincentSpaulding">You see it is really confined to Londoners, and to grown men.
           This American had started from London when he was young, and he wanted to do the old town
           a good turn. Then, again, I have heard it is no use your applying if your hair is light
           red, or dark red, or anything but real bright, blazing, fiery red. Now, if you cared to
           apply, Mr. Wilson, you would just walk in; but perhaps it would hardly be worth your while
           to put yourself out of the way for the sake of a few hundred pounds.</subq></quote></p>
 
-    <p><quote speaker="jabez wilson">Now, it is a fact, gentlemen, as you may see for yourselves,
+    <p><quote speaker="jabezWilson">Now, it is a fact, gentlemen, as you may see for yourselves,
         that my hair is of a very full and rich tint, so that it seemed to me that if there was to
         be any competition in the matter I stood as good a chance as any man that I had ever met.
-        Vincent Spaulding seemed to know so much about it that I thought he might prove useful, so I
-        just ordered him to put up the shutters for the day and to come right away with me. He was
+        Vincent Spaulding seemed to know so much about it that I thought he might prove useful, so <action><char gender="male">I</char>
+        just ordered</action> <action><char gender="male">him</char> to put up the shutters\ for the day and to come right away with me.</action> He was
         very willing to have a holiday, so we shut the business up and started off for the address
         that was given us in the advertisement.</quote></p>
 
-    <p><quote speaker="jabez wilson">I never hope to see such a sight as that again, Mr. Holmes.
+    <p><quote speaker="jabezWilson">I never hope to see such a sight as that again, Mr. Holmes.
         From north, south, east, and west every man who had a shade of red in his hair had tramped
         into the city to answer the advertisement. Fleet Street was choked with red-headed folk, and
         Pope's Court looked like a coster's orange barrow. I should not have thought there were so
         many in the whole country as were brought together by that single advertisement. Every shade
         of colour they were—straw, lemon, orange, brick, Irish-setter, liver, clay; but, as
         Spaulding said, there were not many who had the real vivid flame-coloured tint. When I saw
-        how many were waiting, I would have given it up in despair; but Spaulding would not hear of
-        it. How he did it I could not imagine, but he pushed and pulled and butted until he got me
-        through the crowd, and right up to the steps which led to the office. There was a double
-        stream upon the stair, some going up in hope, and some coming back dejected; but we wedged
-        in as well as we could and soon found ourselves in the office.</quote></p>
+        how many were waiting, <action><char gender="male">I</char> would have given it up</action> in despair; but Spaulding would not hear of
+        it. How he did it I could not imagine, but <action><char gender="male">he</char> pushed and pulled and butted</action> until <action><char gender="male">he</char> got me
+        through the crowd</action>, and right up to the steps which led to the office. There was a double
+        stream upon the stair, some going up in hope, and some coming back dejected; but <action><char gender="male">we</char> wedged
+        in</action> as well as we could and soon found ourselves in the office.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Your experience has been a most entertaining one,</quote>
-      remarked Holmes as his client paused and refreshed his memory with a huge pinch of snuff.
+      remarked Holmes as <action><char gender="male">his client</char> paused and refreshed his memory</action> with a huge pinch of snuff.
         <quote speaker="sherlockHolmes">Pray continue your very interesting statement.</quote></p>
 
-    <p><quote speaker="jabez wilson">There was nothing in the office but a couple of wooden chairs
+    <p><quote speaker="jabezWilson">There was nothing in the office but a couple of wooden chairs
         and a deal table, behind which sat a small man with a head that was even redder than mine.
-        He said a few words to each candidate as he came up, and then he always managed to find some
+        He said a few words to each candidate as he came up, and then <action><char gender="male">he</char> always managed to find</action> some
         fault in them which would disqualify them. Getting a vacancy did not seem to be such a very
         easy matter, after all. However, when our turn came the little man was much more favourable
-        to me than to any of the others, and he closed the door as we entered, so that he might have
+        to me than to any of the others, and <action><char gender="male">he</char> closed the door</action> as we entered, so that he might have
         a private word with us.</quote></p>
 
-    <p><quote speaker="jabez wilson"><subq speaker="vincent spaulding">This is Mr. Jabez
-          Wilson,</subq> said my assistant, <subq speaker="vincent spaulding">and he is willing to
+    <p><quote speaker="jabezWilson"><subq speaker="vincentSpaulding">This is Mr. Jabez
+          Wilson,</subq> said my assistant, <subq speaker="vincentSpaulding">and he is willing to
           fill a vacancy in the League.</subq>
-        <subq speaker="duncan ross">And he is admirably suited for it,</subq> the other answered.
-          <subq speaker="duncan ross">He has every requirement. I cannot recall when I have seen
-          anything so fine.</subq> He took a step backward, cocked his head on one side, and gazed
-        at my hair until I felt quite bashful. Then suddenly he plunged forward, wrung my hand, and
-        congratulated me warmly on my success. <subq speaker="duncan ross">It would be injustice to
-          hesitate,</subq> said he. <subq speaker="duncan ross">You will, however, I am sure, excuse
-          me for taking an obvious precaution.</subq> With that he seized my hair in both his hands,
-        and tugged until I yelled with the pain. <subq speaker="duncan ross">There is water in your
-          eyes,</subq> said he as he released me. <subq speaker="duncan ross">I perceive that all is
+        
+        <subq speaker="duncanRoss">And he is admirably suited for it,</subq> the other answered.
+        
+          <subq speaker="duncanRoss">He has every requirement. I cannot recall when I have seen
+          anything so fine.</subq> <action><char gender="male">He</char> took a step backward, cocked his head on one side, and gazed
+        at my hair until I felt quite bashful.</action> Then suddenly <action><char gender="male">he</char> plunged forward, wrung my hand, and
+        congratulated me warmly on my success</action>. 
+        <subq speaker="duncanRoss">It would be injustice to hesitate,</subq> said he. 
+        <subq speaker="duncanRoss">You will, however, I am sure, excuse
+          me for taking an obvious precaution.</subq> With that <action><char gender="male">he</char> seized my hair in both his hands,
+        and tugged</action> until I yelled with the pain. <subq speaker="duncanRoss">There is water in your
+          eyes,</subq> said he as <action><char gender="male">he</char> released me</action>. <subq speaker="duncanRoss">I perceive that all is
           as it should be. But we have to be careful, for we have twice been deceived by wigs and
           once by paint. I could tell you tales of cobbler's wax which would disgust you with human
-          nature.</subq> He stepped over to the window and shouted through it at the top of his
+          nature.</subq> <action><char gender="male">He</char> stepped over to the window and shouted</action> through it at the top of his
         voice that the vacancy was filled. A groan of disappointment came up from below, and the
         folk all trooped away in different directions until there was not a red-head to be seen
-        except my own and that of the manager. <subq speaker="duncan ross">My name,</subq> said he,
-          <subq speaker="duncan ross">is Mr. Duncan Ross, and I am myself one of the pensioners upon
+        except my own and that of the manager. <subq speaker="duncanRoss">My name,</subq> said he,
+          <subq speaker="duncanRoss">is Mr. Duncan Ross, and I am myself one of the pensioners upon
           the fund left by our noble benefactor. Are you a married man, Mr. Wilson? Have you a
-          family?</subq> I answered that <subq speaker="jabez wilson">I had not</subq>. His face
-        fell immediately. <subq speaker="duncan ross">Dear me!</subq> he said gravely, <subq
-          speaker="duncan ross">that is very serious indeed! I am sorry to hear you say that. The
+          family?</subq> I answered that <subq speaker="jabezWilson">I had not</subq>. His face
+        fell immediately. <subq speaker="duncanRoss">Dear me!</subq> he said gravely, <subq
+          speaker="duncanRoss">that is very serious indeed! I am sorry to hear you say that. The
           fund was, of course, for the propagation and spread of the red-heads as well as for their
           maintenance. It is exceedingly unfortunate that you should be a bachelor.</subq> My face
         lengthened at this, Mr. Holmes, for I thought that I was not to have the vacancy after all;
         but after thinking it over for a few minutes he said that it would be all right. <subq
-          speaker="duncan ross">In the case of another,</subq> said he, <subq speaker="duncan ross"
-          >the objection might be fatal, but we must stretch a point in favour of a man with such a
+          speaker="duncanRoss">In the case of another,</subq> said he, <subq speaker="duncanRoss">
+          the objection might be fatal, but we must stretch a point in favour of a man with such a
           head of hair as yours. When shall you be able to enter upon your new duties?</subq>
-        <subq speaker="jabez wilson">Well, it is a little awkward, for I have a business
-          already,</subq> said I. <subq speaker="vincent spaulding">Oh, never mind about that, Mr.
-          Wilson!</subq> said Vincent Spaulding. <subq speaker="vincent spaulding">I should be able
+        
+        <subq speaker="jabezWilson">Well, it is a little awkward, for I have a business
+          already,</subq> said I. <subq speaker="vincentSpaulding">Oh, never mind about that, Mr.
+          Wilson!</subq> said Vincent Spaulding. <subq speaker="vincentSpaulding">I should be able
           to look after that for you.</subq>
-        <subq speaker="jabez wilson">What would be the hours?</subq> I asked. <subq
-          speaker="duncan ross">Ten to two.</subq>
+       
+        <subq speaker="jabezWilson">What would be the hours?</subq> I asked. 
+        <subq speaker="duncanRoss">Ten to two.</subq>
       </quote></p>
 
-    <p><quote speaker="jabez wilson">Now a pawnbroker's business is mostly done of an evening, Mr.
+    <p><quote speaker="jabezWilson">Now a pawnbroker's business is mostly done of an evening, Mr.
         Holmes, especially Thursday and Friday evening, which is just before pay-day; so it would
         suit me very well to earn a little in the mornings. Besides, I knew that my assistant was a
         good man, and that he would see to anything that turned up.</quote></p>
 
-    <p><quote speaker="jabez wilson"><subq speaker="jabez wilson">That would suit me very
-          well,</subq> said I. <subq speaker="jabez wilson">And the pay?</subq>
-        <subq speaker="duncan ross">Is £ 4 a week.</subq>
-        <subq speaker="jabez wilson">And the work?</subq>
-        <subq speaker="duncan ross">Is purely nominal.</subq>
-        <subq speaker="jabez wilson">What do you call purely nominal?</subq>
-        <subq speaker="duncan ross">Well, you have to be in the office, or at least in the building,
+    <p><quote speaker="jabezWilson"><subq speaker="jabezWilson">That would suit me very
+          well,</subq> said I. <subq speaker="jabezWilson">And the pay?</subq>
+        <subq speaker="duncanRoss">Is £ 4 a week.</subq>
+        <subq speaker="jabezWilson">And the work?</subq>
+        <subq speaker="duncanRoss">Is purely nominal.</subq>
+        <subq speaker="jabezWilson">What do you call purely nominal?</subq>
+        <subq speaker="duncanRoss">Well, you have to be in the office, or at least in the building,
           the whole time. If you leave, you forfeit your whole position forever. The will is very
           clear upon that point. You don't comply with the conditions if you budge from the office
           during that time.</subq>
-        <subq speaker="jabez wilson">It's only four hours a day, and I should not think of
-          leaving,</subq> said I. <subq speaker="duncan ross">No excuse will avail,</subq> said Mr.
-        Duncan Ross; <subq speaker="duncan ross">neither sickness nor business nor anything else.
+        <subq speaker="jabezWilson">It's only four hours a day, and I should not think of
+          leaving,</subq> said I. <subq speaker="duncanRoss">No excuse will avail,</subq> said Mr.
+        Duncan Ross; <subq speaker="duncanRoss">neither sickness nor business nor anything else.
           There you must stay, or you lose your billet.</subq>
-        <subq speaker="jabez wilson">And the work?</subq>
-        <subq speaker="duncan ross">Is to copy out the _Encyclopædia Britannica_. There is the first
+        <subq speaker="jabezWilson">And the work?</subq>
+        <subq speaker="duncanRoss">Is to copy out the _Encyclopædia Britannica_. There is the first
           volume of it in that press. You must find your own ink, pens, and blotting-paper, but we
           provide this table and chair. Will you be ready to-morrow?</subq>
-        <subq speaker="jabez wilson">Certainly,</subq> I answered. <subq speaker="duncan ross">Then,
+        
+        <subq speaker="jabezWilson">Certainly,</subq> I answered. <subq speaker="duncanRoss">Then,
           good-bye, Mr. Jabez Wilson, and let me congratulate you once more on the important
-          position which you have been fortunate enough to gain.</subq> He bowed me out of the room
-        and I went home with my assistant, hardly knowing what to say or do, I was so pleased at my
+          position which you have been fortunate enough to gain.</subq> <action><char gender="male">He</char> bowed me out</action> of the room
+        and <action><char gender="male">I</char> went home</action> with my assistant, hardly knowing what to say or do, I was so pleased at my
         own good fortune.</quote></p>
 
-    <p><quote speaker="jabez wilson">Well, I thought over the matter all day, and by evening I was
+    <p><quote speaker="jabezWilson">Well, <action><char gender="male">I</char> thought over the matter</action> all day, and by evening I was
         in low spirits again; for I had quite persuaded myself that the whole affair must be some
         great hoax or fraud, though what its object might be I could not imagine. It seemed
         altogether past belief that anyone could make such a will, or that they would pay such a sum
-        for doing anything so simple as copying out the _Encyclopædia Britannica_. Vincent Spaulding
-        did what he could to cheer me up, but by bedtime I had reasoned myself out of the whole
-        thing. However, in the morning I determined to have a look at it anyhow, so I bought a penny
-        bottle of ink, and with a quill-pen, and seven sheets of foolscap paper, I started off for
-        Pope's Court.</quote></p>
+        for doing anything so simple as copying out the _Encyclopædia Britannica_. <action><char gender="male">Vincent Spaulding</char>
+        did what he could</action> to cheer me up, but by bedtime <action><char gender="male">I</char> had reasoned myself out of the whole
+        thing</action>. However, in the morning <action><char gender="male">I</char> determined to have a look</action> at it anyhow, so <action><char gender="male">I</char> bought a penny
+        bottle of ink</action>, and with a quill-pen, and seven sheets of foolscap paper, <action><char gender="male">I</char> started off for
+        Pope's Court</action>.</quote></p>
 
-    <p><quote speaker="jabez wilson">Well, to my surprise and delight, everything was as right as
+    <p><quote speaker="jabezWilson">Well, to my surprise and delight, everything was as right as
         possible. The table was set out ready for me, and Mr. Duncan Ross was there to see that I
-        got fairly to work. He started me off upon the letter A, and then he left me; but he would
-        drop in from time to time to see that all was right with me. At two o'clock he bade me
+        got fairly to work. <action><char gender="male">He</char> started me off</action> upon the letter A, 
+        and then <action><char gender="male">he</char> left me</action>; but <action><char gender="male">he</char> would
+        drop in</action> from time to time to see that all was right with me. At two o'clock <action><char gender="male">he</char> bade me
         good-day, complimented me upon the amount that I had written, and locked the door of the
-        office after me.</quote></p>
+        office after me.</action></quote></p>
 
-    <p><quote speaker="jabez wilson">This went on day after day, Mr. Holmes, and on Saturday the
-        manager came in and planked down four golden sovereigns for my week's work. It was the same
-        next week, and the same the week after. Every morning I was there at ten, and every
-        afternoon I left at two. By degrees Mr. Duncan Ross took to coming in only once of a
-        morning, and then, after a time, he did not come in at all. Still, of course, I never dared
+    <p><quote speaker="jabezWilson">This went on day after day, Mr. Holmes, and on Saturday <action><char gender="male">the
+        manager</char> came in and planked down four golden sovereigns</action> for my week's work. It was the same
+        next week, and the same the week after. Every morning <action><char gender="male">I</char> was there at ten</action>, and every
+        afternoon <action><char gender="male">I</char> left at two</action>. By degrees <action><char gender="male">Mr. Duncan Ross</char> took to coming in only once of a
+        morning</action>, and then, after a time, he did not come in at all. Still, of course, I never dared
         to leave the room for an instant, for I was not sure when he might come, and the billet was
         such a good one, and suited me so well, that I would not risk the loss of it.</quote></p>
 
-    <p><quote speaker="jabez wilson">Eight weeks passed away like this, and I had written about
+    <p><quote speaker="jabezWilson">Eight weeks passed away like this, and <action><char gender="male">I</char> had written</action> about
         Abbots and Archery and Armour and Architecture and Attica, and hoped with diligence that I
-        might get on to the B's before very long. It cost me something in foolscap, and I had pretty
-        nearly filled a shelf with my writings. And then suddenly the whole business came to an
+        might get on to the B's before very long. It cost me something in foolscap, and <action><char gender="male">I</char> had pretty
+        nearly filled a shelf</action> with my writings. And then suddenly the whole business came to an
         end.</quote></p>
 
     <p><quote speaker="sherlockHolmes">To an end?</quote></p>
 
-    <p><quote speaker="jabez wilson">Yes, sir. And no later than this morning. I went to my work as
+    <p><quote speaker="jabezWilson">Yes, sir. And no later than this morning. <action><char gender="male">I</char> went to my work</action> as
         usual at ten o'clock, but the door was shut and locked, with a little square of cardboard
         hammered on to the middle of the panel with a tack. Here it is, and you can read for
         yourself.</quote></p>
@@ -369,14 +388,14 @@
     <p>He held up a piece of white cardboard about the size of a sheet of note-paper. It read in
       this fashion:</p>
 
-    <p><quote speaker="duncan ross">THE RED-HEADED LEAGUE IS DISSOLVED. October 9, 1890.</quote></p>
+    <p><quote speaker="duncanRoss">THE RED-HEADED LEAGUE IS DISSOLVED. October 9, 1890.</quote></p>
 
     <p>Sherlock Holmes and I surveyed this curt announcement and the rueful face behind it, until
       the comical side of the affair so completely overtopped every other consideration that we both
       burst out into a roar of laughter.</p>
 
-    <p><quote speaker="jabez wilson">I cannot see that there is anything very funny,</quote> cried
-      our client, flushing up to the roots of his flaming head. <quote speaker="jabez wilson">If you
+    <p><quote speaker="jabezWilson">I cannot see that there is anything very funny,</quote> cried
+      our client, flushing up to the roots of his flaming head. <quote speaker="jabezWilson">If you
         can do nothing better than laugh at me, I can go elsewhere.</quote></p>
 
     <p><quote speaker="sherlockHolmes">No, no,</quote> cried Holmes, shoving him back into the chair
@@ -385,43 +404,43 @@
         so, something just a little funny about it. Pray what steps did you take when you found the
         card upon the door?</quote></p>
 
-    <p><quote speaker="jabez wilson">I was staggered, sir. I did not know what to do. Then I called
-        at the offices round, but none of them seemed to know anything about it. Finally, I went to
-        the landlord, who is an accountant living on the ground floor, and I asked him if he could
+    <p><quote speaker="jabezWilson">I was staggered, sir. I did not know what to do. Then <action><char gender="male">I</char> called
+        at the offices</action> round, but none of them seemed to know anything about it. Finally, <action><char gender="male">I</char> went to
+        the landlord,</action> who is an accountant living on the ground floor, and I asked him if he could
         tell me what had become of the Red-headed League. He said that he had never heard of any
         such body. Then I asked him who Mr. Duncan Ross was. He answered that the name was new to
         him.</quote></p>
 
-    <p><quote speaker="jabez wilson"><subq speaker="jabez wilson">Well,</subq> said I, <subq
-          speaker="jabez wilson">the gentleman at No. 4.</subq>
+    <p><quote speaker="jabezWilson"><subq speaker="jabezWilson">Well,</subq> said I, <subq
+          speaker="jabezWilson">the gentleman at No. 4.</subq>
         <subq speaker="unnamed landlord redhead">What, the red-headed man?</subq>
-        <subq speaker="jabez wilson">Yes.</subq>
+        <subq speaker="jabezWilson">Yes.</subq>
         <subq speaker="unnamed landlord redhead">Oh,</subq> said he, <subq
           speaker="unnamed landlord redhead">his name was William Morris. He was a solicitor and was
           using my room as a temporary convenience until his new premises were ready. He moved out
           yesterday.</subq>
-        <subq speaker="jabez wilson">Where could I find him?</subq>
+        <subq speaker="jabezWilson">Where could I find him?</subq>
         <subq speaker="unnamed landlord redhead">Oh, at his new offices. He did tell me the address.
           Yes, 17 King Edward Street, near St. Paul's.</subq>
-        <subq speaker="jabez wilson">I started off, Mr. Holmes, but when I got to that address it
+        <subq speaker="jabezWilson"><action><char gender="male">I</char> started off</action>, Mr. Holmes, but when I got to that address it
           was a manufactory of artificial knee-caps, and no one in it had ever heard of either Mr.
           William Morris or Mr. Duncan Ross.</subq></quote></p>
 
     <p><quote speaker="sherlockHolmes">And what did you do then?</quote> asked Holmes.</p>
 
-    <p><quote speaker="jabez wilson">I went home to Saxe-Coburg Square, and I took the advice of my
+    <p><quote speaker="jabezWilson"><action><char gender="male">I</char> went home to Saxe-Coburg Square</action>, and <action><char gender="male">I</char> took the advice</action> of my
         assistant. But he could not help me in any way. He could only say that if I waited I should
         hear by post. But that was not quite good enough, Mr. Holmes. I did not wish to lose such a
         place without a struggle, so, as I had heard that you were good enough to give advice to
-        poor folk who were in need of it, I came right away to you.</quote></p>
+        poor folk who were in need of it, <action><char gender="male">I</char> came right away to you.</action></quote></p>
 
     <p><quote speaker="sherlockHolmes">And you did very wisely,</quote> said Holmes. <quote
         speaker="sherlockHolmes">Your case is an exceedingly remarkable one, and I shall be happy to
         look into it. From what you have told me I think that it is possible that graver issues hang
         from it than might at first sight appear.</quote></p>
 
-    <p><quote speaker="jabez wilson">Grave enough!</quote> said Mr. Jabez Wilson. <quote
-        speaker="jabez wilson">Why, I have lost four pound a week.</quote></p>
+    <p><quote speaker="jabezWilson">Grave enough!</quote> said Mr. Jabez Wilson. <quote
+        speaker="jabezWilson">Why, I have lost four pound a week.</quote></p>
 
     <p><quote speaker="sherlockHolmes">As far as you are personally concerned,</quote> remarked
       Holmes, <quote speaker="sherlockHolmes">I do not see that you have any grievance against this
@@ -429,7 +448,7 @@
         nothing of the minute knowledge which you have gained on every subject which comes under the
         letter A. You have lost nothing by them.</quote></p>
 
-    <p><quote speaker="jabez wilson">No, sir. But I want to find out about them, and who they are,
+    <p><quote speaker="jabezWilson">No, sir. But I want to find out about them, and who they are,
         and what their object was in playing this prank—if it was a prank—upon me. It was a pretty
         expensive joke for them, for it cost them two and thirty pounds.</quote></p>
 
@@ -437,27 +456,27 @@
         first, one or two questions, Mr. Wilson. This assistant of yours who first called your
         attention to the advertisement—how long had he been with you?</quote></p>
 
-    <p><quote speaker="jabez wilson">About a month then.</quote></p>
+    <p><quote speaker="jabezWilson">About a month then.</quote></p>
 
     <p><quote speaker="sherlockHolmes">How did he come?</quote></p>
 
-    <p><quote speaker="jabez wilson">In answer to an advertisement.</quote></p>
+    <p><quote speaker="jabezWilson">In answer to an advertisement.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Was he the only applicant?</quote></p>
 
-    <p><quote speaker="jabez wilson">No, I had a dozen.</quote></p>
+    <p><quote speaker="jabezWilson">No, I had a dozen.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Why did you pick him?</quote></p>
 
-    <p><quote speaker="jabez wilson">Because he was handy and would come cheap.</quote></p>
+    <p><quote speaker="jabezWilson">Because he was handy and would come cheap.</quote></p>
 
     <p><quote speaker="sherlockHolmes">At half wages, in fact.</quote></p>
 
-    <p><quote speaker="jabez wilson">Yes.</quote></p>
+    <p><quote speaker="jabezWilson">Yes.</quote></p>
 
     <p><quote speaker="sherlockHolmes">What is he like, this Vincent Spaulding?</quote></p>
 
-    <p><quote speaker="jabez wilson">Small, stout-built, very quick in his ways, no hair on his
+    <p><quote speaker="jabezWilson">Small, stout-built, very quick in his ways, no hair on his
         face, though he's not short of thirty. Has a white splash of acid upon his
       forehead.</quote></p>
 
@@ -465,18 +484,18 @@
         thought as much,</quote> said he. <quote speaker="sherlockHolmes">Have you ever observed
         that his ears are pierced for earrings?</quote></p>
 
-    <p><quote speaker="jabez wilson">Yes, sir. He told me that a gipsy had done it for him when he
+    <p><quote speaker="jabezWilson">Yes, sir. He told me that a gipsy had done it for him when he
         was a lad.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Hum!</quote> said Holmes, sinking back in deep thought.
         <quote speaker="sherlockHolmes">He is still with you?</quote></p>
 
-    <p><quote speaker="jabez wilson">Oh, yes, sir; I have only just left him.</quote></p>
+    <p><quote speaker="jabezWilson">Oh, yes, sir; I have only just left him.</quote></p>
 
     <p><quote speaker="sherlockHolmes">And has your business been attended to in your
         absence?</quote></p>
 
-    <p><quote speaker="jabez wilson">Nothing to complain of, sir. There's never very much to do of a
+    <p><quote speaker="jabezWilson">Nothing to complain of, sir. There's never very much to do of a
         morning.</quote></p>
 
     <p><quote speaker="sherlockHolmes">That will do, Mr. Wilson. I shall be happy to give you an
@@ -534,8 +553,8 @@
         speaker="sherlockHolmes">I only wished to ask you how you would go from here to the
         Strand.</quote></p>
 
-    <p><quote speaker="vincent spaulding">Third right, fourth left,</quote> answered the assistant
-      promptly, closing the door.</p>
+    <p><quote speaker="vincentSpaulding">Third right, fourth left,</quote> answered the <action><char gender="male">assistant</char>
+      promptly, closing the door.</action></p>
 
     <p><quote speaker="sherlockHolmes">Smart fellow, that,</quote> observed Holmes as we walked
       away. <quote speaker="sherlockHolmes">He is, in my judgment, the fourth smartest man in
@@ -635,7 +654,7 @@
       set the matter aside until night should bring an explanation.</p>
 
     <p>It was a quarter-past nine when I started from home and made my way across the Park, and so
-      through Oxford Street to Baker Street. Two hansoms were standing at the door, and as I entered
+      through Oxford Street to Baker Street. <action><char gender="male">Two hansoms</char> were standing</action> at the door, and as I entered
       the passage I heard the sound of voices from above. On entering his room, I found Holmes in
       animated conversation with two men, one of whom I recognised as Peter Jones, the official
       police agent, while the other was a long, thin, sad-faced man, with a very shiny hat and
@@ -647,23 +666,23 @@
         introduce you to Mr. Merryweather, who is to be our companion in to-night's
         adventure.</quote></p>
 
-    <p><quote speaker="mr. jones">We're hunting in couples again, Doctor, you see,</quote> said
-      Jones in his consequential way. <quote speaker="mr. jones">Our friend here is a wonderful man
+    <p><quote speaker="peterJones">We're hunting in couples again, Doctor, you see,</quote> said
+      Jones in his consequential way. <quote speaker="peterJones">Our friend here is a wonderful man
         for starting a chase. All he wants is an old dog to help him to do the running
       down.</quote></p>
 
-    <p><quote speaker="mr. merryweather">I hope a wild goose may not prove to be the end of our
+    <p><quote speaker="mrMerryweather">I hope a wild goose may not prove to be the end of our
         chase,</quote> observed Mr. Merryweather gloomily.</p>
 
-    <p><quote speaker="mr. jones">You may place considerable confidence in Mr. Holmes, sir,</quote>
-      said the police agent loftily. <quote speaker="mr. jones">He has his own little methods, which
+    <p><quote speaker="peterJones">You may place considerable confidence in Mr. Holmes, sir,</quote>
+      said the police agent loftily. <quote speaker="peterJones">He has his own little methods, which
         are, if he won't mind my saying so, just a little too theoretical and fantastic, but he has
         the makings of a detective in him. It is not too much to say that once or twice, as in that
         business of the Sholto murder and the Agra treasure, he has been more nearly correct than
         the official force.</quote></p>
 
-    <p><quote speaker="mr. merryweather">Oh, if you say so, Mr. Jones, it is all right,</quote> said
-      the stranger with deference. <quote speaker="mr. merryweather">Still, I confess that I miss my
+    <p><quote speaker="mrMerryweather">Oh, if you say so, Mr. Jones, it is all right,</quote> said
+      the stranger with deference. <quote speaker="mrMerryweather">Still, I confess that I miss my
         rubber. It is the first Saturday night for seven-and-twenty years that I have not had my
         rubber.</quote></p>
 
@@ -673,7 +692,7 @@
         be some £ 30,000; and for you, Jones, it will be the man upon whom you wish to lay your
         hands.</quote></p>
 
-    <p><quote speaker="sherlockHolmes">John Clay, the murderer, thief, smasher, and forger. He's a
+      <p><quote speaker="peterJones">John Clay, the murderer, thief, smasher, and forger. He's a
         young man, Mr. Merryweather, but he is at the head of his profession, and I would rather
         have my bracelets on him than on any criminal in London. He's a remarkable man, is young
         John Clay. His grandfather was a royal duke, and he himself has been to Eton and Oxford. His
@@ -703,16 +722,16 @@
       Our cabs were dismissed, and, following the guidance of Mr. Merryweather, we passed down a
       narrow passage and through a side door, which he opened for us. Within there was a small
       corridor, which ended in a very massive iron gate. This also was opened, and led down a flight
-      of winding stone steps, which terminated at another formidable gate. Mr. Merryweather stopped
-      to light a lantern, and then conducted us down a dark, earth-smelling passage, and so, after
+      of winding stone steps, which terminated at another formidable gate. <action><char gender="male">Mr. Merryweather</char> stopped
+      to light a lantern</action>, and then conducted us down a dark, earth-smelling passage, and so, after
       opening a third door, into a huge vault or cellar, which was piled all round with crates and
       massive boxes.</p>
 
     <p><quote speaker="sherlockHolmes">You are not very vulnerable from above,</quote> Holmes
       remarked as he held up the lantern and gazed about him.</p>
 
-    <p><quote speaker="mr. merryweather">Nor from below,</quote> said Mr. Merryweather, striking his
-      stick upon the flags which lined the floor. <quote speaker="mr. merryweather">Why, dear me, it
+    <p><quote speaker="mrMerryweather">Nor from below,</quote> said <action><char gender="male">Mr. Merryweather</char>, striking his
+      stick upon the flags</action> which lined the floor. <quote speaker="mrMerryweather">Why, dear me, it
         sounds quite hollow!</quote> he remarked, looking up in surprise.</p>
 
     <p><quote speaker="sherlockHolmes">I must really ask you to be a little more quiet!</quote> said
@@ -720,7 +739,7 @@
         of our expedition. Might I beg that you would have the goodness to sit down upon one of
         those boxes, and not to interfere?</quote></p>
 
-    <p>The solemn Mr. Merryweather perched himself upon a crate, with a very injured expression upon
+    <p>The solemn <action><char gender="male">Mr. Merryweather</char> perched himself upon a crate</action>, with a very injured expression upon
       his face, while Holmes fell upon his knees upon the floor and, with the lantern and a
       magnifying lens, began to examine minutely the cracks between the stones. A few seconds
       sufficed to satisfy him, for he sprang to his feet again and put his glass in his pocket.</p>
@@ -734,13 +753,13 @@
         why the more daring criminals of London should take a considerable interest in this cellar
         at present.</quote></p>
 
-    <p><quote speaker="mr. merryweather">It is our French gold,</quote> whispered the director.
-        <quote speaker="mr. merryweather">We have had several warnings that an attempt might be made
+    <p><quote speaker="mrMerryweather">It is our French gold,</quote> whispered the director.
+        <quote speaker="mrMerryweather">We have had several warnings that an attempt might be made
         upon it.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Your French gold?</quote></p>
 
-    <p><quote speaker="mr. merryweather">Yes. We had occasion some months ago to strengthen our
+    <p><quote speaker="mrMerryweather">Yes. We had occasion some months ago to strengthen our
         resources and borrowed for that purpose 30,000 napoleons from the Bank of France. It has
         become known that we have never had occasion to unpack the money, and that it is still lying
         in our cellar. The crate upon which I sit contains 2,000 napoleons packed between layers of
@@ -752,7 +771,7 @@
         expect that within an hour matters will come to a head. In the meantime Mr. Merryweather, we
         must put the screen over that dark lantern.</quote></p>
 
-    <p><quote speaker="mr. merryweather">And sit in the dark?</quote></p>
+    <p><quote speaker="mrMerryweather">And sit in the dark?</quote></p>
 
     <p><quote speaker="sherlockHolmes">I am afraid so. I had brought a pack of cards in my pocket,
         and I thought that, as we were a _partie carrée_, you might have your rubber after all. But
@@ -774,7 +793,7 @@
         speaker="sherlockHolmes">That is back through the house into Saxe-Coburg Square. I hope that
         you have done what I asked you, Jones?</quote></p>
 
-    <p><quote speaker="mr. jones">I have an inspector and two officers waiting at the front
+    <p><quote speaker="peterJones">I have an inspector and two officers waiting at the front
         door.</quote></p>
 
     <p><quote speaker="sherlockHolmes">Then we have stopped all the holes. And now we must be silent
@@ -798,14 +817,14 @@
 
     <p>Its disappearance, however, was but momentary. With a rending, tearing sound, one of the
       broad, white stones turned over upon its side and left a square, gaping hole, through which
-      streamed the light of a lantern. Over the edge there peeped a clean-cut, boyish face, which
-      looked keenly about it, and then, with a hand on either side of the aperture, drew itself
-      shoulder-high and waist-high, until one knee rested upon the edge. In another instant he stood
-      at the side of the hole and was hauling after him a companion, lithe and small like himself,
+      streamed the light of a lantern. Over the edge there <action>peeped <char gender="male">a clean-cut, boyish face</char></action>, which
+      looked keenly about it, and then, with a hand on either side of the aperture, <action>drew <char gender="male">itself</char>
+      shoulder-high and waist-high, until one knee rested upon the edge</action>. In another instant <action><char gender="male">he</char> stood
+      at the side of the hole and was hauling after him a companion</action>, lithe and small like himself,
       with a pale face and a shock of very red hair.</p>
 
-    <p><quote speaker="vincent spaulding">It's all clear,</quote> he whispered. <quote
-        speaker="vincent spaulding">Have you the chisel and the bags? Great Scott! Jump, Archie,
+    <p><quote speaker="vincentSpaulding">It's all clear,</quote> he whispered. <quote
+        speaker="vincentSpaulding">Have you the chisel and the bags? Great Scott! Jump, Archie,
         jump, and I'll swing for it!</quote></p>
 
     <p>Sherlock Holmes had sprung out and seized the intruder by the collar. The other dived down
@@ -816,37 +835,37 @@
     <p><quote speaker="sherlockHolmes">It's no use, John Clay,</quote> said Holmes blandly. <quote
         speaker="sherlockHolmes">You have no chance at all.</quote></p>
 
-    <p><quote speaker="vincent spaulding">So I see,</quote> the other answered with the utmost
-      coolness. <quote speaker="vincent spaulding">I fancy that my pal is all right, though I see
+    <p><quote speaker="vincentSpaulding">So I see,</quote> the other answered with the utmost
+      coolness. <quote speaker="vincentSpaulding">I fancy that my pal is all right, though I see
         you have got his coat-tails.</quote></p>
 
     <p><quote speaker="sherlockHolmes">There are three men waiting for him at the door,</quote> said
       Holmes.</p>
 
-    <p><quote speaker="vincent spaulding">Oh, indeed! You seem to have done the thing very
+    <p><quote speaker="vincentSpaulding">Oh, indeed! You seem to have done the thing very
         completely. I must compliment you.</quote></p>
 
     <p><quote speaker="sherlockHolmes">And I you,</quote> Holmes answered. <quote
         speaker="sherlockHolmes">Your red-headed idea was very new and effective.</quote></p>
 
-    <p><quote speaker="mr. jones">You'll see your pal again presently,</quote> said Jones. <quote
-        speaker="mr. jones">He's quicker at climbing down holes than I am. Just hold out while I fix
+    <p><quote speaker="peterJones">You'll see your pal again presently,</quote> said Jones. <quote
+        speaker="peterJones">He's quicker at climbing down holes than I am. Just hold out while I fix
         the derbies.</quote></p>
 
-    <p><quote speaker="vincent spaulding">I beg that you will not touch me with your filthy
+    <p><quote speaker="vincentSpaulding">I beg that you will not touch me with your filthy
         hands,</quote> remarked our prisoner as the handcuffs clattered upon his wrists. <quote
-        speaker="vincent spaulding">You may not be aware that I have royal blood in my veins. Have
+        speaker="vincentSpaulding">You may not be aware that I have royal blood in my veins. Have
         the goodness, also, when you address me always to say 'sir' and 'please.'</quote></p>
 
-    <p><quote speaker="mr. jones">All right,</quote> said Jones with a stare and a snigger. <quote
-        speaker="mr. jones">Well, would you please, sir, march upstairs, where we can get a cab to
+    <p><quote speaker="peterJones">All right,</quote> said Jones with a stare and a snigger. <quote
+        speaker="peterJones">Well, would you please, sir, march upstairs, where we can get a cab to
         carry your Highness to the police-station?</quote></p>
 
-    <p><quote speaker="vincent spaulding">That is better,</quote> said John Clay serenely. He made a
-      sweeping bow to the three of us and walked quietly off in the custody of the detective.</p>
+    <p><quote speaker="vincentSpaulding">That is better,</quote> said John Clay serenely. <action><char gender="male">He</char> made a
+      sweeping bow to the three of us and walked quietly off</action> in the custody of the detective.</p>
 
-    <p><quote speaker="mr. merryweather">Really, Mr. Holmes,</quote> said Mr. Merryweather as we
-      followed them from the cellar, <quote speaker="mr. merryweather">I do not know how the bank
+    <p><quote speaker="mrMerryweather">Really, Mr. Holmes,</quote> said Mr. Merryweather as we
+      followed them from the cellar, <quote speaker="mrMerryweather">I do not know how the bank
         can thank you or repay you. There is no doubt that you have detected and defeated in the
         most complete manner one of the most determined attempts at bank robbery that have ever come
         within my experience.</quote></p>
@@ -865,11 +884,12 @@
         number of hours every day. It was a curious way of managing it, but, really, it would be
         difficult to suggest a better. The method was no doubt suggested to Clay's ingenious mind by
         the colour of his accomplice's hair. The £ 4 a week was a lure which must draw him, and what
-        was it to them, who were playing for thousands? They put in the advertisement, one rogue has
-        the temporary office, the other rogue incites the man to apply for it, and together they
-        manage to secure his absence every morning in the week. From the time that I heard of the
-        assistant having come for half wages, it was obvious to me that he had some strong motive
-        for securing the situation.</quote></p>
+        was it to them, who were playing for thousands? <action><char gender="male">They</char> put 
+        in the advertisement</action>, <action><char gender="male">one rogue</char> has
+        the temporary office</action>, <action><char gender="male">the other rogue</char> incites the 
+        man to apply</action> for it, and together they manage to secure his absence every morning in 
+        the week. From the time that I heard of the assistant having come for half wages, it was obvious 
+        to me that he had some strong motive for securing the situation.</quote></p>
 
     <p><quote speaker="johnWatson">But how could you guess what the motive was?</quote></p>
 
@@ -882,7 +902,7 @@
         inquiries as to this mysterious assistant and found that I had to deal with one of the
         coolest and most daring criminals in London. He was doing something in the cellar—something
         which took many hours a day for months on end. What could it be, once more? I could think of
-        nothing save that he was running a tunnel to some other building.</quote></p>
+        nothing save that <action><char gender="male">he</char> was running a tunnel</action> to some other building.</quote></p>
 
     <p><quote speaker="sherlockHolmes">So far I had got when we went to visit the scene of action. I
         surprised you by beating upon the pavement with my stick. I was ascertaining whether the
