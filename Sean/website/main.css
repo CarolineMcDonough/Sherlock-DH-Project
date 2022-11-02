@@ -78,9 +78,10 @@ p {
 main {
     background-color: hsl(0, 0%, 100%);
     line-height: 1.7;
-    max-width: 32em;
-    padding: 5% calc(50% - 16em) 35%;
+    padding: 50px;
     position: relative;
+    display: flex;
+    flex-direction: column;
     z-index: 2;
 }
 
