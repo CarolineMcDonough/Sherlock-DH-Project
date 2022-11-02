@@ -25,8 +25,8 @@
             waggled his head, and writhed his face into the most extraordinary contortions.</p>
         <p><quote speaker="Watson">What on earth can be the matter with him?</quote> I asked. <quote
                 speaker="Watson">He is looking up at the numbers of the houses.</quote></p>
-        <p><quote speaker="Holmes">I believe that he is coming here,</quote> said <char
-                gender="male">Holmes</char>, rubbing his hands.</p>
+        <p><quote speaker="Holmes">I believe that he is coming here,</quote> said <action><char
+                gender="male">Holmes</char>, rubbing his hands</action>.</p>
         <p><quote speaker="Watson">Here?</quote></p>
         <p><quote speaker="Holmes">Yes; I rather think he is coming to consult me professionally. I
                 think that I recognise the symptoms. Ha! did I not tell you?</quote> As he spoke,
@@ -37,10 +37,10 @@
             to horror and pity. For a while he could not get his words out, but swayed his body and
             plucked at his hair like one who has been driven to the extreme limits of his reason.
             Then, suddenly springing to his feet, he beat his head against the wall with such force
-            that we both rushed upon him and tore him away to the centre of the room. Sherlock <char
+            that we both rushed upon him and tore him away to the centre of the room. Sherlock <action><char
                 gender="male">Holmes</char> pushed him down into the easy-chair and, sitting beside
             him, patted his hand and chatted with him in the easy, soothing tones which he knew so
-            well how to employ.</p>
+            well how to employ</action>.</p>
         <p><quote speaker="Holmes">You have come to me to tell your story, have you not?</quote>
             said he. <quote speaker="Holmes">You are fatigued with your haste. Pray wait until you
                 have recovered yourself, and then I shall be most happy to look into any little
@@ -317,13 +317,13 @@
                     speaker="Arthur">If you choose to call the police, let the police find what they
                     can.</subq></quote></p>
         <p><quote speaker="Alexander Holder">By this time the whole house was astir, for I had raised my voice
-                in my anger. <char gender="female">Mary</char> was the first to rush into my room,
+                in my anger. <action><char gender="female">Mary</char> was the first to rush into my room</action>,
                 and, at the sight of the coronet and of <char gender="male">Arthur</char>’s face,
                 she read the whole story and, with a scream, fell down senseless on the ground. I
                 sent the housemaid for the police and put the investigation into their hands at
-                once. When the inspector and a constable entered the house, <char gender="male"
+                once. When the inspector and a constable entered the house, <action><char gender="male"
                     >Arthur</char>, who had stood sullenly with his arms folded, asked me whether it
-                was my intention to charge him with theft. I answered that it had ceased to be a
+                was my intention to charge him with theft</action>. I answered that it had ceased to be a
                 private matter, but had become a public one, since the ruined coronet was national
                 property. I was determined that the law should have its way in
             everything.</quote></p>
@@ -357,8 +357,8 @@
                 Oh, what shall I do!</quote></p>
         <p>He put a hand on either side of his head and rocked himself to and fro, droning to
             himself like a child whose grief has got beyond words.</p>
-        <p>Sherlock <char gender="male">Holmes</char> sat silent for some few minutes, with his
-            brows knitted and his eyes fixed upon the fire.</p>
+        <p>Sherlock <action><char gender="male">Holmes</char> sat silent for some few minutes, with his
+            brows knitted and his eyes fixed upon the fire</action>.</p>
         <p><quote speaker="Holmes">Do you receive much company?</quote> he asked.</p>
         <p><quote speaker="Alexander Holder">None save my partner with his family and an occasional friend of
                     <char gender="male">Arthur</char>’s. Sir George <char gender="male"
@@ -389,8 +389,8 @@
                 His silence appears to me to cut both ways. There are several singular points about
                 the case. What did the police think of the noise which awoke you from your
                 sleep?</quote></p>
-        <p><quote speaker="Alexander Holder">They considered that it might be caused by <char gender="male"
-                    >Arthur</char>’s closing his bedroom door.</quote></p>
+        <p><quote speaker="Alexander Holder">They considered that it might be caused by <action><char gender="male"
+                    >Arthur</char>’s closing his bedroom door.</action></quote></p>
         <p><quote speaker="Holmes">A likely story! As if a man bent on felony would slam his door so
                 as to wake a household. What did they say, then, of the disappearance of these
                 gems?</quote></p>
@@ -435,9 +435,9 @@
             thicket, which led into a narrow path between two neat hedges stretching from the road
             to the kitchen door, and forming the tradesmen’s entrance. On the left ran a lane which
             led to the stables, and was not itself within the grounds at all, being a public, though
-            little used, thoroughfare. <char gender="male">Holmes</char> left us standing at the
+            little used, thoroughfare. <action><char gender="male">Holmes</char> left us standing at the
             door and walked slowly all round the house, across the front, down the tradesmen’s path,
-            and so round by the garden behind into the stable lane. So long was he that <char
+            and so round by the garden behind into the stable lane</action>. So long was he that <char
                 gender="male">Mr. Holder</char> and I went into the dining-room and waited by the
             fire until he should return. We were sitting there in silence when the door opened and a
             young lady came in. She was rather above the middle height, slim, with dark hair and
@@ -640,8 +640,8 @@
         <p><quote speaker="Alexander Holder">I do not know what I have done to be so severely tried,</quote>
             said he. <quote speaker="Alexander Holder">Only two days ago I was a happy and prosperous man,
                 without a care in the world. Now I am left to a lonely and dishonoured age. One
-                sorrow comes close upon the heels of another. My niece, <char gender="female"
-                    >Mary</char>, has deserted me.</quote></p>
+                sorrow comes close upon the heels of another. My niece, <action><char gender="female"
+                    >Mary</char>, has deserted me</action>.</quote></p>
         <p><quote speaker="Holmes">Deserted you?</quote></p>
         <p><quote speaker="Alexander Holder">Yes. Her bed this morning had not been slept in, her room was
                 empty, and a note for me lay upon the hall table. I had said to her last night, in
@@ -674,8 +674,8 @@
                 And there is a little reward, I fancy. Have you your cheque-book? Here is a pen.
                 Better make it out for £ 4000.</quote></p>
         <p>With a dazed face <char gender="male">the banker</char> made out the required check.
-                <char gender="male">Holmes</char> walked over to his desk, took out a little
-            triangular piece of gold with three gems in it, and threw it down upon the table.</p>
+                <action><char gender="male">Holmes</char> walked over to his desk, took out a little
+            triangular piece of gold with three gems in it, and threw it down upon the table</action>.</p>
         <p>With a shriek of joy our client clutched it up.</p>
         <p><quote speaker="Alexander Holder">You have it!</quote> he gasped. <quote speaker="Alexander Holder">I am
                 saved! I am saved!</quote></p>
@@ -728,13 +728,13 @@
                 hardly listened to his instructions when she saw you coming downstairs, on which she
                 closed the window rapidly and told you about one of the servants’ escapade with her
                 wooden-legged lover, which was all perfectly true.</quote></p>
-        <p><quote speaker="Holmes">Your boy, <char gender="male">Arthur</char>, went to bed after
+        <p><quote speaker="Holmes">Your boy, <action><char gender="male">Arthur</char>, went to bed after
                 his interview with you but he slept badly on account of his uneasiness about his
                 club debts. In the middle of the night he heard a soft tread pass his door, so he
                 rose and, looking out, was surprised to see his cousin walking very stealthily along
                 the passage until she disappeared into your dressing-room. Petrified with
                 astonishment, the lad slipped on some clothes and waited there in the dark to see
-                what would come of this strange affair. Presently she emerged from the room again,
+                what would come of this strange affair</action>. Presently she emerged from the room again,
                 and in the light of the passage-lamp your son saw that she carried the precious
                 coronet in her hands. She passed down the stairs, and he, thrilling with horror, ran
                 along and slipped behind the curtain near your door, whence he could see what passed
@@ -746,10 +746,10 @@
                 gone he realised how crushing a misfortune this would be for you, and how
                 all-important it was to set it right. He rushed down, just as he was, in his bare
                 feet, opened the window, sprang out into the snow, and ran down the lane, where he
-                could see a dark figure in the moonlight. Sir George <char gender="male"
-                    >Burnwell</char> tried to get away, but <char gender="male">Arthur</char> caught
+                could see a dark figure in the moonlight. Sir George <action><char gender="male"
+                    >Burnwell</char> tried to get away</action>, but <action><char gender="male">Arthur</char> caught
                 him, and there was a struggle between them, your lad tugging at one side of the
-                coronet, and his opponent at the other. In the scuffle, your son struck <char
+                coronet, and his opponent at the other</action>. In the scuffle, your son struck <char
                     gender="male">Sir George</char> and cut him over the eye. Then something
                 suddenly snapped, and your son, finding that he had the coronet in his hands, rushed
                 back, closed the window, ascended to your room, and had just observed that the
