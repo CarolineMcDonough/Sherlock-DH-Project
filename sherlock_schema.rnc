@@ -8,13 +8,13 @@ p =
     element p {
         mixed { (char | quote | action)* }
     }
-char = element char { gender, text }
 gender = attribute gender { "male" | "female" }
 quote =
     element quote {
         speaker, 
-        mixed { (subq | char)* }
+        mixed { (subq | char | action?)* } 
     }
-subq = element subq { speaker, mixed { char* }}
+subq = element subq { speaker, mixed { (char* | action?)* }}
 speaker = attribute speaker { text }
 action = element action { char, text }
+char = element char { gender, text }
