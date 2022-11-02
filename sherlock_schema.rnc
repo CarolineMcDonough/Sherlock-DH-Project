@@ -17,4 +17,5 @@ quote =
 subq = element subq { speaker, mixed { (char* | action?)* }}
 speaker = attribute speaker { text }
 action = element action {mixed{char}}
-char = element char { gender, text }
+char = element char { gender, name, text }
+name = attribute name {text}
