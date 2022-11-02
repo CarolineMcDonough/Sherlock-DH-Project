@@ -126,5 +126,52 @@ main {
     z-index: 100;
 }
 
+.introMenu {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    height: 100%;
+    margin-left: -1px;
+}
+
+.bookIcon {
+    top: 50px;
+    left: 0px;
+    display: inline-block;
+    filter: drop-shadow(0 0 0.75rem cornflowerblue);
+}
+
+.typewriterIcon {
+    top: 500px;
+    left: 0px;
+    display: inline-block;
+    filter: drop-shadow(0 0 0.75rem cornflowerblue);
+}
+
+.menuBarItem {
+    margin-top: 3px;
+    display: inline-block;
+    width: 200px;
+    background-color: antiquewhite;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 30px;
+    vertical-align: middle;
+}
+.mainParagraph {
+    display: inline-block;
+    width: 60vw;
+    margin-inline:auto;
+}
+.paraHeader{
+    color: black;
+    text-align: center;
+}
+.footerStyles{
+    width:100%;
+    height:40px;
+    background-color: black;
+}
 
 
