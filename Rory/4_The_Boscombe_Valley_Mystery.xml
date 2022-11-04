@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <passage>
  <chapter number ="4">IV.</chapter> <title>THE BOSCOMBE VALLEY MYSTERY</title>
-
 <story>
  <p>
 We were seated at breakfast one morning, my <char gender="female">wife</char> and I, when the maid
@@ -22,8 +21,8 @@ go?”</quote>
 little pale lately. I think that the change would do you good, and you
 are always so interested in <char gender ="male">Mr. Sherlock Holmes’</char> cases.”</quote>
 
- <quote speaker ="watson">“I should be ungrateful if I were not, seeing what I gained through one
-  of them,”</quote> I answered. <quote speaker ="watson">“But if I am to go, I must pack at once, for I
+<quote speaker ="watson">“I should be ungrateful if I were not, seeing what I gained through one
+of them,”</quote> I answered. <quote speaker ="watson">“But if I am to go, I must pack at once, for I
 have only half an hour.”</quote>
  </p>
  <p>
@@ -143,7 +142,7 @@ referred the case to the next Assizes. Those are the main facts of the
 case as they came out before the coroner and the police-court.”
  </p>
  <p>
-
+  <p>
  <quote speaker ="watson">“I could hardly imagine a more damning case,”</quote> I remarked. <quote speaker ="watson">“If ever
 circumstantial evidence pointed to a criminal it does so here.”</quote>
 
@@ -161,7 +160,8 @@ in his interest. <char gender ="male">Lestrade</char>, <action char = "lestrade"
 to me</action>, and hence it is that two middle-aged gentlemen are flying
 westward at fifty miles an hour instead of quietly digesting their
 breakfasts at home.”</quote>
-
+  </p>
+  <p>
  <quote speaker ="watson">“I am afraid,”</quote> said I, <quote speaker ="watson">“that the facts are so obvious that you will
 find little credit to be gained out of this case.”</quote>
 
@@ -174,7 +174,8 @@ employing, or even of understanding. To take the first example to hand,
 I very clearly perceive that in your bedroom the window is upon the
 right-hand side, and yet I question whether Mr. Lestrade would have
 noted even so self-evident a thing as that.”</quote>
-
+  </p>
+  <p>
  <quote speaker ="watson">“How on earth—”</quote>
 
  <quote speaker ="sherlock">“My dear fellow, I know you well. I know the military neatness which
@@ -189,7 +190,8 @@ observation and inference. Therein lies my _métier_, and it is just
 possible that it may be of some service in the investigation which lies
 before us. There are one or two minor points which were brought out in
 the inquest, and which are worth considering.”</quote>
-
+  </p>
+  <p>
  <quote speaker ="watson">“What are they?”</quote>
 
  <quote speaker ="sherlock">“It appears that his arrest did not take place at once, but after the
@@ -226,7 +228,8 @@ according to the little girl whose evidence is so important, to raise
 his hand as if to strike him. The self-reproach and contrition which
 are displayed in his remark appear to me to be the signs of a healthy
 mind rather than of a guilty one.”</quote>
-
+ </p>
+  <p>
 I shook my head. <quote speaker ="watson">“Many men have been hanged on far slighter evidence,”</quote>
 I remarked.
 
@@ -243,7 +246,8 @@ and having turned down the sheet he pointed out the paragraph in which
 the unfortunate young man had given his own statement of what had
 occurred. </action>I settled myself down in the corner of the carriage and read
 it very carefully. It ran in this way:
-
+  </p>
+  
 <char gender="male">“Mr. James McCarthy</char>, the only son of the deceased, was then called and
 gave evidence as follows: <quote speaker = "james">‘I had been away from home for three days at
 Bristol, and had only just returned upon the morning of last Monday,
@@ -319,7 +323,8 @@ returned on hearing the cry and found your father fatally injured?</quote>
  <quote speaker = "witness">“Witness: Nothing definite.</quote>
 
  <quote speaker = "coroner">“The Coroner: What do you mean?</quote>
-
+ </p>
+ <p>
  <quote speaker = "witness">“Witness: I was so disturbed and excited as I rushed out into the open,
 that I could think of nothing except of my father. Yet I have a vague
 impression that as I ran forward something lay upon the ground to the
@@ -375,7 +380,8 @@ that hypothesis will lead us. And now here is my pocket Petrarch, and
 not another word shall I say of this case until we are on the scene of
 action. We lunch at Swindon, and I see that we shall be there in twenty
 minutes.”</quote>
-
+ </p>
+ <p>
 It was nearly four o’clock when we at last, after passing through the
 beautiful Stroud Valley, and over the broad gleaming Severn, found
 ourselves at the pretty little country-town of Ross. <char gender = "male">A lean,
@@ -384,7 +390,8 @@ platform.</char> In spite of the light brown dustcoat and leather-leggings
 which he wore in deference to his rustic surroundings, I had no
 difficulty in recognising <char gender = "male">Lestrade, of Scotland Yard</char>. With him we drove
 to the Hereford Arms where a room had already been engaged for us.
-
+ </p>
+ <p>
  <quote speaker = "lestrade">“I have ordered a carriage,”</quote> said <char gender = "male">Lestrade</char> as we sat over a cup of tea.
 <quote>“I knew your energetic nature, and that you would not be happy until
 you had been on the scene of the crime.”</quote>
@@ -400,7 +407,6 @@ sofa is very much superior to the usual country hotel abomination. I do
 not think that it is probable that I shall use the carriage to-night.”</quote>
  </p>
  <p>
-
  <char gender = "male">Lestrade</char> <action char = "lestrade">laughed indulgently</action>. <quote speaker = "lestrade">“You have, no doubt, already formed your
   conclusions from the newspapers,”</quote> he said. <quote speaker = "lestrade">“The case is as plain as a
 pikestaff, and the more one goes into it the plainer it becomes. Still,
@@ -408,7 +414,8 @@ of course, one can’t refuse a lady, and such a very positive one, too.
 She has heard of you, and would have your opinion, though I repeatedly
 told her that there was nothing which you could do which I had not
 already done. Why, bless my soul! here is her carriage at the door.”</quote>
-
+ </p>
+ <p>
 He had hardly spoken before there rushed into the room <char gender = "female">one of the most
 lovely young women that I have ever seen</char> in my life. Her violet eyes
 shining, her lips parted, a pink flush upon her cheeks, all thought of
@@ -422,7 +429,8 @@ start upon your work knowing it, too. Never let yourself doubt upon
 that point. We have known each other since we were little children, and
 I know his faults as no one else does; but he is too tender-hearted to
 hurt a fly. Such a charge is absurd to anyone who really knows him.”</quote>
-
+ </p>
+ <p>
  <quote speaker = "sherlock">“I hope we may clear him, Miss Turner,”</quote> said <char gender = "male">Sherlock Holmes</char>. <quote speaker = "sherlock">“You may
 rely upon my doing all that I can.”</quote>
 
@@ -454,7 +462,8 @@ brother and sister; but of course he is young and has seen very little
 of life yet, and—and—well, he naturally did not wish to do anything
 like that yet. So there were quarrels</action>, and this, I am sure, was one of
 them.”</quote>
-
+ </p>
+ <p>
  <quote speaker = "sherlock">“And <char gender = "male">your father</char>?”</quote> asked <char gender = "male">Holmes</char>. <quote speaker = "sherlock">“Was he in favour of such a union?”</quote>
 
  <quote speaker = "ms_turner">“No, he was averse to it also. No one but <char gender = "male">Mr. McCarthy</char> was in favour of
@@ -473,7 +482,8 @@ back, but this has broken him down completely. He has taken to his bed,
 and Dr. Willows says that he is a wreck and that his nervous system is
 shattered. <char gender = "male">Mr. McCarthy</char> was the only man alive who had known dad in the
 old days in Victoria.”</quote>
-
+ </p>
+ <p>
  <quote speaker = "sherlock">“Ha! In Victoria! That is important.”</quote>
 
  <quote speaker = "ms_turner">“Yes, at the mines.”</quote>
@@ -490,13 +500,13 @@ his money.</action>”</quote>
 I know him to be innocent.”</quote>
 
  <quote speaker = "sherlock">“I will, <char gender = "female">Miss Turner</char>.”</quote>
-
+ </p>
+ <p>
   <quote speaker = "ms_turner">“I must go home now, for <char gender = "male">dad</char> is very ill, and he misses me so if I
    leave him. Good-bye, and God help you in your undertaking.”</quote> <action char = "ms_turner"><char gender = "female">She</char> hurried
 from the room as impulsively as she had entered, and we heard the
 wheels of her carriage rattle off down the street.</action>
- </p>
- <p>
+
  <quote speaker = "lestrade">“I am ashamed of you, <char gender = "male">>Holmes</char>,”</quote> <action char = "lestrade">said <char gender = "male">Lestrade</char> with dignity after a few
   minutes’ silence</action>. <quote speaker = "lestrade">“Why should you raise up hopes which you are bound to
 disappoint? I am not over-tender of heart, but I call it cruel.”</quote>
@@ -510,7 +520,8 @@ disappoint? I am not over-tender of heart, but I call it cruel.”</quote>
 time to take a train to Hereford and see him to-night?”</quote>
 
  <quote speaker = "lestrade">“Ample.”</quote>
-
+ </p>
+ <p>
  <quote speaker = "sherlock">“Then let us do so. <char gender = "male">Watson</char>, I fear that you will find it very slow, but
 I shall only be away a couple of hours.”</quote>
 
@@ -623,7 +634,7 @@ abroad, and he has been in failing health for some time. This business
 has had a very bad effect upon him. He was an old friend of McCarthy’s,
 and, <action char = "mr+turner">I may add, a great benefactor to him, for I have learned that he
 gave him Hatherley Farm rent free.</action>”</quote>
- </p>
+ 
  <p>
 
  <quote speaker = "sherlock">“Indeed! That is interesting,”</quote> said Holmes.
@@ -691,7 +702,8 @@ detour into the meadow.</action> <char gender = "male">Lestrade</char> and <char
 indifferent and contemptuous</char>, <action char = "watson">while I watched my friend with the
 interest which sprang from the conviction that every one of <char gender = "male">his</char> actions
 was directed towards a definite end</action>.
-
+ </p>
+  <p>
 The Boscombe Pool, which is a little reed-girt sheet of water some
 fifty yards across, is situated at the boundary between the Hatherley
 Farm and the private park of the wealthy <char gender = "male">Mr. Turner.</char> Above the woods
@@ -706,7 +718,7 @@ the fall of the stricken man. To <char gender = "male">Holmes,</char> as I could
 face and peering eyes, very many other things were to be read upon the
 trampled grass. <action char = "sherlock">He ran round, like a dog who is picking up a scent, and
 then turned upon my companion</action>.
-
+  </p>
  <quote speaker = "sherlock">“What did you go into the pool for?”</quote> he asked.
 
  <quote speaker = "Lestrade">“I fished about with a rake. I thought there might be some weapon or
