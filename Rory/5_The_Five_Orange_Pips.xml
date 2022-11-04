@@ -39,7 +39,7 @@ singular features as the strange train of circumstances which I have
 now taken up my pen to describe.</p>
 
 
- <p>It was in the latter days of September, and the equinoctial gales had
+<p>It was in the latter days of September, and the equinoctial gales had
 set in with exceptional violence. All day the wind had screamed and the
 rain had beaten against the windows, so that even here in the heart of
 great, hand-made London we were forced to raise our minds for the
@@ -48,23 +48,23 @@ great elemental forces which shriek at mankind through the bars of his
 civilisation, like untamed beasts in a cage. As evening drew in, the
 storm grew higher and louder, and the wind cried and sobbed like a
 child in the chimney. Sherlock Holmes <action char = "sherlockHolmes">sat moodily at one side of the
-fireplace cross-indexing his records of crime,</action><action char = "watson"> while I at the other was
+fireplace cross-indexing his records of crime,</action><action char = "johnWatson"> while I at the other was
 deep in one of Clark Russell’s fine sea-stories until the howl of the
 gale from without seemed to blend with the text, and the splash of the
-rain to lengthen out into the long swash of the sea waves.</action> My wife<action char = "mary"> was
-on a visit to her mother’s,</action><action char = "watson"> and for a few days I was a dweller once
+rain to lengthen out into the long swash of the sea waves.</action> My wife<action char = "maryMarston"> was
+on a visit to her mother’s,</action><action char = "johnWatson"> and for a few days I was a dweller once
 more in my old quarters at Baker Street.</action></p>
 
 
  <p><quote speaker = "johnWatson">“Why,”</quote> said I, glancing up at my companion, <quote speaker = "johnWatson">“that was surely the bell.
 Who could come to-night? Some friend of yours, perhaps?”</quote></p>
 
- <p><quote speaker ="sherlock">“Except yourself I have none,”</quote> he answered. <quote speaker ="sherlock">“I do not encourage
+ <p><quote speaker ="sherlockHolmes">“Except yourself I have none,”</quote> he answered. <quote speaker ="sherlockHolmes">“I do not encourage
 visitors.”</quote></p>
 
  <p><quote speaker = "johnWatson">“A client, then?”</quote></p>
 
- <p><quote char = "mr_turner">“If so, it is a serious case. Nothing less would bring a man out on
+ <p><quote char = "mrTurner">“If so, it is a serious case. Nothing less would bring a man out on
 such a day and at such an hour. But I take it that it is more likely to
 be some crony of the landlady’s.”</quote></p>
 
@@ -85,8 +85,8 @@ could see that his face was pale and his eyes heavy, like those of a
 man who is weighed down with some great anxiety.</p>
 
     
- <p><quote speaker = "john">“I owe you an apology,”</quote> he said, raising his golden pince-nez to his
-eyes. <quote speaker = "john">“I trust that I am not intruding. I fear that I have brought some
+ <p><quote speaker = "johnOpenshaw">“I owe you an apology,”</quote> he said, raising his golden pince-nez to his
+eyes. <quote speaker = "johnOpenshaw">“I trust that I am not intruding. I fear that I have brought some
 traces of the storm and rain into your snug chamber.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“Give me your coat and umbrella,”</quote> said Holmes. <quote speaker = "sherlockHolmes">“They may rest here on
@@ -94,47 +94,47 @@ the hook and will be dry presently. You have come up from the
 south-west, I see.”</quote></p>
 
 
- <p><quote speaker = "john">“Yes, from Horsham.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“Yes, from Horsham.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“That clay and chalk mixture which I see upon your toe caps is quite
 distinctive.”</quote></p>
 
- <p><quote speaker = "john">“I have come for advice.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“I have come for advice.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“That is easily got.”</quote></p>
 
- <p><quote speaker = "john">“And help.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“And help.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“That is not always so easy.”</quote></p>
 
- <p><quote speaker = "john">“I have heard of you, Mr. Holmes. I heard from Major Prendergast how
+ <p><quote speaker = "johnOpenshaw">“I have heard of you, Mr. Holmes. I heard from Major Prendergast how
 you saved him in the Tankerville Club scandal.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“Ah, of course. He was wrongfully accused of cheating at cards.”</quote></p>
 
- <p><quote speaker = "john">“He said that <action char = "sherlockHolmes">you could solve anything</action>.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“He said that <action char = "sherlockHolmes">you could solve anything</action>.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“He said too much.”</quote></p>
 
- <p><quote speaker = "john">“That you are never beaten.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“That you are never beaten.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“I have <action char="u_men">been beaten four times—three times by men</action>, 
 and once <action char="u_woman">by a woman</action>.”</quote></p>
 
- <p><quote speaker = "john">“But what is that compared with the number of your successes?”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“But what is that compared with the number of your successes?”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“It is true that I have been generally successful.”</quote></p>
 
- <p><quote speaker = "john">“Then you may be so with me.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“Then you may be so with me.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“I beg that you will draw your chair up to the fire and favour me with
 some details as to your case.”</quote></p>
 
- <p><quote speaker = "john">“It is no ordinary one.”</quote></p>
+ <p><quote speaker = "johnOpenshaw">“It is no ordinary one.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“None of those which come to me are. I am the last court of appeal.”</quote></p>
 
- <p><quote speaker = "john">“And yet <action char = "john">I question, sir, whether, in all your experience, you have
+ <p><quote speaker = "johnOpenshaw">“And yet <action char = "johnOpenshaw">I question, sir, whether, in all your experience, you have
 ever listened to a more mysterious and inexplicable chain of events
 than those which have happened in my own family</action>.”</quote></p>
 
@@ -205,7 +205,7 @@ protruding, his skin the colour of putty, and he glared at the envelope
 which he still held in his trembling hand</action>, <quote speaker = "eliasOpenshaw">‘K. K. K.!’</quote> he shrieked, and
 then, <quote speaker ="colonel">‘My God, my God, my sins have overtaken me!’</quote>
 
-<quote speaker="john">“‘What is it, uncle?’</quote> I cried.
+<quote speaker="johnOpenshaw">“‘What is it, uncle?’</quote> I cried.
 
 <quote speaker = "eliasOpenshaw">“‘Death,’</quote> said he, and <action char = "eliasOpenshaw">rising from the table he retired to his room,</action>
 <action char = "johnOpenshaw">leaving me palpitating with horror. I took up the envelope and saw
@@ -291,7 +291,7 @@ the reconstruction of the Southern states, and were mostly concerned
 with politics, for he had evidently taken a strong part in opposing the
 carpet-bag politicians who had been sent down from the North.
 
- <p>“Well, it was the beginning of ’84 when <action char ="father">my father came to live at
+ <p>“Well, it was the beginning of ’84 when <action char ="josephOpenshaw">my father came to live at
 Horsham</action>, and all went as well as possible with us until the January of
 ’85. On the fourth day after the new year I heard my father give a
 sharp cry of surprise as we sat together at the breakfast-table. There
@@ -485,7 +485,7 @@ threatened by a very real and imminent danger. How do you go back?”</quote></p
  <p><quote speaker = "sherlockHolmes">“It is not yet nine. The streets will be crowded, so I trust that you
 may be in safety. And yet you cannot guard yourself too closely.”</quote></p>
 
-  <p><quote speaker = "johnOpenshaw">“<action char = "john">I am armed</action>.”</quote></p>
+  <p><quote speaker = "johnOpenshaw">“<action char = "johnOpenshaw">I am armed</action>.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“That is well. To-morrow I shall set to work upon your case.”</quote></p>
 
@@ -493,7 +493,7 @@ may be in safety. And yet you cannot guard yourself too closely.”</quote></p>
 
  <p><quote speaker = "sherlockHolmes">“No, your secret lies in London. It is there that I shall seek it.”</quote></p>
 
-  <p><quote speaker = "johnOpenshaw">“<action char = "john">Then I shall call upon you in a day, or in two days, with news as to
+  <p><quote speaker = "johnOpenshaw">“<action char = "johnOpenshaw">Then I shall call upon you in a day, or in two days, with news as to
 the box and the papers. I shall take your advice in every particular</action>.”</quote>
 He shook hands with us and took his leave. Outside the wind still
 screamed and the rain splashed and pattered against the windows. This
@@ -798,7 +798,7 @@ fate as Openshaw did before him.”</quote></p>
 
   <p><action char ="sherlockHolmes">He took a large sheet of paper from his pocket, all covered with dates
 and names</action>.</p>
-
+ 
   <p><quote speaker ="sherlockHolmes">“I have spent the whole day,”</quote> said he, <quote speaker ="sherlockHolmes">“over Lloyd’s registers and
 files of the old papers, following the future career of every vessel
 which touched at Pondicherry in January and February in ’83. There were
