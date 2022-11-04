@@ -3,14 +3,15 @@
 <chapter number ="5">V.</chapter> <title>THE FIVE ORANGE PIPS</title>
 
 <story>
-When I glance over my notes and records of the <char gender="male">Sherlock Holmes</char> cases
+ 
+<p>When I glance over my notes and records of the Sherlock Holmes cases
 between the years ’82 and ’90, I am faced by so many which present
 strange and interesting features that it is no easy matter to know
 which to choose and which to leave. Some, however, have already gained
 publicity through the papers, and others have not offered a field for
-those peculiar qualities which <char gender="male">my friend</char> possessed in so high a degree,
+those peculiar qualities which my friend possessed in so high a degree,
 and which it is the object of these papers to illustrate. Some, too,
-<action char = "sherlock">have baffled his analytical skill, and would be, as narratives,
+<action char = "sherlockHolmes">have baffled his analytical skill, and would be, as narratives,
 beginnings without an ending, while others have been but partially
 cleared up, and have their explanations founded rather upon conjecture
 and surmise than on that absolute logical proof which was so dear to
@@ -18,27 +19,27 @@ him.</action> There is, however, one of these last which was so remarkable in
 its details and so startling in its results that I am tempted to give
 some account of it in spite of the fact that there are points in
 connection with it which never have been, and probably never will be,
-entirely cleared up.
+entirely cleared up.</p>
 
 
-The year ’87 furnished us with a long series of cases of greater or
+<p>The year ’87 furnished us with a long series of cases of greater or
 less interest, of which I retain the records. Among my headings under
 this one twelve months I find an account of the adventure of the
 Paradol Chamber, of the Amateur Mendicant Society, who held a luxurious
 club in the lower vault of a furniture warehouse, of the facts
-connected with the loss of the British barque <char gender="female">Sophy Anderson</char>, of the
+connected with the loss of the British barque Sophy Anderson, of the
 singular adventures of the Grice Patersons in the island of Uffa, and
 finally of the Camberwell poisoning case. In the latter, as may be
-remembered, <char gender="male">Sherlock Holmes</char> <action char = "sherlock">was able, by winding up the <char gender = "male">dead man’s</char>
+remembered, Sherlock Holmes <action char = "sherlockHolmes">was able, by winding up the dead man’s
 watch, to prove that it had been wound up two hours before, and that
 therefore the deceased had gone to bed within that time—a deduction
 which was of the greatest importance in clearing up the case.</action> All these
 I may sketch out at some future date, but none of them present such
 singular features as the strange train of circumstances which I have
-now taken up my pen to describe.
+now taken up my pen to describe.</p>
 
 
-It was in the latter days of September, and the equinoctial gales had
+ <p>It was in the latter days of September, and the equinoctial gales had
 set in with exceptional violence. All day the wind had screamed and the
 rain had beaten against the windows, so that even here in the heart of
 great, hand-made London we were forced to raise our minds for the
@@ -46,236 +47,236 @@ instant from the routine of life and to recognise the presence of those
 great elemental forces which shriek at mankind through the bars of his
 civilisation, like untamed beasts in a cage. As evening drew in, the
 storm grew higher and louder, and the wind cried and sobbed like a
-child in the chimney. <char gender="male">Sherlock Holmes</char> <action char = "sherlock">sat moodily at one side of the
+child in the chimney. Sherlock Holmes <action char = "sherlockHolmes">sat moodily at one side of the
 fireplace cross-indexing his records of crime,</action><action char = "watson"> while I at the other was
-deep in one of <char gender="male">Clark Russell’s</char> fine sea-stories until the howl of the
+deep in one of Clark Russell’s fine sea-stories until the howl of the
 gale from without seemed to blend with the text, and the splash of the
-rain to lengthen out into the long swash of the sea waves.</action> <char gender="female">My wife</char><action char = "mary"> was
-on a visit to <char gender="female">her mother’s</char>,</action><action char = "watson"> and for a few days I was a dweller once
-more in my old quarters at Baker Street.</action>
+rain to lengthen out into the long swash of the sea waves.</action> My wife<action char = "mary"> was
+on a visit to her mother’s,</action><action char = "watson"> and for a few days I was a dweller once
+more in my old quarters at Baker Street.</action></p>
 
 
-<quote speaker ="watson">“Why,”</quote> said I, glancing up at my companion, <quote speaker ="watson">“that was surely the bell.
-Who could come to-night? Some friend of yours, perhaps?”</quote>
+ <p><quote speaker = "johnWatson">“Why,”</quote> said I, glancing up at my companion, <quote speaker = "johnWatson">“that was surely the bell.
+Who could come to-night? Some friend of yours, perhaps?”</quote></p>
 
-<quote speaker ="sherlock">“Except yourself I have none,”</quote> he answered. <quote speaker ="sherlock">“I do not encourage
-visitors.”</quote>
+ <p><quote speaker ="sherlock">“Except yourself I have none,”</quote> he answered. <quote speaker ="sherlock">“I do not encourage
+visitors.”</quote></p>
 
-<quote speaker ="watson">“A client, then?”</quote>
+ <p><quote speaker = "johnWatson">“A client, then?”</quote></p>
 
-<quote char = "mr_turner">“If so, it is a serious case. Nothing less would bring a man out on
+ <p><quote char = "mr_turner">“If so, it is a serious case. Nothing less would bring a man out on
 such a day and at such an hour. But I take it that it is more likely to
-be some crony of the landlady’s.”</quote>
+be some crony of the landlady’s.”</quote></p>
 
-<char gender="male">Sherlock Holmes</char> was wrong in his conjecture, however, for there came a
-step in the passage and a tapping at the door. <action char = "sherlock">He stretched out his
+ <p>Sherlock Holmes was wrong in his conjecture, however, for there came a
+step in the passage and a tapping at the door. <action char = "sherlockHolmes">He stretched out his
 long arm to turn the lamp away from himself and towards the vacant
-chair upon which a newcomer must sit.</action>
+chair upon which a newcomer must sit.</action></p>
 
-<quote speaker = "sherlock">“Come in!”</quote> said he.
+ <p><quote speaker = "sherlockHolmes">“Come in!”</quote> said he.</p>
 
-    
-<char gender="male">The man who entered was young, some two-and-twenty at the outside,
+
+ <p>The man who entered was young, some two-and-twenty at the outside,
 well-groomed and trimly clad, with something of refinement and delicacy
 in his bearing. The streaming umbrella which he held in his hand, and
 his long shining waterproof told of the fierce weather through which he
 had come. He looked about him anxiously in the glare of the lamp, and I
 could see that his face was pale and his eyes heavy, like those of a
-man who is weighed down with some great anxiety.</char>
+man who is weighed down with some great anxiety.</p>
 
     
-<quote speaker = "john">“I owe you an apology,”</quote> he said, raising his golden pince-nez to his
+ <p><quote speaker = "john">“I owe you an apology,”</quote> he said, raising his golden pince-nez to his
 eyes. <quote speaker = "john">“I trust that I am not intruding. I fear that I have brought some
-traces of the storm and rain into your snug chamber.”</quote>
+traces of the storm and rain into your snug chamber.”</quote></p>
 
-<quote speaker = "sherlock">“Give me your coat and umbrella,”</quote> said Holmes. <quote speaker = "sherlock">“They may rest here on
+ <p><quote speaker = "sherlockHolmes">“Give me your coat and umbrella,”</quote> said Holmes. <quote speaker = "sherlockHolmes">“They may rest here on
 the hook and will be dry presently. You have come up from the
-south-west, I see.”</quote>
+south-west, I see.”</quote></p>
 
 
-<quote speaker = "john">“Yes, from Horsham.”</quote>
+ <p><quote speaker = "john">“Yes, from Horsham.”</quote></p>
 
-<quote speaker = "sherlock">“That clay and chalk mixture which I see upon your toe caps is quite
-distinctive.”</quote>
+ <p><quote speaker = "sherlockHolmes">“That clay and chalk mixture which I see upon your toe caps is quite
+distinctive.”</quote></p>
 
-<quote speaker = "john">“I have come for advice.”</quote>
+ <p><quote speaker = "john">“I have come for advice.”</quote></p>
 
-<quote speaker = "sherlock">“That is easily got.”</quote>
+ <p><quote speaker = "sherlockHolmes">“That is easily got.”</quote></p>
 
-<quote speaker = "john">“And help.”</quote>
+ <p><quote speaker = "john">“And help.”</quote></p>
 
-<quote speaker = "sherlock">“That is not always so easy.”</quote>
+ <p><quote speaker = "sherlockHolmes">“That is not always so easy.”</quote></p>
 
-<quote speaker = "john">“I have heard of you, <char gender="male">Mr. Holmes</char>. I heard from <char gender = "male">Major Prendergast</char> how
-you saved him in the Tankerville Club scandal.”</quote>
+ <p><quote speaker = "john">“I have heard of you, Mr. Holmes. I heard from Major Prendergast how
+you saved him in the Tankerville Club scandal.”</quote></p>
 
-<quote speaker = "sherlock">“Ah, of course. <char gender="male">He</char> was wrongfully accused of cheating at cards.”</quote>
+ <p><quote speaker = "sherlockHolmes">“Ah, of course. He was wrongfully accused of cheating at cards.”</quote></p>
 
-<quote speaker = "john">“<char gender="male">He</char> said that <action char = "sherlock">you could solve anything</action>.”</quote>
+ <p><quote speaker = "john">“He said that <action char = "sherlockHolmes">you could solve anything</action>.”</quote></p>
 
-<quote speaker = "sherlock">“He said too much.”</quote>
+ <p><quote speaker = "sherlockHolmes">“He said too much.”</quote></p>
 
-<quote speaker = "john">“That you are never beaten.”</quote> 
+ <p><quote speaker = "john">“That you are never beaten.”</quote></p>
 
-<quote speaker = "sherlock">“<char gender="male">I</char> have <action char="men">been beaten four times—three times by <char gender="male">men</char></action>, 
-and once <action char="woman">by a woman</action>.”</quote>
+ <p><quote speaker = "sherlockHolmes">“I have <action char="u_men">been beaten four times—three times by men</action>, 
+and once <action char="u_woman">by a woman</action>.”</quote></p>
 
-<quote speaker = "john">“But what is that compared with the number of your successes?”</quote>
+ <p><quote speaker = "john">“But what is that compared with the number of your successes?”</quote></p>
 
-<quote speaker = "sherlock">“It is true that I have been generally successful.”</quote>
+ <p><quote speaker = "sherlockHolmes">“It is true that I have been generally successful.”</quote></p>
 
-<quote speaker = "john">“Then you may be so with me.”</quote>
+ <p><quote speaker = "john">“Then you may be so with me.”</quote></p>
 
-<quote speaker = "sherlock">“I beg that you will draw your chair up to the fire and favour me with
-some details as to your case.”</quote>
+ <p><quote speaker = "sherlockHolmes">“I beg that you will draw your chair up to the fire and favour me with
+some details as to your case.”</quote></p>
 
-<quote speaker = "john">“It is no ordinary one.”</quote>
+ <p><quote speaker = "john">“It is no ordinary one.”</quote></p>
 
-<quote speaker = "sherlock">“None of those which come to me are. I am the last court of appeal.”</quote>
+ <p><quote speaker = "sherlockHolmes">“None of those which come to me are. I am the last court of appeal.”</quote></p>
 
-<quote speaker = "john">“And yet <action char = "john"><char gender="male">I</char> question, sir, whether, in all your experience, you have
+ <p><quote speaker = "john">“And yet <action char = "john">I question, sir, whether, in all your experience, you have
 ever listened to a more mysterious and inexplicable chain of events
-than those which have happened in my own family</action>.”</quote>
+than those which have happened in my own family</action>.”</quote></p>
 
-<quote speaker = "sherlock">“You fill me with interest,”</quote> said Holmes. <quote speaker = "sherlock">“Pray give us the essential
+ <p><quote speaker = "sherlockHolmes">“You fill me with interest,”</quote> said Holmes. <quote speaker = "sherlockHolmes">“Pray give us the essential
 facts from the commencement, and I can afterwards question you as to
-those details which seem to me to be most important.”</quote>
+those details which seem to me to be most important.”</quote></p>
 
-<action char="john">The young man pulled his chair up and pushed his wet feet out towards
-the blaze.</action>
+ <p><action char="johnOpenshaw">The young man pulled his chair up and pushed his wet feet out towards
+the blaze.</action></p>
 
         
-<quote speaker ="john">“My name,” said he, “is John Openshaw, but my own affairs have, as far
+ <quote speaker ="johnOpenshaw">“My name,”</quote> said he, <quote speaker ="johnOpenshaw">“is John Openshaw, but my own affairs have, as far
 as I can understand, little to do with this awful business. It is a
 hereditary matter; so in order to give you an idea of the facts, I must
-go back to the commencement of the affair.</quote>
+go back to the commencement of the affair.
    
-“You must know that my <char gender ="male">grandfather</char> had two sons—<char gender ="male">my uncle Elias</char> and my
-<char gender ="male">father Joseph</char>. <action char = "joseph">My father had a small factory at Coventry, which he
+“You must know that my grandfather had two sons—my uncle Elias and my
+ father Joseph. <action char = "josephOpenshaw">My father had a small factory at Coventry, which he
 enlarged at the time of the invention of bicycling. He was a patentee
 of the Openshaw unbreakable tire, and his business met with such
 success that he was able to sell it and to retire upon a handsome
 competence.</action>
     
     
-“My <char gender ="male">uncle Elias</char> <action char ="elias">emigrated to America when he was a young man and became
+“My uncle Elias <action char ="eliasOpenshaw">emigrated to America when he was a young man and became
 a planter in Florida, where he was reported to have done very well. At
-the time of the war he fought in <char gender="male">Jackson’s</char> army, and afterwards under
-<char gender="male">Hood</char>, where he rose to be a colonel. When <char gender="male">Lee</char> laid down his arms my
-<char gender="male">uncle</char> returned to his plantation, where he remained for three or four
+the time of the war he fought in Jackson’s army, and afterwards under
+Hood, where he rose to be a colonel. When Lee laid down his arms my
+uncle returned to his plantation, where he remained for three or four
 years. About 1869 or 1870 he came back to Europe and took a small
 estate in Sussex, near Horsham. He had made a very considerable fortune
 in the States, and his reason for leaving them was his aversion to the
 negroes, and his dislike of the Republican policy in extending the
 franchise to them. He was a singular man, fierce and quick-tempered,
 very foul-mouthed when he was angry, and of a most retiring
-disposition.</action><action char="elias"> During all the years that he lived at Horsham, I doubt if
+disposition.</action><action char="eliasOpenshaw"> During all the years that he lived at Horsham, I doubt if
 ever he set foot in the town. He had a garden and two or three fields
 round his house, and there he would take his exercise, though very
 often for weeks on end he would never leave his room. He drank a great
 deal of brandy and smoked very heavily, but he would see no society and
-did not want any friends, not even his own <char gender ="male">brother</char>.</action>
+did not want any friends, not even his own brother.</action>
 
-“<action char ="elias">He didn’t mind <char gender = "male">me</char>; in fact, he took a fancy to me, for at the time
+“<action char ="eliasOpenshaw">He didn’t mind me; in fact, he took a fancy to me, for at the time
 when he saw me first I was a youngster of twelve or so. This would be
 in the year 1878, after he had been eight or nine years in England. He
 begged my father to let me live with him and he was very kind to me in
 his way. When he was sober he used to be fond of playing backgammon and
 draughts with me, and he would make me his representative both with the
-servants and with the tradespeople,</action> <action char ="john"> so that by the time that I was
+servants and with the tradespeople,</action> <action char ="johnOpenshaw"> so that by the time that I was
 sixteen I was quite master of the house. I kept all the keys and could
 go where I liked and do what I liked, so long as I did not disturb him
-in his privacy</action>. There was one singular exception, however, <action char ="elias">for he had a
+in his privacy</action>. There was one singular exception, however, <action char ="eliasOpenshaw">for he had a
 single room, a lumber-room up among the attics, which was invariably
 locked, and which he would never permit either me or anyone else to
-enter</action>. <action char ="john">With a boy’s curiosity I have peeped through the keyhole, but I
+enter</action>. <action char ="johnOpenshaw">With a boy’s curiosity I have peeped through the keyhole, but I
 was never able to see more than such a collection of old trunks and
 bundles as would be expected in such a room</action>.
 
 “One day—it was in March, 1883—a letter with a foreign stamp lay upon
-the table in front of the <char gender = "male">colonel’s</char> plate. It was not a common thing
+the table in front of the colonel’s plate. It was not a common thing
 for him to receive letters, for his bills were all paid in ready money,
-and he had no friends of any sort. <quote speaker ="elias">‘From India!’</quote> said he as he took it
-up, <quote speaker ="elias">‘Pondicherry postmark! What can this be?’</quote> <action char ="elias">Opening it hurriedly, out
+and he had no friends of any sort. <quote speaker ="eliasOpenshaw">‘From India!’</quote> said he as he took it
+  up, <quote speaker ="eliasOpenshaw">‘Pondicherry postmark! What can this be?’</quote> <action char ="eliasOpenshaw">Opening it hurriedly, out
 there jumped five little dried orange pips, which pattered down upon
-his plate.</action> <action char ="john">I began to laugh at this, but the laugh was struck from my
-lips at the sight of his face</action>. <action char ="elias">His lip had fallen, his eyes were
+his plate.</action> <action char = "johnOpenshaw">I began to laugh at this, but the laugh was struck from my
+lips at the sight of his face</action>. <action char = "eliasOpenshaw">His lip had fallen, his eyes were
 protruding, his skin the colour of putty, and he glared at the envelope
-which he still held in his trembling hand</action>, <quote speaker ="elias">‘K. K. K.!’</quote> he shrieked, and
+which he still held in his trembling hand</action>, <quote speaker = "eliasOpenshaw">‘K. K. K.!’</quote> he shrieked, and
 then, <quote speaker ="colonel">‘My God, my God, my sins have overtaken me!’</quote>
 
-<quote speaker="john">“‘What is it, <char gender="male">uncle</char>?’</quote> I cried.
+<quote speaker="john">“‘What is it, uncle?’</quote> I cried.
 
-<quote speaker ="elias">“‘Death,’</quote> said he, and <action char ="elias">rising from the table he retired to his room,</action>
-<action char ="john">leaving me palpitating with horror. I took up the envelope and saw
+<quote speaker = "eliasOpenshaw">“‘Death,’</quote> said he, and <action char = "eliasOpenshaw">rising from the table he retired to his room,</action>
+<action char = "johnOpenshaw">leaving me palpitating with horror. I took up the envelope and saw
 scrawled in red ink upon the inner flap, just above the gum, the letter
 K three times repeated. There was nothing else save the five dried
 pips. What could be the reason of his overpowering terror? I left the
-breakfast-table, and as I ascended the stair I met </action><action char ="elias">him coming down with
+breakfast-table, and as I ascended the stair I met </action><action char = "eliasOpenshaw">him coming down with
 an old rusty key, which must have belonged to the attic, in one hand,
 and a small brass box, like a cashbox, in the other</action>.
 
-<quote speaker ="elias">“‘They may do what they like, but I’ll checkmate them still,’</quote> said he
-with an oath. <quote speaker ="elias">‘Tell <char gender ="female">Mary</char> that I shall want a fire in my room to-day,
-and send down to <char gender ="male">Fordham, the Horsham lawyer</char>.’</quote>
+ <p><quote speaker = "eliasOpenshaw">“‘They may do what they like, but I’ll checkmate them still,’</quote> said he
+with an oath. <quote speaker = "eliasOpenshaw">‘Tell Mary that I shall want a fire in my room to-day,
+and send down to Fordham, the Horsham lawyer.’</quote></p>
 
-“<action char ="john">I did as he ordered, and when the lawyer arrived I was asked to step
+“<action char = "johnOpenshaw">I did as he ordered, and when the lawyer arrived I was asked to step
 up to the room. The fire was burning brightly, and in the grate there
 was a mass of black, fluffy ashes, as of burned paper, while the brass
 box stood open and empty beside it. As I glanced at the box I noticed,
 with a start, that upon the lid was printed the treble K which I had
 read in the morning upon the envelope</action>.
 
-<quote speaker ="elias">“‘I wish you, John,’</quote> said my uncle, <quote speaker ="elias">‘to witness my will. <action char ="elias">I leave my
-estate, with all its advantages and all its disadvantages, <char gender ="male">to my
-brother</char>, <char gender ="male">your father</char>, whence it will, no doubt, descend to <char gender ="male">you</char></action>. If you
+<quote speaker = "eliasOpenshaw">“‘I wish you, John,’</quote> said my uncle, <quote speaker = "eliasOpenshaw">‘to witness my will. <action char = "eliasOpenshaw">I leave my
+estate, with all its advantages and all its disadvantages, to my
+brother, \your father, whence it will, no doubt, descend to you</action>. If you
 can enjoy it in peace, well and good! If you find you cannot, take my
 advice, my boy, and leave it to your deadliest enemy. I am sorry to
 give you such a two-edged thing, but I can’t say what turn things are
-going to take. Kindly sign the paper where <char gender ="male">Mr. Fordham</char> shows you.’</quote>
+going to take. Kindly sign the paper where Mr. Fordham shows you.’</quote>
 
-“<action char ="john">I signed the paper as directed</action>, and <action char ="fordham">the lawyer took it away with him</action>.
+“<action char = "johnOpenshaw">I signed the paper as directed</action>, and <action char ="fordham">the lawyer took it away with him</action>.
 The singular incident made, as you may think, the deepest impression
 upon me, and I pondered over it and turned it every way in my mind
 without being able to make anything of it. Yet I could not shake off
 the vague feeling of dread which it left behind, though the sensation
 grew less keen as the weeks passed and nothing happened to disturb the
 usual routine of our lives. I could see a change in my uncle, however.
-<action char ="elias">He drank more than ever, and he was less inclined for any sort of
+<action char = "eliasOpenshaw">He drank more than ever, and he was less inclined for any sort of
 society. Most of his time he would spend in his room, with the door
 locked upon the inside, but sometimes he would emerge in a sort of
 drunken frenzy and would burst out of the house and tear about the
 garden with a revolver in his hand, screaming out that he was afraid of
-no man, and that <char gender ="male">he</char> was not to be cooped up, like a sheep in a pen, by
+no man, and that he was not to be cooped up, like a sheep in a pen, by
 man or devil. When these hot fits were over, however, he would rush
 tumultuously in at the door and lock and bar it behind him, like a man
 who can brazen it out no longer against the terror which lies at the
-roots of his soul</action>. At such times I have seen <char gender ="male">his</char> face, even on a cold
+roots of his soul</action>. At such times I have seen his face, even on a cold
 day, glisten with moisture, as though it were new raised from a basin.
    
-“Well, to come to an end of the matter, <char gender ="male">Mr. Holmes</char>, and not to abuse
-your patience, there came a night when <action char ="elias">he made one of those drunken
-sallies from which he never came back</action>. We found <char gender ="male">him</char>, when we went to
-search for <char gender ="male">him</char>, face downward in a little green-scummed pool, which lay
+ <p>“Well, to come to an end of the matter, Mr. Holmes, and not to abuse
+your patience, there came a night when <action char = "eliasOpenshaw">he made one of those drunken
+sallies from which he never came back</action>. We found him, when we went to
+search for him, face downward in a little green-scummed pool, which lay
 at the foot of the garden. There was no sign of any violence, and the
-water was but two feet deep, so that the jury, having regard to <char gender ="male">his</char>
+water was but two feet deep, so that the jury, having regard to his
 known eccentricity, brought in a verdict of ‘suicide.’ But I, who knew
-how <action char ="elias">he winced from the very thought of death, had much ado to persuade
+how <action char = "eliasOpenshaw">he winced from the very thought of death, had much ado to persuade
 myself that he had gone out of his way to meet it. </action>The matter passed,
 however, and my <action speaker ="joseph">father entered into possession of the estate, and of
-some £ 14,000, which lay to his credit at the bank</action>.”
+some £ 14,000, which lay to his credit at the bank</action>.”</p>
 
-<quote speaker ="sherlock">“One moment,”</quote> Holmes interposed, <quote speaker ="sherlock">“your statement is, I foresee, one of
+ <p><quote speaker ="sherlockHolmes">“One moment,”</quote> Holmes interposed, <quote speaker ="sherlockHolmes">“your statement is, I foresee, one of
 the most remarkable to which I have ever listened. Let me have the date
-of the reception by your <char gender ="male">uncle</char> of the letter, and the date of <action char ="elias">his
-supposed suicide</action>.”</quote>
+of the reception by your uncle of the letter, and the date of <action char = "eliasOpenshaw">his
+supposed suicide</action>.”</quote></p>
 
-<quote speaker ="john">“The letter arrived on March 10, 1883. <char gender = "male">His</char> death was seven weeks later,
-upon the night of May 2nd.”</quote>
+ <p><quote speaker = "johnOpenshaw">“The letter arrived on March 10, 1883. His death was seven weeks later,
+upon the night of May 2nd.”</quote></p>
 
-<quote speaker ="sherlock">“Thank you. Pray proceed.”</quote>
+ <p><quote speaker ="sherlockHolmes">“Thank you. Pray proceed.”</quote></p>
 
-<quote speaker ="john">“When my <char gender ="male">father</char> took over the Horsham property, <action char ="joseph">he, at my request, made
+<quote speaker = "johnOpenshaw">“When my father took over the Horsham property, <action char = "josephOpenshaw">he, at my request, made
 a careful examination of the attic, which had been always locked up. We
 found the brass box there, although its contents had been destroyed. On
 the inside of the cover was a paper label, with the initials of K. K.
@@ -283,64 +284,64 @@ K. repeated upon it, and ‘Letters, memoranda, receipts, and a register’
 written beneath</action>.These, we presume, indicated the nature of the papers
 which had been destroyed by Colonel Openshaw. For the rest, there was
 nothing of much importance in the attic save a great many scattered
-papers and note-books bearing upon my <char gender ="male">uncle’s</char> life in America. Some of
+papers and note-books bearing upon my uncle’s life in America. Some of
 them were of the war time and showed that he had done his duty well and
 had borne the repute of a brave soldier. Others were of a date during
 the reconstruction of the Southern states, and were mostly concerned
 with politics, for he had evidently taken a strong part in opposing the
 carpet-bag politicians who had been sent down from the North.
 
-“Well, it was the beginning of ’84 when <action char ="father"><char gender ="male">my father</char> came to live at
+ <p>“Well, it was the beginning of ’84 when <action char ="father">my father came to live at
 Horsham</action>, and all went as well as possible with us until the January of
-’85. On the fourth day after the new year I heard <char gender = "male">my father</char> give a
+’85. On the fourth day after the new year I heard my father give a
 sharp cry of surprise as we sat together at the breakfast-table. There
 he was, sitting with a newly opened envelope in one hand and five dried
-orange pips in the outstretched palm of the other one. <action char ="joseph">He had always
+orange pips in the outstretched palm of the other one. <action char = "josephOpenshaw">He had always
 laughed at what he called my cock-and-bull story about the colonel, but
 he looked very scared and puzzled now that the same thing had come upon
 himself</action>.
    
-<quote speaker ="joseph">“‘Why, what on earth does this mean, John?’</quote> he stammered.
+ <p><quote speaker = "josephOpenshaw">“‘Why, what on earth does this mean, John?’</quote> he stammered.</p>
 
-<quote speaker ="john">“My heart had turned to lead. ‘It is K. K. K.,’</quote> said I.
+ <p><quote speaker = "johnOpenshaw">“My heart had turned to lead. ‘It is K. K. K.,’</quote> said I.</p>
 
-<quote speaker ="joseph">“He looked inside the envelope. ‘So it is,’ he cried. ‘Here are the
-very letters. But what is this written above them?’</quote>
+ <p><quote speaker = "josephOpenshaw">“He looked inside the envelope. ‘So it is,’ he cried. ‘Here are the
+very letters. But what is this written above them?’</quote></p>
 
-<quote speaker ="john">“‘Put the papers on the sundial,’</quote> I read, peeping over his shoulder.
+ <p><quote speaker = "johnOpenshaw">“‘Put the papers on the sundial,’</quote> I read, peeping over his shoulder.</p>
 
-<quote speaker ="joseph">“‘What papers? What sundial?’</quote> he asked.
+ <p><quote speaker = "josephOpenshaw">“‘What papers? What sundial?’</quote> he asked.</p>
 
-<quote speaker ="john">“‘The sundial in the garden. There is no other,’</quote> said I; <quote speaker ="watson">‘but the
-papers must be those that are destroyed.’</quote>
+ <p><quote speaker = "johnOpenshaw">“‘The sundial in the garden. There is no other,’</quote> said I; <quote speaker = "johnWatson">‘but the
+papers must be those that are destroyed.’</quote></p>
 
-<quote speaker ="joseph">“‘Pooh!’</quote> said he, gripping hard at his courage. <quote speaker ="sherlock">‘We are in a civilised
+ <p><quote speaker = "josephOpenshaw">“‘Pooh!’</quote> said he, gripping hard at his courage. <quote speaker ="sherlock">‘We are in a civilised
 land here, and we can’t have tomfoolery of this kind. Where does the
-thing come from?’</quote>
+thing come from?’</quote></p>
+ 
+ <p><quote speaker = "johnOpenshaw">“‘From Dundee,’</quote> I answered, glancing at the postmark.</p>
 
-<quote speaker ="john">“‘From Dundee,’</quote> I answered, glancing at the postmark.
+ <p><quote speaker = "josephOpenshaw">“‘Some preposterous practical joke,’</quote> said he. <quote speaker ="sherlock">‘What have I to do with
+sundials and papers? I shall take no notice of such nonsense.’</quote></p>
 
-<quote speaker ="joseph">“‘Some preposterous practical joke,’</quote> said he. <quote speaker ="sherlock">‘What have I to do with
-sundials and papers? I shall take no notice of such nonsense.’</quote>
+ <p><quote speaker = "johnOpenshaw">“‘I should certainly speak to the police,’</quote> I said.</p>
 
-<quote speaker ="john">“‘I should certainly speak to the police,’</quote> I said.
+ <p><quote speaker = "josephOpenshaw">“‘And be laughed at for my pains. Nothing of the sort.’</quote></p>
 
-<quote speaker ="joseph">“‘And be laughed at for my pains. Nothing of the sort.’</quote>
+ <p><quote speaker = "johnOpenshaw">“‘Then let me do so?’</quote></p>
 
-<quote speaker ="john">“‘Then let me do so?’</quote>
+ <p><quote speaker = "josephOpenshaw">“‘No, I forbid you. I won’t have a fuss made about such nonsense.’</quote></p>
 
-<quote speaker ="joseph">“‘No, I forbid you. I won’t have a fuss made about such nonsense.’</quote>
+ <p>“It was in vain to argue with him, for he was a very obstinate man. <action char = "johnOpenshaw">I
+went about, however, with a heart which was full of forebodings</action>.</p>
 
-“It was in vain to argue with <char gender ="male">him, for he was a very obstinate man</char>. <action char ="john">I
-went about, however, with a heart which was full of forebodings</action>.
-
-“On the third day after the coming of the letter <char gender ="male">my father</char> <action char ="joseph">went from
+ <p>“On the third day after the coming of the letter my father <action char = "josephOpenshaw">went from
 home to visit an old friend of his, Major Freebody, who is in command
 of one of the forts upon Portsdown Hill</action>. I was glad that he should go,
 for it seemed to me that he was farther from danger when he was away
 from home. In that, however, I was in error. Upon the second day of his
 absence I received a telegram from the major, imploring me to come at
-once. <char gender ="male">My father</char> had fallen over one of the deep chalk-pits which abound
+once. My father had fallen over one of the deep chalk-pits which abound
 in the neighbourhood, and was lying senseless, with a shattered skull.
 I hurried to him, but he passed away without having ever recovered his
 consciousness. He had, as it appears, been returning from Fareham in
@@ -351,13 +352,13 @@ with his death, I was unable to find anything which could suggest the
 idea of murder. There were no signs of violence, no footmarks, no
 robbery, no record of strangers having been seen upon the roads. And
 yet I need not tell you that my mind was far from at ease, and that I
-was well-nigh certain that some foul plot had been woven round him.
+was well-nigh certain that some foul plot had been woven round him.</p>
 
 “In this sinister way I came into my inheritance. You will ask me why I
-did not dispose of it? I answer, because <action char ="john">I was well convinced that our
+did not dispose of it? I answer, because <action char = "johnOpenshaw">I was well convinced that our
 troubles were in some way dependent upon an incident in my uncle’s
 life, and that the danger would be as pressing in one house as in
-another</action>.
+another</action>.</p>
 
 “It was in January, ’85, that my poor father met his end, and two years
 and eight months have elapsed since then. During that time I have lived
@@ -366,77 +367,77 @@ away from the family, and that it had ended with the last generation. I
 had begun to take comfort too soon, however; yesterday morning the blow
 fell in the very shape in which it had come upon my father.”</quote>
 
-<action char ="john">The young man took from his waistcoat a crumpled envelope, and turning
-to the table he shook out upon it five little dried orange pips.</action>
+ <p><action char = "johnOpenshaw">The young man took from his waistcoat a crumpled envelope, and turning
+to the table he shook out upon it five little dried orange pips.</action></p>
 
-<quote speaker ="john">“This is the envelope,”</quote> he continued. <quote speaker ="joseph">“The postmark is London—eastern
-division. Within are the very words which were upon <char gender ="male">my father’s</char> last
-message: ‘K. K. K.’; and then ‘Put the papers on the sundial.’”</quote>
+ <p><quote speaker = "johnOpenshaw">“This is the envelope,”</quote> he continued. <quote speaker = "josephOpenshaw">“The postmark is London—eastern
+division. Within are the very words which were upon my father’s last
+message: ‘K. K. K.’; and then ‘Put the papers on the sundial.’”</quote></p>
 
-<quote speaker ="sherlock">“What have you done?”</quote> asked <char gender ="male">Holmes</char>.
+ <p><quote speaker ="sherlockHolmes">“What have you done?”</quote> asked Holmes.</p>
 
-<quote speaker ="john">“Nothing.”</quote>
+ <p><quote speaker = "johnOpenshaw">“Nothing.”</quote></p>
 
-<quote speaker ="sherlock">“Nothing?”</quote>
+ <p><quote speaker ="sherlockHolmes">“Nothing?”</quote></p>
 
-<quote speaker ="john">“To tell the truth”</quote><action char ="john">—he sank his face into his thin, white hands</action>—<quote speaker ="john">“I have
+ <p><quote speaker = "johnOpenshaw">“To tell the truth”</quote><action char = "johnOpenshaw">—he sank his face into his thin, white hands</action>—<quote speaker = "johnOpenshaw">“I have
 felt helpless. I have felt like one of those poor rabbits when the
 snake is writhing towards it. I seem to be in the grasp of some
 resistless, inexorable evil, which no foresight and no precautions can
-guard against.”</quote>
+guard against.”</quote></p>
 
-<quote speaker ="sherlock">“Tut! tut!”</quote> cried <char gender ="male">Sherlock Holmes</char>. <quote speaker ="sherlock">“You must act, man, or you are lost.
-Nothing but energy can save you. This is no time for despair.”</quote>
+ <p><quote speaker ="sherlockHolmes">“Tut! tut!”</quote> cried Sherlock Holmes. <quote speaker ="sherlockHolmes">“You must act, man, or you are lost.
+Nothing but energy can save you. This is no time for despair.”</quote></p>
 
-<quote speaker ="john">“I have seen the police.”</quote>
+ <p><quote speaker = "johnOpenshaw">“I have seen the police.”</quote></p>
 
-<quote speaker ="sherlock">“Ah!”</quote>
+ <p><quote speaker ="sherlockHolmes">“Ah!”</quote></p>
 
-<quote speaker ="john">“But they listened to my story with a smile. I am convinced that the
+ <p><quote speaker = "johnOpenshaw">“But they listened to my story with a smile. I am convinced that the
 inspector has formed the opinion that the letters are all practical
 jokes, and that the deaths of my relations were really accidents, as
-the jury stated, and were not to be connected with the warnings.”</quote>
+the jury stated, and were not to be connected with the warnings.”</quote></p>
 
-<action char ="sherlock"><char gender ="male">Holmes</char> shook his clenched hands in the air</action>. <quote speaker ="sherlock">“Incredible imbecility!”</quote> <char gender ="male">he</char>
-cried.
+ <p><action char ="sherlockHolmes">Holmes shook his clenched hands in the air</action>. <quote speaker ="sherlockHolmes">“Incredible imbecility!”</quote> he
+cried.</p>
 
-<quote speaker ="john">“They have, however, allowed me a <char gender = "male">policeman</char>, who may remain in the
-house with me.”</quote>
+ <p><quote speaker = "johnOpenshaw">“They have, however, allowed me a policeman, who may remain in the
+house with me.”</quote></p>
 
-<quote speaker ="sherlock">“Has <char gender = "male">he</char> come with you to-night?”</quote>
+ <p><quote speaker ="sherlockHolmes">“Has he come with you to-night?”</quote></p>
 
-<quote speaker ="john">“No. <action char ="policeman"><char gender ="male">His</char> orders were to stay in the house</action>.”</quote>
+ <p><quote speaker = "johnOpenshaw">“No. <action char ="policeman">His orders were to stay in the house</action>.”</quote></p>
 
-<action char = "sherlock">Again <char gender ="male">Holmes</char> raved in the air.</action>
+ <p><action char = "sherlockHolmes">Again Holmes raved in the air.</action></p>
 
-<quote speaker ="sherlock">“Why did you come to me?”</quote> <char gender ="male">he</char> said, <quote speaker ="sherlock">“and, above all, why did you not
-come at once?”</quote>
+ <p><quote speaker ="sherlockHolmes">“Why did you come to me?”</quote> he said, <quote speaker ="sherlock">“and, above all, why did you not
+come at once?”</quote></p>
 
-<quote speaker ="john">“I did not know. It was only to-day that I spoke to <char gender ="male">Major Prendergast</char>
-about my troubles and was <action char ="major">advised by him to come to you</action>.”</quote>
+ <p><quote speaker = "johnOpenshaw">“I did not know. It was only to-day that I spoke to Major Prendergast
+about my troubles and was <action char ="major">advised by him to come to you</action>.”</quote></p>
 
-<quote speaker ="sherlock">“It is really two days since you had the letter. We should have acted
+ <p><quote speaker ="sherlockHolmes">“It is really two days since you had the letter. We should have acted
 before this. You have no further evidence, I suppose, than that which
-you have placed before us—no suggestive detail which might help us?”</quote>
+you have placed before us—no suggestive detail which might help us?”</quote></p>
 
-<quote speaker ="john">“There is one thing,”</quote> said <char gender = "male">John Openshaw</char>. He rummaged in his coat
+ <p><quote speaker = "johnOpenshaw">“There is one thing,”</quote> said John Openshaw. He rummaged in his coat
 pocket, and, drawing out a piece of discoloured, blue-tinted paper, he
-laid it out upon the table. <quote speaker ="john">“I have some remembrance,”</quote> said he, <quote speaker ="john">“that
-on the day when <char gender = "male">my uncle</char> burned the papers I observed that the small,
+laid it out upon the table. <quote speaker = "johnOpenshaw">“I have some remembrance,”</quote> said he, <quote speaker = "johnOpenshaw">“that
+on the day when my uncle burned the papers I observed that the small,
 unburned margins which lay amid the ashes were of this particular
 colour. I found this single sheet upon the floor of his room, and I am
 inclined to think that it may be one of the papers which has, perhaps,
 fluttered out from among the others, and in that way has escaped
 destruction. Beyond the mention of pips, I do not see that it helps us
 much. I think myself that it is a page from some private diary. The
-writing is undoubtedly my <char gender = "male">uncle’s</char>.”</quote>
+writing is undoubtedly my uncle’s.”</quote></p>
 
-<action char ="sherlock">Holmes moved the lamp</action>, and we both bent over the sheet of paper, which
+ <p><action char ="sherlockHolmes">Holmes moved the lamp</action>, and we both bent over the sheet of paper, which
 showed by its ragged edge that it had indeed been torn from a book. It
 was headed, “March, 1869,” and beneath were the following enigmatical
-notices:
+notices:</p>
 
-“4th. Hudson came. Same old platform.
+<p>“4th. Hudson came. Same old platform.
 
 “7th. Set the pips on McCauley, Paramore, and John Swain of St.
 Augustine.
@@ -445,86 +446,86 @@ Augustine.
 
 “10th. John Swain cleared.
 
-“12th. Visited Paramore. All well.”
+“12th. Visited Paramore. All well.”</p>
 
 
-<quote speaker = "sherlock">“Thank you!”</quote> said <char gender = "male">Holmes</char>, folding up the paper and returning it to our
-visitor. <char gender = "male">“And now you must on no account lose another instant. We
+ <p><quote speaker = "sherlockHolmes">“Thank you!”</quote> said Holmes, folding up the paper and returning it to our
+  visitor. <quote speaker = "sherlockHolmes">“And now you must on no account lose another instant. We
 cannot spare time even to discuss what you have told me. You must get
-home instantly and act.”</char>
+home instantly and act.”</quote></p>
 
-<quote speaker = "john">“What shall I do?”</quote>
+ <p><quote speaker = "johnOpenshaw">“What shall I do?”</quote></p>
 
-<quote speaker = "sherlock">“There is but one thing to do. It must be done at once. You must put
+ <p><quote speaker = "sherlockHolmes">“There is but one thing to do. It must be done at once. You must put
 this piece of paper which you have shown us into the brass box which
 you have described. You must also put in a note to say that all the
-other papers were burned by your <char gender = "male">uncle</char>, and that this is the only one
+other papers were burned by your uncle, and that this is the only one
 which remains. You must assert that in such words as will carry
 conviction with them. Having done this, you must at once put the box
-out upon the sundial, as directed. Do you understand?”</quote>
+out upon the sundial, as directed. Do you understand?”</quote></p>
 
-<quote speaker = "john">“Entirely.”</quote>
+  <p><quote speaker = "johnOpenshaw">“Entirely.”</quote></p>
 
-<quote speaker = "sherlock">“Do not think of revenge, or anything of the sort, at present. I think
+ <p><quote speaker = "sherlockHolmes">“Do not think of revenge, or anything of the sort, at present. I think
 that we may gain that by means of the law; but we have our web to
 weave, while theirs is already woven. The first consideration is to
 remove the pressing danger which threatens you. The second is to clear
-up the mystery and to punish the guilty parties.”</quote>
+up the mystery and to punish the guilty parties.”</quote></p>
 
-<quote speaker = "john">“I thank you,”</quote> said the <char gender = "male">young man</char>, rising and pulling on his overcoat.
-<quote speaker = "john">“You have given me fresh life and hope. I shall certainly do as you
-advise.”</quote>
+  <p><quote speaker = "johnOpenshaw">“I thank you,”</quote> said the young man, rising and pulling on his overcoat.
+   <quote speaker = "johnOpenshaw">“You have given me fresh life and hope. I shall certainly do as you
+advise.”</quote></p>
 
-<quote speaker = "sherlock">“Do not lose an instant. And, above all, take care of yourself in the
+ <p><quote speaker = "sherlockHolmes">“Do not lose an instant. And, above all, take care of yourself in the
 meanwhile, for I do not think that there can be a doubt that you are
-threatened by a very real and imminent danger. How do you go back?”</quote>
+threatened by a very real and imminent danger. How do you go back?”</quote></p>
 
-<quote speaker = "john">“By train from Waterloo.”</quote>
+  <p><quote speaker = "johnOpenshaw">“By train from Waterloo.”</quote></p>
 
-<quote speaker = "sherlock">“It is not yet nine. The streets will be crowded, so I trust that you
-may be in safety. And yet you cannot guard yourself too closely.”</quote>
+ <p><quote speaker = "sherlockHolmes">“It is not yet nine. The streets will be crowded, so I trust that you
+may be in safety. And yet you cannot guard yourself too closely.”</quote></p>
 
-<quote speaker = "john">“<action char = "john">I am armed</action>.”</quote>
+  <p><quote speaker = "johnOpenshaw">“<action char = "john">I am armed</action>.”</quote></p>
 
-<quote speaker = "sherlock">“That is well. To-morrow I shall set to work upon your case.”</quote>
+ <p><quote speaker = "sherlockHolmes">“That is well. To-morrow I shall set to work upon your case.”</quote></p>
 
-<quote speaker = "john">“I shall see you at Horsham, then?”</quote>
+  <p><quote speaker = "johnOpenshaw">“I shall see you at Horsham, then?”</quote></p>
 
-<quote speaker = "sherlock">“No, your secret lies in London. It is there that I shall seek it.”</quote>
+ <p><quote speaker = "sherlockHolmes">“No, your secret lies in London. It is there that I shall seek it.”</quote></p>
 
-<quote speaker = "john">“<action char = "john">Then I shall call upon you in a day, or in two days, with news as to
+  <p><quote speaker = "johnOpenshaw">“<action char = "john">Then I shall call upon you in a day, or in two days, with news as to
 the box and the papers. I shall take your advice in every particular</action>.”</quote>
 He shook hands with us and took his leave. Outside the wind still
 screamed and the rain splashed and pattered against the windows. This
 strange, wild story seemed to have come to us from amid the mad
 elements—blown in upon us like a sheet of sea-weed in a gale—and now to
-have been reabsorbed by them once more.
+have been reabsorbed by them once more.</p>
 
-<char gender ="male">Sherlock Holmes</char> sat for some time in silence, with his head sunk
+ <p>Sherlock Holmes sat for some time in silence, with his head sunk
 forward and his eyes bent upon the red glow of the fire. Then he lit
 his pipe, and leaning back in his chair he watched the blue smoke-rings
-as they chased each other up to the ceiling.
+as they chased each other up to the ceiling.</p>
 
-<quote speaker ="sherlock">“I think, <char gender ="male">Watson</char>,”</quote> he remarked at last, <quote speaker ="sherlock">“that of all our cases we have
-had none more fantastic than this.”</quote>
+ <p><quote speaker ="sherlockHolmes">“I think, Watson,”</quote> he remarked at last, <quote speaker ="sherlockHolmes">“that of all our cases we have
+had none more fantastic than this.”</quote></p>
 
-<quote speaker ="watson">“Save, perhaps, the Sign of Four.”</quote>
+ <p><quote speaker = "johnWatson">“Save, perhaps, the Sign of Four.”</quote></p>
 
-<quote speaker ="sherlock">“Well, yes. Save, perhaps, that. And yet this <char gender ="male">John Openshaw</char> seems to me
-to be walking amid even greater perils than did the Sholtos.”</quote>
+ <p><quote speaker ="sherlockHolmes">“Well, yes. Save, perhaps, that. And yet this John Openshaw seems to me
+to be walking amid even greater perils than did the Sholtos.”</quote></p>
 
-<quote speaker ="watson">“But have you,”</quote> I asked, <quote speaker ="watson">“formed any definite conception as to what
-these perils are?”</quote>
+ <p><quote speaker = "johnWatson">“But have you,”</quote> I asked, <quote speaker = "johnWatson">“formed any definite conception as to what
+these perils are?”</quote></p>
 
-<quote speaker ="watson">“There can be no question as to their nature,”</quote> he answered.
+ <p><quote speaker = "johnWatson">“There can be no question as to their nature,”</quote> he answered.</p>
 
-<quote speaker ="watson">“Then what are they? Who is this K. K. K., and why does <action char ="npc_male">he pursue this
-unhappy family?”</action></quote><!-- sorry I forgot our terminology to be used for unnamed characters-->
+ <p><quote speaker = "johnWatson">“Then what are they? Who is this K. K. K., and why does <action char ="u_suspect">he pursue this
+unhappy family?”</action></quote></p>
 
 
-<action char ="sherlock"><char gender ="male">Sherlock Holmes</char> closed his eyes and placed his elbows upon the arms of
-his chair, with his finger-tips together</action>. <quote speaker ="sherlock">“The ideal reasoner,”</quote> he
-remarked, <char gender ="male">“would, when <char gender ="male">he</char> had once been shown a single fact in all its
+ <p><action char ="sherlockHolmes">Sherlock Holmes closed his eyes and placed his elbows upon the arms of
+  his chair, with his finger-tips together</action>. <quote speaker ="sherlockHolmes">“The ideal reasoner,”</quote> he
+remarked, “would, when he had once been shown a single fact in all its
 bearings, deduce from it not only all the chain of events which led up
 to it but also all the results which would follow from it. As Cuvier
 could correctly describe a whole animal by the contemplation of a
@@ -542,18 +543,18 @@ accomplishment. It is not so impossible, however, that a man should
 possess all knowledge which is likely to be useful to him in his work,
 and this I have endeavoured in my case to do. If I remember rightly,
 you on one occasion, in the early days of our friendship, defined my
-limits in a very precise fashion.”</char>
+limits in a very precise fashion.”</p>
 
-<quote speaker ="watson">“Yes,”</quote> I answered, laughing. <char gender ="male">“It was a singular document. Philosophy,
+ <p><quote speaker = "johnWatson">“Yes,”</quote> I answered, laughing. “It was a singular document. Philosophy,
 astronomy, and politics were marked at zero, I remember. Botany
 variable, geology profound as regards the mud-stains from any region
 within fifty miles of town, chemistry eccentric, anatomy unsystematic,
 sensational literature and crime records unique, violin-player, boxer,
 swordsman, lawyer, and self-poisoner by cocaine and tobacco. Those, I
-think, were the main points of my analysis.”</char>
+think, were the main points of my analysis.”</p>
 
-<char gender ="male">Holmes</char> grinned at the last item. <quote speaker ="sherlock">“Well,” he said, “I say now, as I said
-then, that a <char gender ="male">man</char> should keep his little brain-attic stocked with all
+ <p>Holmes grinned at the last item. <quote speaker ="sherlockHolmes">“Well,” he said, “I say now, as I said
+then, that a man should keep his little brain-attic stocked with all
 the furniture that he is likely to use, and the rest he can put away in
 the lumber-room of his library, where he can get it if he wants it.
 Now, for such a case as the one which has been submitted to us
@@ -561,7 +562,7 @@ to-night, we need certainly to muster all our resources. Kindly hand me
 down the letter K of the American Encyclopedia which stands upon the
 shelf beside you. Thank you. Now let us consider the situation and see
 what may be deduced from it. In the first place, we may start with a
-strong presumption that <char gender ="male">Colonel Openshaw</char> had some very strong reason
+strong presumption that Colonel Openshaw had some very strong reason
 for leaving America. Men at his time of life do not change all their
 habits and exchange willingly the charming climate of Florida for the
 lonely life of an English provincial town. His extreme love of solitude
@@ -570,68 +571,68 @@ something, so we may assume as a working hypothesis that it was fear of
 someone or something which drove him from America. As to what it was he
 feared, we can only deduce that by considering the formidable letters
 which were received by himself and his successors. Did you remark the
-postmarks of those letters?”</quote>
+postmarks of those letters?”</quote></p>
 
-<quote speaker ="watson">“The first was from Pondicherry, the second from Dundee, and the third
-from London.”</quote>
+ <p><quote speaker = "johnWatson">“The first was from Pondicherry, the second from Dundee, and the third
+from London.”</quote></p>
 
-<quote speaker ="sherlock">“From East London. What do you deduce from that?”</quote>
+ <p><quote speaker ="sherlockHolmes">“From East London. What do you deduce from that?”</quote></p>
 
-<quote speaker ="watson">“They are all seaports. That the writer was on board of a ship.”</quote>
+ <p><quote speaker = "johnWatson">“They are all seaports. That the writer was on board of a ship.”</quote></p>
 
-<quote speaker ="sherlock">“Excellent. We have already a clue. There can be no doubt that the
+ <p><quote speaker ="sherlockHolmes">“Excellent. We have already a clue. There can be no doubt that the
 probability—the strong probability—is that the writer was on board of a
 ship. And now let us consider another point. In the case of
 Pondicherry, seven weeks elapsed between the threat and its fulfilment,
 in Dundee it was only some three or four days. Does that suggest
-anything?”</quote>
+anything?”</quote></p>
 
-<quote speaker ="watson">“A greater distance to travel.”</quote>
+ <p><quote speaker = "johnWatson">“A greater distance to travel.”</quote></p>
 
-<quote speaker ="sherlock">“But the letter had also a greater distance to come.”</quote>
+ <p><quote speaker ="sherlockHolmes">“But the letter had also a greater distance to come.”</quote></p>
 
-<quote speaker ="watson">“Then I do not see the point.”</quote>
+ <p><quote speaker = "johnWatson">“Then I do not see the point.”</quote></p>
 
-<quote speaker ="sherlock">“There is at least a presumption that the vessel in which the <char gender ="male">man or
-men</char> are is a sailing-ship. It looks as if they always send their
+ <p><quote speaker ="sherlockHolmes">“There is at least a presumption that the vessel in which the man or
+men are is a sailing-ship. It looks as if they always send their
 singular warning or token before them when starting upon their mission.
 You see how quickly the deed followed the sign when it came from
 Dundee. If they had come from Pondicherry in a steamer they would have
 arrived almost as soon as their letter. But, as a matter of fact, seven
 weeks elapsed. I think that those seven weeks represented the
 difference between the mail-boat which brought the letter and the
-sailing vessel which brought the writer.”</quote>
+sailing vessel which brought the writer.”</quote></p>
 
-<quote speaker ="watson">“It is possible.”</quote>
+ <p><quote speaker = "johnWatson">“It is possible.”</quote></p>
 
-<quote speaker ="sherlock">“More than that. It is probable. And now you see the deadly urgency of
-this new case, and why <action char ="sherlock">I urged <char gender ="male">young Openshaw to caution</char></action>. The blow has
+ <p><quote speaker ="sherlockHolmes">“More than that. It is probable. And now you see the deadly urgency of
+  this new case, and why <action char ="sherlockHolmes">I urged young Openshaw to caution</action>. The blow has
 always fallen at the end of the time which it would take the senders to
 travel the distance. But this one comes from London, and therefore we
-cannot count upon delay.”</quote>
+cannot count upon delay.”</quote></p>
 
-<quote speaker ="watson">“Good God!” I cried. “What can it mean, this relentless persecution?”</quote>
+ <p><quote speaker = "johnWatson">“Good God!” I cried. “What can it mean, this relentless persecution?”</quote></p>
 
- <quote speaker ="watson">“The papers which <char gender ="male">Openshaw</char> carried are obviously of vital importance to
+ <p><quote speaker = "johnWatson">“The papers which Openshaw carried are obviously of vital importance to
 the person or persons in the sailing-ship. I think that it is quite
-clear that there must be more than one of them. <char gender ="male">A single man</char> could not
+clear that there must be more than one of them. A single man could not
 have carried out two deaths in such a way as to deceive a coroner’s
 jury. There must have been several in it, and they must have been men
 of resource and determination. Their papers they mean to have, be the
 holder of them who it may. In this way you see K. K. K. ceases to be
-the initials of an individual and becomes the badge of a society.”</quote>
+the initials of an individual and becomes the badge of a society.”</quote></p>
 
-<quote speaker ="watson">“But of what society?”</quote>
+ <p><quote speaker = "johnWatson">“But of what society?”</quote></p>
 
-<quote speaker ="sherlock">“Have you never—” said Sherlock Holmes, bending forward and sinking his
-voice—“have you never heard of the Ku Klux Klan?”</quote>
+ <p><quote speaker ="sherlockHolmes">“Have you never—” said Sherlock Holmes, bending forward and sinking his
+voice—“have you never heard of the Ku Klux Klan?”</quote></p>
 
-<quote speaker ="watson">“I never have.”</quote>
+ <p><quote speaker = "johnWatson">“I never have.”</quote></p>
 
-<action char ="sherlock">Holmes turned over the leaves of the book upon his knee</action>. <quote speaker ="sherlock">“Here it is,”</quote>
-said he presently:
+ <p><action char ="sherlockHolmes">Holmes turned over the leaves of the book upon his knee</action>. <quote speaker ="sherlock">“Here it is,”</quote>
+said he presently:</p>
 
-“‘Ku Klux Klan. A name derived from the fanciful resemblance to the
+ <p>“‘Ku Klux Klan. A name derived from the fanciful resemblance to the
 sound produced by cocking a rifle. This terrible secret society was
 formed by some ex-Confederate soldiers in the Southern states after the
 Civil War, and it rapidly formed local branches in different parts of
@@ -652,198 +653,198 @@ the perpetrators. For some years the organisation flourished in spite
 of the efforts of the United States government and of the better
 classes of the community in the South. Eventually, in the year 1869,
 the movement rather suddenly collapsed, although there have been
-sporadic outbreaks of the same sort since that date.’
+sporadic outbreaks of the same sort since that date.’</p>
 
-<quote speaker ="sherlock">“You will observe,”</quote> said Holmes, laying down the volume, <quote speaker ="sherlock">“that the
+ <p><quote speaker ="sherlockHolmes">“You will observe,”</quote> said Holmes, laying down the volume, <quote speaker ="sherlockHolmes">“that the
 sudden breaking up of the society was coincident with the disappearance
-of <char gender ="male">Openshaw</char> from America with their papers. It may well have been cause
-and effect. It is no wonder that <char gender ="male">he</char> and his family have some of the
+of Openshaw from America with their papers. It may well have been cause
+and effect. It is no wonder that he and his family have some of the
 more implacable spirits upon their track. You can understand that this
-register and diary may implicate some of the first <char gender ="male">men</char> in the South,
+register and diary may implicate some of the first men in the South,
 and that there may be many who will not sleep easy at night until it is
-recovered.”</quote>
+recovered.”</quote></p>
 
-<quote speaker ="watson">“Then the page we have seen—”</quote>
+ <p><quote speaker = "johnWatson">“Then the page we have seen—”</quote></p>
 
-<quote speaker ="sherlock">“Is such as we might expect. It ran, if I remember right, ‘sent the
+ <p><quote speaker ="sherlockHolmes">“Is such as we might expect. It ran, if I remember right, ‘sent the
 pips to A, B, and C’—that is, sent the society’s warning to them. Then
 there are successive entries that A and B cleared, or left the country,
 and finally that C was visited, with, I fear, a sinister result for C.
 Well, I think, Doctor, that we may let some light into this dark place,
-and I believe that the only chance <char gender ="male">young Openshaw</char> has in the meantime
-is to do what I have told <char gender ="male">him</char>. There is nothing more to be said or to
+and I believe that the only chance young Openshaw has in the meantime
+is to do what I have told him. There is nothing more to be said or to
 be done to-night, so hand me over my violin and let us try to forget
 for half an hour the miserable weather and the still more miserable
-ways of our fellow <char gender ="male">men</char>.”</quote>
+ways of our fellow men.”</quote></p>
 
-It had cleared in the morning, and the sun was shining with a subdued
+ <p>It had cleared in the morning, and the sun was shining with a subdued
 brightness through the dim veil which hangs over the great city.
-<action char ="sherlock"><char gender ="male">Sherlock Holmes</char> was already at breakfast when I came down</action>.
+  <action char ="sherlockHolmes">Sherlock Holmes was already at breakfast when I came down</action>.</p>
 
-<quote speaker ="sherlock">“You will excuse me for not waiting for you,”</quote> said he; <char gender ="male">“I have, I
-foresee, a very busy day before me in looking into this case of <char gender ="male">young
-Openshaw’s</char>.”</char>
+  <p><quote speaker ="sherlockHolmes">“You will excuse me for not waiting for you,”</quote> said he; <quote speaker ="sherlockHolmes">“I have, I
+foresee, a very busy day before me in looking into this case of young
+Openshaw’s.”</quote></p>
 
-<quote speaker ="watson">“What steps will you take?”</quote> I asked.
+ <p><quote speaker = "johnWatson">“What steps will you take?”</quote> I asked.</p>
 
-<quote speaker ="sherlock">“It will very much depend upon the results of my first inquiries. I may
-have to go down to Horsham, after all.”</quote>
+ <p><quote speaker ="sherlockHolmes">“It will very much depend upon the results of my first inquiries. I may
+have to go down to Horsham, after all.”</quote></p>
 
-<char gender ="watson">“You will not go there first?”</char>
+ <p><quote speaker = "johnWatson">“You will not go there first?”</quote></p>
 
-<char gender ="sherlock">“No, I shall commence with the City. Just ring the bell and the maid
-will bring up your coffee.”</char>
+ <p><quote speaker ="sherlock">“No, I shall commence with the City. Just ring the bell and the maid
+will bring up your coffee.”</quote></p>
 
-<action char ="watson">As I waited, I lifted the unopened newspaper from the table and glanced
+ <p><action char = "johnWatson">As I waited, I lifted the unopened newspaper from the table and glanced
 my eye over it. It rested upon a heading which sent a chill to my
-heart.</action>
+heart.</action></p>
 
-<quote speaker ="watson">“Holmes,”</quote> I cried, <quote speaker ="watson">“you are too late.”</quote>
+ <p><quote speaker = "johnWatson">“Holmes,”</quote> I cried, <quote speaker = "johnWatson">“you are too late.”</quote></p>
 
-<quote speaker ="sherlock">“Ah!”</quote> said he, laying down his cup, <quote speaker ="sherlock">“I feared as much. How was it
-done?”</quote> He spoke calmly, but I could see that he was deeply moved.
+  <p><quote speaker ="sherlock">“Ah!”</quote> said he, laying down his cup, <quote speaker ="sherlockHolmes">“I feared as much. How was it
+done?”</quote> He spoke calmly, but I could see that he was deeply moved.</p>
 
-<quote speaker ="sherlock">“<action char ="watson">My eye caught the name of <char gender ="male">Openshaw</char>, and the heading ‘Tragedy Near
-Waterloo Bridge</action></quote>.’ Here is the account:
+  <p><quote speaker ="sherlockHolmes">“<action char = "johnWatson">My eye caught the name of Openshaw, and the heading ‘Tragedy Near
+Waterloo Bridge</action></quote>.’ Here is the account:</p>
 
-“‘Between nine and ten last night Police-Constable Cook, of the H
+ <p>“‘Between nine and ten last night Police-Constable Cook, of the H
 Division, on duty near Waterloo Bridge, heard a cry for help and a
 splash in the water. The night, however, was extremely dark and stormy,
 so that, in spite of the help of several passers-by, it was quite
 impossible to effect a rescue. The alarm, however, was given, and, by
 the aid of the water-police, the body was eventually recovered. It
-proved to be that of a <char gender ="male">young gentleman</char> whose name, as it appears from
+proved to be that of a young gentleman whose name, as it appears from
 an envelope which was found in his pocket, was John Openshaw, and whose
-residence is near Horsham. It is conjectured that <action char ="john">he may have been
+residence is near Horsham. It is conjectured that <action char = "johnOpenshaw">he may have been
 hurrying down to catch the last train from Waterloo Station, and that
 in his haste and the extreme darkness he missed his path and walked
 over the edge of one of the small landing-places for river steamboats</action>.
 The body exhibited no traces of violence, and there can be no doubt
 that the deceased had been the victim of an unfortunate accident, which
 should have the effect of calling the attention of the authorities to
-the condition of the riverside landing-stages.’”
+the condition of the riverside landing-stages.’”</p>
 
 
-We sat in silence for some minutes, <char gender ="male">Holmes</char> more depressed and shaken
-than I had ever seen him.
+ <p>We sat in silence for some minutes, Holmes more depressed and shaken
+than I had ever seen him.</p>
 
-<quote speaker ="sherlock">“That hurts my pride, <char gender ="male">Watson</char>,”</quote> he said at last. <quote speaker ="sherlock">“It is a petty feeling,
+  <p><quote speaker ="sherlockHolmes">“That hurts my pride, Watson,”</quote> he said at last. <quote speaker ="sherlockHolmes">“It is a petty feeling,
 no doubt, but it hurts my pride. It becomes a personal matter with me
 now, and, if God sends me health, I shall set my hand upon this gang.
-That <char gender ="male">he</char> should come to me for help, and <action char ="sherlock">that I should send him away to
-his death—</action>!”</quote> <action char ="sherlock">He sprang from his chair and paced about the room in
+That he should come to me for help, and <action char ="sherlockHolmes">that I should send him away to
+ his death—</action>!”</quote> <action char ="sherlockHolmes">He sprang from his chair and paced about the room in
 uncontrollable agitation, with a flush upon his sallow cheeks and a
-nervous clasping and unclasping of his long thin hands</action>.
+nervous clasping and unclasping of his long thin hands</action>.</p>
 
 
-<quote speaker ="sherlock">“They must be cunning devils,”</quote> he exclaimed at last. <quote speaker ="sherlock">“How could they
-have decoyed <char gender ="male">him</char> down there? The Embankment is not on the direct line
+  <p><quote speaker ="sherlockHolmes">“They must be cunning devils,”</quote> he exclaimed at last. <quote speaker ="sherlockHolmes">“How could they
+have decoyed him down there? The Embankment is not on the direct line
 to the station. The bridge, no doubt, was too crowded, even on such a
 night, for their purpose. Well, Watson, we shall see who will win in
-the long run. I am going out now!”</quote>
+the long run. I am going out now!”</quote></p>
 
-<quote speaker ="watson">“To the police?”</quote>
+ <p><quote speaker = "johnWatson">“To the police?”</quote></p>
 
  
-<action char ="sherlock">“No; <action char ="sherlock">I shall be my own police. When I have spun the web they may take
-the flies, but not before</action>.”</action>
+  <p><action char ="sherlockHolmes">“No; <action char ="sherlockHolmes">I shall be my own police. When I have spun the web they may take
+the flies, but not before</action>.”</action></p>
 
-All day <action char ="watson">I was engaged in my professional work, and it was late in the
-evening before I returned to Baker Street</action>. <char gender ="male">Sherlock Holmes</char> had not come
-back yet. It was nearly ten o’clock before <action char ="sherlock">he entered, looking pale and
+ <p>All day <action char = "johnWatson">I was engaged in my professional work, and it was late in the
+evening before I returned to Baker Street</action>. Sherlock Holmes had not come
+  back yet. It was nearly ten o’clock before <action char ="sherlockHolmes">he entered, looking pale and
 worn. He walked up to the sideboard, and tearing a piece from the loaf
 he devoured it voraciously, washing it down with a long draught of
-water</action>.
+water</action>.</p>
 
 
-<quote speaker ="watson">“You are hungry,”</quote> I remarked.
+ <p><quote speaker = "johnWatson">“You are hungry,”</quote> I remarked.</p>
 
-<quote speaker ="sherlock">“Starving. It had escaped my memory. I have had nothing since
-breakfast.”</quote>
+  <p><quote speaker ="sherlockHolmes">“Starving. It had escaped my memory. I have had nothing since
+breakfast.”</quote></p>
 
-<quote speaker ="watson">“Nothing?”</quote>
+ <p><quote speaker = "johnWatson">“Nothing?”</quote></p>
 
-<quote speaker ="sherlock">“Not a bite. I had no time to think of it.”</quote>
+  <p><quote speaker ="sherlockHolmes">“Not a bite. I had no time to think of it.”</quote></p>
 
-<quote speaker ="watson">“And how have you succeeded?”</quote>
+ <p><quote speaker = "johnWatson">“And how have you succeeded?”</quote></p>
 
-<quote speaker ="sherlock">“Well.”</quote>
+  <p><quote speaker ="sherlockHolmes">“Well.”</quote></p>
 
-<quote speaker ="watson">“You have a clue?”</quote>
+ <p><quote speaker = "johnWatson">“You have a clue?”</quote></p>
 
-<quote speaker ="sherlock">“I have them in the hollow of my hand. <char gender ="male">Young Openshaw</char> shall not long
+  <p><quote speaker ="sherlockHolmes">“I have them in the hollow of my hand. Young Openshaw shall not long
 remain unavenged. Why, Watson, let us put their own devilish trade-mark
-upon them. It is well thought of!”</quote>
+upon them. It is well thought of!”</quote></p>
 
-<quote speaker ="watson">“What do you mean?”</quote>
+ <p><quote speaker = "johnWatson">“What do you mean?”</quote></p>
 
 
-<action char ="sherlock">He took an orange from the cupboard, and tearing it to pieces he
+  <p><action char ="sherlockHolmes">He took an orange from the cupboard, and tearing it to pieces he
 squeezed out the pips upon the table. Of these he took five and thrust
 them into an envelope. On the inside of the flap he wrote “S. H. for J.
 O.” Then he sealed it and addressed it to “Captain James Calhoun,
-Barque Lone Star, Savannah, Georgia.”</action>
+Barque Lone Star, Savannah, Georgia.”</action></p>
 
-<quote speaker ="sherlock">“That will await him when he enters port,”</quote> said he, chuckling. <quote speaker ="sherlock">“It may
-give him a sleepless night. He will find it as sure a precursor of <char gender ="male">his</char>
-fate as Openshaw did before him.”</quote>
+  <p><quote speaker ="sherlockHolmes">“That will await him when he enters port,”</quote> said he, chuckling. <quote speaker ="sherlockHolmes">“It may
+give him a sleepless night. He will find it as sure a precursor of his
+fate as Openshaw did before him.”</quote></p>
 
 
-<quote speaker ="watson">“And who is this <char gender ="male">Captain Calhoun</char>?”</quote>
+ <p><quote speaker = "johnWatson">“And who is this Captain Calhoun?”</quote></p>
 
-<quote speaker ="sherlock">“The leader of the gang. I shall have the others, but <char gender ="male">he</char> first.”</quote>
+  <p><quote speaker ="sherlockHolmes">“The leader of the gang. I shall have the others, but he first.”</quote></p>
 
-<quote speaker ="watson">“How did you trace it, then?”</quote>
+ <p><quote speaker = "johnWatson">“How did you trace it, then?”</quote></p>
 
-<action char ="sherlock">He took a large sheet of paper from his pocket, all covered with dates
-and names</action>.
+  <p><action char ="sherlockHolmes">He took a large sheet of paper from his pocket, all covered with dates
+and names</action>.</p>
 
-<quote speaker ="sherlock">“I have spent the whole day,”</quote> said he, <quote speaker ="sherlock">“over Lloyd’s registers and
+  <p><quote speaker ="sherlockHolmes">“I have spent the whole day,”</quote> said he, <quote speaker ="sherlockHolmes">“over Lloyd’s registers and
 files of the old papers, following the future career of every vessel
 which touched at Pondicherry in January and February in ’83. There were
 thirty-six ships of fair tonnage which were reported there during those
 months. Of these, one, the Lone Star, instantly attracted my
 attention, since, although it was reported as having cleared from
 London, the name is that which is given to one of the states of the
-Union.”</quote>
+Union.”</quote></p>
 
-<quote speaker ="watson">“Texas, I think.”</quote>
+ <p><quote speaker = "johnWatson">“Texas, I think.”</quote></p>
 
-<quote speaker ="sherlock">“I was not and am not sure which; but I knew that the ship must have an
-American origin.”</quote>
+  <p><quote speaker ="sherlockHolmes">“I was not and am not sure which; but I knew that the ship must have an
+American origin.”</quote></p>
 
-<quote speaker ="watson">“What then?”</quote>
+ <p><quote speaker = "johnWatson">“What then?”</quote></p>
 
-<quote speaker ="sherlock">“I searched the Dundee records, and when I found that the barque Lone
+  <p><quote speaker ="sherlockHolmes">“I searched the Dundee records, and when I found that the barque Lone
 Star was there in January, ’85, my suspicion became a certainty. I
 then inquired as to the vessels which lay at present in the port of
-London.”</quote>
+London.”</quote></p>
 
 
-<quote speaker ="watson">“Yes?”</quote>
+ <p><quote speaker = "johnWatson">“Yes?”</quote></p>
 
-<quote speaker ="sherlock">“The Lone Star had arrived here last week. I went down to the Albert
+ <p><quote speaker ="sherlockHolmes">“The Lone Star had arrived here last week. I went down to the Albert
 Dock and found that she had been taken down the river by the early tide
 this morning, homeward bound to Savannah. I wired to Gravesend and
 learned that she had passed some time ago, and as the wind is easterly
 I have no doubt that she is now past the Goodwins and not very far from
-the Isle of Wight.”</quote>
+the Isle of Wight.”</quote></p>
 
 
-<quote speaker ="watson">“What will you do, then?”</quote>
+ <p><quote speaker = "johnWatson">“What will you do, then?”</quote></p>
 
-<quote speaker ="sherlock">“Oh, I have my hand upon <char gender ="male">him</char>. He and the two mates, are as I learn, the
+ <p><quote speaker ="sherlockHolmes">“Oh, I have my hand upon him. He and the two mates, are as I learn, the
 only native-born Americans in the ship. The others are Finns and
 Germans. I know, also, that they were all three away from the ship last
 night. I had it from the stevedore who has been loading their cargo. By
 the time that their sailing-ship reaches Savannah the mail-boat will
 have carried this letter, and the cable will have informed the police
 of Savannah that these three gentlemen are badly wanted here upon a
-charge of murder.”</quote>
+charge of murder.”</quote></p>
 
 
-There is ever a flaw, however, in the best laid of human plans, and the
-murderers of <char gender ="male">John Openshaw</char> were never to receive the orange pips which
+<p>There is ever a flaw, however, in the best laid of human plans, and the
+murderers of John Openshaw were never to receive the orange pips which
 would show them that another, as cunning and as resolute as themselves,
 was upon their track. Very long and very severe were the equinoctial
 gales that year. We waited long for news of the Lone Star of
@@ -851,7 +852,7 @@ Savannah, but none ever reached us. We did at last hear that somewhere
 far out in the Atlantic a shattered stern-post of a boat was seen
 swinging in the trough of a wave, with the letters “L. S.” carved upon
 it, and that is all which we shall ever know of the fate of the Lone
-Star.
+Star.</p>
 
 </story>
 </passage>

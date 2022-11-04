@@ -2,76 +2,75 @@
 <passage>
  <chapter number ="4">IV.</chapter> <title>THE BOSCOMBE VALLEY MYSTERY</title>
 <story>
- <p>
-We were seated at breakfast one morning, my <char gender="female">wife</char> and I, when the maid
- brought in a telegram. It was from <char gender="male">Sherlock Holmes</char> and ran in this way:
 
-<quote speaker ="sherlock">“Have you a couple of days to spare? Have just been wired for from the
+<p>We were seated at breakfast one morning, my wife and I, when the maid
+brought in a telegram. It was from Sherlock Holmes and ran in this way:</p>
+
+ <p><quote speaker ="sherlockHolmes">“Have you a couple of days to spare? Have just been wired for from the
 west of England in connection with Boscombe Valley tragedy. Shall be
 glad if you will come with me. Air and scenery perfect. Leave
-Paddington by the 11:15.”</quote>
+Paddington by the 11:15.”</quote></p>
 
- <quote speaker ="mary_moriston">“What do you say, dear?”</quote> said my <char gender="female">wife</char>, looking across at me. <quote speaker ="mary_moriston">“Will you
-go?”</quote>
+ <p><quote speaker ="maryMoriston">“What do you say, dear?”</quote> said my wife, looking across at me. <quote speaker ="maryMoriston">“Will you
+go?”</quote></p>
 
- <quote speaker ="watson">“I really don’t know what to say. I have a fairly long list at
- present.”</quote>
+ <p><quote speaker ="johnWatson">“I really don’t know what to say. I have a fairly long list at
+ present.”</quote></p>
 
- <quote speaker ="mary_moriston">“Oh, Anstruther would do your work for you. You have been looking a
+ <p><quote speaker ="maryMoriston">“Oh, Anstruther would do your work for you. You have been looking a
 little pale lately. I think that the change would do you good, and you
-are always so interested in <char gender ="male">Mr. Sherlock Holmes’</char> cases.”</quote>
+are always so interested in <char gender ="male">Mr. Sherlock Holmes’</char> cases.”</quote></p>
 
-<quote speaker ="watson">“I should be ungrateful if I were not, seeing what I gained through one
-of them,”</quote> I answered. <quote speaker ="watson">“But if I am to go, I must pack at once, for I
-have only half an hour.”</quote>
- </p>
- <p>
-My experience of camp life in Afghanistan had at least had the effect
+ <p><quote speaker ="johnWatson">“I should be ungrateful if I were not, seeing what I gained through one
+of them,”</quote> I answered. <quote speaker ="johnWatson">“But if I am to go, I must pack at once, for I
+have only half an hour.”</quote></p>
+ 
+ 
+ <p>My experience of camp life in Afghanistan had at least had the effect
 of making me a prompt and ready traveller. My wants were few and
 simple, so that in less than the time stated I was in a cab with my
-valise, rattling away to Paddington Station. <char gender= "male">Sherlock Holmes</char> was pacing
+valise, rattling away to Paddington Station. Sherlock Holmes was pacing
 up and down the platform, his tall, gaunt figure made even gaunter and
-taller by his long grey travelling-cloak and close-fitting cloth cap.
+taller by his long grey travelling-cloak and close-fitting cloth cap.</p>
 
- <quote speaker ="sherlock">“It is really very good of you to come, <char gender = "male">Watson</char>,”</quote> said he. <quote speaker ="sherlock">“It makes a
+ <p><quote speaker ="sherlockHolmes">“It is really very good of you to come, Watson,”</quote> said he. <quote speaker ="sherlockHolmes">“It makes a
 considerable difference to me, having someone with me on whom I can
 thoroughly rely. Local aid is always either worthless or else biassed.
-If you will keep the two corner seats I shall get the tickets.”</quote>
+If you will keep the two corner seats I shall get the tickets.”</quote></p>
 
-We had the carriage to ourselves save for an immense litter of papers
+ <p>We had the carriage to ourselves save for an immense litter of papers
 which <char gender = "male">Holmes</char> had brought with him. Among these he rummaged and read,
 with intervals of note-taking and of meditation, until we were past
 Reading. Then he suddenly rolled them all into a gigantic ball and
-tossed them up onto the rack.
- </p>
- <p>
+tossed them up onto the rack.</p>
+ 
+ 
 
- <quote speaker ="sherlock">“Have you heard anything of the case?”</quote> he asked.
+ <p><quote speaker ="sherlockHolmes">“Have you heard anything of the case?”</quote> he asked.</p>
 
- <quote speaker ="watson">“Not a word. I have not seen a paper for some days.”</quote>
+ <p><quote speaker ="johnWatson">“Not a word. I have not seen a paper for some days.”</quote></p>
 
- <quote speaker ="sherlock">“The London press has not had very full accounts. I have just been
+ <p><quote speaker ="sherlockHolmes">“The London press has not had very full accounts. I have just been
 looking through all the recent papers in order to master the
 particulars. It seems, from what I gather, to be one of those simple
-cases which are so extremely difficult.”</quote>
+cases which are so extremely difficult.”</quote></p>
 
- <quote speaker ="watson">“That sounds a little paradoxical.”</quote>
+ <p><quote speaker ="johnWatson">“That sounds a little paradoxical.”</quote></p>
 
- <quote speaker ="sherlock">“But it is profoundly true. Singularity is almost invariably a clue.
+ <p><quote speaker ="sherlockHolmes">“But it is profoundly true. Singularity is almost invariably a clue.
 The more featureless and commonplace a crime is, the more difficult it
 is to bring it home. In this case, however, they have established a
-very serious case against the son of the murdered man.”</quote>
+very serious case against the son of the murdered man.”</quote></p>
 
- <quote speaker ="watson">“It is a murder, then?”</quote>
+ <p><quote speaker ="johnWatson">“It is a murder, then?”</quote></p>
  
- <quote speaker ="sherlock">
+ <p><quote speaker ="sherlockHolmes">
 “Well, it is conjectured to be so. I shall take nothing for granted
 until I have the opportunity of looking personally into it. I will
 explain the state of things to you, as far as I have been able to
-understand it, in a very few words.
- </quote></p>
-<p>
-“Boscombe Valley is a country district not very far from Ross, in
+understand it, in a very few words.</quote></p>
+
+ <p>“Boscombe Valley is a country district not very far from Ross, in
 Herefordshire. The largest landed proprietor in that part is a <char gender = "male">Mr. John
 Turner</char>, who made his money in Australia and returned some years ago to
 the old country. One of the farms which he held, that of Hatherley, was
@@ -88,19 +87,19 @@ both the McCarthys were fond of sport and were frequently seen at the
 race-meetings of the neighbourhood. <char gender = "male">McCarthy</char> kept two servants—<char gender = "male">a man</char>
   and <char gender = "female">a girl</char>. <char gender = "male">Turner</char> had a considerable household, some half-dozen at the
 least. That is as much as I have been able to gather about the
-families. Now for the facts.
-</p>
+families. Now for the facts.</p>
+
  
-<p>
-“On June 3rd, that is, on Monday last, <char gender = "male">McCarthy</char> <action char = "charles">left his house at
+
+ <p>“On June 3rd, that is, on Monday last, <char gender = "male">McCarthy</char> <action char = "charles">left his house at
 Hatherley about three in the afternoon and walked down to the Boscombe
 Pool, which is a small lake formed by the spreading out of the stream
 which runs down the Boscombe Valley. He had been out with <char gender = "male">his
 serving-man</char> in the morning at Ross, and he had told the man that he
 must hurry, as he had an appointment of importance to keep at three.</action>
-From that appointment he never came back alive.
+From that appointment he never came back alive.</p>
 
-“From Hatherley Farmhouse to the Boscombe Pool is a quarter of a mile,
+ <p>“From Hatherley Farmhouse to the Boscombe Pool is a quarter of a mile,
 and two people saw him as he passed over this ground. One was <char gender = "female">an old
 woman</char>, whose name is not mentioned, and the other was <char>William Crowder</char>,
   a game-keeper in the employ of <char gender = "male">Mr. Turner</char>. Both these witnesses depose
@@ -109,11 +108,11 @@ few minutes of his seeing <char gender = "male">Mr. McCarthy</char> pass he had 
  James McCarthy,</char> <action char = "james">going the same way with a gun under his arm.</action> To the
 best of his belief, the father was actually in sight at the time, and
 the son was <action char = "james">following him</action>. He thought no more of the matter until he
-heard in the evening of the tragedy that had occurred.
+heard in the evening of the tragedy that had occurred.</p>
 
-</p>
- <p>
-“The two McCarthys were seen after the time when <char gender = "male">William Crowder</char>, the
+
+ 
+ <p>“The two McCarthys were seen after the time when <char gender = "male">William Crowder</char>, the
 game-keeper, lost sight of them. The Boscombe Pool is thickly wooded
 round, with just a fringe of grass and of reeds round the edge.<char gender = "female">A girl
 of fourteen, Patience Moran</char>, who is the daughter of the lodge-keeper of
@@ -139,15 +138,15 @@ these circumstances the young man was instantly arrested, and a verdict
 of ‘wilful murder’ having been returned at the inquest on Tuesday, he
 was on Wednesday brought before the magistrates at Ross, who have
 referred the case to the next Assizes. Those are the main facts of the
-case as they came out before the coroner and the police-court.”
- </p>
- <p>
-  <p>
- <quote speaker ="watson">“I could hardly imagine a more damning case,”</quote> I remarked. <quote speaker ="watson">“If ever
-circumstantial evidence pointed to a criminal it does so here.”</quote>
+case as they came out before the coroner and the police-court.”</p>
+ 
+ 
+  
+ <p><quote speaker ="johnWatson">“I could hardly imagine a more damning case,”</quote> I remarked. <quote speaker ="johnWatson">“If ever
+circumstantial evidence pointed to a criminal it does so here.”</quote></p>
 
- <quote speaker ="sherlock">“Circumstantial evidence is a very tricky thing,”</quote> answered Holmes
- thoughtfully. <quote speaker ="sherlock">“It may seem to point very straight to one thing, but if
+ <p><quote speaker ="sherlockHolmes">“Circumstantial evidence is a very tricky thing,”</quote> answered Holmes
+ thoughtfully. <quote speaker ="sherlockHolmes">“It may seem to point very straight to one thing, but if
 you shift your own point of view a little, you may find it pointing in
 an equally uncompromising manner to something entirely different. It
 must be confessed, however, that the case looks exceedingly grave
@@ -159,26 +158,26 @@ recollect in connection with the Study in Scarlet, to work out the case
 in his interest. <char gender ="male">Lestrade</char>, <action char = "lestrade">being rather puzzled, has referred the case
 to me</action>, and hence it is that two middle-aged gentlemen are flying
 westward at fifty miles an hour instead of quietly digesting their
-breakfasts at home.”</quote>
-  </p>
-  <p>
- <quote speaker ="watson">“I am afraid,”</quote> said I, <quote speaker ="watson">“that the facts are so obvious that you will
-find little credit to be gained out of this case.”</quote>
+breakfasts at home.”</quote></p>
+  
+  
+ <p><quote speaker ="johnWatson">“I am afraid,”</quote> said I, <quote speaker ="johnWatson">“that the facts are so obvious that you will
+find little credit to be gained out of this case.”</quote></p>
 
- <quote speaker ="sherlock">“There is nothing more deceptive than an obvious fact,”</quote> he answered,
- laughing. <quote speaker ="sherlock">“Besides, we may chance to hit upon some other obvious facts
+ <p><quote speaker ="sherlockHolmes">“There is nothing more deceptive than an obvious fact,”</quote> he answered,
+ laughing. <quote speaker ="sherlockHolmes">“Besides, we may chance to hit upon some other obvious facts
 which may have been by no means obvious to Mr. Lestrade. You know me
 too well to think that I am boasting when I say that I shall either
 confirm or destroy his theory by means which he is quite incapable of
 employing, or even of understanding. To take the first example to hand,
 I very clearly perceive that in your bedroom the window is upon the
 right-hand side, and yet I question whether Mr. Lestrade would have
-noted even so self-evident a thing as that.”</quote>
-  </p>
-  <p>
- <quote speaker ="watson">“How on earth—”</quote>
+noted even so self-evident a thing as that.”</quote></p>
+  
+  
+ <p><quote speaker ="johnWatson">“How on earth—”</quote></p>
 
- <quote speaker ="sherlock">“My dear fellow, I know you well. I know the military neatness which
+ <p><quote speaker ="sherlockHolmes">“My dear fellow, I know you well. I know the military neatness which
 characterises you. You shave every morning, and in this season you
 shave by the sunlight; but since your shaving is less and less complete
 as we get farther back on the left side, until it becomes positively
@@ -189,29 +188,29 @@ satisfied with such a result. I only quote this as a trivial example of
 observation and inference. Therein lies my _métier_, and it is just
 possible that it may be of some service in the investigation which lies
 before us. There are one or two minor points which were brought out in
-the inquest, and which are worth considering.”</quote>
-  </p>
-  <p>
- <quote speaker ="watson">“What are they?”</quote>
+the inquest, and which are worth considering.”</quote></p>
+  
+  
+ <p><quote speaker ="johnWatson">“What are they?”</quote></p>
 
- <quote speaker ="sherlock">“It appears that his arrest did not take place at once, but after the
+ <p><quote speaker ="sherlockHolmes">“It appears that his arrest did not take place at once, but after the
 return to Hatherley Farm. On the inspector of constabulary informing
 him that he was a prisoner, he remarked that he was not surprised to
 hear it, and that it was no more than his deserts. This observation of
 his had the natural effect of removing any traces of doubt which might
-have remained in the minds of the coroner’s jury.”</quote>
- </p>
- <p>
+have remained in the minds of the coroner’s jury.”</quote></p>
+ 
+ 
 
- <quote speaker ="watson">“It was a confession,”</quote> I ejaculated.
+ <p><quote speaker ="johnWatson">“It was a confession,”</quote> I ejaculated.</p>
 
 
- <quote speaker ="sherlock">“No, for it was followed by a protestation of innocence.”</quote>
+ <p><quote speaker ="sherlockHolmes">“No, for it was followed by a protestation of innocence.”</quote></p>
 
- <quote speaker ="watson">“Coming on the top of such a damning series of events, it was at least
-a most suspicious remark.”</quote>
+ <p><quote speaker ="johnWatson">“Coming on the top of such a damning series of events, it was at least
+a most suspicious remark.”</quote></p>
 
- <quote speaker ="sherlock">“On the contrary,”</quote> said Holmes, <quote speaker ="sherlock">“it is the brightest rift which I can
+ <p><quote speaker ="sherlockHolmes">“On the contrary,”</quote> said Holmes, <quote speaker ="sherlockHolmes">“it is the brightest rift which I can
 at present see in the clouds. However innocent he might be, he could
 not be such an absolute imbecile as not to see that the circumstances
 were very black against him. Had he appeared surprised at his own
@@ -227,28 +226,28 @@ forgotten his filial duty as to bandy words with him, and even,
 according to the little girl whose evidence is so important, to raise
 his hand as if to strike him. The self-reproach and contrition which
 are displayed in his remark appear to me to be the signs of a healthy
-mind rather than of a guilty one.”</quote>
- </p>
-  <p>
-I shook my head. <quote speaker ="watson">“Many men have been hanged on far slighter evidence,”</quote>
-I remarked.
+mind rather than of a guilty one.”</quote></p>
+ 
+  
+ <p>I shook my head. <quote speaker ="johnWatson">“Many men have been hanged on far slighter evidence,”</quote>
+I remarked.</p>
 
- <quote speaker ="sherlock">“So they have. And many men have been wrongfully hanged.”</quote>
+ <p><quote speaker ="sherlockHolmes">“So they have. And many men have been wrongfully hanged.”</quote></p>
 
- <quote speaker ="watson">“What is the young man’s own account of the matter?”</quote>
+ <p><quote speaker ="johnWatson">“What is the young man’s own account of the matter?”</quote></p>
 
- <quote speaker ="sherlock">“It is, I am afraid, not very encouraging to his supporters, though
+ <p><quote speaker ="sherlockHolmes">“It is, I am afraid, not very encouraging to his supporters, though
 there are one or two points in it which are suggestive. You will find
-it here, and may read it for yourself.”</quote>
+it here, and may read it for yourself.”</quote></p>
 
-<action char = "sherlock">He picked out from his bundle a copy of the local Herefordshire paper,
+ <p><action char = "sherlock">He picked out from his bundle a copy of the local Herefordshire paper,
 and having turned down the sheet he pointed out the paragraph in which
 the unfortunate young man had given his own statement of what had
 occurred. </action>I settled myself down in the corner of the carriage and read
-it very carefully. It ran in this way:
-  </p>
+it very carefully. It ran in this way:</p>
   
-<char gender="male">“Mr. James McCarthy</char>, the only son of the deceased, was then called and
+  
+ <p><char gender="male">“Mr. James McCarthy</char>, the only son of the deceased, was then called and
 gave evidence as follows: <quote speaker = "james">‘I had been away from home for three days at
 Bristol, and had only just returned upon the morning of last Monday,
 the 3rd. My father was absent from home at the time of my arrival, and
@@ -277,96 +276,96 @@ my way to <char gender = "male">Mr. Turner’s lodge-keeper</char>, his house be
 ask for assistance. I saw no one near my <char gender = "male">father</char> when I returned, and I
 have no idea how he came by his injuries. He was not a popular man,
 being somewhat cold and forbidding in his manners, but he had, as far
-as I know, no active enemies. I know nothing further of the matter.’</quote>
- </p>
- <p>
+as I know, no active enemies. I know nothing further of the matter.’</quote></p>
+ 
+ 
 
-  <quote speaker = "coroner">“The Coroner: Did your <char gender = "male">father</char> make any statement to you before he died?</quote>
+ <p><quote speaker = "coroner">“The Coroner: Did your <char gender = "male">father</char> make any statement to you before he died?</quote></p>
 
- <quote speaker = "wintess">“Witness: He mumbled a few words, but I could only catch some allusion
-to a rat.</quote>
+ <p><quote speaker = "wintess">“Witness: He mumbled a few words, but I could only catch some allusion
+to a rat.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: What did you understand by that?</quote>
+ <p><quote speaker = "coroner">“The Coroner: What did you understand by that?</quote></p>
 
- <quote speaker = "witness">“Witness: It conveyed no meaning to me. I thought that he was
-delirious.</quote>
+ <p><quote speaker = "witness">“Witness: It conveyed no meaning to me. I thought that he was
+delirious.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: What was the point upon which you and your father had
-this final quarrel?</quote>
+ <p><quote speaker = "coroner">“The Coroner: What was the point upon which you and your father had
+this final quarrel?</quote></p>
 
- <quote speaker = "witness">“Witness: I should prefer not to answer.</quote>
+ <p><quote speaker = "witness">“Witness: I should prefer not to answer.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: I am afraid that I must press it.</quote>
+ <p><quote speaker = "coroner">“The Coroner: I am afraid that I must press it.</quote></p>
 
- <quote speaker = "witness">“Witness: It is really impossible for me to tell you. I can assure you
-that it has nothing to do with the sad tragedy which followed.</quote>
+ <p><quote speaker = "witness">“Witness: It is really impossible for me to tell you. I can assure you
+that it has nothing to do with the sad tragedy which followed.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: That is for the court to decide. I need not point out to
+ <p><quote speaker = "coroner">“The Coroner: That is for the court to decide. I need not point out to
 you that your refusal to answer will prejudice your case considerably
-in any future proceedings which may arise.</quote>
+in any future proceedings which may arise.</quote></p>
 
- <quote speaker = "witness">“Witness: I must still refuse.</quote>
+ <p><quote speaker = "witness">“Witness: I must still refuse.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: I understand that the cry of ‘Cooee’ was a common signal
-between you and your father?</quote>
+ <p><quote speaker = "coroner">“The Coroner: I understand that the cry of ‘Cooee’ was a common signal
+between you and your father?</quote></p>
 
- <quote speaker = "witness">“Witness: It was.</quote>
+ <p><quote speaker = "witness">“Witness: It was.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: How was it, then, that he uttered it before he saw you,
-and before he even knew that you had returned from Bristol?</quote>
+ <p><quote speaker = "coroner">“The Coroner: How was it, then, that he uttered it before he saw you,
+and before he even knew that you had returned from Bristol?</quote></p>
 
- <quote speaker = "witness">“Witness (with considerable confusion): I do not know.</quote>
+ <p><quote speaker = "witness">“Witness (with considerable confusion): I do not know.</quote></p>
 
- <quote speaker = "coroner">“A Juryman: Did you see nothing which aroused your suspicions when you
-returned on hearing the cry and found your father fatally injured?</quote>
+ <p><quote speaker = "coroner">“A Juryman: Did you see nothing which aroused your suspicions when you
+returned on hearing the cry and found your father fatally injured?</quote></p>
 
- <quote speaker = "witness">“Witness: Nothing definite.</quote>
+ <p><quote speaker = "witness">“Witness: Nothing definite.</quote></p>
 
- <quote speaker = "coroner">“The Coroner: What do you mean?</quote>
- </p>
- <p>
- <quote speaker = "witness">“Witness: I was so disturbed and excited as I rushed out into the open,
+ <p><quote speaker = "coroner">“The Coroner: What do you mean?</quote></p>
+ 
+ 
+ <p><quote speaker = "witness">“Witness: I was so disturbed and excited as I rushed out into the open,
 that I could think of nothing except of my father. Yet I have a vague
 impression that as I ran forward something lay upon the ground to the
 left of me. It seemed to me to be something grey in colour, a coat of
 some sort, or a plaid perhaps. When I rose from my father I looked
-round for it, but it was gone.</quote>
+round for it, but it was gone.</quote></p>
 
- <quote speaker = "coroner">“‘Do you mean that it disappeared before you went for help?’</quote>
+ <p><quote speaker = "coroner">“‘Do you mean that it disappeared before you went for help?’</quote></p>
 
- <quote speaker = "witness">“‘Yes, it was gone.’</quote>
+ <p><quote speaker = "witness">“‘Yes, it was gone.’</quote></p>
 
- <quote speaker = "coroner">“  ‘You cannot say what it was?’</quote>
+ <p><quote speaker = "coroner">“  ‘You cannot say what it was?’</quote></p>
 
- <quote speaker = "witness">“‘No, I had a feeling something was there.’</quote>
+ <p><quote speaker = "witness">“‘No, I had a feeling something was there.’</quote></p>
 
- <quote speaker = "coroner">“‘How far from the body?’</quote>
+ <p><quote speaker = "coroner">“‘How far from the body?’</quote></p>
 
- <quote speaker = "witness">“‘A dozen yards or so.’</quote>
+ <p><quote speaker = "witness">“‘A dozen yards or so.’</quote></p>
 
- <quote speaker = "coroner">“‘And how far from the edge of the wood?’</quote>
+ <p><quote speaker = "coroner">“‘And how far from the edge of the wood?’</quote></p>
 
- <quote speaker = "witness">“‘About the same.’</quote>
+ <p><quote speaker = "witness">“‘About the same.’</quote></p>
 
- <quote speaker = "coroner">“‘Then if it was removed it was while you were within a dozen yards of
-it?’</quote>
+ <p><quote speaker = "coroner">“‘Then if it was removed it was while you were within a dozen yards of
+it?’</quote></p>
 
- <quote speaker = "witness">“‘Yes, but with my back towards it.’</quote>
+ <p><quote speaker = "witness">“‘Yes, but with my back towards it.’</quote></p>
 
- <quote speaker = "coroner">“This concluded the examination of the witness.”</quote>
+ <p><quote speaker = "coroner">“This concluded the examination of the witness.”</quote></p>
  
 
- <quote speaker = "watson">“I see,”</quote> said I as I glanced down the column, <quote speaker = "watson">“that the coroner in his
+ <p><quote speaker = "watson">“I see,”</quote> said I as I glanced down the column, <quote speaker = "watson">“that the coroner in his
 concluding remarks was rather severe upon young McCarthy. He calls
 attention, and with reason, to the discrepancy about his father having
 signalled to him before seeing him, also to his refusal to give details
 of his conversation with his father, and his singular account of his
 father’s dying words. They are all, as he remarks, very much against
-the son.”</quote>
- </p>
- <p>
+the son.”</quote></p>
+ 
+ 
 
-<char gender = "male">Holmes</char> <action char = "sherlock">laughed softly to himself and stretched himself out upon the
+ <p><char gender = "male">Holmes</char> <action char = "sherlock">laughed softly to himself and stretched himself out upon the
 cushioned seat.</action> <quote speaker = "sherlock">“Both you and the coroner have been at some pains,”</quote>
  said he, <quote speaker = "sherlock">“to single out the very strongest points in the young man’s
 favour. Don’t you see that you alternately give him credit for having
@@ -379,153 +378,153 @@ view that what this young man says is true, and we shall see whither
 that hypothesis will lead us. And now here is my pocket Petrarch, and
 not another word shall I say of this case until we are on the scene of
 action. We lunch at Swindon, and I see that we shall be there in twenty
-minutes.”</quote>
- </p>
- <p>
-It was nearly four o’clock when we at last, after passing through the
+minutes.”</quote></p>
+ 
+ 
+ <p>It was nearly four o’clock when we at last, after passing through the
 beautiful Stroud Valley, and over the broad gleaming Severn, found
 ourselves at the pretty little country-town of Ross. <char gender = "male">A lean,
 ferret-like man, furtive and sly-looking, was waiting for us upon the
 platform.</char> In spite of the light brown dustcoat and leather-leggings
 which he wore in deference to his rustic surroundings, I had no
 difficulty in recognising <char gender = "male">Lestrade, of Scotland Yard</char>. With him we drove
-to the Hereford Arms where a room had already been engaged for us.
- </p>
- <p>
- <quote speaker = "lestrade">“I have ordered a carriage,”</quote> said <char gender = "male">Lestrade</char> as we sat over a cup of tea.
+to the Hereford Arms where a room had already been engaged for us.</p>
+ 
+ 
+ <p><quote speaker = "lestrade">“I have ordered a carriage,”</quote> said <char gender = "male">Lestrade</char> as we sat over a cup of tea.
 <quote>“I knew your energetic nature, and that you would not be happy until
-you had been on the scene of the crime.”</quote>
+you had been on the scene of the crime.”</quote></p>
 
- <quote speaker = "sherlock">“It was very nice and complimentary of you,”</quote> <char gender = "male">Holmes</char> answered. <quote>“It is
-entirely a question of barometric pressure.”</quote>
+ <p><quote speaker = "sherlock">“It was very nice and complimentary of you,”</quote> <char gender = "male">Holmes</char> answered. <quote>“It is
+entirely a question of barometric pressure.”</quote></p>
 
-<char gender = "male">Lestrade</char> looked startled. <quote speaker = "lestrade">“I do not quite follow,”</quote> he said.
+ <p><char gender = "male">Lestrade</char> looked startled. <quote speaker = "lestrade">“I do not quite follow,”</quote> he said.</p>
 
- <quote speaker = "sherlock">“How is the glass? Twenty-nine, I see. No wind, and not a cloud in the
+ <p><quote speaker = "sherlock">“How is the glass? Twenty-nine, I see. No wind, and not a cloud in the
 sky. I have a caseful of cigarettes here which need smoking, and the
 sofa is very much superior to the usual country hotel abomination. I do
-not think that it is probable that I shall use the carriage to-night.”</quote>
- </p>
- <p>
- <char gender = "male">Lestrade</char> <action char = "lestrade">laughed indulgently</action>. <quote speaker = "lestrade">“You have, no doubt, already formed your
+not think that it is probable that I shall use the carriage to-night.”</quote></p>
+ 
+ 
+ <p><char gender = "male">Lestrade</char> <action char = "lestrade">laughed indulgently</action>. <quote speaker = "lestrade">“You have, no doubt, already formed your
   conclusions from the newspapers,”</quote> he said. <quote speaker = "lestrade">“The case is as plain as a
 pikestaff, and the more one goes into it the plainer it becomes. Still,
 of course, one can’t refuse a lady, and such a very positive one, too.
 She has heard of you, and would have your opinion, though I repeatedly
 told her that there was nothing which you could do which I had not
-already done. Why, bless my soul! here is her carriage at the door.”</quote>
- </p>
- <p>
-He had hardly spoken before there rushed into the room <char gender = "female">one of the most
+already done. Why, bless my soul! here is her carriage at the door.”</quote></p>
+ 
+ 
+ <p>He had hardly spoken before there rushed into the room <char gender = "female">one of the most
 lovely young women that I have ever seen</char> in my life. Her violet eyes
 shining, her lips parted, a pink flush upon her cheeks, all thought of
-her natural reserve lost in her overpowering excitement and concern.
+her natural reserve lost in her overpowering excitement and concern.</p>
 
- <quote speaker = "ms_turner">“Oh, Mr. Sherlock Holmes!”</quote> <action char = "ms_turner">she cried, glancing from one to the other of
+ <p><quote speaker = "ms_turner">“Oh, Mr. Sherlock Holmes!”</quote> <action char = "ms_turner">she cried, glancing from one to the other of
 us, and finally, with a woman’s quick intuition, fastening upon my
 companion</action>,<quote speaker = "ms_turner">“I am so glad that you have come. I have driven down to tell
  you so. I know that <char gender = "male">James</char> didn’t do it. I know it, and I want you to
 start upon your work knowing it, too. Never let yourself doubt upon
 that point. We have known each other since we were little children, and
 I know his faults as no one else does; but he is too tender-hearted to
-hurt a fly. Such a charge is absurd to anyone who really knows him.”</quote>
- </p>
- <p>
- <quote speaker = "sherlock">“I hope we may clear him, Miss Turner,”</quote> said <char gender = "male">Sherlock Holmes</char>. <quote speaker = "sherlock">“You may
-rely upon my doing all that I can.”</quote>
+hurt a fly. Such a charge is absurd to anyone who really knows him.”</quote></p>
+ 
+ 
+ <p><quote speaker = "sherlock">“I hope we may clear him, Miss Turner,”</quote> said <char gender = "male">Sherlock Holmes</char>. <quote speaker = "sherlock">“You may
+rely upon my doing all that I can.”</quote></p>
 
- <quote speaker = "ms_turner">“But you have read the evidence. You have formed some conclusion? Do
+ <p><quote speaker = "ms_turner">“But you have read the evidence. You have formed some conclusion? Do
 you not see some loophole, some flaw? Do you not yourself think that he
-is innocent?”</quote>
+is innocent?”</quote></p>
 
- <quote speaker = "sherlock">“I think that it is very probable.”</quote>
+ <p><quote speaker = "sherlock">“I think that it is very probable.”</quote></p>
 
- <quote speaker = "ms_turner">“There, now!”</quote> <action char = "ms_turner">she cried, throwing back her head and looking defiantly
-  at <char gender = "male">Lestrade</char>.</action> <quote speaker = "ms_turner">“You hear! He gives me hopes.”</quote>
+ <p><quote speaker = "ms_turner">“There, now!”</quote> <action char = "ms_turner">she cried, throwing back her head and looking defiantly
+  at <char gender = "male">Lestrade</char>.</action> <quote speaker = "ms_turner">“You hear! He gives me hopes.”</quote></p>
 
- <char gender = "male">Lestrade</char> <action char = "lestrade">shrugged his shoulders</action>. <quote speaker = "lestrade">“I am afraid that my colleague has
- been a little quick in forming his conclusions,”</quote> he said.
+ <p><char gender = "male">Lestrade</char> <action char = "lestrade">shrugged his shoulders</action>. <quote speaker = "lestrade">“I am afraid that my colleague has
+ been a little quick in forming his conclusions,”</quote> he said.</p>
 
- <quote speaker = "ms_turner">“But he is right. Oh! I know that he is right. <char gender = "male">James</char> never did it. And
+ <p><quote speaker = "ms_turner">“But he is right. Oh! I know that he is right. <char gender = "male">James</char> never did it. And
 about his quarrel with his father, I am sure that the reason why he
 would not speak about it to the coroner was because I was concerned in
-it.”</quote>
- </p>
- <p>
+it.”</quote></p>
+ 
+ 
 
- <quote speaker = "sherlock">“In what way?”</quote> asked <char gender = "male">Holmes</char>.
+ <p><quote speaker = "sherlock">“In what way?”</quote> asked <char gender = "male">Holmes</char>.</p>
 
- <quote speaker = "ms_turner">“It is no time for me to hide anything. <char>James</char> and his <char>father</char> had many
-  disagreements about me. <char gender = "male">Mr. McCarthy</char> <action speaker = "charles">was very anxious that there should
-   be a marriage between us</action>. <char gender = "male">James</char> and <action char = "ms_turner">I have always loved each other as
+ <p><quote speaker = "ms_turner">“It is no time for me to hide anything. <char>James</char> and his <char>father</char> had many
+disagreements about me. <char gender = "male">Mr. McCarthy</char> <action speaker = "charles">was very anxious that there should
+be a marriage between us</action>. <char gender = "male">James</char> and <action char = "ms_turner">I have always loved each other as
 brother and sister; but of course he is young and has seen very little
 of life yet, and—and—well, he naturally did not wish to do anything
 like that yet. So there were quarrels</action>, and this, I am sure, was one of
-them.”</quote>
- </p>
- <p>
- <quote speaker = "sherlock">“And <char gender = "male">your father</char>?”</quote> asked <char gender = "male">Holmes</char>. <quote speaker = "sherlock">“Was he in favour of such a union?”</quote>
+them.”</quote></p>
+ 
+ 
+ <p><quote speaker = "sherlock">“And <char gender = "male">your father</char>?”</quote> asked <char gender = "male">Holmes</char>. <quote speaker = "sherlock">“Was he in favour of such a union?”</quote></p>
 
- <quote speaker = "ms_turner">“No, he was averse to it also. No one but <char gender = "male">Mr. McCarthy</char> was in favour of
+ <p><quote speaker = "ms_turner">“No, he was averse to it also. No one but <char gender = "male">Mr. McCarthy</char> was in favour of
   it.”</quote> A quick blush passed over her fresh young face as <action char = "sherlock">Holmes shot one
-of his keen, questioning glances at her.</action>
+of his keen, questioning glances at her.</action></p>
 
- <quote speaker = "sherlock">“Thank you for this information,”</quote> said he. <quote speaker = "sherlock">“May I see your father if I
-call to-morrow?”</quote>
+ <p><quote speaker = "sherlock">“Thank you for this information,”</quote> said he. <quote speaker = "sherlock">“May I see your father if I
+call to-morrow?”</quote></p>
 
- <quote speaker = "ms_turner">“I am afraid the doctor won’t allow it.”</quote>
+ <p><quote speaker = "ms_turner">“I am afraid the doctor won’t allow it.”</quote></p>
 
- <quote speaker = "sherlock">“The doctor?”</quote>
+ <p><quote speaker = "sherlock">“The doctor?”</quote></p>
 
- <quote speaker = "ms_turner">“Yes, have you not heard? Poor <char gender = "male">father</char> has never been strong for years
+ <p><quote speaker = "ms_turner">“Yes, have you not heard? Poor <char gender = "male">father</char> has never been strong for years
 back, but this has broken him down completely. He has taken to his bed,
 and Dr. Willows says that he is a wreck and that his nervous system is
 shattered. <char gender = "male">Mr. McCarthy</char> was the only man alive who had known dad in the
-old days in Victoria.”</quote>
- </p>
- <p>
- <quote speaker = "sherlock">“Ha! In Victoria! That is important.”</quote>
+old days in Victoria.”</quote></p>
+ 
+ 
+ <p><quote speaker = "sherlock">“Ha! In Victoria! That is important.”</quote></p>
 
- <quote speaker = "ms_turner">“Yes, at the mines.”</quote>
+ <p><quote speaker = "ms_turner">“Yes, at the mines.”</quote></p>
 
- <quote speaker = "sherlock">“Quite so; at the gold-mines, where, as I understand, <char gender = "male">Mr. Turner</char> <action char = "mr_turner">made
-his money.</action>”</quote>
+ <p><quote speaker = "sherlock">“Quite so; at the gold-mines, where, as I understand, <char gender = "male">Mr. Turner</char> <action char = "mr_turner">made
+his money.</action>”</quote></p>
 
- <quote speaker = "ms_turner">“Yes, certainly.”</quote>
+ <p><quote speaker = "ms_turner">“Yes, certainly.”</quote></p>
 
- <quote speaker = "sherlock">“Thank you, <char gender = "female">Miss Turner</char>. You have been of material assistance to me.”</quote>
+ <p><quote speaker = "sherlock">“Thank you, <char gender = "female">Miss Turner</char>. You have been of material assistance to me.”</quote></p>
 
- <quote speaker = "ms_turner">“You will tell me if you have any news to-morrow. No doubt you will go
+ <p><quote speaker = "ms_turner">“You will tell me if you have any news to-morrow. No doubt you will go
   to the prison to see <char gender = "male">James</char>. Oh, if you do, <char gender = "male">Mr. Holmes</char>, do tell <char gender = "male">him</char> that
-I know him to be innocent.”</quote>
+I know him to be innocent.”</quote></p>
 
- <quote speaker = "sherlock">“I will, <char gender = "female">Miss Turner</char>.”</quote>
- </p>
- <p>
-  <quote speaker = "ms_turner">“I must go home now, for <char gender = "male">dad</char> is very ill, and he misses me so if I
+ <p><quote speaker = "sherlock">“I will, <char gender = "female">Miss Turner</char>.”</quote></p>
+ 
+ 
+ <p><quote speaker = "ms_turner">“I must go home now, for <char gender = "male">dad</char> is very ill, and he misses me so if I
    leave him. Good-bye, and God help you in your undertaking.”</quote> <action char = "ms_turner"><char gender = "female">She</char> hurried
 from the room as impulsively as she had entered, and we heard the
-wheels of her carriage rattle off down the street.</action>
+wheels of her carriage rattle off down the street.</action></p>
 
- <quote speaker = "lestrade">“I am ashamed of you, <char gender = "male">>Holmes</char>,”</quote> <action char = "lestrade">said <char gender = "male">Lestrade</char> with dignity after a few
+ <p><quote speaker = "lestrade">“I am ashamed of you, <char gender = "male">>Holmes</char>,”</quote> <action char = "lestrade">said <char gender = "male">Lestrade</char> with dignity after a few
   minutes’ silence</action>. <quote speaker = "lestrade">“Why should you raise up hopes which you are bound to
-disappoint? I am not over-tender of heart, but I call it cruel.”</quote>
+disappoint? I am not over-tender of heart, but I call it cruel.”</quote></p>
 
- <quote speaker = "sherlock">“I think that I see my way to clearing <char gender = "male">James McCarthy</char>,”</quote> said <char gender = "male">Holmes</char>.
-<quote>“Have you an order to see him in prison?”</quote>
+ <p><quote speaker = "sherlock">“I think that I see my way to clearing <char gender = "male">James McCarthy</char>,”</quote> said <char gender = "male">Holmes</char>.
+<quote>“Have you an order to see him in prison?”</quote></p>
 
- <quote speaker = "lestrade">“Yes, but only for you and me.”</quote>
+ <p><quote speaker = "lestrade">“Yes, but only for you and me.”</quote></p>
 
- <quote speaker = "sherlock">“Then I shall reconsider my resolution about going out. We have still
-time to take a train to Hereford and see him to-night?”</quote>
+ <p><quote speaker = "sherlock">“Then I shall reconsider my resolution about going out. We have still
+time to take a train to Hereford and see him to-night?”</quote></p>
 
- <quote speaker = "lestrade">“Ample.”</quote>
- </p>
- <p>
- <quote speaker = "sherlock">“Then let us do so. <char gender = "male">Watson</char>, I fear that you will find it very slow, but
-I shall only be away a couple of hours.”</quote>
+ <p><quote speaker = "lestrade">“Ample.”</quote></p>
+ 
+ 
+ <p><quote speaker = "sherlock">“Then let us do so. <char gender = "male">Watson</char>, I fear that you will find it very slow, but
+I shall only be away a couple of hours.”</quote></p>
 
-  <action char = "watson">I walked down to the station with them, and then wandered through the
+ <p><action char = "watson">I walked down to the station with them, and then wandered through the
 streets of the little town, finally returning to the hotel, where I lay
 upon the sofa and tried to interest myself in a yellow-backed novel.
 The puny plot of the story was so thin, however, when compared to the
@@ -561,33 +560,33 @@ turned not a dozen paces off</action>. What a tissue of mysteries and
  improbabilities the whole thing was! I did not wonder at <char gender = "male">Lestrade’s</char>
  opinion, and yet I had so much faith in <char gender = "male">Sherlock Holmes</char>’ insight that I
 could not lose hope as long as every fresh fact seemed to strengthen
-his conviction of <char gender = "male">young McCarthy’s</char> innocence.
+his conviction of <char gender = "male">young McCarthy’s</char> innocence.</p>
 
-It was late before <char gender = "male">Sherlock Holmes</char> returned. <action char = "sherlock">He came back alone, for
-Lestrade was staying in lodgings in the town</action>.
+ <p>It was late before <char gender = "male">Sherlock Holmes</char> returned. <action char = "sherlock">He came back alone, for
+Lestrade was staying in lodgings in the town</action>.</p>
 
- <quote speaker = "sherlock">“The glass still keeps very high,”</quote> he remarked as he sat down. <quote speaker = "sherlock">“It is
+ <p><quote speaker = "sherlock">“The glass still keeps very high,”</quote> he remarked as he sat down. <quote speaker = "sherlock">“It is
 of importance that it should not rain before we are able to go over the
 ground. On the other hand, a man should be at his very best and keenest
 for such nice work as that, and I did not wish to do it when fagged by
-a long journey. I have seen <char gender = "male">young McCarthy</char>.”</quote>
+a long journey. I have seen <char gender = "male">young McCarthy</char>.”</quote></p>
 
- <quote speaker = "watson">“And what did you learn from him?”</quote>
+ <p><quote speaker = "watson">“And what did you learn from him?”</quote></p>
 
- <quote speaker = "sherlock">“Nothing.”</quote>
+ <p><quote speaker = "sherlock">“Nothing.”</quote></p>
 
- <quote speaker = "watson">“Could he throw no light?”</quote>
+ <p><quote speaker = "watson">“Could he throw no light?”</quote></p>
 
- <quote speaker = "sherlock">“None at all. I was inclined to think at one time that he knew who had
+ <p><quote speaker = "sherlock">“None at all. I was inclined to think at one time that he knew who had
 done it and was screening him or her, but I am convinced now that he is
 as puzzled as everyone else. He is not a very quick-witted youth,
-though comely to look at and, I should think, sound at heart.”</quote>
+though comely to look at and, I should think, sound at heart.”</quote></p>
 
- <quote speaker = "watson">“I cannot admire his taste,”</quote> I remarked, <quote speaker = "watson">“if it is indeed a fact <action speaker = "charles">that
+ <p><quote speaker = "watson">“I cannot admire his taste,”</quote> I remarked, <quote speaker = "watson">“if it is indeed a fact <action speaker = "charles">that
   he was averse to a marriage with so charming a young lady as this <char gender = "female">Miss
-Turner</char></action>.”</quote>
+Turner</char></action>.”</quote></p>
 
- <quote speaker = "sherlock">“Ah, thereby hangs a rather painful tale. This <char gender = "male">fellow</char> is <action char = "james">madly,
+ <p><quote speaker = "sherlock">“Ah, thereby hangs a rather painful tale. This <char gender = "male">fellow</char> is <action char = "james">madly,
 insanely, in love with her, but some two years ago, when he was only a
 lad, and before he really knew her, for <action char = "ms_turner">she had been away five years at
 a boarding-school,</action> <action char = "james">what does the idiot do but get into the clutches of
@@ -607,70 +606,70 @@ that he is in serious trouble and likely to be hanged, has thrown him
 over utterly and has written to him to say that she has a husband
 already in the Bermuda Dockyard, so that there is really no tie between
 them. I think that that bit of news has consoled <char gender = "male">young McCarthy</char> for all
-that he has suffered.</action>”</quote>
+that he has suffered.</action>”</quote></p>
 
- <quote speaker = "watson">“But if he is innocent, who has done it?”</quote>
+ <p><quote speaker = "watson">“But if he is innocent, who has done it?”</quote></p>
 
- <quote speaker = "sherlock">“Ah! who? I would call your attention very particularly to two points.
+ <p><quote speaker = "sherlock">“Ah! who? I would call your attention very particularly to two points.
   One is that the <char gender = "male">murdered man</char> had an appointment with someone at the
 pool, and that the someone could not have been his son, for his son was
 away, and he did not know when he would return. The second is that the
 murdered man was heard to cry ‘Cooee!’ before he knew that his son had
 returned. Those are the crucial points upon which the case depends. And
 now let us talk about <char gender = "male">George Meredith</char>, if you please, and we shall
-leave all minor matters until to-morrow.”</quote>
+leave all minor matters until to-morrow.”</quote></p>
 
-There was no rain, <action char = "sherlock">as <char gender = "male">Holmes</char> had foretold</action>, and the morning broke bright
+ <p>There was no rain, <action char = "sherlock">as <char gender = "male">Holmes</char> had foretold</action>, and the morning broke bright
  and cloudless. At nine o’clock <char gender = "male">Lestrade</char> called for us with the
-carriage, and we set off for Hatherley Farm and the Boscombe Pool.
+carriage, and we set off for Hatherley Farm and the Boscombe Pool.</p>
 
- <quote speaker = "lestrade">“There is serious news this morning,”</quote> <char gender = "male">Lestrade</char> observed. <quote speaker = "lestrade">“It is said
-  that <char gender = "male">Mr. Turner, of the Hall, is so ill that his life is despaired of</char>.”</quote>
+ <p><quote speaker = "lestrade">“There is serious news this morning,”</quote> <char gender = "male">Lestrade</char> observed. <quote speaker = "lestrade">“It is said
+  that <char gender = "male">Mr. Turner, of the Hall, is so ill that his life is despaired of</char>.”</quote></p>
 
- <quote speaker = "sherlock">“An elderly man, I presume?”</quote> said <char gender = "male">Holmes</char>.
+ <p><quote speaker = "sherlock">“An elderly man, I presume?”</quote> said <char gender = "male">Holmes</char>.</p>
 
- <quote speaker = "lestrade">“About sixty; but his constitution has been shattered by his life
+ <p><quote speaker = "lestrade">“About sixty; but his constitution has been shattered by his life
 abroad, and he has been in failing health for some time. This business
 has had a very bad effect upon him. He was an old friend of McCarthy’s,
 and, <action char = "mr+turner">I may add, a great benefactor to him, for I have learned that he
-gave him Hatherley Farm rent free.</action>”</quote>
+gave him Hatherley Farm rent free.</action>”</quote></p>
  
- <p>
+ 
 
- <quote speaker = "sherlock">“Indeed! That is interesting,”</quote> said Holmes.
+ <p><quote speaker = "sherlock">“Indeed! That is interesting,”</quote> said Holmes.</p>
 
- <quote speaker = "lestrade">“Oh, yes! In a hundred other ways he has helped him. Everybody about
-here speaks of his kindness to him.”</quote>
+ <p><quote speaker = "lestrade">“Oh, yes! In a hundred other ways he has helped him. Everybody about
+here speaks of his kindness to him.”</quote></p>
 
- <quote speaker = "lestrade">“Really! Does it not strike you as a little singular that this
+ <p><quote speaker = "lestrade">“Really! Does it not strike you as a little singular that this
   McCarthy, who appears <action char = "charles">to have had little of his own, and to have been
 under such obligations to Turner, should still talk of marrying his son
 to <char gender = "female">Turner’s daughter, who is, presumably, heiress to the estate,</char> and
 that in such a very cocksure manner, as if it were merely a case of a
 proposal and all else would follow? </action> It is the more strange, since we
 know that Turner himself was averse to the idea. The daughter told us
-as much. Do you not deduce something from that?”</quote>
+as much. Do you not deduce something from that?”</quote></p>
 
- <quote speaker = "lestrade">“We have got to the deductions and the inferences,” </quote> <action char = "lestrade">said Lestrade,
+ <p><quote speaker = "lestrade">“We have got to the deductions and the inferences,” </quote> <action char = "lestrade">said Lestrade,
   winking at me.</action> <quote speaker = "lestrade">“I find it hard enough to tackle facts, Holmes, without
-flying away after theories and fancies.”</quote>
+flying away after theories and fancies.”</quote></p>
 
- <quote speaker = "sherlock">“You are right,”</quote> said Holmes demurely; <quote speaker = "lestrade">“you do find it very hard to
-tackle the facts.”</quote>
+ <p><quote speaker = "sherlock">“You are right,”</quote> said Holmes demurely; <quote speaker = "lestrade">“you do find it very hard to
+tackle the facts.”</quote></p>
 
- <quote speaker = "lestrade">“Anyhow, I have grasped one fact which you seem to find it difficult to
-get hold of,”</quote> replied Lestrade with some warmth.
+ <p><quote speaker = "lestrade">“Anyhow, I have grasped one fact which you seem to find it difficult to
+get hold of,”</quote> replied Lestrade with some warmth.</p>
 
- <quote speaker = "sherlock">“And that is—”</quote>
+ <p><quote speaker = "sherlock">“And that is—”</quote></p>
 
- <quote speaker = "lestrade">“That McCarthy senior met his death from McCarthy junior and that all
-theories to the contrary are the merest moonshine.”</quote>
+ <p><quote speaker = "lestrade">“That McCarthy senior met his death from McCarthy junior and that all
+theories to the contrary are the merest moonshine.”</quote></p>
 
- <quote speaker = "sherlock">“Well, moonshine is a brighter thing than fog,”</quote> said Holmes, laughing.
+ <p><quote speaker = "sherlock">“Well, moonshine is a brighter thing than fog,”</quote> said Holmes, laughing.
  <quote speaker = "lestrade">“But I am very much mistaken if this is not Hatherley Farm upon the
-left.”</quote>
+left.”</quote></p>
 
- <quote speaker = "sherlock">“Yes, that is it.”</quote> It was a widespread, comfortable-looking building,
+ <p><quote speaker = "sherlock">“Yes, that is it.”</quote> It was a widespread, comfortable-looking building,
 two-storied, slate-roofed, with great yellow blotches of lichen upon
 the grey walls. The drawn blinds and the smokeless chimneys, however,
 gave it a stricken look, as though the weight of this horror still lay
@@ -679,10 +678,10 @@ heavy upon it. We called at the door, when <char gender = "female">the maid,</ch
 death, and also a pair of the son’s, though not the pair which he had
 then had.</action> <action char = "sherlock">Having measured these very carefully from seven or eight
 different points, Holmes desired to be led to the court-yard, from
-which we all followed the winding track which led to Boscombe Pool.</action>
- </p>
- <p>
- <char gender = "male">Sherlock Holmes</char> was transformed when he was hot upon such a scent as
+which we all followed the winding track which led to Boscombe Pool.</action></p>
+ 
+ 
+ <p><char gender = "male">Sherlock Holmes</char> was transformed when he was hot upon such a scent as
 this. Men who had only known the quiet thinker and logician of Baker
 Street would have failed to recognise him. <action char = "sherlock">His face flushed and
 darkened. His brows were drawn into two hard black lines, while his
@@ -701,10 +700,10 @@ would hurry on, sometimes stop dead, and once he made quite a little
 detour into the meadow.</action> <char gender = "male">Lestrade</char> and <char gender = "male">I</char> walked behind <char gender = "male">him, the detective
 indifferent and contemptuous</char>, <action char = "watson">while I watched my friend with the
 interest which sprang from the conviction that every one of <char gender = "male">his</char> actions
-was directed towards a definite end</action>.
- </p>
-  <p>
-The Boscombe Pool, which is a little reed-girt sheet of water some
+was directed towards a definite end</action>.</p>
+ 
+  
+ <p>The Boscombe Pool, which is a little reed-girt sheet of water some
 fifty yards across, is situated at the boundary between the Hatherley
 Farm and the private park of the wealthy <char gender = "male">Mr. Turner.</char> Above the woods
 which lined it upon the farther side we could see the red, jutting
@@ -717,14 +716,14 @@ the ground, that I could plainly see the traces which had been left by
 the fall of the stricken man. To <char gender = "male">Holmes,</char> as I could see by his eager
 face and peering eyes, very many other things were to be read upon the
 trampled grass. <action char = "sherlock">He ran round, like a dog who is picking up a scent, and
-then turned upon my companion</action>.
-  </p>
- <quote speaker = "sherlock">“What did you go into the pool for?”</quote> he asked.
+then turned upon my companion</action>.</p>
+  
+ <p><quote speaker = "sherlock">“What did you go into the pool for?”</quote> he asked.</p>
 
- <quote speaker = "Lestrade">“I fished about with a rake. I thought there might be some weapon or
-other trace. But how on earth—”</quote>
+ <p><quote speaker = "Lestrade">“I fished about with a rake. I thought there might be some weapon or
+other trace. But how on earth—”</quote></p>
 
- <quote speaker = "sherlock">“Oh, tut, tut! I have no time! That left foot of yours with its inward
+ <p><quote speaker = "sherlock">“Oh, tut, tut! I have no time! That left foot of yours with its inward
 twist is all over the place. A mole could trace it, and there it
 vanishes among the reeds. Oh, how simple it would all have been had I
 been here before they came like a herd of buffalo and wallowed all over
@@ -750,161 +749,161 @@ seemed to me to be dust into an envelope and examining with his lens
 not only the ground but even the bark of the tree as far as he could
 reach. A jagged stone was lying among the moss, and this also he
 carefully examined and retained. Then he followed a pathway through the
-wood until he came to the highroad, where all traces were lost.</action>
- </p>
- <p>
+wood until he came to the highroad, where all traces were lost.</action></p>
+ 
+ 
 
- <quote speaker = "sherlock">“It has been a case of considerable interest,”</quote> he remarked, returning
+ <p><quote speaker = "sherlock">“It has been a case of considerable interest,”</quote> he remarked, returning
  to his natural manner. <quote speaker = "sherlock">“I fancy that this grey house on the right must
 be the lodge. I think that I will go in and have a word with Moran, and
 perhaps write a little note. Having done that, we may drive back to our
-luncheon. You may walk to the cab, and I shall be with you presently.”</quote>
+luncheon. You may walk to the cab, and I shall be with you presently.”</quote></p>
 
-It was about ten minutes before we regained our cab and drove back into
+ <p>It was about ten minutes before we regained our cab and drove back into
 Ross, Holmes still carrying with him the stone which he had picked up
-in the wood.
+in the wood.</p>
 
-  <quote speaker = "sherlock">“This may interest you, <char gender = "male">Lestrade</char>,”</quote> he remarked, holding it out. <quote speaker = "sherlock">“The
-murder was done with it.”</quote>
+ <p><quote speaker = "sherlock">“This may interest you, <char gender = "male">Lestrade</char>,”</quote> he remarked, holding it out. <quote speaker = "sherlock">“The
+murder was done with it.”</quote></p>
 
- <quote speaker = "lestrade">“I see no marks.”</quote>
+ <p><quote speaker = "lestrade">“I see no marks.”</quote></p>
 
- <quote speaker = "sherlock">“There are none.”</quote>
+ <p><quote speaker = "sherlock">“There are none.”</quote></p>
 
- <quote speaker = "lestrade">“How do you know, then?”</quote>
+ <p><quote speaker = "lestrade">“How do you know, then?”</quote></p>
 
- <quote speaker = "sherlock">“The grass was growing under it. It had only lain there a few days.
+ <p><quote speaker = "sherlock">“The grass was growing under it. It had only lain there a few days.
 There was no sign of a place whence it had been taken. It corresponds
-with the injuries. There is no sign of any other weapon.”</quote>
+with the injuries. There is no sign of any other weapon.”</quote></p>
 
- <quote speaker = "lestrade">“And the murderer?”</quote>
+ <p><quote speaker = "lestrade">“And the murderer?”</quote></p>
 
-<quote speaker = "sherlock">“<char gender = "male">Is a tall man, left-handed, limps with the right leg, wears
+ <p><quote speaker = "sherlock">“<char gender = "male">Is a tall man, left-handed, limps with the right leg, wears
 thick-soled shooting-boots and a grey cloak, smokes Indian cigars, uses
 a cigar-holder, and carries a blunt pen-knife in his pocket</char>. There are
 several other indications, but these may be enough to aid us in our
-search.”</quote>
+search.”</quote></p>
 
-Lestrade laughed. <quote speaker = "lestrade">“I am afraid that I am still a sceptic,”</quote> he said.
+ <p>Lestrade laughed. <quote speaker = "lestrade">“I am afraid that I am still a sceptic,”</quote> he said.
  <quote speaker = "lestrade">“Theories are all very well, but we have to deal with a hard-head ed
-British jury.”</quote>
+British jury.”</quote></p>
 
- <quote speaker = "sherlock">“_Nous verrons_,”</quote> answered Holmes calmly. <quote speaker = "sherlock">“You work your own method,
+ <p><quote speaker = "sherlock">“_Nous verrons_,”</quote> answered Holmes calmly. <quote speaker = "sherlock">“You work your own method,
 and I shall work mine. I shall be busy this afternoon, and shall
-probably return to London by the evening train.”</quote>
+probably return to London by the evening train.”</quote></p>
 
- <quote speaker = "lestrade">“And leave your case unfinished?”</quote>
+ <p><quote speaker = "lestrade">“And leave your case unfinished?”</quote></p>
 
- <quote speaker = "sherlock">“No, finished.”</quote>
+ <p><quote speaker = "sherlock">“No, finished.”</quote></p>
 
- <quote speaker = "lestrade">“But the mystery?”</quote>
+ <p><quote speaker = "lestrade">“But the mystery?”</quote></p>
 
- <quote speaker = "sherlock">“It is solved.”</quote>
+ <p><quote speaker = "sherlock">“It is solved.”</quote></p>
 
- <quote speaker = "lestrade">“Who was the criminal, then?”</quote>
+ <p><quote speaker = "lestrade">“Who was the criminal, then?”</quote></p>
 
- <quote speaker = "sherlock">“The gentleman I describe.”</quote>
+ <p><quote speaker = "sherlock">“The gentleman I describe.”</quote></p>
 
- <quote speaker = "lestrade">“But who is he?”</quote>
+ <p><quote speaker = "lestrade">“But who is he?”</quote></p>
 
- <quote speaker = "sherlock">“Surely it would not be difficult to find out. This is not such a
-populous neighbourhood.”</quote>
+ <p><quote speaker = "sherlock">“Surely it would not be difficult to find out. This is not such a
+populous neighbourhood.”</quote></p>
 
-Lestrade shrugged his shoulders. <quote speaker = "lestrade">“I am a practical man,”</quote> he said, <quote speaker = "lestrade">“and
+ <p>Lestrade shrugged his shoulders. <quote speaker = "lestrade">“I am a practical man,”</quote> he said, <quote speaker = "lestrade">“and
  <action char = "lestrade">I really cannot undertake to go about the country looking for a
 left-handed gentleman with a game leg. I should become the
-laughing-stock of Scotland Yard.</action>”</quote>
+laughing-stock of Scotland Yard.</action>”</quote></p>
 
-  <quote speaker = "sherlock">“All right,”</quote> said <char gender = "male">Holmes</char> quietly. <quote speaker = "sherlock">“I have given you the chance. Here
-are your lodgings. Good-bye. I shall drop you a line before I leave.”</quote>
- </p>
- <p>
+ <p><quote speaker = "sherlock">“All right,”</quote> said <char gender = "male">Holmes</char> quietly. <quote speaker = "sherlock">“I have given you the chance. Here
+are your lodgings. Good-bye. I shall drop you a line before I leave.”</quote></p>
+ 
+ 
 
-Having left <char gender = "male">Lestrade at his rooms</char>, we drove to our hotel, where we
+ <p>Having left <char gender = "male">Lestrade at his rooms</char>, we drove to our hotel, where we
   found lunch upon the table. <action char = "sherlock"><char gender = "male">Holmes</char> was silent and buried in thought
 with a pained expression upon his face, as one who finds himself in a
-perplexing position</action>.
+perplexing position</action>.</p>
 
-<quote speaker = "sherlock">“Look here, <char gender = "male">Watson</char>,”</quote> he said when the cloth was cleared <quote speaker = "sherlock">“just sit down
+ <p><quote speaker = "sherlock">“Look here, <char gender = "male">Watson</char>,”</quote> he said when the cloth was cleared <quote speaker = "sherlock">“just sit down
 in this chair and let me preach to you for a little. I don’t know quite
 what to do, and I should value your advice. Light a cigar and let me
-expound.”</quote>
+expound.”</quote></p>
 
- <quote speaker = "watson">“Pray do so.”</quote>
+ <p><quote speaker = "watson">“Pray do so.”</quote></p>
 
-<quote speaker = "sherlock">“Well, now, in considering this case there are two points about <char gender = "male">young
+ <p><quote speaker = "sherlock">“Well, now, in considering this case there are two points about <char gender = "male">young
 McCarthy’s</char> narrative which struck us both instantly, although they
 impressed me in his favour and you against him. One was the fact that
 <action char = "charles"><char gender = "male">his father</char> should, according to his account, cry ‘Cooee!’ before seeing
 him</action>. <action char = "james">The other was his singular dying reference to a rat. He mumbled
 several words, you understand, but that was all that caught the <char gender = "male">son’s</char>
 ear</action>. Now from this double point our research must commence, and we will
-begin it by presuming that what the lad says is absolutely true.”</quote>
+begin it by presuming that what the lad says is absolutely true.”</quote></p>
 
- <quote speaker = "watson">“What of this ‘Cooee!’ then?”</quote>
+ <p><quote speaker = "watson">“What of this ‘Cooee!’ then?”</quote></p>
 
-  <quote speaker = "sherlock">“Well, obviously it could not have been meant for the <char gender = "male">son</char>. The son, as
+ <p><quote speaker = "sherlock">“Well, obviously it could not have been meant for the <char gender = "male">son</char>. The son, as
 far as he knew, was in Bristol. It was mere chance that he was within
 earshot. The ‘Cooee!’ was meant to attract the attention of whoever it
 was that he had the appointment with. But ‘Cooee’ is a distinctly
 Australian cry, and one which is used between Australians. There is a
 strong presumption that the person whom <char gender = "male">McCarthy</char> expected to meet him
-at Boscombe Pool was someone who had been in Australia.”</quote>
+at Boscombe Pool was someone who had been in Australia.”</quote></p>
 
- <quote speaker = "watson">“What of the rat, then?”</quote>
+ <p><quote speaker = "watson">“What of the rat, then?”</quote></p>
 
-Sherlock Holmes took a folded paper from his pocket and flattened it
+ <p>Sherlock Holmes took a folded paper from his pocket and flattened it
 out on the table. <quote speaker = "sherlock">“This is a map of the Colony of Victoria,”</quote> he said.
 <quote speaker = "sherlock">“<action char = "sherlock">I wired to Bristol for it last night</action>.”</quote> He put his hand over part of
-the map. <quote speaker = "sherlock">“What do you read?”</quote>
+the map. <quote speaker = "sherlock">“What do you read?”</quote></p>
 
- <quote speaker = "watson">“ARAT,”</quote> I read.
+ <p><quote speaker = "watson">“ARAT,”</quote> I read.</p>
 
- <quote speaker = "sherlock">“And now?”</quote> He raised his hand.
+ <p><quote speaker = "sherlock">“And now?”</quote> He raised his hand.</p>
 
- <quote speaker = "watson">“BALLARAT.</quote>
+ <p><quote speaker = "watson">“BALLARAT.</quote></p>
 
-<quote speaker = "sherlock">“Quite so. That was the word the man uttered, and of which his son only
+ <p><quote speaker = "sherlock">“Quite so. That was the word the man uttered, and of which his son only
 caught the last two syllables. <char gender = "charles">He was trying to utter the name of his
-murderer. So and so, of Ballarat</char>.”</quote>
+murderer. So and so, of Ballarat</char>.”</quote></p>
 
- <quote speaker = "watson">“It is wonderful!”</quote> I exclaimed.
+ <p><quote speaker = "watson">“It is wonderful!”</quote> I exclaimed.</p>
 
- <quote speaker = "sherlock">“It is obvious. And now, you see, I had narrowed the field down
+ <p><quote speaker = "sherlock">“It is obvious. And now, you see, I had narrowed the field down
 considerably. The possession of a grey garment was a third point which,
 granting the son’s statement to be correct, was a certainty. We have
 come now out of mere vagueness to the definite conception of an
-Australian from Ballarat with a grey cloak.”</quote>
+Australian from Ballarat with a grey cloak.”</quote></p>
 
- <quote speaker = "watson">“Certainly.”</quote>
+ <p><quote speaker = "watson">“Certainly.”</quote></p>
 
- <quote speaker = "sherlock">“And one who was at home in the district, for the pool can only be
+ <p><quote speaker = "sherlock">“And one who was at home in the district, for the pool can only be
 approached by the farm or by the estate, where strangers could hardly
-wander.”</quote>
+wander.”</quote></p>
 
- <quote speaker = "watson">“Quite so.”</quote>
+ <p><quote speaker = "watson">“Quite so.”</quote></p>
 
- <quote speaker = "sherlock">“Then comes our expedition of to-day. By an examination of the ground I
+ <p><quote speaker = "sherlock">“Then comes our expedition of to-day. By an examination of the ground I
 gained the trifling details which I gave to <char gender = "male">that imbecile Lestrade</char>, as
-to the personality of the criminal.”</quote>
+to the personality of the criminal.”</quote></p>
 
- <quote speaker = "watson">“But how did you gain them?”</quote>
+ <p><quote speaker = "watson">“But how did you gain them?”</quote></p>
 
- <quote speaker = "sherlock">“You know my method. It is founded upon the observation of trifles.”</quote>
+ <p><quote speaker = "sherlock">“You know my method. It is founded upon the observation of trifles.”</quote></p>
 
-  <quote speaker = "watson">“<char gender = "male">His height I know that you might roughly judge from the length of his
-stride. His boots, too, might be told from their traces</char>.”</quote>
+ <p><quote speaker = "watson">“<char gender = "male">His height I know that you might roughly judge from the length of his
+stride. His boots, too, might be told from their traces</char>.”</quote></p>
 
- <quote speaker = "sherlock">“Yes, they were peculiar boots.”</quote>
+ <p><quote speaker = "sherlock">“Yes, they were peculiar boots.”</quote></p>
 
-  <quote speaker = "watson">“But <char gender = "male">his</char> lameness?”</quote>
+ <p><quote speaker = "watson">“But <char gender = "male">his</char> lameness?”</quote></p>
 
-  <quote speaker = "sherlock">“The impression of <char gender = "male">his right foot was always less distinct than his
-left. He put less weight upon it. Why? Because he limped—he was lame</char>.”</quote>
+ <p><quote speaker = "sherlock">“The impression of <char gender = "male">his right foot was always less distinct than his
+left. He put less weight upon it. Why? Because he limped—he was lame</char>.”</quote></p>
 
-<quote speaker = "watson">“But <char gender = "male">his left-handedness</char>.”</quote>
+ <p><quote speaker = "watson">“But <char gender = "male">his left-handedness</char>.”</quote></p>
 
- <quote speaker = "sherlock">“You were yourself struck by the nature of the injury as recorded by
+ <p><quote speaker = "sherlock">“You were yourself struck by the nature of the injury as recorded by
 the surgeon at the inquest. The blow was struck from immediately
 behind, and yet was upon the left side. Now, how can that be unless it
 were by <char gender = "male">a left-handed man</char>? He had stood behind that tree during the
@@ -915,25 +914,25 @@ attention to this, and written a little monograph on the ashes of 140
 different varieties of pipe, cigar, and cigarette tobacco. Having found
 the ash, I then looked round and discovered the stump among the moss
 where he had tossed it. It was an Indian cigar, of the variety which
-are rolled in Rotterdam</action>.”</quote>
+are rolled in Rotterdam</action>.”</quote></p>
 
- <quote speaker = "watson">“And the cigar-holder?”</quote>
+ <p><quote speaker = "watson">“And the cigar-holder?”</quote></p>
 
-<quote speaker = "sherlock">“I could see that the end had not been in his mouth. Therefore <char gender = "male">he</char> used
+ <p><quote speaker = "sherlock">“I could see that the end had not been in his mouth. Therefore <char gender = "male">he</char> used
 a holder. The tip had been cut off, not bitten off, but the cut was not
-a clean one, so I deduced a blunt pen-knife.”</quote>
+a clean one, so I deduced a blunt pen-knife.”</quote></p>
 
- <quote speaker = "watson">“Holmes,”</quote> I said, <quote speaker = "watson">“you have drawn a net round this man from which he
+ <p><quote speaker = "watson">“Holmes,”</quote> I said, <quote speaker = "watson">“you have drawn a net round this man from which he
 cannot escape, and you have saved an innocent human life as truly as if
 you had cut the cord which was hanging him. I see the direction in
-which all this points. The culprit is—”</quote>
+which all this points. The culprit is—”</quote></p>
 
-<quote speaker = "waiter">“<char gender = "male">Mr. John Turner</char>,”</quote> cried the hotel waiter, opening the door of our
-sitting-room, and ushering in a visitor.
- </p>
- <p>
+ <p><quote speaker = "waiter">“<char gender = "male">Mr. John Turner</char>,”</quote> cried the hotel waiter, opening the door of our
+sitting-room, and ushering in a visitor.</p>
+ 
+ 
 
-<char gender = "male">The man who entered was a strange and impressive figure. His slow,
+ <p><char gender = "male">The man who entered was a strange and impressive figure. His slow,
 limping step and bowed shoulders gave the appearance of decrepitude,
 and yet his hard, deep-lined, craggy features, and his enormous limbs
 showed that he was possessed of unusual strength of body and of
@@ -942,71 +941,71 @@ eyebrows combined to give an air of dignity and power to his
 appearance, but his face was of an ashen white, while his lips and the
 corners of his nostrils were tinged with a shade of blue. It was clear
 to me at a glance that he was in the grip of some deadly and chronic
-disease.</char>
+disease.</char></p>
 
- <quote speaker = "sherlock">“Pray sit down on the sofa,”</quote> said Holmes gently. <quote speaker = "sherlock">“You had my note?”</quote>
+ <p><quote speaker = "sherlock">“Pray sit down on the sofa,”</quote> said Holmes gently. <quote speaker = "sherlock">“You had my note?”</quote></p>
 
- <quote speaker = "mr_turner">“Yes, the lodge-keeper brought it up. You said that you wished to see
-me here to avoid scandal.”</quote>
+ <p><quote speaker = "mr_turner">“Yes, the lodge-keeper brought it up. You said that you wished to see
+me here to avoid scandal.”</quote></p>
 
- <quote speaker = "sherlock">“I thought people would talk if I went to the Hall.”</quote>
+ <p><quote speaker = "sherlock">“I thought people would talk if I went to the Hall.”</quote></p>
 
- <quote speaker = "mr_turner">“And why did you wish to see me?”</quote> He looked across at my companion with
-despair in his weary eyes, as though his question was already answered.
+ <p><quote speaker = "mr_turner">“And why did you wish to see me?”</quote> He looked across at my companion with
+despair in his weary eyes, as though his question was already answered.</p>
 
- <quote speaker = "sherlock">“Yes,”</quote> said Holmes, answering the look rather than the words. <quote speaker = "sherlock">“It is
-so. I know all about McCarthy.”</quote>
+ <p><quote speaker = "sherlock">“Yes,”</quote> said Holmes, answering the look rather than the words. <quote speaker = "sherlock">“It is
+so. I know all about McCarthy.”</quote></p>
 
-The old man sank his face in his hands. <quote speaker = "mr_turner">“God help me!”</quote> he cried. <quote speaker = "mr_turner">“But I
+ <p>The old man sank his face in his hands. <quote speaker = "mr_turner">“God help me!”</quote> he cried. <quote speaker = "mr_turner">“But I
 would not have let the young man come to harm. I give you my word that
-I would have spoken out if it went against him at the Assizes.”</quote>
+I would have spoken out if it went against him at the Assizes.”</quote></p>
 
- <quote speaker = "sherlock">“I am glad to hear you say so,”</quote> said Holmes gravely.
+ <p><quote speaker = "sherlock">“I am glad to hear you say so,”</quote> said Holmes gravely.</p>
 
- <quote speaker = "sherlock">“I would have spoken now had it not been for <char gender = "female">my dear girl. It would
+ <p><quote speaker = "sherlock">“I would have spoken now had it not been for <char gender = "female">my dear girl. It would
 break her heart—it will break her heart when she hears that I am
-arrested.</char>”</quote>
+arrested.</char>”</quote></p>
 
- <quote speaker = "sherlock">“It may not come to that,”</quote> said Holmes.
+ <p><quote speaker = "sherlock">“It may not come to that,”</quote> said Holmes.</p>
 
- <quote speaker = "mr_turner">“What?”</quote>
+ <p><quote speaker = "mr_turner">“What?”</quote></p>
 
-  <quote speaker = "sherlock">“I am no official agent. I understand that it was <action char = "ms_turner"><char gender = "female">your daughter</char> who
+ <p><quote speaker = "sherlock">“I am no official agent. I understand that it was <action char = "ms_turner"><char gender = "female">your daughter</char> who
 required my presence here</action>, and I am acting in her interests. <char gender = "male">Young
-McCarthy</char> must be got off, however.”</quote>
+McCarthy</char> must be got off, however.”</quote></p>
 
- <quote speaker = "mr_turner">“I am a dying man,”</quote> said old Turner. <quote speaker = "mr_turner">“I have had diabetes for years. My
+ <p><quote speaker = "mr_turner">“I am a dying man,”</quote> said old Turner. <quote speaker = "mr_turner">“I have had diabetes for years. My
 doctor says it is a question whether I shall live a month. Yet I would
-rather die under my own roof than in a gaol.”</quote>
+rather die under my own roof than in a gaol.”</quote></p>
 
- <action char = "sherlock">Holmes rose and sat down at the table with his pen in his hand and a
+ <p><action char = "sherlock">Holmes rose and sat down at the table with his pen in his hand and a
   bundle of paper before him. </action><quote speaker = "sherlock">“Just tell us the truth,” he said. “I shall
 jot down the facts. You will sign it, and Watson here can witness it.
 Then I could produce your confession at the last extremity to save
 <char gender = "male">young McCarthy. </char>I promise you that I shall not use it unless it is
-absolutely needed.”</quote>
+absolutely needed.”</quote></p>
 
-<quote speaker = "mr_turner">“It’s as well,”</quote> sxaid the old man; <quote speaker = "mr_turner">“it’s a question whether I shall live
+ <p><quote speaker = "mr_turner">“It’s as well,”</quote> sxaid the old man; <quote speaker = "mr_turner">“it’s a question whether I shall live
 to the Assizes, so it matters little to me, but I should wish to spare
 <char gender = "female">Alice</char> the shock. And now I will make the thing clear to you; it has
-been a long time in the acting, but will not take me long to tell.
+been a long time in the acting, but will not take me long to tell.</quote></p>
 
-“You didn’t know <char gender = "male">this dead man, McCarthy. He was a devil incarnate. I
+  <p>“You didn’t know <char gender = "male">this dead man, McCarthy. He was a devil incarnate. I
 tell you that. God keep you out of the clutches of such a man as he.
 His grip has been upon me these twenty years, and he has blasted my
-life. I’ll tell you first how I came to be in his power.</char>
+life. I’ll tell you first how I came to be in his power.</char></p>
  
 
-“It was in the early ’60’s at the diggings. <action char = "mr_turner">I was a young chap then,
+ <p>“It was in the early ’60’s at the diggings. <action char = "mr_turner">I was a young chap then,
 hot-blooded and reckless, ready to turn my hand at anything; I got
 among bad companions, took to drink, had no luck with my claim, took to
 the bush, and in a word became what you would call over here a highway
 robber. There were six of us, and we had a wild, free life of it,
 sticking up a station from time to time, or stopping the wagons on the
 road to the diggings. Black Jack of Ballarat was the name I went under,
-and our party is still remembered in the colony as the Ballarat Gang.</action>
+and our party is still remembered in the colony as the Ballarat Gang.</action></p>
 
-“One day a gold convoy came down from Ballarat to Melbourne, and we lay
+ <p>“One day a gold convoy came down from Ballarat to Melbourne, and we lay
 in wait for it and attacked it. There were six troopers and six of us,
 so it was a close thing, but we emptied four of their saddles at the
 first volley. Three of our boys were killed, however, before we got the
@@ -1023,37 +1022,37 @@ though <char gender = "female">my wife</char> died young she left me my dear lit
 she was just a baby her wee hand seemed to lead me down the right path
 as nothing else had ever done. In a word, I turned over a new leaf and
 did my best to make up for the past. </action>All was going well when<action char = "charles"> McCarthy
-laid his grip upon me.</action>
+laid his grip upon me.</action></p>
 
-“I had gone up to town about an investment, and I met him in Regent
-Street with hardly a coat to his back or a boot to his foot.
+ <p>“I had gone up to town about an investment, and I met him in Regent
+Street with hardly a coat to his back or a boot to his foot.</p>
 
-  <quote char = "charles">“‘Here we are, Jack,’</quote> says he, touching me on the arm; <quote char = "charles">‘we’ll be as
+ <p><quote char = "charles">“‘Here we are, Jack,’</quote> says he, touching me on the arm; <quote char = "charles">‘we’ll be as
 good as a family to you. There’s two of us, me and my son, and you can
 have the keeping of us. If you don’t—it’s a fine, law-abiding country
-is England, and there’s always a policeman within hail.’</quote>
+is England, and there’s always a policeman within hail.’</quote></p>
 
-“Well, down they came to the west country, there was no shaking them
+ <p>“Well, down they came to the west country, there was no shaking them
 off, and there they have lived rent free on my best land ever since.
 There was no rest for me, no peace, no forgetfulness; turn where I
 would, there was his cunning, grinning face at my elbow. It grew worse
 as <char gender = "female">Alice</char> grew up, for <action char = "charles">he soon saw I was more afraid of her knowing my
 past than of the police. Whatever he wanted he must have, and whatever
 it was I gave him without question, land, money, houses, until at last
-he asked a thing which I could not give. He asked for <char gender = "female">Alice</char>.</action>
+he asked a thing which I could not give. He asked for <char gender = "female">Alice</char>.</action></p>
 
-“<char gender = "male">His son</char>, you see, had grown up, and so had my <char gender = "female">girl</char>, and as I was known
+ <p>“<char gender = "male">His son</char>, you see, had grown up, and so had my <char gender = "female">girl</char>, and as I was known
 to be in weak health, it seemed a fine stroke to him that his lad
 should step into the whole property. But there I was firm. I would not
 have his cursed stock mixed with mine; not that I had any dislike to
 the lad, but his blood was in him, and that was enough. I stood firm.
-McCarthy threatened. <action char = "mr_turner">I braved him to do his worst. We were to meet at
-the pool midway between our houses to talk it over.
+McCarthy threatened. <action char = "mr_turner">I braved him to do his worst</action>. We were to meet at
+the pool midway between our houses to talk it over.</p>
 
-“When I went down there I found him talking with his son, so I smoked a
+ <p>“When I went down there I found him talking with his son, so I smoked a
 cigar and waited behind a tree until he should be alone. But as I
 listened to his talk all that was black and bitter in me seemed to come
-uppermost.</action><action char = "charles"> He was urging his son to marry my daughter with as little
+uppermost.<action char = "charles"> He was urging his son to marry my daughter with as little
  regard <action char = "ms_turner">for what she might think as if she were a slut from off the
 streets.</action> </action>It drove me mad to think that I and all that I held most dear
 should be in the power of such a man as this. Could I not snap the
@@ -1067,38 +1066,38 @@ than I could suffer. I struck him down with no more compunction than if
 he had been some foul and venomous beast. His cry brought back his son;
 but I had gained the cover of the wood, though I was forced to go back
 to fetch the cloak which I had dropped in my flight. That is the true
-story, gentlemen, of all that occurred.”
- </quote>
- </p>
- <p>
- <quote speaker = "sherlock">“Well, it is not for me to judge you,”</quote> said Holmes as the old man
+story, gentlemen, of all that occurred.”</p>
+
+ 
+ 
+ <p><quote speaker = "sherlock">“Well, it is not for me to judge you,”</quote> said Holmes as the old man
  signed the statement which had been drawn out. <quote speaker = "sherlock">“I pray that we may
-never be exposed to such a temptation.”</quote>
+never be exposed to such a temptation.”</quote></p>
 
- <quote speaker = "mr_turner">“I pray not, sir. And what do you intend to do?”</quote>
+ <p><quote speaker = "mr_turner">“I pray not, sir. And what do you intend to do?”</quote></p>
 
- <quote speaker = "sherlock">“In view of your health, nothing. You are yourself aware that you will
+ <p><quote speaker = "sherlock">“In view of your health, nothing. You are yourself aware that you will
 soon have to answer for your deed at a higher court than the Assizes. I
 will keep your confession, and if <char gender = "male">McCarthy</char> is condemned I shall be
 forced to use it. If not, it shall never be seen by mortal eye; and
-your secret, whether you be alive or dead, shall be safe with us.”</quote>
+your secret, whether you be alive or dead, shall be safe with us.”</quote></p>
 
- <quote speaker = "mr_turner">“Farewell, then,”</quote> said the old man solemnly. <quote speaker = "mr_turner">“Your own deathbeds, when
+ <p><quote speaker = "mr_turner">“Farewell, then,”</quote> said the old man solemnly. <quote speaker = "mr_turner">“Your own deathbeds, when
 they come, will be the easier for the thought of the peace which you
 have given to mine.”</quote> <action char = "mr_turner">Tottering and shaking in all his giant frame, he
-stumbled slowly from the room</action>.
+stumbled slowly from the room</action>.</p>
 
- <quote speaker = "sherlock">“God help us!”</quote> said Holmes after a long silence. <quote speaker = "sherlock">“Why does fate play
+ <p><quote speaker = "sherlock">“God help us!”</quote> said Holmes after a long silence. <quote speaker = "sherlock">“Why does fate play
 such tricks with poor, helpless worms? I never hear of such a case as
 this that I do not think of Baxter’s words, and say, ‘There, but for
-the grace of God, goes <char gender = "male">Sherlock Holmes</char>.’”</quote>
+the grace of God, goes <char gender = "male">Sherlock Holmes</char>.’”</quote></p>
 
-<char gender = "male">James McCarthy</char> was acquitted at the Assizes on the strength of a number
+ <p><char gender = "male">James McCarthy</char> was acquitted at the Assizes on the strength of a number
 of <action char = "sherlock">objections which had been drawn out by Holmes and submitted to the
 defending counsel.</action> <action char = "mr_turner"><char gender = "male">Old Turner</char> lived for seven months after our
 interview</action>, but he is now dead; and there is every prospect that the <char gender = "male">son</char>
 and <char gender = "female">daughter</char> may come to live happily together in ignorance of the
-black cloud which rests upon their past.
- </p>
+black cloud which rests upon their past.</p>
+
 </story>
 </passage>
