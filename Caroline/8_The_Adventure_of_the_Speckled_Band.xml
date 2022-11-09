@@ -8,7 +8,7 @@
     <story>
 
         <p>On glancing over my notes of the seventy odd cases in which I have during the last eight
-            years studied the methods of my friend Sherlock Holmes, I find many tragic, some comic,
+            years studied the methods of my friend <char gender = "male" name = "sherlockHolmes">Sherlock Holmes</char>, I find many tragic, some comic,
             a large number merely strange, but none commonplace; for, working as he did rather for
             the love of his art than for the acquirement of wealth, he refused to associate himself
             with any investigation which did not tend towards the unusual, and even the fantastic.
@@ -20,17 +20,17 @@
             made at the time, from which I have only been freed during the last month by the
             untimely death of the lady to whom the pledge was given. It is perhaps as well that the
             facts should now come to light, for I have reasons to know that there are widespread
-            rumours as to the death of Dr. Grimesby Roylott which tend to make the matter even more
+            rumours as to the death of >Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char> which tend to make the matter even more
             terrible than the truth.</p>
 
-        <p>It was early in April in the year '83 that I woke one morning to find Sherlock Holmes
+        <p>It was early in April in the year '83 that I woke one morning to find <char gender = "male" name = "sherlockHolmes">Sherlock Holmes</char>
             standing, fully dressed, by the side of my bed. He was a late riser, as a rule, and as
             the clock on the mantelpiece showed me that it was only a quarter-past seven, I blinked
             up at him in some surprise, and perhaps just a little resentment, for I was myself
             regular in my habits.</p>
 
-        <p><quote speaker="sherlockHolmes">Very sorry to knock you up, Watson,</quote> said he,
-                <quote speaker="sherlockHolmes">but it's the common lot this morning. Mrs. Hudson
+        <p><quote speaker="sherlockHolmes">Very sorry to knock you up, <char gender = "male" name = "johnWatson">Watson</char>,</quote> said he,
+                <quote speaker="sherlockHolmes">but it's the common lot this morning. <char gender = "female" name = "mrsHudson">Mrs. Hudson</char>
                 has been knocked up, she retorted upon me, and I on you.</quote></p>
 
         <p><quote speaker="johnWatson">What is it, then—a fire?</quote></p>
@@ -46,17 +46,17 @@
         <p><quote speaker="johnWatson">My dear fellow, I would not miss it for
             anything.</quote></p>
 
-        <p>I had no keener pleasure than in following Holmes in his professional investigations, and
+        <p>I had no keener pleasure than in following<char gender = "male" name = "sherlockHolmes"> Holmes </char>in his professional investigations, and
             in admiring the rapid deductions, as swift as intuitions, and yet always founded on a
             logical basis with which he unravelled the problems which were submitted to him. I
             rapidly threw on my clothes and was ready in a few minutes to accompany my friend down
             to the sitting-room. A lady dressed in black and heavily veiled, who had been sitting in
             the window, rose as we entered.</p>
 
-        <p><quote speaker="sherlockHolmes">Good-morning, madam,</quote> said Holmes cheerily.
-                <quote speaker="sherlockHolmes">My name is Sherlock Holmes. This is my intimate
-                friend and associate, Dr. Watson, before whom you can speak as freely as before
-                myself. Ha! I am glad to see that Mrs. Hudson has had the good sense to light the
+        <p><quote speaker="sherlockHolmes">Good-morning, madam,</quote> said<char gender = "male" name = "sherlockHolmes"> Holmes </char>cheerily.
+            <quote speaker="sherlockHolmes">My name is <char gender = "male" name = "sherlockHolmes">Sherlock Holmes</char>. This is my intimate
+                friend and associate, Dr.<char gender = "male" name = "johnWatson"> Watson</char>, before whom you can speak as freely as before
+                myself. Ha! I am glad to see that<char gender = "female" name = "mrsHudson"> Mrs. Hudson</char> has had the good sense to light the
                 fire. Pray draw up to it, and I shall order you a cup of hot coffee, for I observe
                 that you are shivering.</quote></p>
 
@@ -65,12 +65,12 @@
 
         <p><quote speaker="sherlockHolmes">What, then?</quote></p>
 
-        <p><quote speaker="helenStoner">It is fear, Mr. Holmes. It is terror.</quote> She raised
+        <p><quote speaker="helenStoner">It is fear, Mr. <char gender = "male" name = "sherlockHolmes">Holmes</char>. It is terror.</quote> She raised
             her veil as she spoke, and we could see that she was indeed in a pitiable state of
             agitation, her face all drawn and grey, with restless frightened eyes, like those of
             some hunted animal. Her features and figure were those of a woman of thirty, but her
             hair was shot with premature grey, and her expression was weary and haggard. Sherlock
-            Holmes ran her over with one of his quick, all-comprehensive glances.</p>
+           <char gender = "male" name = "sherlockHolmes"> Holmes </char>ran her over with one of his quick, all-comprehensive glances.</p>
 
         <p><quote speaker="sherlockHolmes">You must not fear,</quote> said he soothingly, bending
             forward and patting her forearm. <quote speaker="sherlockHolmes">We shall soon set
@@ -96,20 +96,20 @@
                 six, reached Leatherhead at twenty past, and came in by the first train to Waterloo.
                 Sir, I can stand this strain no longer; I shall go mad if it continues. I have no
                 one to turn to—none, save only one, who cares for me, and he, poor fellow, can be of
-                little aid. I have heard of you, Mr. Holmes; I have heard of you from Mrs.
-                Farintosh, whom you helped in the hour of her sore need. It was from her that I had
+                little aid. I have heard of you, Mr. <char gender = "male" name = "sherlockHolmes">Holmes</char>; I have heard of you from Mrs.
+                <char gender = "female" name = "mrsFarintosh">Farintosh</char>, whom you helped in the hour of her sore need. It was from her that I had
                 your address. Oh, sir, do you not think that you could help me, too, and at least
                 throw a little light through the dense darkness which surrounds me? At present it is
                 out of my power to reward you for your services, but in a month or six weeks I shall
                 be married, with the control of my own income, and then at least you shall not find
                 me ungrateful.</quote></p>
 
-        <p>Holmes turned to his desk and, unlocking it, drew out a small case-book, which he
+        <p><char gender = "male" name = "sherlockHolmes">Holmes</char> turned to his desk and, unlocking it, drew out a small case-book, which he
             consulted.</p>
 
-        <p><quote speaker="sherlockHolmes">Farintosh,</quote> said he. <quote
+        <p><quote speaker="sherlockHolmes"><char gender = "female" name = "mrsFarintosh">Farintosh</char>,</quote> said he. <quote
                 speaker="sherlockHolmes">Ah yes, I recall the case; it was concerned with an opal
-                tiara. I think it was before your time, Watson. I can only say, madam, that I shall
+                tiara. I think it was before your time,<char gender = "male" name = "johnWatson"> Watson</char>. I can only say, madam, that I shall
                 be happy to devote the same care to your case as I did to that of your friend. As to
                 reward, my profession is its own reward; but you are at liberty to defray whatever
                 expenses I may be put to, at the time which suits you best. And now I beg that you
@@ -122,17 +122,17 @@
                 might seem trivial to another, that even he to whom of all others I have a right to
                 look for help and advice looks upon all that I tell him about it as the fancies of a
                 nervous woman. He does not say so, but I can read it from his soothing answers and
-                averted eyes. But I have heard, Mr. Holmes, that you can see deeply into the
+                averted eyes. But I have heard, Mr. <char gender = "male" name = "sherlockHolmes">Holmes</char>, that you can see deeply into the
                 manifold wickedness of the human heart. You may advise me how to walk amid the
                 dangers which encompass me.</quote></p>
 
         <p><quote speaker="sherlockHolmes">I am all attention, madam.</quote></p>
 
-        <p><quote speaker="helenStoner">My name is Helen Stoner, and I am living with my
+        <p><quote speaker="helenStoner">My name is<char gender = "female" name = "helenStoner"> Helen Stoner</char>, and I am living with my
                 stepfather, who is the last survivor of one of the oldest Saxon families in England,
                 the Roylotts of Stoke Moran, on the western border of Surrey.</quote></p>
 
-        <p>Holmes nodded his head. <quote speaker="sherlockHolmes">The name is familiar to
+        <p><char gender = "male" name = "sherlockHolmes">Holmes</char> nodded his head. <quote speaker="sherlockHolmes">The name is familiar to
                 me,</quote> said he.</p>
 
         <p><quote speaker="helenStoner">The family was at one time among the richest in England,
@@ -151,14 +151,14 @@
                 long term of imprisonment and afterwards returned to England a morose and
                 disappointed man.</quote></p>
 
-        <p><quote speaker="helenStoner">When Dr. Roylott was in India he married my mother, Mrs.
-                Stoner, the young widow of Major-General Stoner, of the Bengal Artillery. My sister
-                Julia and I were twins, and we were only two years old at the time of my mother's
+        <p><quote speaker="helenStoner">When Dr. <char gender = "male" name = "sgrimesbyRoylott">Roylott</char> was in India he married my mother, <char gender = "female" name = "mrsStoner">Mrs.
+                Stoner</char>, the young widow of Major-General Stoner, of the Bengal Artillery. My sister
+                <char gender = "female" name = "juliaStoner">Julia</char> and I were twins, and we were only two years old at the time of my mother's
                 re-marriage. She had a considerable sum of money—not less than £ 1000 a year—and
-                this she bequeathed to Dr. Roylott entirely while we resided with him, with a
+                this she bequeathed to Dr. <char gender = "male" name = "grimesbyRoylott">Roylott</char> entirely while we resided with him, with a
                 provision that a certain annual sum should be allowed to each of us in the event of
                 our marriage. Shortly after our return to England my mother died—she was killed
-                eight years ago in a railway accident near Crewe. Dr. Roylott then abandoned his
+                eight years ago in a railway accident near Crewe. Dr. <char gender = "male" name = "grimesbyRoylott">Roylott</char> then abandoned his
                 attempts to establish himself in practice in London and took us to live with him in
                 the old ancestral house at Stoke Moran. The money which my mother had left was
                 enough for all our wants, and there seemed to be no obstacle to our
@@ -187,7 +187,7 @@
                 wander freely over his grounds and are feared by the villagers almost as much as
                 their master.</quote></p>
 
-        <p><quote speaker="helenStoner">You can imagine from what I say that my poor sister Julia
+        <p><quote speaker="helenStoner">You can imagine from what I say that my poor sister <char gender = "female" name = "juliaStoner">Julia</char>
                 and I had no great pleasure in our lives. No servant would stay with us, and for a
                 long time we did all the work of the house. She was but thirty at the time of her
                 death, and yet her hair had already begun to whiten, even as mine has.</quote></p>
@@ -197,15 +197,15 @@
         <p><quote speaker="helenStoner">She died just two years ago, and it is of her death that I
                 wish to speak to you. You can understand that, living the life which I have
                 described, we were little likely to see anyone of our own age and position. We had,
-                however, an aunt, my mother's maiden sister, Miss Honoria Westphail, who lives near
+                however, an aunt, my mother's maiden sister, Miss <char gender = "female" name = "honoriaWestphail">Honoria Westphail</char>, who lives near
                 Harrow, and we were occasionally allowed to pay short visits at this lady's house.
-                Julia went there at Christmas two years ago, and met there a half-pay major of
+                <char gender = "female" name = "juliaStoner">Julia</char> went there at Christmas two years ago, and met there a half-pay major of
                 marines, to whom she became engaged. My stepfather learned of the engagement when my
                 sister returned and offered no objection to the marriage; but within a fortnight of
                 the day which had been fixed for the wedding, the terrible event occurred which has
                 deprived me of my only companion.</quote></p>
 
-        <p>Sherlock Holmes had been leaning back in his chair with his eyes closed and his head sunk
+        <p>Sherlock<char gender = "male" name = "sherlockHolmes"> Holmes </char>had been leaning back in his chair with his eyes closed and his head sunk
             in a cushion, but he half opened his lids now and glanced across at his visitor.</p>
 
         <p><quote speaker="sherlockHolmes">Pray be precise as to details,</quote> said he.</p>
@@ -214,21 +214,21 @@
                 dreadful time is seared into my memory. The manor-house is, as I have already said,
                 very old, and only one wing is now inhabited. The bedrooms in this wing are on the
                 ground floor, the sitting-rooms being in the central block of the buildings. Of
-                these bedrooms the first is Dr. Roylott's, the second my sister's, and the third my
+                these bedrooms the first is <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char>'s, the second my sister's, and the third my
                 own. There is no communication between them, but they all open out into the same
                 corridor. Do I make myself plain?</quote></p>
 
         <p><quote speaker="sherlockHolmes">Perfectly so.</quote></p>
 
         <p><quote speaker="helenStoner">The windows of the three rooms open out upon the lawn. That
-                fatal night Dr. Roylott had gone to his room early, though we knew that he had not
+                fatal night <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char> had gone to his room early, though we knew that he had not
                 retired to rest, for my sister was troubled by the smell of the strong Indian cigars
                 which it was his custom to smoke. She left her room, therefore, and came into mine,
                 where she sat for some time, chatting about her approaching wedding. At eleven
                 o'clock she rose to leave me, but she paused at the door and looked
             back.</quote></p>
 
-        <p><quote speaker="helenStoner"><subq speaker="juliaStoner">Tell me, Helen,</subq> said
+        <p><quote speaker="helenStoner"><subq speaker="juliaStoner">Tell me, <char gender = "female" name = "helenStoner">Helen</char>,</subq> said
                 she, <subq speaker="juliaStoner">have you ever heard anyone whistle in the dead of
                     the night?</subq>
                 <subq speaker="helenStoner">Never,</subq> said I. <subq speaker="helenStoner">I
@@ -249,7 +249,7 @@
                     rate.</subq> She smiled back at me, closed my door, and a few moments later I
                 heard her key turn in the lock.'</quote></p>
 
-        <p><quote speaker="sherlockHolmes">Indeed,</quote> said Holmes. <quote
+        <p><quote speaker="sherlockHolmes">Indeed,</quote> said <char gender = "male" name = "sherlockHolmes">Holmes</char>. <quote
                 speaker="sherlockHolmes">Was it your custom always to lock yourselves in at
                 night?</quote></p>
 
@@ -257,7 +257,7 @@
 
         <p><quote speaker="sherlockHolmes">And why?</quote></p>
 
-        <p><quote speaker="helenStoner">I think that I mentioned to you that the Doctor kept a
+        <p><quote speaker="helenStoner">I think that I mentioned to you that the <char gender = "male" name = "grimesbyRoylott">Doctor</char> kept a
                 cheetah and a baboon. We had no feeling of security unless our doors were
                 locked.</quote></p>
 
@@ -280,9 +280,9 @@
                 moment her knees seemed to give way and she fell to the ground. She writhed as one
                 who is in terrible pain, and her limbs were dreadfully convulsed. At first I thought
                 that she had not recognised me, but as I bent over her she suddenly shrieked out in
-                a voice which I shall never forget, 'Oh, my God! Helen! It was the band! The
+                a voice which I shall never forget, 'Oh, my God! <char gender = "female" name = "helenStoner">Helen</char>! It was the band! The
                 speckled band!' There was something else which she would fain have said, and she
-                stabbed with her finger into the air in the direction of the Doctor's room, but a
+                stabbed with her finger into the air in the direction of the<char gender = "male" name = "grimesbyRoylott"> Doctor</char>'s room, but a
                 fresh convulsion seized her and choked her words. I rushed out, calling loudly for
                 my stepfather, and I met him hastening from his room in his dressing-gown. When he
                 reached my sister's side she was unconscious, and though he poured brandy down her
@@ -290,7 +290,7 @@
                 slowly sank and died without having recovered her consciousness. Such was the
                 dreadful end of my beloved sister.</quote></p>
 
-        <p><quote speaker="sherlockHolmes">One moment,</quote> said Holmes, <quote
+        <p><quote speaker="sherlockHolmes">One moment,</quote> said <char gender = "male" name = "sherlockHolmes">Holmes</char>, <quote
                 speaker="sherlockHolmes">are you sure about this whistle and metallic sound? Could
                 you swear to it?</quote></p>
 
@@ -307,7 +307,7 @@
                 when the alarm took place. That is important. And what conclusions did the coroner
                 come to?</quote></p>
 
-        <p><quote speaker="helenStoner">He investigated the case with great care, for Dr. Roylott's
+        <p><quote speaker="helenStoner">He investigated the case with great care, for <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char>'s
                 conduct had long been notorious in the county, but he was unable to find any
                 satisfactory cause of death. My evidence showed that the door had been fastened upon
                 the inner side, and the windows were blocked by old-fashioned shutters with broad
@@ -342,7 +342,7 @@
                 handkerchiefs which so many of them wear over their heads might have suggested the
                 strange adjective which she used.</quote></p>
 
-        <p>Holmes shook his head like a man who is far from being satisfied.</p>
+        <p><char gender = "male" name = "sherlockHolmes">Holmes</char> shook his head like a man who is far from being satisfied.</p>
 
         <p><quote speaker="sherlockHolmes">These are very deep waters,</quote> said he; <quote
                 speaker="sherlockHolmes">pray go on with your narrative.</quote></p>
@@ -350,7 +350,7 @@
         <p><quote speaker="helenStoner">Two years have passed since then, and my life has been
                 until lately lonelier than ever. A month ago, however, a dear friend, whom I have
                 known for many years, has done me the honour to ask my hand in marriage. His name is
-                Armitage—Percy Armitage—the second son of Mr. Armitage, of Crane Water, near
+                Armitage—<char gender = "male" name = "percyArmitage">Percy Armitage</char>—the second son of Mr. Armitage, of Crane Water, near
                 Reading. My stepfather has offered no opposition to the match, and we are to be
                 married in the course of the spring. Two days ago some repairs were started in the
                 west wing of the building, and my bedroom wall has been pierced, so that I have had
@@ -369,22 +369,22 @@
 
         <p><quote speaker="helenStoner">Yes, all.</quote></p>
 
-        <p><quote speaker="sherlockHolmes">Miss Roylott, you have not. You are screening your
+        <p><quote speaker="sherlockHolmes"><char gender = "female" name = "helenStoner">Miss Roylott</char>, you have not. You are screening your
                 stepfather.</quote></p>
 
         <p><quote speaker="helenStoner">Why, what do you mean?</quote></p>
 
-        <p>For answer Holmes pushed back the frill of black lace which fringed the hand that lay
+        <p>For answer<char gender = "male" name = "sherlockHolmes"> Holmes </char>pushed back the frill of black lace which fringed the hand that lay
             upon our visitor's knee. Five little livid spots, the marks of four fingers and a thumb,
             were printed upon the white wrist.</p>
 
-        <p><quote speaker="sherlockHolmes">You have been cruelly used,</quote> said Holmes.</p>
+        <p><quote speaker="sherlockHolmes">You have been cruelly used,</quote> said <char gender = "male" name = "sherlockHolmes">Holmes</char>.</p>
 
         <p>The lady coloured deeply and covered over her injured wrist. <quote
                 speaker="helenStoner">He is a hard man,</quote> she said, <quote
                 speaker="helenStoner">and perhaps he hardly knows his own strength.</quote></p>
 
-        <p>There was a long silence, during which Holmes leaned his chin upon his hands and stared
+        <p>There was a long silence, during which<char gender = "male" name = "sherlockHolmes"> Holmes </char>leaned his chin upon his hands and stared
             into the crackling fire.</p>
 
         <p><quote speaker="sherlockHolmes">This is a very deep business,</quote> he said at last.
@@ -399,7 +399,7 @@
                 foolish, and I could easily get her out of the way.</quote></p>
 
         <p><quote speaker="sherlockHolmes">Excellent. You are not averse to this trip,
-                Watson?</quote></p>
+               <char gender = "male" name = "johnWatson"> Watson</char>?</quote></p>
 
         <p><quote speaker="johnWatson">By no means.</quote></p>
 
@@ -419,8 +419,8 @@
                 afternoon.</quote> She dropped her thick black veil over her face and glided from
             the room.</p>
 
-        <p><quote speaker="sherlockHolmes">And what do you think of it all, Watson?</quote> asked
-            Sherlock Holmes, leaning back in his chair.</p>
+        <p><quote speaker="sherlockHolmes">And what do you think of it all,<char gender = "male" name = "johnWatson"> Watson</char>?</quote> asked
+            <char gender = "male" name = "sherlockHolmes">Sherlock Holmes</char>, leaning back in his chair.</p>
 
         <p><quote speaker="johnWatson">It seems to me to be a most dark and sinister
                 business.</quote></p>
@@ -440,7 +440,7 @@
                 presence of a band of gipsies who are on intimate terms with this old doctor, the
                 fact that we have every reason to believe that the doctor has an interest in
                 preventing his stepdaughter's marriage, the dying allusion to a band, and, finally,
-                the fact that Miss Helen Stoner heard a metallic clang, which might have been caused
+                the fact that Miss<char gender = "female" name = "helenStoner"> Helen Stoner</char> heard a metallic clang, which might have been caused
                 by one of those metal bars that secured the shutters falling back into its place, I
                 think that there is good ground to think that the mystery may be cleared along those
                 lines.</quote></p>
@@ -466,22 +466,22 @@
             his high, thin, fleshless nose, gave him somewhat the resemblance to a fierce old bird
             of prey.</p>
 
-        <p><quote speaker="grimesbyRoylott">Which of you is Holmes?</quote> asked this
+        <p><quote speaker="grimesbyRoylott">Which of you is <char gender = "male" name = "sherlockHolmes">Holmes</char>?</quote> asked this
             apparition.</p>
 
         <p><quote speaker="sherlockHolmes">My name, sir; but you have the advantage of me,</quote>
             said my companion quietly.</p>
 
-        <p><quote speaker="grimesbyRoylott">I am Dr. Grimesby Roylott, of Stoke Moran.</quote></p>
+        <p><quote speaker="grimesbyRoylott">I am Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char>, of Stoke Moran.</quote></p>
 
-        <p><quote speaker="sherlockHolmes">Indeed, Doctor,</quote> said Holmes blandly. <quote
+        <p><quote speaker="sherlockHolmes">Indeed,<char gender = "male" name = "grimesbyRoylott"> Doctor</char>,</quote> said<char gender = "male" name = "sherlockHolmes"> Holmes </char>blandly. <quote
                 speaker="sherlockHolmes">Pray take a seat.</quote></p>
 
         <p><quote speaker="grimesbyRoylott">I will do nothing of the kind. My stepdaughter has been
                 here. I have traced her. What has she been saying to you?</quote></p>
 
         <p><quote speaker="sherlockHolmes">It is a little cold for the time of the year,</quote>
-            said Holmes.</p>
+            said <char gender = "male" name = "sherlockHolmes">Holmes</char>.</p>
 
         <p><quote speaker="grimesbyRoylott">What has she been saying to you?</quote> screamed the
             old man furiously.</p>
@@ -496,24 +496,24 @@
 
         <p>My friend smiled.</p>
 
-        <p><quote speaker="grimesbyRoylott">Holmes, the busybody!</quote></p>
+        <p><quote speaker="grimesbyRoylott"><char gender = "male" name = "sherlockHolmes"> Holmes </char>, the busybody!</quote></p>
 
         <p>His smile broadened.</p>
 
-        <p><quote speaker="grimesbyRoylott">Holmes, the Scotland Yard Jack-in-office!</quote></p>
+        <p><quote speaker="grimesbyRoylott"><char gender = "male" name = "sherlockHolmes"> Holmes </char>, the Scotland Yard Jack-in-office!</quote></p>
 
-        <p>Holmes chuckled heartily. <quote speaker="sherlockHolmes">Your conversation is most entertaining,</quote> said he.
+        <p><char gender = "male" name = "sherlockHolmes">Holmes</char> chuckled heartily. <quote speaker="sherlockHolmes">Your conversation is most entertaining,</quote> said he.
             <quote speaker="sherlockHolmes">When you go out close the door, for there is a decided draught.</quote></p>
 
         <p><quote speaker="grimesbyRoylott">I will go when I have had my say. Don't you dare to
-                meddle with my affairs. I know that Miss Stoner has been here. I traced her! I am a
+                meddle with my affairs. I know that<char gender = "female" name = "helenStoner"> Miss Stoner</char> has been here. I traced her! I am a
                 dangerous man to fall foul of! See here.</quote> He stepped swiftly forward, seized
             the poker, and bent it into a curve with his huge brown hands.</p>
 
         <p><quote speaker="grimesbyRoylott">See that you keep yourself out of my grip,</quote> he
             snarled, and hurling the twisted poker into the fireplace he strode out of the room.</p>
 
-        <p><quote speaker="sherlockHolmes">He seems a very amiable person,</quote> said Holmes,
+        <p><quote speaker="sherlockHolmes">He seems a very amiable person,</quote> said <char gender = "male" name = "sherlockHolmes"> Holmes </char>,
             laughing. <quote speaker="sherlockHolmes">I am not quite so bulky, but if he had
                 remained I might have shown him that my grip was not much more feeble than his
                 own.</quote> As he spoke he picked up the steel poker and, with a sudden effort,
@@ -522,11 +522,11 @@
         <p><quote speaker="sherlockHolmes">Fancy his having the insolence to confound me with the
                 official detective force! This incident gives zest to our investigation, however,
                 and I only trust that our little friend will not suffer from her imprudence in
-                allowing this brute to trace her. And now, Watson, we shall order breakfast, and
+                allowing this brute to trace her. And now,<char gender = "male" name = "johnWatson"> Watson</char>, we shall order breakfast, and
                 afterwards I shall walk down to Doctors' Commons, where I hope to get some data
                 which may help us in this matter.</quote></p>
 
-        <p>It was nearly one o'clock when Sherlock Holmes returned from his excursion. He held in
+        <p>It was nearly one o'clock when Sherlock<char gender = "male" name = "sherlockHolmes"> Holmes </char>returned from his excursion. He held in
             his hand a sheet of blue paper, scrawled over with notes and figures.</p>
 
         <p><quote speaker="sherlockHolmes">I have seen the will of the deceased wife,</quote> said
@@ -538,7 +538,7 @@
                 both girls had married, this beauty would have had a mere pittance, while even one
                 of them would cripple him to a very serious extent. My morning's work has not been
                 wasted, since it has proved that he has the very strongest motives for standing in
-                the way of anything of the sort. And now, Watson, this is too serious for dawdling,
+                the way of anything of the sort. And now,<char gender = "male" name = "johnWatson"> Watson</char>, this is too serious for dawdling,
                 especially as the old man is aware that we are interesting ourselves in his affairs;
                 so if you are ready, we shall call a cab and drive to Waterloo. I should be very
                 much obliged if you would slip your revolver into your pocket. An Eley's No. 2 is an
@@ -564,10 +564,10 @@
 
         <p><quote speaker="sherlockHolmes">Stoke Moran?</quote> said he.</p>
 
-        <p><quote speaker="unnamed driver">Yes, sir, that be the house of Dr. Grimesby Roylott,</quote> remarked the
+        <p><quote speaker="unnamed driver">Yes, sir, that be the house of Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char>,</quote> remarked the
             driver.</p>
 
-        <p><quote speaker="sherlockHolmes">There is some building going on there,</quote> said Holmes; <quote speaker="sherlockHolmes">that is where
+        <p><quote speaker="sherlockHolmes">There is some building going on there,</quote> said <char gender = "male" name = "sherlockHolmes"> Holmes </char>; <quote speaker="sherlockHolmes">that is where
                 we are going.</quote></p>
 
         <p><quote speaker="unnamed driver">There's the village,</quote> said the driver, pointing to a cluster of roofs some
@@ -575,23 +575,23 @@
                 to get over this stile, and so by the footpath over the fields. There it is, where
                 the lady is walking.</quote></p>
 
-        <p><quote speaker="sherlockHolmes">And the lady, I fancy, is Miss Stoner,</quote> observed Holmes, shading his eyes.
+        <p><quote speaker="sherlockHolmes">And the lady, I fancy, is<char gender = "female" name = "helenStoner"> Miss Stoner</char>,</quote> observed <char gender = "male" name = "sherlockHolmes"> Holmes </char>, shading his eyes.
             <quote speaker="sherlockHolmes">Yes, I think we had better do as you suggest.</quote></p>
 
         <p>We got off, paid our fare, and the trap rattled back on its way to Leatherhead.</p>
 
-        <p><quote speaker="sherlockHolmes">I thought it as well,</quote> said Holmes as we climbed the stile, <quote speaker="sherlockHolmes">that
+        <p><quote speaker="sherlockHolmes">I thought it as well,</quote> said<char gender = "male" name = "sherlockHolmes"> Holmes </char>as we climbed the stile, <quote speaker="sherlockHolmes">that
                 this fellow should think we had come here as architects, or on some definite
-                business. It may stop his gossip. Good-afternoon, Miss Stoner. You see that we have
+                business. It may stop his gossip. Good-afternoon,<char gender = "female" name = "helenStoner"> Miss Stoner</char>. You see that we have
                 been as good as our word.</quote></p>
 
         <p>Our client of the morning had hurried forward to meet us with a face which spoke her joy.
             <quote speaker="helenStoner">I have been waiting so eagerly for you,</quote> she cried, shaking hands with
-            us warmly. <quote speaker="helenStoner">All has turned out splendidly. Dr. Roylott has gone to town, and it is
+            us warmly. <quote speaker="helenStoner">All has turned out splendidly. <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char> has gone to town, and it is
                 unlikely that he will be back before evening.</quote></p>
 
-        <p><quote speaker="sherlockHolmes">We have had the pleasure of making the Doctor's acquaintance,</quote> said Holmes,
-            and in a few words he sketched out what had occurred. Miss Stoner turned white to the
+        <p><quote speaker="sherlockHolmes">We have had the pleasure of making the<char gender = "male" name = "grimesbyRoylott"> Doctor</char>'s acquaintance,</quote> said <char gender = "male" name = "sherlockHolmes"> Holmes </char>,
+            and in a few words he sketched out what had occurred.<char gender = "female" name = "helenStoner"> Miss Stoner</char> turned white to the
             lips as she listened.</p>
 
         <p><quote speaker="helenStoner">Good heavens!</quote> she cried, <quote speaker="helenStoner">he has followed me, then.</quote></p>
@@ -614,12 +614,12 @@
             right-hand block was comparatively modern, and the blinds in the windows, with the blue
             smoke curling up from the chimneys, showed that this was where the family resided. Some
             scaffolding had been erected against the end wall, and the stone-work had been broken
-            into, but there were no signs of any workmen at the moment of our visit. Holmes walked
+            into, but there were no signs of any workmen at the moment of our visit.<char gender = "male" name = "sherlockHolmes"> Holmes </char>walked
             slowly up and down the ill-trimmed lawn and examined with deep attention the outsides of
             the windows.</p>
 
         <p><quote speaker="sherlockHolmes">This, I take it, belongs to the room in which you used to sleep, the centre one to
-                your sister's, and the one next to the main building to Dr. Roylott's
+                your sister's, and the one next to the main building to <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char>'s
                 chamber?</quote></p>
 
         <p><quote speaker="helenStoner">Exactly so. But I am now sleeping in the middle one.</quote></p>
@@ -640,7 +640,7 @@
                 side. Now, would you have the kindness to go into your room and bar your
                 shutters?</quote></p>
 
-        <p>Miss Stoner did so, and Holmes, after a careful examination through the open window,
+        <p>,<char gender = "female" name = "helenStoner">Miss Stoner</char> did so, and <char gender = "male" name = "sherlockHolmes"> Holmes </char>, after a careful examination through the open window,
             endeavoured in every way to force the shutter open, but without success. There was no
             slit through which a knife could be passed to raise the bar. Then with his lens he
             tested the hinges, but they were of solid iron, built firmly into the massive masonry.
@@ -650,15 +650,15 @@
                 matter.</quote></p>
 
         <p>A small side door led into the whitewashed corridor from which the three bedrooms opened.
-            Holmes refused to examine the third chamber, so we passed at once to the second, that in
-            which Miss Stoner was now sleeping, and in which her sister had met with her fate. It
+           <char gender = "male" name = "sherlockHolmes"> Holmes </char>refused to examine the third chamber, so we passed at once to the second, that in
+            which<char gender = "female" name = "helenStoner"> Miss Stoner</char> was now sleeping, and in which her sister had met with her fate. It
             was a homely little room, with a low ceiling and a gaping fireplace, after the fashion
             of old country-houses. A brown chest of drawers stood in one corner, a narrow
             white-counterpaned bed in another, and a dressing-table on the left-hand side of the
             window. These articles, with two small wicker-work chairs, made up all the furniture in
             the room save for a square of Wilton carpet in the centre. The boards round and the
             panelling of the walls were of brown, worm-eaten oak, so old and discoloured that it may
-            have dated from the original building of the house. Holmes drew one of the chairs into a
+            have dated from the original building of the house.<char gender = "male" name = "sherlockHolmes"> Holmes </char>drew one of the chairs into a
             corner and sat silent, while his eyes travelled round and round and up and down, taking
             in every detail of the apartment.</p>
 
@@ -707,13 +707,13 @@
         <p><quote speaker="helenStoner">Yes, there were several little changes carried out about that time.</quote></p>
 
         <p><quote speaker="sherlockHolmes">They seem to have been of a most interesting character—dummy bell-ropes, and
-                ventilators which do not ventilate. With your permission, Miss Stoner, we shall now
+                ventilators which do not ventilate. With your permission,<char gender = "female" name = "helenStoner"> Miss Stoner</char>, we shall now
                 carry our researches into the inner apartment.</quote></p>
 
-        <p>Dr. Grimesby Roylott's chamber was larger than that of his step-daughter, but was as
+        <p>Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char>'s chamber was larger than that of his step-daughter, but was as
             plainly furnished. A camp-bed, a small wooden shelf full of books, mostly of a technical
             character, an armchair beside the bed, a plain wooden chair against the wall, a round
-            table, and a large iron safe were the principal things which met the eye. Holmes walked
+            table, and a large iron safe were the principal things which met the eye.<char gender = "male" name = "sherlockHolmes"> Holmes </char>walked
             slowly round and examined each and all of them with the keenest interest.</p>
 
         <p><quote speaker="sherlockHolmes">What's in here?</quote> he asked, tapping the safe.</p>
@@ -744,21 +744,21 @@
         <p>The object which had caught his eye was a small dog lash hung on one corner of the bed.
             The lash, however, was curled upon itself and tied so as to make a loop of whipcord.</p>
 
-        <p><quote speaker="sherlockHolmes">What do you make of that, Watson?</quote></p>
+        <p><quote speaker="sherlockHolmes">What do you make of that,<char gender = "male" name = "johnWatson"> Watson</char>?</quote></p>
 
         <p><quote speaker="johnWatson">It's a common enough lash. But I don't know why it should be tied.</quote></p>
 
         <p><quote speaker="sherlockHolmes">That is not quite so common, is it? Ah, me! it's a wicked world, and when a clever
                 man turns his brains to crime it is the worst of all. I think that I have seen
-                enough now, Miss Stoner, and with your permission we shall walk out upon the
+                enough now,<char gender = "female" name = "helenStoner"> Miss Stoner</char>, and with your permission we shall walk out upon the
                 lawn.</quote></p>
 
         <p>I had never seen my friend's face so grim or his brow so dark as it was when we turned
             from the scene of this investigation. We had walked several times up and down the lawn,
-            neither Miss Stoner nor myself liking to break in upon his thoughts before he roused
+            neither<char gender = "female" name = "helenStoner"> Miss Stoner</char> nor myself liking to break in upon his thoughts before he roused
             himself from his reverie.</p>
 
-        <p><quote speaker="sherlockHolmes">It is very essential, Miss Stoner,</quote> said he, <quote speaker="sherlockHolmes">that you should
+        <p><quote speaker="sherlockHolmes">It is very essential,<char gender = "female" name = "helenStoner"> Miss Stoner</char>,</quote> said he, <quote speaker="sherlockHolmes">that you should
                 absolutely follow my advice in every respect.</quote></p>
 
         <p><quote speaker="helenStoner">I shall most certainly do so.</quote></p>
@@ -771,7 +771,7 @@
         <p><quote speaker="sherlockHolmes">In the first place, both my friend and I must spend the night in your
                 room.</quote></p>
 
-        <p>Both Miss Stoner and I gazed at him in astonishment.</p>
+        <p>Both<char gender = "female" name = "helenStoner"> Miss Stoner</char> and I gazed at him in astonishment.</p>
 
         <p><quote speaker="sherlockHolmes">Yes, it must be so. Let me explain. I believe that that is the village inn over
                 there?</quote></p>
@@ -798,8 +798,8 @@
         <p><quote speaker="sherlockHolmes">We shall spend the night in your room, and we shall investigate the cause of this
                 noise which has disturbed you.</quote></p>
 
-        <p><quote speaker="helenStoner">I believe, Mr. Holmes, that you have already made up your mind,</quote> said Miss
-            Stoner, laying her hand upon my companion's sleeve.</p>
+        <p><quote speaker="helenStoner">I believe, Mr. <char gender = "male" name = "sherlockHolmes"> Holmes </char>, that you have already made up your mind,</quote> said <char gender = "female" name = "helenStoner">Miss
+            Stoner</char>, laying her hand upon my companion's sleeve.</p>
 
         <p><quote speaker="sherlockHolmes">Perhaps I have.</quote></p>
 
@@ -812,22 +812,22 @@
                 some sudden fright.</quote></p>
 
         <p><quote speaker="sherlockHolmes">No, I do not think so. I think that there was probably some more tangible cause.
-                And now, Miss Stoner, we must leave you for if Dr. Roylott returned and saw us our
+                And now,<char gender = "female" name = "helenStoner"> Miss Stoner</char>, we must leave you for if <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char> returned and saw us our
                 journey would be in vain. Good-bye, and be brave, for if you will do what I have
                 told you, you may rest assured that we shall soon drive away the dangers that
                 threaten you.</quote></p>
 
-        <p>Sherlock Holmes and I had no difficulty in engaging a bedroom and sitting-room at the
+        <p>Sherlock<char gender = "male" name = "sherlockHolmes"> Holmes </char>and I had no difficulty in engaging a bedroom and sitting-room at the
             Crown Inn. They were on the upper floor, and from our window we could command a view of
             the avenue gate, and of the inhabited wing of Stoke Moran Manor House. At dusk we saw
-            Dr. Grimesby Roylott drive past, his huge form looming up beside the little figure of
+            Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char> drive past, his huge form looming up beside the little figure of
             the lad who drove him. The boy had some slight difficulty in undoing the heavy iron
-            gates, and we heard the hoarse roar of the Doctor's voice and saw the fury with which he
+            gates, and we heard the hoarse roar of the<char gender = "male" name = "grimesbyRoylott"> Doctor</char>'s voice and saw the fury with which he
             shook his clinched fists at him. The trap drove on, and a few minutes later we saw a
             sudden light spring up among the trees as the lamp was lit in one of the
             sitting-rooms.</p>
 
-        <p><quote speaker="sherlockHolmes">Do you know, Watson,</quote> said Holmes as we sat together in the gathering
+        <p><quote speaker="sherlockHolmes">Do you know,<char gender = "male" name = "johnWatson"> Watson</char>,</quote> said<char gender = "male" name = "sherlockHolmes"> Holmes </char>as we sat together in the gathering
             darkness, <quote speaker="sherlockHolmes">I have really some scruples as to taking you to-night. There is a
                 distinct element of danger.</quote></p>
 
@@ -857,10 +857,10 @@
         <p><quote speaker="sherlockHolmes">I knew that we should find a ventilator before ever we came to Stoke
                 Moran.</quote></p>
 
-        <p><quote speaker="johnWatson">My dear Holmes!</quote></p>
+        <p><quote speaker="johnWatson">My dear <char gender = "male" name = "sherlockHolmes"> Holmes </char>!</quote></p>
 
         <p><quote speaker="sherlockHolmes">Oh, yes, I did. You remember in her statement she said that her sister could smell
-                Dr. Roylott's cigar. Now, of course that suggested at once that there must be a
+                <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char>'s cigar. Now, of course that suggested at once that there must be a
                 communication between the two rooms. It could only be a small one, or it would have
                 been remarked upon at the coroner's inquiry. I deduced a ventilator.</quote></p>
 
@@ -890,7 +890,7 @@
 
         <p><quote speaker="sherlockHolmes">Subtle enough and horrible enough. When a doctor does go wrong he is the first of
                 criminals. He has nerve and he has knowledge. Palmer and Pritchard were among the
-                heads of their profession. This man strikes even deeper, but I think, Watson, that
+                heads of their profession. This man strikes even deeper, but I think,<char gender = "male" name = "johnWatson"> Watson</char>, that
                 we shall be able to strike deeper still. But we shall have horrors enough before the
                 night is over; for goodness' sake let us have a quiet pipe and turn our minds for a
                 few hours to something more cheerful.</quote></p>
@@ -899,7 +899,7 @@
             direction of the Manor House. Two hours passed slowly away, and then, suddenly, just at
             the stroke of eleven, a single bright light shone out right in front of us.</p>
 
-        <p><quote speaker="sherlockHolmes">That is our signal,</quote> said Holmes, springing to his feet; <quote speaker="sherlockHolmes">it comes
+        <p><quote speaker="sherlockHolmes">That is our signal,</quote> said <char gender = "male" name = "sherlockHolmes"> Holmes </char>, springing to his feet; <quote speaker="sherlockHolmes">it comes
                 from the middle window.</quote></p>
 
         <p>As we passed out he exchanged a few words with the landlord, explaining that we were
@@ -916,15 +916,15 @@
 
         <p><quote speaker="johnWatson">My God!</quote> I whispered; <quote speaker="johnWatson">did you see it?</quote></p>
 
-        <p>Holmes was for the moment as startled as I. His hand closed like a vice upon my wrist in
+        <p><char gender = "male" name = "sherlockHolmes">Holmes</char> was for the moment as startled as I. His hand closed like a vice upon my wrist in
             his agitation. Then he broke into a low laugh and put his lips to my ear.</p>
 
         <p><quote speaker="sherlockHolmes">It is a nice household,</quote> he murmured. <quote speaker="sherlockHolmes">That is the
             baboon.</quote></p>
 
-        <p>I had forgotten the strange pets which the Doctor affected. There was a cheetah, too;
+        <p>I had forgotten the strange pets which the<char gender = "male" name = "grimesbyRoylott"> Doctor</char> affected. There was a cheetah, too;
             perhaps we might find it upon our shoulders at any moment. I confess that I felt easier
-            in my mind when, after following Holmes' example and slipping off my shoes, I found
+            in my mind when, after following <char gender = "male" name = "sherlockHolmes"> Holmes </char>' example and slipping off my shoes, I found
             myself inside the bedroom. My companion noiselessly closed the shutters, moved the lamp
             onto the table, and cast his eyes round the room. All was as we had seen it in the
             daytime. Then creeping up to me and making a trumpet of his hand, he whispered into my
@@ -944,7 +944,7 @@
 
         <p>I took out my revolver and laid it on the corner of the table.</p>
 
-        <p>Holmes had brought up a long thin cane, and this he placed upon the bed beside him. By it
+        <p><char gender = "male" name = "sherlockHolmes">Holmes</char> had brought up a long thin cane, and this he placed upon the bed beside him. By it
             he laid the box of matches and the stump of a candle. Then he turned down the lamp, and
             we were left in darkness.</p>
 
@@ -965,12 +965,12 @@
             movement, and then all was silent once more, though the smell grew stronger. For half an
             hour I sat with straining ears. Then suddenly another sound became audible—a very
             gentle, soothing sound, like that of a small jet of steam escaping continually from a
-            kettle. The instant that we heard it, Holmes sprang from the bed, struck a match, and
+            kettle. The instant that we heard it,<char gender = "male" name = "sherlockHolmes"> Holmes </char>sprang from the bed, struck a match, and
             lashed furiously with his cane at the bell-pull.</p>
 
-        <p><quote speaker="sherlockHolmes">You see it, Watson?</quote> he yelled. <quote speaker="sherlockHolmes">You see it?</quote></p>
+        <p><quote speaker="sherlockHolmes">You see it,<char gender = "male" name = "johnWatson"> Watson</char>?</quote> he yelled. <quote speaker="sherlockHolmes">You see it?</quote></p>
 
-        <p>But I saw nothing. At the moment when Holmes struck the light I heard a low, clear
+        <p>But I saw nothing. At the moment when<char gender = "male" name = "sherlockHolmes"> Holmes </char>struck the light I heard a low, clear
             whistle, but the sudden glare flashing into my weary eyes made it impossible for me to
             tell what it was at which my friend lashed so savagely. I could, however, see that his
             face was deadly pale and filled with horror and loathing. He had ceased to strike and
@@ -984,8 +984,8 @@
 
         <p><quote speaker="johnWatson">What can it mean?</quote> I gasped.</p>
 
-        <p><quote speaker="sherlockHolmes">It means that it is all over,</quote> Holmes answered. <quote speaker="sherlockHolmes">And perhaps, after
-                all, it is for the best. Take your pistol, and we will enter Dr. Roylott's
+        <p><quote speaker="sherlockHolmes">It means that it is all over,</quote><char gender = "male" name = "sherlockHolmes"> Holmes </char>answered. <quote speaker="sherlockHolmes">And perhaps, after
+                all, it is for the best. Take your pistol, and we will enter <char gender = "male" name = "grimesbyRoylott">Dr. Roylott</char>'s
                 room.</quote></p>
 
         <p>With a grave face he lit the lamp and led the way down the corridor. Twice he struck at
@@ -994,7 +994,7 @@
 
         <p>It was a singular sight which met our eyes. On the table stood a dark-lantern with the
             shutter half open, throwing a brilliant beam of light upon the iron safe, the door of
-            which was ajar. Beside this table, on the wooden chair, sat Dr. Grimesby Roylott clad in
+            which was ajar. Beside this table, on the wooden chair, sat Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char> clad in
             a long grey dressing-gown, his bare ankles protruding beneath, and his feet thrust into
             red heelless Turkish slippers. Across his lap lay the short stock with the long lash
             which we had noticed during the day. His chin was cocked upward and his eyes were fixed
@@ -1002,32 +1002,32 @@
             peculiar yellow band, with brownish speckles, which seemed to be bound tightly round his
             head. As we entered he made neither sound nor motion.</p>
 
-        <p><quote speaker="sherlockHolmes">The band! the speckled band!</quote> whispered Holmes.</p>
+        <p><quote speaker="sherlockHolmes">The band! the speckled band!</quote> whispered <char gender = "male" name = "sherlockHolmes"> Holmes </char>.</p>
 
         <p>I took a step forward. In an instant his strange headgear began to move, and there reared
             itself from among his hair the squat diamond-shaped head and puffed neck of a loathsome
             serpent.</p>
 
-        <p><quote speaker="sherlockHolmes">It is a swamp adder!</quote> cried Holmes; <quote speaker="sherlockHolmes">the deadliest snake in India. He
+        <p><quote speaker="sherlockHolmes">It is a swamp adder!</quote> cried <char gender = "male" name = "sherlockHolmes"> Holmes </char>; <quote speaker="sherlockHolmes">the deadliest snake in India. He
                 has died within ten seconds of being bitten. Violence does, in truth, recoil upon
                 the violent, and the schemer falls into the pit which he digs for another. Let us
-                thrust this creature back into its den, and we can then remove Miss Stoner to some
+                thrust this creature back into its den, and we can then remove<char gender = "female" name = "helenStoner"> Miss Stoner</char> to some
                 place of shelter and let the county police know what has happened.</quote></p>
 
         <p>As he spoke he drew the dog-whip swiftly from the dead man's lap, and throwing the noose
             round the reptile's neck he drew it from its horrid perch and, carrying it at arm's
             length, threw it into the iron safe, which he closed upon it.</p>
 
-        <p>Such are the true facts of the death of Dr. Grimesby Roylott, of Stoke Moran. It is not
+        <p>Such are the true facts of the death of Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char>, of Stoke Moran. It is not
             necessary that I should prolong a narrative which has already run to too great a length
             by telling how we broke the sad news to the terrified girl, how we conveyed her by the
             morning train to the care of her good aunt at Harrow, of how the slow process of
             official inquiry came to the conclusion that the doctor met his fate while indiscreetly
             playing with a dangerous pet. The little which I had yet to learn of the case was told
-            me by Sherlock Holmes as we travelled back next day.</p>
+            me by Sherlock<char gender = "male" name = "sherlockHolmes"> Holmes </char>as we travelled back next day.</p>
 
         <p><quote speaker="sherlockHolmes">I had,</quote> said he, <quote speaker="sherlockHolmes">come to an entirely erroneous conclusion which
-                shows, my dear Watson, how dangerous it always is to reason from insufficient data.
+                shows, my dear<char gender = "male" name = "johnWatson"> Watson</char>, how dangerous it always is to reason from insufficient data.
                 The presence of the gipsies, and the use of the word 'band,' which was used by the
                 poor girl, no doubt, to explain the appearance which she had caught a hurried
                 glimpse of by the light of her match, were sufficient to put me upon an entirely
@@ -1058,7 +1058,7 @@
                 of his chair showed me that he had been in the habit of standing on it, which of
                 course would be necessary in order that he should reach the ventilator. The sight of
                 the safe, the saucer of milk, and the loop of whipcord were enough to finally dispel
-                any doubts which may have remained. The metallic clang heard by Miss Stoner was
+                any doubts which may have remained. The metallic clang heard by<char gender = "female" name = "helenStoner"> Miss Stoner</char> was
                 obviously caused by her stepfather hastily closing the door of his safe upon its
                 terrible occupant. Having once made up my mind, you know the steps which I took in
                 order to put the matter to the proof. I heard the creature hiss as I have no doubt
@@ -1069,7 +1069,7 @@
         <p><quote speaker="sherlockHolmes">And also with the result of causing it to turn upon its master at the other side.
                 Some of the blows of my cane came home and roused its snakish temper, so that it
                 flew upon the first person it saw. In this way I am no doubt indirectly responsible
-                for Dr. Grimesby Roylott's death, and I cannot say that it is likely to weigh very
+                for Dr. <char gender = "male" name = "grimesbyRoylott">Grimesby Roylott</char>'s death, and I cannot say that it is likely to weigh very
                 heavily upon my conscience.</quote></p>
 
 
