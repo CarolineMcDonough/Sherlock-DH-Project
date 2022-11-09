@@ -5,20 +5,53 @@
 <head>
     <meta charset="UTF-8" />
     <title>Sherlock Agency</title>
-    <link rel="stylesheet" href="main.css" ></link>
+    <link rel="stylesheet" href="main.css">
+    </link>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="main.js"></script>
+
     <style>
-        .menuBar{
+        .menuBar {
             display: none !important;
         }
-        .introMenu{
-            /* display: none!important; */
+
+        .introMenu {
+            display: none !important;
+        }
+
+        .expandingMenuItem {
+        }
+
+        .menubutton {
+            display: block !important;
+            border:unset;max-width: fit-content;background-color: transparent;z-index: 1;position:absolute;top:30px;right:50px;
+        }
+
+        .right-menu {
+            text-align: center;
+            width: fit-content;
+            display: flex;
+            flex-direction: column;
+
+            justify-content: center;
+            top: 20px;
+            right: 25px;
+            position: fixed;
+        }
+
+        @media screen and (max-width: 1287px) {
+            .right-menu {
+                flex-direction: row;
+                top: -95px;
+                padding:0;
+                right: 120px;
+            }
         }
     </style>
 </head>
 
 <body>
-    <div class="menuBar">
+    <!-- <div class="menuBar">
         <a href="hello.txt">
 
         </a>
@@ -31,22 +64,51 @@
         <div class="menuBarItem">
             <a href="#home" style="text-align: center;width:fit-content">Home</a>
         </div>
-    </div>
-    <header>
-        <div class="introMenu glassBorder">
+    </div> -->
+    <header style="display: flex;">
+        <!-- expanding menu class -->
+        <nav>
+            <button class="menubutton">
+                <img src="menuIcon.png"
+                    style="filter: brightness(0%);padding-top: 0px;"
+                    width="50" height="50" alt="Page Sections"></img>
+            </button>
+
+            <div class="glassBorder right-menu" style="transform:translateY(100px);padding:5px;">
+                <div class="expandingMenuItem" href="hello.html">
+                    <a href="hello.html"><img src="book.png" class="bookIcon" width="100" height="80"></img></a>
+                    <a href="hello.html"><span
+                        style="display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;">Stories</span></a>
+                </div>
+                <div class="expandingMenuItem" href="hello.html" >
+                    <a href="hello.html"><img src="book.png" class="bookIcon" width="100" height="80"></img></a>
+                    <a href="hello.html"><span
+                            style="display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;">Stories</span></a>
+                </div>
+                <div class="expandingMenuItem" href="hello.html">
+                    <a href="hello.html"><img src="book.png" class="bookIcon" width="100" height="80"></img></a>
+                    <a href="hello.html"><span style="display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;">Stories</span></a>
+                </div>
+            </div>
+
+        </nav>
+        <!-- <div class="introMenu glassBorder">
             <a href="hello.html">
-                <img src="book.png" class="bookIcon" width="150" height="100" ></img>
-                <span style="display: block;transform:translate(0px,-10px);color:black;margin-inline: auto;">Stories</span>
+                <img src="book.png" class="bookIcon" width="150" height="100"></img>
+                <span
+                    style="display: block;transform:translate(0px,-10px);color:black;margin-inline: auto;">Stories</span>
             </a>
             <a href="hello.html">
                 <img src="typewriter.png" class="typewriterIcon" width="150" height="150"></img>
-                <span style="display: block;transform:translate(0px,-20px);color:black;margin-inline: auto;">Methodologies</span>
+                <span
+                    style="display: block;transform:translate(0px,-20px);color:black;margin-inline: auto;">Methodologies</span>
             </a>
             <a href="hello.html">
                 <img src="graphIcon.png" class="typewriterIcon" width="120" height="150"></img>
-                <span style="display: block;transform:translate(0px,-20px);color:black;margin-inline: auto;">Analysis</span>
+                <span
+                    style="display: block;transform:translate(0px,-20px);color:black;margin-inline: auto;">Analysis</span>
             </a>
-        </div>
+        </div> -->
         <h1 class="titleText" style="font-size:3rem">The agency of women in Sherlock Holmes</h1>
     </header>
 
@@ -68,7 +130,7 @@
         <h1 class="paraHeader">About the Developers</h1>
         <p class="mainParagraph glassBorder">
             We developed this project in Spring 2021 for the Computational Methods in the Digital Humanities course at
-            the University of Pittsburgh. The project contributors consist of 
+            the University of Pittsburgh. The project contributors consist of
             <br></br>
             blank is a senior majoring in Linguisitics and English Literature and minoring in Korean. She took
             this course to satisfy the methods course requirement for the Linguistics major.
