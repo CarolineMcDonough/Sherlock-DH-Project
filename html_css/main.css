@@ -37,11 +37,17 @@ body {
 */
 header {
     height: 70vh;
-    padding: 20vw 0 0vw;
+    padding: 5% 0 8%;
+    margin-left:120px;
     position: relative;
     -webkit-transform-style: inherit;
     transform-style: inherit;
     width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
     background-color: transparent;
 }
 
@@ -57,11 +63,25 @@ header:before {
     z-index: -1;
 }
 
+@media screen and (max-width: 900px) {
+    nav{
+        display:none;
+    }
+    header::before{
+        width:100%;
+    }
+    /* show mobile menu */
+    .mobileMenu {display: unset !important;}
+    h1{position:relative;width:100%;margin-left:auto;margin-right: -35%;}
+    header{width:100%;margin-left:-128px}
+}
+
+
 /*header pseudo element*/
 header::before {
     bottom: 0;
     content: "";
-    left: 0;
+    left: 120px;
     position: absolute;
     right: 0;
     top: 0;
@@ -74,17 +94,19 @@ header::before {
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     min-height: 100vh;
+    word-wrap: break-word;
 }
 
 /*text styles inherited by any text in the header*/
 header * {
+    word-wrap: break-word;
     font-weight: normal;
     letter-spacing: 0.1em;
     text-align: center;
 }
 
 /* text shadow for header text  */
-.titleText {
+h1 {
     background-color: transparent;
     text-shadow:
         -2px -2px 0 #000,
@@ -92,8 +114,136 @@ header * {
         -2px 2px 0 #000,
         2px 2px 0 #000;
     width: fit-content;
-    margin-inline: auto;
+    max-width: 65vw;
+    margin-left:-20px;
+    font-size: 3rem;
 }
+
+/* ############-LANDING PAGE MENU-############ */
+nav {
+    /* important is needed here to overwrite the glass border styles*/
+    background: rgb(224,215,199) !important;
+    top:0;
+    left:-130px;
+    position: absolute;
+    width:120px;
+    height: 95%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: -1px;
+}
+
+/* all four images in the menubar in secuential order */
+figure:nth-child(1) * img {
+    width: 110px;
+    height: 90px;
+    /* filter: drop-shadow(0 0 0.75rem cornflowerblue); */
+}
+figure:nth-child(1) {
+    background-color: cornflowerblue;
+}
+
+figure:nth-child(2) * img {
+    width: 120px;
+    height: 120px;
+    /* filter: drop-shadow(0 0 0.75rem yellow); */
+}
+figure:nth-child(2) {
+    background-color: darkblue;
+}
+
+figure:nth-child(3) * img {
+    width: 110px;
+    height: 120px;
+    /* filter: drop-shadow(0 0 0.75rem green); */
+}
+figure:nth-child(3) {
+    background-color: cornflowerblue;
+}
+
+figure:nth-child(4) * img {
+    width: 120px;
+    height: 150px;
+
+}
+figure:nth-child(4) {
+    background-color: darkblue;
+}
+
+/* all four text blocks after the menu items */
+figure {
+    display: block;
+    color: black;
+
+    margin-inline:auto;
+    text-align: center;
+    width:140px;
+    height:140px;
+    margin-left:-3px;
+
+    backdrop-filter: blur(5px);
+    border-radius: 26px;
+    box-shadow: 35px 35px 68px 0px rgba(224, 215, 199, 0.5), inset -8px -8px 16px 0px rgba(224, 215, 199, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+}
+figcaption{
+    color:white;
+}
+/* ############-MOBILE MENU-############ */
+.introMenu {
+    /* display: none; */
+}
+
+#menubutton {
+    display: block;
+    border: unset;
+    max-width: fit-content;
+    background-color: transparent;
+    z-index: 1;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
+#menubutton > img{
+    filter: brightness(0%);padding-top: 0px;width:50px;height:50px;
+}
+
+.mobileMenu{
+    display: none;
+}
+.mobileMenu > .glassBorder{
+    text-align: center;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    top: 20px;
+    right: 25px;
+    position: fixed;
+}
+.expandingMenuItem * span{
+    display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;
+}
+.expandingMenuItem * img{
+    width: 100px;
+    height: 80px
+}
+
+.right-menu {
+    text-align: center;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    top: 20px;
+    right: 25px;
+    position: fixed;
+    transform:translateY(100px);
+    padding:5px;
+}
+
 
 /* ############-MAIN CONTENT AND PARAGRAPHS LANDING PAGE-############ */
 /*global p styles kind of messy should be its own class
@@ -120,13 +270,15 @@ main {
 }
 
 /* header for main body paragraphs on intro page */
-.paraHeader{
+main>h2 {
     color: black;
     text-align: center;
+    /* 2rem == 32px */
+    font-size: 2rem;
 }
 
 /* styles for main paragraph p tags on intro page */
-.mainParagraph {
+main>p {
     /* let me set stuff on you */
     display: inline-block;
 
@@ -145,7 +297,7 @@ main {
 
 /* ############-GLASS BORDER-############ */
 /*https://css.glass*/
-.glassBorder{
+.glassBorder {
     background: rgba(255, 255, 255, 0.04);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -183,6 +335,7 @@ main {
     /* he is the king */
     z-index: 100;
 }
+
 /*an item on the sticky menubar*/
 .menuBarItem {
     position: relative;
@@ -197,28 +350,16 @@ main {
     vertical-align: middle;
 }
 
-/* ############-LANDING PAGE MENU-############ */
-.introMenu {
-    position: absolute;
-    z-index: 10;
-    top: 0;
-    height: 100%;
-    margin-left: -1px;
-}
 
-/* book image */
-.bookIcon {
-    filter: drop-shadow(0 0 0.75rem cornflowerblue);
-}
-/* typewriter image */
-.typewriterIcon {
-    filter: drop-shadow(0 0 0.75rem cornflowerblue);
-}
 
 /* ############-FOOTER-############ */
 /* footer stuff right now its just size */
-.footerStyles{
-    width:100%;
-    height:40px;
+footer {
+    width: 100%;
+    height: 40px;
     background-color: black;
 }
+
+
+/* UNCOMMENTED CSS FOR VARIOUS MENUBARS */
+

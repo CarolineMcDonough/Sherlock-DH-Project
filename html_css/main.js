@@ -1,7 +1,7 @@
 
 
 window.addEventListener('load', (event) => {
-    let a = document.querySelector(".menubutton");
+    let a = document.querySelector("#menubutton");
     a.addEventListener('click', (e) => {
       console.log("here");
       let menu = document.querySelectorAll(".expandingMenuItem");

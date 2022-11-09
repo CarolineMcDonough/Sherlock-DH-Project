@@ -3,51 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-    <meta charset="UTF-8" />
     <title>Sherlock Agency</title>
     <link rel="stylesheet" href="main.css">
     </link>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="main.js"></script>
-
-    <style>
-        .menuBar {
-            display: none !important;
-        }
-
-        .introMenu {
-            display: none !important;
-        }
-
-        .expandingMenuItem {
-        }
-
-        .menubutton {
-            display: block !important;
-            border:unset;max-width: fit-content;background-color: transparent;z-index: 1;position:absolute;top:30px;right:50px;
-        }
-
-        .right-menu {
-            text-align: center;
-            width: fit-content;
-            display: flex;
-            flex-direction: column;
-
-            justify-content: center;
-            top: 20px;
-            right: 25px;
-            position: fixed;
-        }
-
-        @media screen and (max-width: 1287px) {
-            .right-menu {
-                flex-direction: row;
-                top: -95px;
-                padding:0;
-                right: 120px;
-            }
-        }
-    </style>
 </head>
 
 <body>
@@ -65,56 +25,52 @@
             <a href="#home" style="text-align: center;width:fit-content">Home</a>
         </div>
     </div> -->
-    <header style="display: flex;">
-        <!-- expanding menu class -->
-        <nav>
-            <button class="menubutton">
-                <img src="menuIcon.png"
-                    style="filter: brightness(0%);padding-top: 0px;"
-                    width="50" height="50" alt="Page Sections"></img>
-            </button>
+    <div class="mobileMenu">
+        <button id="menubutton">
+            <img src="menuIcon.png" alt="Page Sections"></img>
+        </button>
 
-            <div class="glassBorder right-menu" style="transform:translateY(100px);padding:5px;">
-                <div class="expandingMenuItem" href="hello.html">
-                    <a href="hello.html"><img src="book.png" class="bookIcon" width="100" height="80"></img></a>
-                    <a href="hello.html"><span
-                        style="display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;">Stories</span></a>
-                </div>
-                <div class="expandingMenuItem" href="hello.html" >
-                    <a href="hello.html"><img src="book.png" class="bookIcon" width="100" height="80"></img></a>
-                    <a href="hello.html"><span
-                            style="display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;">Stories</span></a>
-                </div>
-                <div class="expandingMenuItem" href="hello.html">
-                    <a href="hello.html"><img src="book.png" class="bookIcon" width="100" height="80"></img></a>
-                    <a href="hello.html"><span style="display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;">Stories</span></a>
-                </div>
+        <div class="glassBorder">
+            <div class="expandingMenuItem" href="hello.html">
+                <a href="hello.html"><img src="book.png" alt="book menu icon"></img></a>
+                <a href="hello.html"><span>Stories</span></a>
             </div>
-
-        </nav>
-        <!-- <div class="introMenu glassBorder">
-            <a href="hello.html">
-                <img src="book.png" class="bookIcon" width="150" height="100"></img>
-                <span
-                    style="display: block;transform:translate(0px,-10px);color:black;margin-inline: auto;">Stories</span>
-            </a>
-            <a href="hello.html">
-                <img src="typewriter.png" class="typewriterIcon" width="150" height="150"></img>
-                <span
-                    style="display: block;transform:translate(0px,-20px);color:black;margin-inline: auto;">Methodologies</span>
-            </a>
-            <a href="hello.html">
-                <img src="graphIcon.png" class="typewriterIcon" width="120" height="150"></img>
-                <span
-                    style="display: block;transform:translate(0px,-20px);color:black;margin-inline: auto;">Analysis</span>
-            </a>
-        </div> -->
-        <h1 class="titleText" style="font-size:3rem">The agency of women in Sherlock Holmes</h1>
+            <div class="expandingMenuItem" href="hello.html" >
+                <a href="hello.html"><img src="book.png" alt="book menu icon"></img></a>
+                <a href="hello.html"><span>Stories</span></a>
+            </div>
+            <div class="expandingMenuItem" href="hello.html">
+                <a href="hello.html"><img src="book.png" alt="book menu icon"></img></a>
+                <a href="hello.html"><span>Stories</span></a>
+            </div>
+        </div>
+    </div>
+    <header>
+        <!-- expanding menu class -->
+        <nav class="glassBorder">
+            <figure>
+                <a href="hello.txt"><img src="book.png" alt="book menu icon"></img></a>
+                <a href="hello.txt"><figcaption>Stories</figcaption></a>
+            </figure>
+            <figure>
+                <a href="hello.txt"><img src="typewriter.png" alt="book menu icon"></img></a>
+                <a href="hello.txt"><figcaption>Methodologies</figcaption></a>
+            </figure>
+            <figure>
+                <a href="hello.txt"><img src="graphIcon.png" alt="book menu icon"></img></a>
+                <a href="hello.txt"><figcaption>Analysis</figcaption></a>
+            </figure>
+            <figure>
+                <a href="hello.txt"><img src="graphIcon.png" alt="book menu icon"></img></a>
+                <a href="hello.txt"><figcaption>Analysis</figcaption></a>
+            </figure>
+        </nav>32
+        <h1>The agency of women in Sherlock Holmes</h1>
     </header>
 
     <main>
-        <h1 class="paraHeader">Overview</h1>
-        <p class="mainParagraph glassBorder">This project analyzes linguistic ellipsis
+        <h2>Overview</h2>
+        <p class="glassBorder">This project analyzes linguistic ellipsis
             (elision) present in 90 poems written by Emily Dickinson. More specifically, we sought to analyze the
             correlation between elision and other factors, such as imagery, themes, recipients, and the time period in
             which the poems were written.
@@ -127,11 +83,10 @@
             Through our markup and analysis of these poems using XML-based technologies, we were able to generate some
             answers to these questions and even some new ideas. Explore our website to find out more!</p>
 
-        <h1 class="paraHeader">About the Developers</h1>
-        <p class="mainParagraph glassBorder">
+        <h2>About the Developers</h2>
+        <p class="glassBorder">
             We developed this project in Spring 2021 for the Computational Methods in the Digital Humanities course at
             the University of Pittsburgh. The project contributors consist of
-            <br></br>
             blank is a senior majoring in Linguisitics and English Literature and minoring in Korean. She took
             this course to satisfy the methods course requirement for the Linguistics major.
             blank is a senior pursuing a Bachelor of Science in Architectural Studies and minoring in English
@@ -145,7 +100,7 @@
         </p>
     </main>
 
-    <footer class="footerStyles">
+    <footer>
         <p>Author: Hege Refsnes</p>
     </footer>
 </body>
