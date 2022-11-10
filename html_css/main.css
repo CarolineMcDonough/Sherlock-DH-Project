@@ -1,3 +1,28 @@
+/* EDIT VALUE- Means a significant value that will change how the page is viewed*/ 
+/* IMPORTANT VALUE- an edit value with key signifigance*/ 
+/* IMG VALUE- an value having to do with an image mostly width and height*/ 
+
+/* ############-BORDER UTILITY CLASSES-############ */
+/* GLASS BORDER */
+/*https://css.glass*/
+.glassBorder {
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.9px);
+    -webkit-backdrop-filter: blur(7.9px);
+    padding: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* CLAY BORDER */
+.clayBorder{
+    /* NOTE background color should be set in the element that this is applied to */
+    backdrop-filter: blur(5px);
+    border-radius: 26px;
+    box-shadow: 35px 35px 68px 0px rgba(224, 215, 199, 0.5), inset -8px -8px 16px 0px rgba(224, 215, 199, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+}
+
 /* ############-GLOBAL STYLES-############ */
 html {
     height: 100%;
@@ -7,7 +32,7 @@ html {
 /* CSS for parallax scrolling adapted from 2 sources 
         -https://codepen.io/blaustern_fotografie/pen/OJJvbzb
         -https://codepen.io/webmadewell/pen/zppMBX
-    Glass-morphism generator very cool
+        Glass-morphism generator very cool
         -https://css.glass
 */
 body {
@@ -37,12 +62,12 @@ body {
 */
 header {
     height: 70vh;
-    padding: 5% 0 8%;
+    padding: 5% 0 9%;/* IMPORTANT VALUE */
     margin-left:120px;
     position: relative;
     -webkit-transform-style: inherit;
     transform-style: inherit;
-    width: 100vw;
+    width: 100vw;    /* EDIT VALUE */
 
     display: flex;
     justify-content: center;
@@ -64,31 +89,15 @@ header:before {
     text-align: center;
 }
 
-@media screen and (max-width: 800px) {
-    nav{
-        display:none;
-    }
-    header::before{
-        width:100%;
-    }
-    /* show mobile menu */
-    .mobileMenu {display: unset !important;}
-    h1{margin-left:40% !important}
-    header{width:100%;margin-left:-128px}
-}
-@media screen and (max-width: 624px) {
-    h1{position: absolute;top:10%;left:56%;margin:unset !important}
-}
-
 
 /*header pseudo element*/
 header::before {
     bottom: 0;
     content: "";
-    left: 120px;
+    left: 120px;/* EDIT VALUE */
     position: absolute;
-    right: 0;
-    top: 0;
+    right: 0;/* EDIT VALUE */
+    top: 0;/* EDIT VALUE */
     display: block;
     z-index: -100;
     background-image: url("https://www.christies.com/img/LotImages/2014/NYR/2014_NYR_02861_0223_000(doyle_arthur_conan_paget_sidney_illustrator_original_gouache_and_water024604).jpg?mode=max");
@@ -118,88 +127,111 @@ h1 {
         -2px 2px 0 #000,
         2px 2px 0 #000;
     width: fit-content;
-    max-width: 80vw;
-    margin-top:10%;
-    margin-left: -80px;
+    max-width: 80vw;/* IMPORTANT VALUE */
+    margin-top:10%;/* IMPORTANT VALUE */
+    margin-left: -80px;/* IMPORTANT VALUE */
     font-size: 3rem;
 }
 
-/* ############-LANDING PAGE MENU-############ */
+/* ############-HEADER MEDIA BEHAVIORS-############ */
+/* media behaviors for showing the mobile menu when the screen size is less then 800px */
+@media screen and (max-width: 800px) {
+    /* hide our original menu */
+    nav{
+        display:none;
+    }
+    /* the the image to full width */
+    header::before{
+        width:100%;
+    }
+    header{width:100%;margin-left:-128px}
+    /* show mobile menu */
+    .mobileMenu {display: unset !important;}
+    /* center the title */
+    h1{margin-left:40% !important}
+}
+/* SMARTPHONES */
+@media screen and (max-width: 624px) {
+    /* on even smaller screens mostly smartphones the title needs to be centered differently */
+    h1{position: absolute;top:10%;left:56%;margin:unset !important}
+}
+
+/* ############-LANDING PAGE MENU For big/medium_big screens-############ */
 nav {
     /* important is needed here to overwrite the glass border styles*/
     background: rgb(224,215,199) !important;
     top:0;
-    left:-130px;
+    /* positioning */
+    left:-130px;/* EDIT VALUE */
     position: absolute;
-    width:120px;
-    height: 95%;
+    width:120px;/* EDIT VALUE */
+    top:-40px;/* EDIT VALUE */
+    height: 100%;/* EDIT VALUE */
     display:flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: -1px;
 }
 
-/* all four images in the menubar in secuential order */
-figure:nth-child(1) * img {
-    width: 110px;
-    height: 90px;
-    /* filter: drop-shadow(0 0 0.75rem cornflowerblue); */
-}
-figure:nth-child(1) {
-    background-color: cornflowerblue;
-}
-
-figure:nth-child(2) * img {
-    width: 120px;
-    height: 120px;
-    /* filter: drop-shadow(0 0 0.75rem yellow); */
-}
-figure:nth-child(2) {
-    background-color: darkblue;
-}
-
-figure:nth-child(3) * img {
-    width: 110px;
-    height: 120px;
-    /* filter: drop-shadow(0 0 0.75rem green); */
-}
-figure:nth-child(3) {
-    background-color: cornflowerblue;
-}
-
-figure:nth-child(4) * img {
-    width: 120px;
-    height: 150px;
-
-}
-figure:nth-child(4) {
-    background-color: darkblue;
-}
-
-/* all four text blocks after the menu items */
+/* a figure is an image with a figcaption */
 figure {
     display: block;
     color: black;
 
     margin-inline:auto;
     text-align: center;
-    width:140px;
-    height:140px;
-    margin-left:-3px;
+    width:120px;/* EDIT VALUE */
+    height: 120px;
+    min-height:120px;/* EDIT VALUE */
+    margin-left:6px;/* EDIT VALUE */
 
-    /* claymorphic  */
-    backdrop-filter: blur(5px);
-    border-radius: 26px;
-    box-shadow: 35px 35px 68px 0px rgba(224, 215, 199, 0.5), inset -8px -8px 16px 0px rgba(224, 215, 199, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
 }
 figcaption{
     color:white;
 }
-/* ############-MOBILE MENU-############ */
-.introMenu {
-    /* display: none; */
+
+/* LANDING PAGE MENU BAR IMAGES AND TEXT */
+/* all four images in the menubar in secuential order */
+
+/* STORIES */
+figure:nth-child(1) * img {
+    width: 120px;/* IMG VALUE */
+    height: 120px;/* IMG VALUE */
+    /* filter: drop-shadow(0 0 0.75rem cornflowerblue); */
 }
-/* button trigger hide and show */
+/* METHODS */
+figure:nth-child(2) * img {
+    width: 120px;/* IMG VALUE */
+    height: 120px;
+    /* filter: drop-shadow(0 0 0.75rem yellow); */
+}
+
+/* ANALYSIS */
+figure:nth-child(3) * img {
+    width: 110px;/* IMG VALUE */
+    height: 120px;
+    /* filter: drop-shadow(0 0 0.75rem green); */
+}
+
+/* ANALYSIS02 for now */
+figure:nth-child(4) * img {
+    width: 110px;/* IMG VALUE */
+    height: 120px;
+}
+
+/* landing page whole button container */
+/* Select all even figure children */
+figure:nth-child(2n) {
+    background-color: cornflowerblue;/* COLOR VALUE */
+}
+/* Select all odd figure children */
+figure:nth-child(2n+1) {
+    background-color: darkblue;/* COLOR VALUE */
+}
+
+
+/* ############-MOBILE MENU-############ */
+/* button trigger hide and show image inside*/
 #menubutton {
     display: block;
     border: unset;
@@ -207,56 +239,56 @@ figcaption{
     background-color: transparent;
     z-index: 1;
     position: absolute;
-    top: 30px;
-    left: 30px;
+    top: 30px;/* EDIT VALUE */
+    left: 30px;/* EDIT VALUE */
 }
+/* Make the grey image black */
 #menubutton > img{
-    filter: brightness(0%);padding-top: 0px;width:50px;height:50px;
+    filter: brightness(0%);
+    padding-top: 0px;
+    width:50px;/* IMG VALUE */
+    height:50px;/* IMG VALUE */
 }
-
+/* start with this not showing until the media tag displays it */
 .mobileMenu{
     display: none;
 }
+/* the div containing the images and names of the menu items */
 .mobileMenu > div{
     text-align: center;
     width: fit-content;
+
     display: flex;
     flex-direction: column;
+    
+    /* This moves down the items below the button but keeps the div over the button
+    if i used margin it would move down in the same way but setting background 
+    would not overlay the background over the #menubutton
+    */
     padding-top:75px;
-    height:60%;
+    height:60%;/* EDIT VALUE */
     justify-content: space-between;
-    top: 20px;
-    left: 10px;
+    top: 20px;/* EDIT VALUE */
+    left: 10px;/* EDIT VALUE */
     position: fixed;
 }
+/* Clay border and expanding menuItem this class is used in the javascript hide and show as well */
 .expandingMenuItem{
     display: none;
-
-    backdrop-filter: blur(5px);
-    border-radius: 26px;
-    box-shadow: 35px 35px 68px 0px rgba(255, 250, 241, 0.5), inset -8px -8px 16px 0px rgba(0, 76, 255, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+    background-color: blue;/* COLOR VALUE */
 }
+/* the text inside the movile menu items */
 .expandingMenuItem * span{
-    display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;
+    display: block;
+    transform:translate(0px,-10px);
+    color:blue;/* COLOR VALUE */
+    margin-inline: auto;
 }
+/* all images in the mobile menu */
 .expandingMenuItem * img{
-    width: 100px;
-    height: 80px
+    width: 100px;/* IMG VALUE */
+    height: 80px/* IMG VALUE */
 }
-
-.right-menu {
-    text-align: center;
-    width: fit-content;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    top: 20px;
-    right: 25px;
-    position: fixed;
-    transform:translateY(100px);
-    padding:5px;
-}
-
 
 /* ############-MAIN CONTENT AND PARAGRAPHS LANDING PAGE-############ */
 /*global p styles kind of messy should be its own class
@@ -282,7 +314,7 @@ main {
     flex-direction: column;
 }
 
-/* header for main body paragraphs on intro page */
+/* header/title for main block paragraphs on intro page */
 main>h2 {
     color: black;
     text-align: center;
@@ -290,7 +322,7 @@ main>h2 {
     font-size: 2rem;
 }
 
-/* styles for main paragraph p tags on intro page */
+/* styles for main block paragraph p tags on intro page */
 main>p {
     /* let me set stuff on you */
     display: inline-block;
@@ -306,18 +338,6 @@ main>p {
 
     /* center the paragraph block */
     margin-inline: auto;
-}
-
-/* ############-GLASS BORDER-############ */
-/*https://css.glass*/
-.glassBorder {
-    background: rgba(255, 255, 255, 0.04);
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(7.9px);
-    -webkit-backdrop-filter: blur(7.9px);
-    padding: 25px;
-    border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 /* ############-STICKY TOP BAR MENU-############ */
@@ -349,8 +369,18 @@ main>p {
     z-index: 100;
 }
 
+/* ############-FOOTER-############ */
+/* footer stuff right now its just size */
+footer {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+
+
+/* NOT USING RN */
 /*an item on the sticky menubar*/
-.menuBarItem {
+/* .menuBarItem {
     position: relative;
     margin-top: 3px;
     display: inline-block;
@@ -361,16 +391,19 @@ main>p {
     border-radius: 10px;
     height: 30px;
     vertical-align: middle;
-}
+} */
+/* Not sure what this was for */
+/* .right-menu {
+    text-align: center;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    top: 20px;
+    right: 25px;
+    position: fixed;
+    transform:translateY(100px);
+    padding:5px;
+} */
 
-/* ############-FOOTER-############ */
-/* footer stuff right now its just size */
-footer {
-    width: 100%;
-    height: 40px;
-    background-color: black;
-}
-
-
-/* UNCOMMENTED CSS FOR VARIOUS MENUBARS */
 
