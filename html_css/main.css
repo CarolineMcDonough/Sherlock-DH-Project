@@ -73,8 +73,11 @@ header:before {
     }
     /* show mobile menu */
     .mobileMenu {display: unset !important;}
-    h1{position:relative;margin-left:50%}
+    h1{margin-left:40% !important}
     header{width:100%;margin-left:-128px}
+}
+@media screen and (max-width: 624px) {
+    h1{position: absolute;top:10%;left:56%;margin:unset !important}
 }
 
 
@@ -109,15 +112,15 @@ header * {
 /* text shadow for header text  */
 h1 {
     background-color: transparent;
-    transform:translateX(-40px);
     text-shadow:
         -2px -2px 0 #000,
         2px -2px 0 #000,
         -2px 2px 0 #000,
         2px 2px 0 #000;
     width: fit-content;
-    max-width: 65vw;
+    max-width: 80vw;
     margin-top:10%;
+    margin-left: -80px;
     font-size: 3rem;
 }
 
@@ -184,6 +187,7 @@ figure {
     height:140px;
     margin-left:-3px;
 
+    /* claymorphic  */
     backdrop-filter: blur(5px);
     border-radius: 26px;
     box-shadow: 35px 35px 68px 0px rgba(224, 215, 199, 0.5), inset -8px -8px 16px 0px rgba(224, 215, 199, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
@@ -195,7 +199,7 @@ figcaption{
 .introMenu {
     /* display: none; */
 }
-
+/* button trigger hide and show */
 #menubutton {
     display: block;
     border: unset;
@@ -204,7 +208,7 @@ figcaption{
     z-index: 1;
     position: absolute;
     top: 30px;
-    right: 50px;
+    left: 30px;
 }
 #menubutton > img{
     filter: brightness(0%);padding-top: 0px;width:50px;height:50px;
@@ -213,16 +217,24 @@ figcaption{
 .mobileMenu{
     display: none;
 }
-.mobileMenu > .glassBorder{
+.mobileMenu > div{
     text-align: center;
     width: fit-content;
     display: flex;
     flex-direction: column;
-
-    justify-content: center;
+    padding-top:75px;
+    height:60%;
+    justify-content: space-between;
     top: 20px;
-    right: 25px;
+    left: 10px;
     position: fixed;
+}
+.expandingMenuItem{
+    display: none;
+
+    backdrop-filter: blur(5px);
+    border-radius: 26px;
+    box-shadow: 35px 35px 68px 0px rgba(255, 250, 241, 0.5), inset -8px -8px 16px 0px rgba(0, 76, 255, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
 }
 .expandingMenuItem * span{
     display: block;transform:translate(0px,-10px);color:blue;margin-inline: auto;
