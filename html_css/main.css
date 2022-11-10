@@ -35,7 +35,7 @@ html {
         Glass-morphism generator very cool
         -https://css.glass
 */
-body {
+#introBody body {
     color: #fff;
     /*make sure margin and padding is default*/
     margin: 0;
@@ -85,7 +85,7 @@ header {
 header,
 header:before {
     /* DEFINES what part of the image will stay in focus on resize */
-    background: 10% 50% / cover;
+    background: 0% 50% / cover;
     z-index: -1;
     text-align: center;
 }
@@ -103,12 +103,10 @@ header::before {
     z-index: -100;
     background-image: url("https://www.christies.com/img/LotImages/2014/NYR/2014_NYR_02861_0223_000(doyle_arthur_conan_paget_sidney_illustrator_original_gouache_and_water024604).jpg?mode=max");
     background-size: cover;
-    -webkit-transform-origin: center center 0;
     -webkit-transform: translateZ(-1px) scale(2);
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
     min-height: 100vh;
-    word-wrap: break-word;
 }
 
 /*text styles inherited by any text in the header*/
@@ -120,7 +118,8 @@ header * {
 }
 
 /* text shadow for header text  */
-h1 {
+/* I chose to go with a more specific selector so i can use other h1 tags on other pages */
+header>h1 {
     background-color: transparent;
     text-shadow:
         -2px -2px 0 #000,
