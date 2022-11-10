@@ -26,7 +26,6 @@
 /* ############-GLOBAL STYLES-############ */
 html {
     height: 100%;
-    overflow: hidden;
 }
 
 /* CSS for parallax scrolling adapted from 2 sources 
@@ -35,7 +34,7 @@ html {
         Glass-morphism generator very cool
         -https://css.glass
 */
-#introBody body {
+body#introBody {
     color: #fff;
     /*make sure margin and padding is default*/
     margin: 0;
