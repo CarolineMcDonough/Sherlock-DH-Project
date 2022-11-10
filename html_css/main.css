@@ -84,7 +84,8 @@ header {
 */
 header,
 header:before {
-    background: 50% 50% / cover;
+    /* DEFINES what part of the image will stay in focus on resize */
+    background: 10% 50% / cover;
     z-index: -1;
     text-align: center;
 }
