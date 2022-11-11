@@ -9,30 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="main.css"></link>
     <script src="js/bookshelf.js"></script>
-    <style>
-        li:nth-child(2n+1){
-            background-color: cornflowerblue;
-        }
-        li:nth-child(2n){
-            background-color: blue;
-        }
-        .clayBorder li{
-            margin-left: -42px;
-        }
-        .storyText{
-            display:none;position:absolute;top:20px;left:25%;background-color: white;width:50%;height:90vh;
-            overflow-y:scroll;
-            text-align: center;
-            padding-bottom: 200px;
-            line-height: 2rem;
-        }
-    </style>
     
 </head>
 
-<body>
-    <div class="bookshelf" style="margin-top:10%;--xPos:55%;--yPos:-280px">
-        <div class="book" style="background-color: white;">
+<body id="storybody">
+    <div class="bookshelf">
+        <div class="book" >
             <div class="side spine">
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> PG </span>
@@ -42,7 +24,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -51,7 +33,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -60,7 +42,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -69,7 +51,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -78,7 +60,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -87,7 +69,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -96,7 +78,7 @@
         </div>
 
                 <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -105,7 +87,7 @@
         </div>
     
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -113,7 +95,7 @@
             <div class="side cover"></div>
         </div>
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -121,7 +103,7 @@
             <div class="side cover"></div>
         </div>
         <div class="book">
-            <div class="side spine" style="background-color: white;">
+            <div class="side spine" >
                 <span class="spine-title"> Book Title </span>
                 <span class="spine-author"> CD </span>
             </div>
@@ -146,34 +128,34 @@
             <li>Story #12</li>
         </ul>
 
-        <div style="margin-left:20px">
+        <div class="scrollableBookList">
             <h2 class="sidebar_header">I want to find:</h2>
             <h3 class="siderbar_sub_header">Men</h3>
-            <input type="checkbox" id="trauma" name="trauma" />
-            <label for="trauma"><strong style="color:red;">Actions</strong></label>
-            <br /><input type="checkbox" id="battle" name="battle" />
-            <label for="battle"><strong style="color:green;">Quotes</strong></label>
-            <br /><input type="checkbox" id="prep" name="prep" />
-            <label for="prep"><strong style="color:Pink;">Data</strong></label>
-            <br /><input type="checkbox" id="conditions" name="conditions" />
-            <label for="conditions"><strong style="color:Blue;">Stuff</strong></label>
+            <input type="checkbox" id="Actions" name="Actions" />
+            <label for="Actions"><strong style="color:red;">Actions</strong></label>
+            <br /><input type="checkbox" id="Quotes" name="Quotes" />
+            <label for="Quotes"><strong style="color:green;">Quotes</strong></label>
+            <br /><input type="checkbox" id="Data" name="Data" />
+            <label for="Data"><strong style="color:Pink;">Data</strong></label>
+            <br /><input type="checkbox" id="Stuff" name="Stuff" />
+            <label for="Stuff"><strong style="color:Blue;">Stuff</strong></label>
             <h4 class="sidebar_sub_header">Women</h4>
-            <input type="checkbox" id="trauma" name="trauma" />
-            <label for="trauma"><strong style="color:red;">Actions</strong></label>
-            <br /><input type="checkbox" id="battle" name="battle" />
-            <label for="battle"><strong style="color:green;">Quotes</strong></label>
-            <br /><input type="checkbox" id="prep" name="prep" />
-            <label for="prep"><strong style="color:Pink;">Data</strong></label>
-            <br /><input type="checkbox" id="conditions" name="conditions" />
-            <label for="conditions"><strong style="color:Blue;">Stuff</strong></label>
+            <input type="checkbox" id="Actions" name="Actions" />
+            <label for="Actions"><strong style="color:red;">Actions</strong></label>
+            <br /><input type="checkbox" id="Quotes" name="Quotes" />
+            <label for="Quotes"><strong style="color:green;">Quotes</strong></label>
+            <br /><input type="checkbox" id="Data" name="Data" />
+            <label for="Data"><strong style="color:Pink;">Data</strong></label>
+            <br /><input type="checkbox" id="Stuff" name="Stuff" />
+            <label for="Stuff"><strong style="color:Blue;">Stuff</strong></label>
         </div>
 
 
     </div>
 
     <div class="clayBorder storyText">
-        <h2 style="margin-inline:auto">The Story of Stories</h2>
-        <p style="padding:40px;text-align: left;">
+        <h2>The Story of Stories</h2>
+        <p>
 
 Mrs. Hudson, the landlady of Sherlock Holmes, was a long-suffering
 woman.  Not only was her first-floor flat invaded at all hours by
@@ -542,54 +524,6 @@ the apologetic butler had delivered his message I had pushed past him
 and was in the room.
         </p>
     </div>
-
-
-    <!-- <div class="bookshelf" style="-xPos:52%;-yPos:-200px">
-        <div class="book" style="background-color: white;">
-            <div class="side spine">
-                <span class="spine-title"> Book Title </span>
-                <span class="spine-author"> PG </span>
-            </div>
-            <div class="side top"></div>
-            <div class="side cover"></div>
-        </div>
-    
-        <div class="book">
-            <div class="side spine" style="background-color: white;">
-                <span class="spine-title"> Book Title </span>
-                <span class="spine-author"> CD </span>
-            </div>
-            <div class="side top"></div>
-            <div class="side cover"></div>
-        </div>
-    
-        <div class="book">
-            <div class="side spine" style="background-color: white;">
-                <span class="spine-title"> Book Title </span>
-                <span class="spine-author"> CD </span>
-            </div>
-            <div class="side top"></div>
-            <div class="side cover"></div>
-        </div>
-    
-        <div class="book">
-            <div class="side spine" style="background-color: white;">
-                <span class="spine-title"> Book Title </span>
-                <span class="spine-author"> CD </span>
-            </div>
-            <div class="side top"></div>
-            <div class="side cover"></div>
-        </div>
-    
-        <div class="book">
-            <div class="side spine" style="background-color: white;">
-                <span class="spine-title"> Book Title </span>
-                <span class="spine-author"> CD </span>
-            </div>
-            <div class="side top"></div>
-            <div class="side cover"></div>
-        </div>
-    </div> -->
 </body>
 
 </html>

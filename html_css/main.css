@@ -2,111 +2,6 @@
 /* IMPORTANT VALUE- an edit value with key signifigance*/ 
 /* IMG VALUE- an value having to do with an image mostly width and height*/ 
 
-
-:root {
-    --spine-pyramid: linear-gradient(315deg,
-            transparent 75%,
-            rgba(255, 255, 255, 0.1) 0),
-        linear-gradient(45deg,
-            transparent 75%,
-            rgba(255, 255, 255, 0.1) 0),
-        linear-gradient(135deg,
-            rgba(255, 255, 255, 0.2) 166px,
-            transparent 0),
-        linear-gradient(45deg,
-            rgba(0, 0, 0, 0.1) 75%,
-            transparent 0);
-    background-size: 20px 20px;
-    --spine-stairs: repeating-linear-gradient(63deg,
-            rgba(255, 255, 255, 0.1),
-            rgba(255, 255, 255, 0.1) 1px,
-            transparent 3px,
-            transparent 0),
-        linear-gradient(127deg,
-            rgba(255, 255, 255, 0.1),
-            rgba(255, 255, 255, 0.1) 90px,
-            transparent 55%,
-            transparent 0),
-        linear-gradient(transparent 51%,
-            rgba(0, 0, 0, 0.1) 170px);
-    background-size: 70px 120px;
-    --spine-argyle: repeating-linear-gradient(120deg,
-            rgba(255, 255, 255, 0.1),
-            rgba(255, 255, 255, 0.1) 1px,
-            transparent 1px,
-            transparent 60px),
-        repeating-linear-gradient(60deg,
-            rgba(255, 255, 255, 0.1),
-            rgba(255, 255, 255, 0.1) 1px,
-            transparent 1px,
-            transparent 60px),
-        linear-gradient(60deg,
-            rgba(0, 0, 0, 0.1) 25%,
-            transparent 25%,
-            transparent 75%,
-            rgba(0, 0, 0, 0.1) 75%,
-            rgba(0, 0, 0, 0.1)),
-        linear-gradient(120deg,
-            rgba(0, 0, 0, 0.1) 25%,
-            transparent 25%,
-            transparent 75%,
-            rgba(0, 0, 0, 0.1) 75%,
-            rgba(0, 0, 0, 0.1));
-    background-size: 70px 120px;
-    --spine-tartan: repeating-linear-gradient(transparent,
-            transparent 50px,
-            rgba(0, 0, 0, 0.4) 50px,
-            rgba(0, 0, 0, 0.4) 53px,
-            transparent 53px,
-            transparent 63px,
-            rgba(0, 0, 0, 0.4) 63px,
-            rgba(0, 0, 0, 0.4) 66px,
-            transparent 66px,
-            transparent 116px,
-            rgba(0, 0, 0, 0.5) 116px,
-            rgba(0, 0, 0, 0.5) 166px,
-            rgba(255, 255, 255, 0.2) 166px,
-            rgba(255, 255, 255, 0.2) 169px,
-            rgba(0, 0, 0, 0.5) 169px,
-            rgba(0, 0, 0, 0.5) 179px,
-            rgba(255, 255, 255, 0.2) 179px,
-            rgba(255, 255, 255, 0.2) 182px,
-            rgba(0, 0, 0, 0.5) 182px,
-            rgba(0, 0, 0, 0.5) 232px,
-            transparent 232px),
-        repeating-linear-gradient(270deg,
-            transparent,
-            transparent 50px,
-            rgba(0, 0, 0, 0.4) 50px,
-            rgba(0, 0, 0, 0.4) 53px,
-            transparent 53px,
-            transparent 63px,
-            rgba(0, 0, 0, 0.4) 63px,
-            rgba(0, 0, 0, 0.4) 66px,
-            transparent 66px,
-            transparent 116px,
-            rgba(0, 0, 0, 0.5) 116px,
-            rgba(0, 0, 0, 0.5) 166px,
-            rgba(255, 255, 255, 0.2) 166px,
-            rgba(255, 255, 255, 0.2) 169px,
-            rgba(0, 0, 0, 0.5) 169px,
-            rgba(0, 0, 0, 0.5) 179px,
-            rgba(255, 255, 255, 0.2) 179px,
-            rgba(255, 255, 255, 0.2) 182px,
-            rgba(0, 0, 0, 0.5) 182px,
-            rgba(0, 0, 0, 0.5) 232px,
-            transparent 232px),
-        repeating-linear-gradient(125deg,
-            transparent,
-            transparent 2px,
-            rgba(0, 0, 0, 0.2) 2px,
-            rgba(0, 0, 0, 0.2) 3px,
-            transparent 3px,
-            transparent 5px,
-            rgba(0, 0, 0, 0.2) 5px);
-}
-
-
 /* ############-BORDER UTILITY CLASSES-############ */
 /* GLASS BORDER */
 /*https://css.glass*/
@@ -524,6 +419,9 @@ footer {
 }
 
 .bookshelf {
+    margin-top:5%;
+    --xPos:55%;
+    --yPos:-280px;
     width: 80%;
     margin-top: 25vh;
     margin-inline:auto;
@@ -537,15 +435,12 @@ footer {
     margin-top: 30px;
     animation: slide-in 800ms;
 }
-.bookGrid{
-
-}
 
 
 @keyframes move {
     0% {
         /* the two values for x and y are  */
-        transform: translate(-400px, 0) translate(0, 150px) scale(1);
+        transform: translate(0, 0) translate(0, 150px) scale(1);
     }
     10% {
         transform: translate(calc(var(--xPos) / 10), 0) translate(calc(var(--yPos) / 10), 0) scale(.9);
@@ -563,7 +458,7 @@ footer {
     -webkit-animation-fill-mode: forwards;
 }
 
-body{
+body#storybody{
     background: url(assets/satire.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -581,9 +476,27 @@ body{
     }
 }
 
+li:nth-child(2n+1){
+    background-color: cornflowerblue;
+}
+li:nth-child(2n){
+    background-color: blue;
+}
+.clayBorder li{
+    margin-left: -42px;
+}
+.storyText{
+    display:none;position:absolute;top:20px;left:25%;background-color: white;width:50%;height:90vh;
+    overflow-y:scroll;
+    text-align: center;
+    padding-bottom: 200px;
+    line-height: 2rem;
+}
+
 
 
 .book {
+    background-color: white;
     width: 50px;
     height: 280px;
     position: relative;
@@ -596,6 +509,11 @@ body{
     transform: rotateX(-7deg) rotateY(-10deg) rotateZ(-1deg);
     /* transform: rotateX(-10deg) rotateY(-9deg) rotateZ(-1deg) translateY(15px) translateX(-20px); */
 }
+
+.scrollableBookList{
+    margin-left:20px;
+}
+
 .side {
     position: absolute;
     border: 2px solid black;
@@ -660,4 +578,13 @@ body{
     z-index: 1;
     transform: rotateX(var(--hoverRx)) rotateY(var(--hoverRy)) rotateZ(0deg) translateY(var(--hoverTy)) translateX(var(--hoverTx));
     /* transform: rotateX(-10deg) rotateY(-10deg) rotateZ(0deg) translateY(-30px) translateX(0px); */
+}
+
+.storyText > h2{
+    margin-inline:auto;
+}
+
+.storyText > p{
+    padding:40px;
+    text-align: left;
 }
