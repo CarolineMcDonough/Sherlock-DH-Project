@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../sherlockHolmes_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>
 
 <passage number ="4"> <title>IV.THE BOSCOMBE VALLEY MYSTERY</title>
 
@@ -69,7 +69,7 @@ explain the state of things to you, as far as I have been able to
 understand it, in a very few words.</quote></p>
 
  <p><quote speaker = "sherlockHolmes">Boscombe Valley is a country district not very far from Ross, in
-Herefordshire. The largest landed proprietor in that part is a Mr. <char gender = "male" speaker = "johnTurner">John
+Herefordshire. The largest landed proprietor in that part is a Mr. <char gender = "male" name = "johnTurner">John
 Turner</char>, who made his money in Australia and returned some years ago to
 the old country. One of the farms which he held, that of Hatherley, was
 let to Mr. <char gender = "male" name = "charlesMccarthy">Charles McCarthy</char>, who was also an ex-Australian. The men had
@@ -89,7 +89,7 @@ families. Now for the facts.</quote>
 </p>
  
 <p>
-<quote speaker = "sherlockHolmes">On June 3rd, that is, on Monday last, <char gender = "male" name = "charlesMccarthy">McCarthy</char> <action char = "charlesMccarthy">left his house at
+ <quote speaker = "sherlockHolmes">On June 3rd, that is, on Monday last, <action><char gender = "male" name = "charlesMccarthy">McCarthy</char> left his house at
 Hatherley about three in the afternoon and walked down to the Boscombe
 Pool, which is a small lake formed by the spreading out of the stream
 which runs down the Boscombe Valley. He had been out with his
@@ -101,11 +101,11 @@ must hurry, as he had an appointment of importance to keep at three.</action>
 and two people saw him as he passed over this ground. One was an old
 woman, whose name is not mentioned, and the other was <char gender = "male" name = "williamCrowder">William Crowder</char>,
   a game-keeper in the employ of <char gender = "male" name = "johnTurner">Mr. Turner</char>. Both these witnesses depose
-that <char gender = "male" name = "charlesMccarthy">Mr. McCarthy<char> was walking alone. The game-keeper adds that within a
-few minutes of his seeing <char gender = "male" name = "charlesMccarthy">Mr. McCarthy</char> pass he had seen his son, <char gender = "male" name = "jamesMccarthy">Mr.
- James McCarthy,</char> <action char = "jamesMccarthy">going the same way with a gun under his arm.</action> To the
+that <char gender = "male" name = "charlesMccarthy">Mr. McCarthy</char> was walking alone. The game-keeper adds that within a
+ few minutes of his seeing <char gender = "male" name = "charlesMccarthy">Mr. McCarthy</char> pass he had seen his son, <action><char gender = "male" name = "jamesMccarthy">Mr.
+  James McCarthy,</char> going the same way with a gun under his arm.</action> To the
 best of his belief, the father was actually in sight at the time, and
-the son was <action char = "jamesMccarthy">following him</action>. He thought no more of the matter until he
+ <action><char gender="male" name="jamesMccarthy">the son</char> was following him</action>. He thought no more of the matter until he
  heard in the evening of the tragedy that had occurred.</quote></p>
 
 
