@@ -543,26 +543,28 @@ footer {
 
 
 @keyframes move {
-    50%, 100% {
-        transform: translate(var(--xPos), 0) translate(0, var(--yPos)) scale(.5) ;
-    }
     0% {
-        transform: translate(0, 0) translate(0, 0) scale(1);
+        /* the two values for x and y are  */
+        transform: translate(-400px, 0) translate(0, 150px) scale(1);
     }
     10% {
-        transform: translate(calc(var(--xPos) / 2), 0) translate(calc(var(--yPos) / 2), 0) scale(.8);
+        transform: translate(calc(var(--xPos) / 10), 0) translate(calc(var(--yPos) / 10), 0) scale(.9);
     }
+    50%, 100% {
+        transform: translate(var(--xPos), 0) translate(0, var(--yPos)) scale(.45) ;
+    }
+
 }
 .minimizeBooks {
     -webkit-animation-name: move;
-    -webkit-animation-duration: 850ms;
+    -webkit-animation-duration: 1200ms;
     -webkit-animation-iteration-count: 1;
     -webkit-animation-timing-function: linear;
     -webkit-animation-fill-mode: forwards;
 }
 
 body{
-    background: url(../assets/satire.png) no-repeat center center fixed; 
+    background: url(assets/satire.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
