@@ -168,6 +168,7 @@ header {
     height: 70vh;
     padding: 5% 0 9%;/* IMPORTANT VALUE */
     margin-left:120px;
+    
     position: relative;
     -webkit-transform-style: inherit;
     transform-style: inherit;
@@ -241,20 +242,46 @@ header>h1 {
 /* media behaviors for showing the mobile menu when the screen size is less then 800px */
 @media screen and (max-width: 800px) {
     /* hide our original menu */
-    nav{
+    /* nav{
         display:none;
-    }
+    } */
     /* the the image to full width */
     header::before{
         width:100%;
     }
-    header{width:100%;margin-left:-128px}
+    header{width:100%;margin-left:-128px;margin-top:150px}
     /* show mobile menu */
-    .mobileMenu {display: unset !important;}
+    /* .mobileMenu {display: unset !important;} */
+    nav{
+        width: 100vw !important;
+        height:150px !important;
+        left:16% !important;
+        top:-150px !important;
+        margin-left: 6px !important;
+        flex-direction: row !important;
+    }
+    figure{margin-inline: unset !important}
     /* center the title */
     h1{margin-left:40% !important}
 }
 /* SMARTPHONES */
+@media screen and (max-height: 685px){
+    header::before{
+        width:100%;
+    }
+    header{width:100%;margin-left:-128px;margin-top:150px}
+    nav{
+        width: 97% !important;
+        height:150px !important;
+        left:120px !important;
+
+        top:-150px !important;
+        margin-left: 6px !important;
+        flex-direction: row !important;
+    }
+    figure{margin-inline: unset !important}
+    h1{margin-left:25% !important}
+}
 @media screen and (max-width: 624px) {
     /* on even smaller screens mostly smartphones the title needs to be centered differently */
     h1{position: absolute;top:10%;left:56%;margin:unset !important}
@@ -269,12 +296,23 @@ nav {
     left:-130px;/* EDIT VALUE */
     position: absolute;
     width:120px;/* EDIT VALUE */
-    top:-40px;/* EDIT VALUE */
-    height: 100%;/* EDIT VALUE */
+    max-width: 100vw;
+    top:0px;/* EDIT VALUE */
+
+    height: 97%;/* EDIT VALUE */
+    max-height: 104vh;
     display:flex;
     flex-direction: column;
     justify-content: space-around;
     margin-left: -1px;
+
+    /*
+    HEIGHT MEDIA TAGS SHOULD BE ADDED TO PREVENT THIS MENU FROM BEING CUT OFF 
+    */
+
+    /* Important BECAUSE GLASS BORDER will set to 25px we need to unset or switch the order 
+    of the class declarations */
+    padding-top: 0px !important;
 }
 
 /* a figure is an image with a figcaption */
@@ -335,63 +373,100 @@ figure:nth-child(2n+1) {
 
 
 /* ############-MOBILE MENU-############ */
-/* button trigger hide and show image inside*/
-#menubutton {
+.mobileMenu>button {
     display: block;
     border: unset;
     max-width: fit-content;
     background-color: transparent;
     z-index: 1;
     position: absolute;
-    top: 30px;/* EDIT VALUE */
-    left: 30px;/* EDIT VALUE */
 }
-/* Make the grey image black */
-#menubutton > img{
+
+/* button trigger hide and show image inside*/
+#menubutton {
+    top: 30px;
+    /* EDIT VALUE */
+    left: 100px;
+    /* EDIT VALUE */
+}
+
+#nextbutton {
+    right: 10px;
+    top: 20px;
+}
+
+#homebutton {
+    top: 28px;
+    left: 30px;
+}
+
+.mobileMenu>button>*>img,.mobileMenu>button>img {
+    /* force the image to be black */
     filter: brightness(0%);
+
+    /* remove padding */
     padding-top: 0px;
-    width:50px;/* IMG VALUE */
-    height:50px;/* IMG VALUE */
+
+    /* set height and width for all icons */
+    width: 50px;
+    /* IMG VALUE */
+    height: 50px;
+    /* IMG VALUE */
 }
-/* start with this not showing until the media tag displays it */
-.mobileMenu{
-    display: none;
-}
+
+
+
 /* the div containing the images and names of the menu items */
-.mobileMenu > div{
+.mobileMenu>div {
     text-align: center;
     width: fit-content;
 
     display: flex;
     flex-direction: column;
-    
+
     /* This moves down the items below the button but keeps the div over the button
-    if i used margin it would move down in the same way but setting background 
-    would not overlay the background over the #menubutton
-    */
-    padding-top:75px;
-    height:60%;/* EDIT VALUE */
+if i used margin it would move down in the same way but setting background 
+would not overlay the background over the #menubutton
+*/
+    padding-top: 75px;
+    height: 60%;
+    /* EDIT VALUE */
     justify-content: space-between;
-    top: 20px;/* EDIT VALUE */
-    left: 10px;/* EDIT VALUE */
-    position: fixed;
+    top: 0px;
+    /* EDIT VALUE */
+    left: 0px;
+    /* EDIT VALUE */
+    position: absolute;
 }
+
 /* Clay border and expanding menuItem this class is used in the javascript hide and show as well */
-.expandingMenuItem{
-    display: none;
-    background-color: blue;/* COLOR VALUE */
+.expandingMenuItem {
+    background-color: blue;
+    /* COLOR VALUE */
 }
+
 /* the text inside the movile menu items */
-.expandingMenuItem * span{
+.expandingMenuItem * span {
     display: block;
-    transform:translate(0px,-10px);
-    color:blue;/* COLOR VALUE */
+    transform: translate(0px, -10px);
+    color: blue;
+    /* COLOR VALUE */
     margin-inline: auto;
 }
+
 /* all images in the mobile menu */
-.expandingMenuItem * img{
-    width: 100px;/* IMG VALUE */
-    height: 80px/* IMG VALUE */
+.expandingMenuItem * img {
+    width: 100px;
+    /* IMG VALUE */
+    height: 80px;
+        /* IMG VALUE */
+}
+.mobileMenu>div>table>tr{
+    display: block;
+    width: 65%;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-inline:auto;
 }
 
 /* ############-MAIN CONTENT AND PARAGRAPHS LANDING PAGE-############ */
@@ -563,7 +638,7 @@ footer {
     -webkit-animation-fill-mode: forwards;
 }
 
-body{
+body#storyPage{
     background: url(assets/satire.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;

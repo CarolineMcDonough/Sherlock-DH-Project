@@ -75,9 +75,12 @@ window.addEventListener('load', (event) => {
         bookshelf.style.gridTemplateColumns = "fr fr fr fr" ;
         bookshelf.style.marginTop = "0";
 
+        document.querySelector("#menubutton").style.zIndex="20";
+        document.querySelector("#homebutton").style.zIndex="20";
+
 
         //CSS set variable for where the animation should go.
-        bookshelf.style.setProperty('--xPos', `${-10}px`);
+        bookshelf.style.setProperty('--xPos', `${-13}px`);
         bookshelf.style.setProperty('--yPos', '-120px');
 
         //smaller bookshelf has different hover behaviors
