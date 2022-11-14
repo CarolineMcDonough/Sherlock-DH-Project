@@ -510,7 +510,6 @@ footer {
     -webkit-animation-fill-mode: forwards;
 }
 
-<<<<<<< HEAD
 body#storyPage{
     background: url(assets/satire.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -520,8 +519,6 @@ body#storyPage{
     overflow: hidden;
 }
 
-=======
->>>>>>> 4776327442326cd28dd73edf5c3f2425655aff80
 @keyframes slide-in {
     from {
         transform: translateX(-100%);
@@ -546,10 +543,7 @@ body#storybody{
 
 /* ############-LEFT MENU STYLES-############ */
 .smallShelf{
-    display:none;
-    background:rgb(100, 200, 200, 0.4);
-    position:absolute;
-     top:0%;--xPos:55%;--yPos:-280px;width:220px;z-index: 1;left:0;height:100%
+    display:none;background:rgb(100, 200, 200, 0.4);--xPos:55%;--yPos:-280px;width:220px;z-index: 1;height:100vh;margin-top:-60px;margin-left:-56px;padding-top:60px
 }
 
 .smallShelf > ul{
