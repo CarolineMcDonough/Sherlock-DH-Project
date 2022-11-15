@@ -1,865 +1,1096 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <passage number="11">
-    <title>XI. THE ADVENTURE OF THE BERYL CORONET</title>
-    <story>
-        <p><quote speaker="Watson"><char gender="male">Holmes</char>,</quote> said I as I stood one
-            morning in our bow-window looking down the street, <quote speaker="Watson">here is a
-                madman coming along. It seems rather sad that his relatives should allow him to come
-                out alone.</quote></p>
-        <p>My friend rose lazily from his armchair and stood with his hands in the pockets of his
-            dressing-gown, looking over my shoulder. It was a bright, crisp February morning, and
-            the snow of the day before still lay deep upon the ground, shimmering brightly in the
-            wintry sun. Down the centre of Baker Street it had been ploughed into a brown crumbly
-            band by the traffic, but at either side and on the heaped-up edges of the footpaths it
-            still lay as white as when it fell. The grey pavement had been cleaned and scraped, but
-            was still dangerously slippery, so that there were fewer passengers than usual. Indeed,
-            from the direction of the Metropolitan Station no one was coming save the single
-            gentleman whose eccentric conduct had drawn my attention.</p>
-        <p>He was a man of about fifty, tall, portly, and imposing, with a massive, strongly marked
-            face and a commanding figure. He was dressed in a sombre yet rich style, in black
-            frock-coat, shining hat, neat brown gaiters, and well-cut pearl-grey trousers. Yet his
-            actions were in absurd contrast to the dignity of his dress and features, for he was
-            running hard, with occasional little springs, such as a weary man gives who is little
-            accustomed to set any tax upon his legs. As he ran he jerked his hands up and down,
-            waggled his head, and writhed his face into the most extraordinary contortions.</p>
-        <p><quote speaker="Watson">What on earth can be the matter with him?</quote> I asked. <quote
-                speaker="Watson">He is looking up at the numbers of the houses.</quote></p>
-        <p><quote speaker="Holmes">I believe that he is coming here,</quote> said <action><char
-                gender="male">Holmes</char>, rubbing his hands</action>.</p>
-        <p><quote speaker="Watson">Here?</quote></p>
-        <p><quote speaker="Holmes">Yes; I rather think he is coming to consult me professionally. I
-                think that I recognise the symptoms. Ha! did I not tell you?</quote> As he spoke,
-            the man, puffing and blowing, rushed at our door and pulled at our bell until the whole
-            house resounded with the clanging.</p>
-        <p>A few moments later he was in our room, still puffing, still gesticulating, but with so
-            fixed a look of grief and despair in his eyes that our smiles were turned in an instant
-            to horror and pity. For a while he could not get his words out, but swayed his body and
-            plucked at his hair like one who has been driven to the extreme limits of his reason.
-            Then, suddenly springing to his feet, he beat his head against the wall with such force
-            that we both rushed upon him and tore him away to the centre of the room. Sherlock <action><char
-                gender="male">Holmes</char> pushed him down into the easy-chair and, sitting beside
-            him, patted his hand and chatted with him in the easy, soothing tones which he knew so
-            well how to employ</action>.</p>
-        <p><quote speaker="Holmes">You have come to me to tell your story, have you not?</quote>
-            said he. <quote speaker="Holmes">You are fatigued with your haste. Pray wait until you
-                have recovered yourself, and then I shall be most happy to look into any little
-                problem which you may submit to me.</quote></p>
-        <p>The man sat for a minute or more with a heaving chest, fighting against his emotion. Then
-            he passed his handkerchief over his brow, set his lips tight, and turned his face
-            towards us.</p>
-        <p><quote speaker="Alexander Holder">No doubt you think me mad?</quote> said he.</p>
-        <p><quote speaker="Holmes">I see that you have had some great trouble,</quote> responded
-                <char gender="male">Holmes</char>.</p>
-        <p><quote speaker="Alexander Holder">God knows I have!—a trouble which is enough to unseat my reason,
-                so sudden and so terrible is it. Public disgrace I might have faced, although I am a
-                man whose character has never yet borne a stain. Private affliction also is the lot
-                of every man; but the two coming together, and in so frightful a form, have been
-                enough to shake my very soul. Besides, it is not I alone. The very noblest in the
-                land may suffer unless some way be found out of this horrible affair.</quote></p>
-        <p><quote speaker="Holmes">Pray compose yourself, sir,</quote> said <char gender="male"
-                >Holmes</char>, <quote speaker="Holmes">and let me have a clear account of who you
-                are and what it is that has befallen you.</quote></p>
-        <p><quote speaker="Alexander Holder">My name,</quote> answered our visitor, <quote speaker="Alexander Holder">is
-                probably familiar to your ears. I am <char gender="male">Alexander Holder</char>, of
-                the banking firm of Holder &amp; Stevenson, of Threadneedle Street.</quote></p>
-        <p>The name was indeed well known to us as belonging to the senior partner in the second
-            largest private banking concern in the City of London. What could have happened, then,
-            to bring one of the foremost citizens of London to this most pitiable pass? We waited,
-            all curiosity, until with another effort he braced himself to tell his story.</p>
-        <p><quote speaker="Alexander Holder">I feel that time is of value,</quote> said he; <quote
-                speaker="Alexander Holder">that is why I hastened here when the police inspector suggested
-                that I should secure your co-operation. I came to Baker Street by the Underground
-                and hurried from there on foot, for the cabs go slowly through this snow. That is
-                why I was so out of breath, for I am a man who takes very little exercise. I feel
-                better now, and I will put the facts before you as shortly and yet as clearly as I
-                can.</quote></p>
-        <p><quote speaker="Alexander Holder">It is, of course, well known to you that in a successful banking
-                business as much depends upon our being able to find remunerative investments for
-                our funds as upon our increasing our connection and the number of our depositors.
-                One of our most lucrative means of laying out money is in the shape of loans, where
-                the security is unimpeachable. We have done a good deal in this direction during the
-                last few years, and there are many noble families to whom we have advanced large
-                sums upon the security of their pictures, libraries, or plate.</quote></p>
-        <p><quote speaker="Alexander Holder">Yesterday morning I was seated in my office at the bank when a
-                card was brought in to me by one of the clerks. I started when I saw the name, for
-                it was that of none other than—well, perhaps even to you I had better say no more
-                than that it was a name which is a household word all over the earth—one of the
-                highest, noblest, most exalted names in England. I was overwhelmed by the honour and
-                attempted, when he entered, to say so, but he plunged at once into business with the
-                air of a man who wishes to hurry quickly through a disagreeable task.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk"><char gender="male">Mr.
-                    Holder</char>,</subq> said he, <subq speaker="Clerk">I have been informed that
-                    you are in the habit of advancing money.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">The firm does so when the security is
-                    good.</subq> I answered.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">It is absolutely essential to me,</subq>
-                said he, <subq speaker="Clerk">that I should have £ 50,000 at once. I could, of
-                    course, borrow so trifling a sum ten times over from my friends, but I much
-                    prefer to make it a matter of business and to carry out that business myself. In
-                    my position you can readily understand that it is unwise to place one’s self
-                    under obligations.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">For how long, may I ask, do you want this
-                    sum?</subq> I asked.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">Next Monday I have a large sum due to me,
-                    and I shall then most certainly repay what you advance, with whatever interest
-                    you think it right to charge. But it is very essential to me that the money
-                    should be paid at once.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">I should be happy to advance it without
-                    further parley from my own private purse,</subq> said I, <subq speaker="Alexander Holder">
-                    were it not that the strain would be rather more than it could bear. If, on the
-                    other hand, I am to do it in the name of the firm, then in justice to my partner
-                    I must insist that, even in your case, every businesslike precaution should be
-                    taken.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">I should much prefer to have it so,</subq>
-                said he, raising up a square, black morocco case which he had laid beside his chair.
-                    <subq speaker="Clerk">You have doubtless heard of the Beryl
-                Coronet?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">One of the most precious public
-                    possessions of the empire,</subq> said I.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">Precisely.</subq> He opened the case, and
-                there, imbedded in soft, flesh-coloured velvet, lay the magnificent piece of
-                jewellery which he had named. <subq speaker="Clerk">There are thirty-nine enormous
-                    beryls,</subq> said he, <subq speaker="Clerk">and the price of the gold chasing
-                    is incalculable. The lowest estimate would put the worth of the coronet at
-                    double the sum which I have asked. I am prepared to leave it with you as my
-                    security.</subq></quote></p>
-        <p><quote speaker="Alexander Holder">I took the precious case into my hands and looked in some
-                perplexity from it to my illustrious client.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">You doubt its value?</subq> he
-                asked.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">Not at all. I only
-            doubt—</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">The propriety of my leaving it. You may
-                    set your mind at rest about that. I should not dream of doing so were it not
-                    absolutely certain that I should be able in four days to reclaim it. It is a
-                    pure matter of form. Is the security sufficient?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">Ample.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Clerk">You understand, <char gender="male">Mr.
-                        Holder</char>, that I am giving you a strong proof of the confidence which I
-                    have in you, founded upon all that I have heard of you. I rely upon you not only
-                    to be discreet and to refrain from all gossip upon the matter but, above all, to
-                    preserve this coronet with every possible precaution because I need not say that
-                    a great public scandal would be caused if any harm were to befall it. Any injury
-                    to it would be almost as serious as its complete loss, for there are no beryls
-                    in the world to match these, and it would be impossible to replace them. I leave
-                    it with you, however, with every confidence, and I shall call for it in person
-                    on Monday morning.</subq></quote></p>
-        <p><quote speaker="Alexander Holder">Seeing that my client was anxious to leave, I said no more but,
-                calling for my cashier, I ordered him to pay over fifty £ 1000 notes. When I was
-                alone once more, however, with the precious case lying upon the table in front of
-                me, I could not but think with some misgivings of the immense responsibility which
-                it entailed upon me. There could be no doubt that, as it was a national possession,
-                a horrible scandal would ensue if any misfortune should occur to it. I already
-                regretted having ever consented to take charge of it. However, it was too late to
-                alter the matter now, so I locked it up in my private safe and turned once more to
-                my work.</quote></p>
-        <p><quote speaker="Alexander Holder">When evening came I felt that it would be an imprudence to leave
-                so precious a thing in the office behind me. Bankers’ safes had been forced before
-                now, and why should not mine be? If so, how terrible would be the position in which
-                I should find myself! I determined, therefore, that for the next few days I would
-                always carry the case backward and forward with me, so that it might never be really
-                out of my reach. With this intention, I called a cab and drove out to my house at
-                Streatham, carrying the jewel with me. I did not breathe freely until I had taken it
-                upstairs and locked it in the bureau of my dressing-room.</quote></p>
-        <p><quote speaker="Alexander Holder">And now a word as to my household, Mr. <char gender="male"
-                    >Holmes</char>, for I wish you to thoroughly understand the situation. My groom
-                and my page sleep out of the house, and may be set aside altogether. I have three
-                maid-servants who have been with me a number of years and whose absolute reliability
-                is quite above suspicion. Another, Lucy Parr, the second waiting-maid, has only been
-                in my service a few months. She came with an excellent character, however, and has
-                always given me satisfaction. She is a very pretty girl and has attracted admirers
-                who have occasionally hung about the place. That is the only drawback which we have
-                found to her, but we believe her to be a thoroughly good girl in every
-            way.</quote></p>
-        <p><quote speaker="Alexander Holder">So much for the servants. My family itself is so small that it
-                will not take me long to describe it. I am a widower and have an only son, <char
-                    gender="male">Arthur</char>. He has been a disappointment to me, Mr. <char
-                    gender="male">Holmes</char>—a grievous disappointment. I have no doubt that I am
-                myself to blame. People tell me that I have spoiled him. Very likely I have. When my
-                dear wife died I felt that he was all I had to love. I could not bear to see the
-                smile fade even for a moment from his face. I have never denied him a wish. Perhaps
-                it would have been better for both of us had I been sterner, but I meant it for the
-                best.</quote></p>
-        <p><quote speaker="Alexander Holder">It was naturally my intention that he should succeed me in my
-                business, but he was not of a business turn. He was wild, wayward, and, to speak the
-                truth, I could not trust him in the handling of large sums of money. When he was
-                young he became a member of an aristocratic club, and there, having charming
-                manners, he was soon the intimate of a number of men with long purses and expensive
-                habits. He learned to play heavily at cards and to squander money on the turf, until
-                he had again and again to come to me and implore me to give him an advance upon his
-                allowance, that he might settle his debts of honour. He tried more than once to
-                break away from the dangerous company which he was keeping, but each time the
-                influence of his friend, Sir George <char gender="male">Burnwell</char>, was enough
-                to draw him back again.</quote></p>
-        <p><quote speaker="Alexander Holder">And, indeed, I could not wonder that such a man as Sir George
-                    <char gender="male">Burnwell</char> should gain an influence over him, for he
-                has frequently brought him to my house, and I have found myself that I could hardly
-                resist the fascination of his manner. He is older than <char gender="male"
-                    >Arthur</char>, a man of the world to his finger-tips, one who had been
-                everywhere, seen everything, a brilliant talker, and a man of great personal beauty.
-                Yet when I think of him in cold blood, far away from the glamour of his presence, I
-                am convinced from his cynical speech and the look which I have caught in his eyes
-                that he is one who should be deeply distrusted. So I think, and so, too, thinks my
-                little <char gender="female">Mary</char>, who has a woman’s quick insight into
-                character.</quote></p>
-        <p><quote speaker="Alexander Holder">And now there is only she to be described. She is my niece; but
-                when my brother died five years ago and left her alone in the world I adopted her,
-                and have looked upon her ever since as my daughter. She is a sunbeam in my
-                house—sweet, loving, beautiful, a wonderful manager and housekeeper, yet as tender
-                and quiet and gentle as a woman could be. She is my right hand. I do not know what I
-                could do without her. In only one matter has she ever gone against my wishes. Twice
-                my boy has asked her to marry him, for he loves her devotedly, but each time she has
-                refused him. I think that if anyone could have drawn him into the right path it
-                would have been she, and that his marriage might have changed his whole life; but
-                now, alas! it is too late—forever too late!</quote></p>
-        <p><quote speaker="Alexander Holder">Now, Mr. <char gender="male">Holmes</char>, you know the people
-                who live under my roof, and I shall continue with my miserable story.</quote></p>
-        <p><quote speaker="Alexander Holder">When we were taking coffee in the drawing-room that night after
-                dinner, I told <char gender="male">Arthur</char> and <char gender="female"
-                    >Mary</char> my experience, and of the precious treasure which we had under our
-                roof, suppressing only the name of my client. Lucy Parr, who had brought in the
-                coffee, had, I am sure, left the room; but I cannot swear that the door was closed.
-                    <char gender="female">Mary</char> and <char gender="male">Arthur</char> were
-                much interested and wished to see the famous coronet, but I thought it better not to
-                disturb it.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Where have you put it?</subq> asked <char
-                    gender="male">Arthur</char>.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker ="Alexander Holder">In my own bureau.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Well, I hope to goodness the house won’t
-                    be burgled during the night.</subq> said he.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">It is locked up,</subq> I
-                answered.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Oh, any old key will fit that bureau. When
-                    I was a youngster I have opened it myself with the key of the box-room
-                    cupboard.</subq></quote></p>
-        <p><quote speaker="Alexander Holder">He often had a wild way of talking, so that I thought little of
-                what he said. He followed me to my room, however, that night with a very grave
-                face.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Look here, dad,</subq> said he with his
-                eyes cast down, <subq speaker="Arthur">can you let me have £ 200?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">No, I cannot!</subq> I answered sharply.
-                    <subq speaker="Alexander Holder">I have been far too generous with you in money
-                    matters.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">You have been very kind,</subq> said he,
-                    <subq speaker="Arthur">but I must have this money, or else I can never show my
-                    face inside the club again.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">And a very good thing, too!</subq> I
-                cried.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Yes, but you would not have me leave it a
-                    dishonoured man,</subq> said he. <subq speaker="Arthur">I could not bear the
-                    disgrace. I must raise the money in some way, and if you will not let me have
-                    it, then I must try other means.</subq></quote></p>
-        <p><quote speaker="Alexander Holder">I was very angry, for this was the third demand during the month.
-                    <subq speaker="Alexander Holder">You shall not have a farthing from me,</subq> I cried, on
-                which he bowed and left the room without another word.</quote></p>
-        <p><quote speaker="Alexander Holder">When he was gone I unlocked my bureau, made sure that my treasure
-                was safe, and locked it again. Then I started to go round the house to see that all
-                was secure—a duty which I usually leave to <char gender="female">Mary</char> but
-                which I thought it well to perform myself that night. As I came down the stairs I
-                saw <char gender="female">Mary</char> herself at the side window of the hall, which
-                she closed and fastened as I approached.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Mary">Tell me, dad,</subq> said she, looking, I
-                thought, a little disturbed, <subq speaker="Mary">did you give Lucy, the maid,
-                    leave to go out to-night?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">Certainly not.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Mary">She came in just now by the back door. I
-                    have no doubt that she has only been to the side gate to see someone, but I
-                    think that it is hardly safe and should be stopped.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">You must speak to her in the morning, or I
-                    will if you prefer it. Are you sure that everything is
-            fastened?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Mary">Quite sure, dad.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">Then, good-night.</subq> I kissed her and
-                went up to my bedroom again, where I was soon asleep.</quote></p>
-        <p><quote speaker="Alexander Holder">I am endeavouring to tell you everything, Mr. <char gender="male"
-                    >Holmes</char>, which may have any bearing upon the case, but I beg that you
-                will question me upon any point which I do not make clear.</quote></p>
-        <p><quote speaker="Holmes">On the contrary, your statement is singularly lucid.</quote></p>
-        <p><quote speaker="Alexander Holder">I come to a part of my story now in which I should wish to be
-                particularly so. I am not a very heavy sleeper, and the anxiety in my mind tended,
-                no doubt, to make me even less so than usual. About two in the morning, then, I was
-                awakened by some sound in the house. It had ceased ere I was wide awake, but it had
-                left an impression behind it as though a window had gently closed somewhere. I lay
-                listening with all my ears. Suddenly, to my horror, there was a distinct sound of
-                footsteps moving softly in the next room. I slipped out of bed, all palpitating with
-                fear, and peeped round the corner of my dressing-room door.</quote></p>
-        <p><quote speaker="Alexanader Holder"><subq speaker="Alexander Holder "><char gender="male">Arthur</char>!</subq>
-                I screamed, <subq speaker="Alexander Holder">you villain! you thief! How dare you touch that
-                    coronet?</subq></quote></p>
-        <p><quote speaker="Alecander Holder">The gas was half up, as I had left it, and my unhappy boy,
-                dressed only in his shirt and trousers, was standing beside the light, holding the
-                coronet in his hands. He appeared to be wrenching at it, or bending it with all his
-                strength. At my cry he dropped it from his grasp and turned as pale as death. I
-                snatched it up and examined it. One of the gold corners, with three of the beryls in
-                it, was missing.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">You blackguard!</subq> I shouted, beside
-                myself with rage. <subq speaker="Alexander Holder">You have destroyed it! You have dishonoured
-                    me forever! Where are the jewels which you have stolen?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Stolen!</subq> he cried.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">Yes, thief!</subq> I roared, shaking him
-                by the shoulder.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">There are none missing. There cannot be
-                    any missing,</subq> said he.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">There are three missing. And you know
-                    where they are. Must I call you a liar as well as a thief? Did I not see you
-                    trying to tear off another piece?</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">You have called me names enough,</subq>
-                said he, <subq speaker="Arthur">I will not stand it any longer. I shall not say
-                    another word about this business, since you have chosen to insult me. I will
-                    leave your house in the morning and make my own way in the
-            world.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">You shall leave it in the hands of the
-                    police!</subq> I cried half-mad with grief and rage. <subq speaker="Alexander Holder">I
-                    shall have this matter probed to the bottom.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">You shall learn nothing from me,</subq>
-                said he with a passion such as I should not have thought was in his nature. <subq
-                    speaker="Arthur">If you choose to call the police, let the police find what they
-                    can.</subq></quote></p>
-        <p><quote speaker="Alexander Holder">By this time the whole house was astir, for I had raised my voice
-                in my anger. <action><char gender="female">Mary</char> was the first to rush into my room</action>,
-                and, at the sight of the coronet and of <char gender="male">Arthur</char>’s face,
-                she read the whole story and, with a scream, fell down senseless on the ground. I
-                sent the housemaid for the police and put the investigation into their hands at
-                once. When the inspector and a constable entered the house, <action><char gender="male"
-                    >Arthur</char>, who had stood sullenly with his arms folded, asked me whether it
-                was my intention to charge him with theft</action>. I answered that it had ceased to be a
-                private matter, but had become a public one, since the ruined coronet was national
-                property. I was determined that the law should have its way in
-            everything.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">At least,</subq> said he, <subq
-                    speaker="Arthur">you will not have me arrested at once. It would be to your
-                    advantage as well as mine if I might leave the house for five
-                minutes.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">That you may get away, or perhaps that you
-                    may conceal what you have stolen,</subq> said I. And then, realising the
-                dreadful position in which I was placed, I implored him to remember that not only my
-                honour but that of one who was far greater than I was at stake; and that he
-                threatened to raise a scandal which would convulse the nation. He might avert it all
-                if he would but tell me what he had done with the three missing stones.</quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Alexander Holder">You may as well face the matter,</subq>
-                said I; <subq speaker="Alexander Holder">you have been caught in the act, and no confession
-                    could make your guilt more heinous. If you but make such reparation as is in
-                    your power, by telling us where the beryls are, all shall be forgiven and
-                    forgotten.</subq></quote></p>
-        <p><quote speaker="Alexander Holder"><subq speaker="Arthur">Keep your forgiveness for those who ask
-                    for it,</subq> he answered, turning away from me with a sneer. I saw that he was
-                too hardened for any words of mine to influence him. There was but one way for it. I
-                called in the inspector and gave him into custody. A search was made at once not
-                only of his person but of his room and of every portion of the house where he could
-                possibly have concealed the gems; but no trace of them could be found, nor would the
-                wretched boy open his mouth for all our persuasions and our threats. This morning he
-                was removed to a cell, and I, after going through all the police formalities, have
-                hurried round to you to implore you to use your skill in unravelling the matter. The
-                police have openly confessed that they can at present make nothing of it. You may go
-                to any expense which you think necessary. I have already offered a reward of £ 1000.
-                My God, what shall I do! I have lost my honour, my gems, and my son in one night.
-                Oh, what shall I do!</quote></p>
-        <p>He put a hand on either side of his head and rocked himself to and fro, droning to
-            himself like a child whose grief has got beyond words.</p>
-        <p>Sherlock <action><char gender="male">Holmes</char> sat silent for some few minutes, with his
-            brows knitted and his eyes fixed upon the fire</action>.</p>
-        <p><quote speaker="Holmes">Do you receive much company?</quote> he asked.</p>
-        <p><quote speaker="Alexander Holder">None save my partner with his family and an occasional friend of
-                    <char gender="male">Arthur</char>’s. Sir George <char gender="male"
-                    >Burnwell</char> has been several times lately. No one else, I
-            think.</quote></p>
-        <p><quote speaker="Holmes">Do you go out much in society?</quote></p>
-        <p><quote speaker="Alexander Holder"><char gender="male">Arthur</char> does. <char gender="female"
-                    >Mary</char> and I stay at home. We neither of us care for it.</quote></p>
-        <p><quote speaker="Holmes">That is unusual in a young girl.</quote></p>
-        <p><quote speaker="Alexander Holder ">She is of a quiet nature. Besides, she is not so very young. She
-                is four-and-twenty.</quote></p>
-        <p><quote speaker="Holmes">This matter, from what you say, seems to have been a shock to her
-                also.</quote></p>
-        <p><quote speaker="Alexander Holder">Terrible! She is even more affected than I.</quote></p>
-        <p><quote speaker="Holmes">You have neither of you any doubt as to your son’s
-            guilt?</quote></p>
-        <p><quote speaker="Alexander Holder">How can we have when I saw him with my own eyes with the coronet
-                in his hands.</quote></p>
-        <p><quote speaker="Holmes">I hardly consider that a conclusive proof. Was the remainder of
-                the coronet at all injured?</quote></p>
-        <p><quote speaker="Alexander Holder">Yes, it was twisted.</quote></p>
-        <p><quote speaker="Holmes">Do you not think, then, that he might have been trying to
-                straighten it?</quote></p>
-        <p><quote speaker="Alexander Holder">God bless you! You are doing what you can for him and for me. But
-                it is too heavy a task. What was he doing there at all? If his purpose were
-                innocent, why did he not say so?</quote></p>
-        <p><quote speaker="Holmes">Precisely. And if it were guilty, why did he not invent a lie?
-                His silence appears to me to cut both ways. There are several singular points about
-                the case. What did the police think of the noise which awoke you from your
-                sleep?</quote></p>
-        <p><quote speaker="Alexander Holder">They considered that it might be caused by <action><char gender="male"
-                    >Arthur</char>’s closing his bedroom door.</action></quote></p>
-        <p><quote speaker="Holmes">A likely story! As if a man bent on felony would slam his door so
-                as to wake a household. What did they say, then, of the disappearance of these
-                gems?</quote></p>
-        <p><quote speaker="Alexander Holder">They are still sounding the planking and probing the furniture in
-                the hope of finding them.</quote></p>
-        <p><quote speaker="Holmes">Have they thought of looking outside the house?</quote></p>
-        <p><quote speaker="Alexander Holder">Yes, they have shown extraordinary energy. The whole garden has
-                already been minutely examined.</quote></p>
-        <p><quote speaker="Holmes">Now, my dear sir,</quote> said <char gender="male">Holmes</char>,
-                <quote speaker="Holmes">is it not obvious to you now that this matter really strikes
-                very much deeper than either you or the police were at first inclined to think? It
-                appeared to you to be a simple case; to me it seems exceedingly complex. Consider
-                what is involved by your theory. You suppose that your son came down from his bed,
-                went, at great risk, to your dressing-room, opened your bureau, took out your
-                coronet, broke off by main force a small portion of it, went off to some other
-                place, concealed three gems out of the thirty-nine, with such skill that nobody can
-                find them, and then returned with the other thirty-six into the room in which he
-                exposed himself to the greatest danger of being discovered. I ask you now, is such a
-                theory tenable?</quote></p>
-        <p><quote speaker="Alexander Holder">But what other is there?</quote> cried <char gender="male">the
-                banker</char> with a gesture of despair. <quote speaker="Alexander Holder">If his motives were
-                innocent, why does he not explain them?</quote></p>
-        <p><quote speaker="Holmes">It is our task to find that out,</quote> replied <char
-                gender="male">Holmes</char>; <quote speaker="Holmes">so now, if you please, <char
-                    gender="male">Mr. Holder</char>, we will set off for Streatham together, and
-                devote an hour to glancing a little more closely into details.</quote></p>
-        <p>My friend insisted upon my accompanying them in their expedition, which I was eager
-            enough to do, for my curiosity and sympathy were deeply stirred by the story to which we
-            had listened. I confess that the guilt of <char gender="male">the banker</char>’s son
-            appeared to me to be as obvious as it did to his unhappy father, but still I had such
-            faith in <char gender="male">Holmes</char>’ judgment that I felt that there must be some
-            grounds for hope as long as he was dissatisfied with the accepted explanation. He hardly
-            spoke a word the whole way out to the southern suburb, but sat with his chin upon his
-            breast and his hat drawn over his eyes, sunk in the deepest thought. Our client appeared
-            to have taken fresh heart at the little glimpse of hope which had been presented to him,
-            and he even broke into a desultory chat with me over his business affairs. A short
-            railway journey and a shorter walk brought us to Fairbank, the modest residence of the
-            great financier.</p>
-        <p>Fairbank was a good-sized square house of white stone, standing back a little from the
-            road. A double carriage-sweep, with a snow-clad lawn, stretched down in front to two
-            large iron gates which closed the entrance. On the right side was a small wooden
-            thicket, which led into a narrow path between two neat hedges stretching from the road
-            to the kitchen door, and forming the tradesmen’s entrance. On the left ran a lane which
-            led to the stables, and was not itself within the grounds at all, being a public, though
-            little used, thoroughfare. <action><char gender="male">Holmes</char> left us standing at the
-            door and walked slowly all round the house, across the front, down the tradesmen’s path,
-            and so round by the garden behind into the stable lane</action>. So long was he that <char
-                gender="male">Mr. Holder</char> and I went into the dining-room and waited by the
-            fire until he should return. We were sitting there in silence when the door opened and a
-            young lady came in. She was rather above the middle height, slim, with dark hair and
-            eyes, which seemed the darker against the absolute pallor of her skin. I do not think
-            that I have ever seen such deadly paleness in a woman’s face. Her lips, too, were
-            bloodless, but her eyes were flushed with crying. As she swept silently into the room
-            she impressed me with a greater sense of grief than <char gender="male">the
-                banker</char> had done in the morning, and it was the more striking in her as she
-            was evidently a woman of strong character, with immense capacity for self-restraint.
-            Disregarding my presence, she went straight to her uncle and passed her hand over his
-            head with a sweet womanly caress.</p>
-        <p><quote speaker="Mary">You have given orders that <char gender="male">Arthur</char>
-                should be liberated, have you not, dad?</quote> she asked.</p>
-        <p><quote speaker="Alexander Holder">No, no, my girl, the matter must be probed to the
-            bottom.</quote></p>
-        <p><quote speaker="Mary">But I am so sure that he is innocent. You know what woman’s
-                instincts are. I know that he has done no harm and that you will be sorry for having
-                acted so harshly.</quote></p>
-        <p><quote speaker="Alexander Holder">Why is he silent, then, if he is innocent?</quote></p>
-        <p><quote speaker="Mary">Who knows? Perhaps because he was so angry that you should
-                suspect him.</quote></p>
-        <p><quote speaker="Alexander Holder">How could I help suspecting him, when I actually saw him with the
-                coronet in his hand?</quote></p>
-        <p><quote speaker="Mary">Oh, but he had only picked it up to look at it. Oh, do, do take
-                my word for it that he is innocent. Let the matter drop and say no more. It is so
-                dreadful to think of our dear <char gender="male">Arthur</char> in
-            prison!</quote></p>
-        <p><quote speaker="Alexander Holder">I shall never let it drop until the gems are found—never, <char
-                    gender="female">Mary</char>! Your affection for <char gender="male"
-                    >Arthur</char> blinds you as to the awful consequences to me. Far from hushing
-                the thing up, I have brought a gentleman down from London to inquire more deeply
-                into it.</quote></p>
-        <p><quote speaker="Mary">This gentleman?</quote> she asked, facing round to me.</p>
-        <p><quote speaker="Alexander Holder">No, his friend. He wished us to leave him alone. He is round in
-                the stable lane now.</quote></p>
-        <p><quote speaker="Mary">The stable lane?</quote> She raised her dark eyebrows. <quote
-                speaker="Mary">What can he hope to find there? Ah! this, I suppose, is he. I
-                trust, sir, that you will succeed in proving, what I feel sure is the truth, that my
-                cousin <char gender="male">Arthur</char> is innocent of this crime.</quote></p>
-        <p><quote speaker="Holmes">I fully share your opinion, and I trust, with you, that we may
-                prove it,</quote> returned <char gender="male">Holmes</char>, going back to the mat
-            to knock the snow from his shoes. <quote speaker="Holmes">I believe I have the honour of
-                addressing Miss <char gender="female">Mary Holder</char>. Might I ask you a question
-                or two?</quote></p>
-        <p><quote speaker="Mary">Pray do, sir, if it may help to clear this horrible affair
-                up.</quote></p>
-        <p><quote speaker="Holmes">You heard nothing yourself last night?</quote></p>
-        <p><quote speaker="Mary">Nothing, until my uncle here began to speak loudly. I heard that,
-                and I came down.</quote></p>
-        <p><quote speaker="Holmes">You shut up the windows and doors the night before. Did you
-                fasten all the windows?</quote></p>
-        <p><quote speaker="Mary">Yes.</quote></p>
-        <p><quote speaker="Holmes">Were they all fastened this morning?</quote></p>
-        <p><quote speaker="Mary">Yes.</quote></p>
-        <p><quote speaker="Holmes">You have a maid who has a sweetheart? I think that you remarked
-                to your uncle last night that she had been out to see him?</quote></p>
-        <p><quote speaker="Mary">Yes, and she was the girl who waited in the drawing-room, and who
-                may have heard uncle’s remarks about the coronet.</quote></p>
-        <p><quote speaker="Holmes">I see. You infer that she may have gone out to tell her
-                sweetheart, and that the two may have planned the robbery.</quote></p>
-        <p><quote speaker="Alexander Holder">But what is the good of all these vague theories,</quote> cried
-                <char gender="male">the banker</char> impatiently, <quote speaker="Alexander Holder">when I
-                have told you that I saw <char gender="male">Arthur</char> with the coronet in his
-                hands?</quote></p>
-        <p><quote speaker="Holmes">Wait a little, <char gender="male">Mr. Holder</char>. We must
-                come back to that. About this girl, <char gender="female">Miss Holder</char>. You
-                saw her return by the kitchen door, I presume?</quote></p>
-        <p><quote speaker="Mary">Yes; when I went to see if the door was fastened for the night I
-                met her slipping in. I saw the man, too, in the gloom.</quote></p>
-        <p><quote speaker="Holmes">Do you know him?</quote></p>
-        <p><quote speaker="Mary">Oh, yes! he is the greengrocer who brings our vegetables round.
-                His name is <char gender="male">Francis Prosper</char>.</quote></p>
-        <p><quote speaker="Holmes">He stood,</quote> said <char gender="male">Holmes</char>, <quote
-                speaker="Holmes">to the left of the door—that is to say, farther up the path than is
-                necessary to reach the door?</quote></p>
-        <p><quote speaker="Mary">Yes, he did.</quote></p>
-        <p><quote speaker="Holmes">And he is a man with a wooden leg?</quote></p>
-        <p>Something like fear sprang up in the young lady’s expressive black eyes. <quote
-                speaker="Mary">Why, you are like a magician,</quote> said she. <quote
-                speaker="Mary">How do you know that?</quote> She smiled, but there was no
-            answering smile in <char gender="male">Holmes</char>’ thin, eager face.</p>
-        <p><quote speaker="Holmes">I should be very glad now to go upstairs,</quote> said he. <quote
-                speaker="Holmes">I shall probably wish to go over the outside of the house again.
-                Perhaps I had better take a look at the lower windows before I go up.</quote></p>
-        <p>He walked swiftly round from one to the other, pausing only at the large one which looked
-            from the hall onto the stable lane. This he opened and made a very careful examination
-            of the sill with his powerful magnifying lens. <quote speaker="Holmes">Now we shall go
-                upstairs,</quote> said he at last.</p>
-        <p>The banker’s dressing-room was a plainly furnished little chamber, with a grey carpet, a
-            large bureau, and a long mirror. <char gender="male">Holmes</char> went to the bureau
-            first and looked hard at the lock.</p>
-        <p><quote speaker="Holmes">Which key was used to open it?</quote> he asked.</p>
-        <p><quote speaker="Alexander Holder">That which my son himself indicated—that of the cupboard of the
-                lumber-room.</quote></p>
-        <p><quote speaker="Holmes">Have you it here?</quote></p>
-        <p><quote speaker="Alexander Holder">That is it on the dressing-table.</quote></p>
-        <p>Sherlock <char gender="male">Holmes</char> took it up and opened the bureau.</p>
-        <p><quote speaker="Holmes">It is a noiseless lock,</quote> said he. <quote speaker="Holmes">
-                It is no wonder that it did not wake you. This case, I presume, contains the
-                coronet. We must have a look at it.</quote> He opened the case, and taking out the
-            diadem he laid it upon the table. It was a magnificent specimen of the jeweller’s art,
-            and the thirty-six stones were the finest that I have ever seen. At one side of the
-            coronet was a cracked edge, where a corner holding three gems had been torn away.</p>
-        <p><quote speaker="Holmes">Now, <char gender="male">Mr. Holder</char>,</quote> said <char
-                gender="male">Holmes</char>, <quote speaker="Holmes">here is the corner which
-                corresponds to that which has been so unfortunately lost. Might I beg that you will
-                break it off.</quote></p>
-        <p>The banker recoiled in horror. <quote speaker="Alexander Holder">I should not dream of
-                trying,</quote> said he.</p>
-        <p><quote speaker="Holmes">Then I will.</quote>
-            <char gender="male">Holmes</char> suddenly bent his strength upon it, but without
-            result. <quote speaker="Holmes">I feel it give a little,</quote> said he; <quote
-                speaker="Holmes">but, though I am exceptionally strong in the fingers, it would take
-                me all my time to break it. An ordinary man could not do it. Now, what do you think
-                would happen if I did break it, <char gender="male">Mr. Holder</char>? There would
-                be a noise like a pistol shot. Do you tell me that all this happened within a few
-                yards of your bed and that you heard nothing of it?</quote></p>
-        <p><quote speaker="Alexander Holder">I do not know what to think. It is all dark to me.</quote></p>
-        <p><quote speaker="Holmes">But perhaps it may grow lighter as we go. What do you think,
-                    <char gender="female">Miss Holder</char>?</quote></p>
-        <p><quote speaker="Mary">I confess that I still share my uncle’s perplexity.</quote></p>
-        <p><quote speaker="Holmes">Your son had no shoes or slippers on when you saw
-            him?</quote></p>
-        <p><quote speaker="Alexander Holder">He had nothing on save only his trousers and shirt.</quote></p>
-        <p><quote speaker="Holmes">Thank you. We have certainly been favoured with extraordinary
-                luck during this inquiry, and it will be entirely our own fault if we do not succeed
-                in clearing the matter up. With your permission, <char gender="male">Mr.
-                    Holder</char>, I shall now continue my investigations outside.</quote></p>
-        <p>He went alone, at his own request, for he explained that any unnecessary footmarks might
-            make his task more difficult. For an hour or more he was at work, returning at last with
-            his feet heavy with snow and his features as inscrutable as ever.</p>
-        <p><quote speaker="Holmes">I think that I have seen now all that there is to see, <char
-                    gender="male">Mr. Holder</char>,</quote> said he; <quote speaker="Holmes">I can
-                serve you best by returning to my rooms.</quote></p>
-        <p><quote speaker="Alexander Holder">But the gems, Mr. <char gender="male">Holmes</char>. Where are
-                they?</quote></p>
-        <p><quote speaker="Holmes">I cannot tell.</quote></p>
-        <p>The banker wrung his hands. <quote speaker="Alexander Holder">I shall never see them again!</quote>
-            he cried. <quote speaker="Alexander Holder">And my son? You give me hopes?</quote></p>
-        <p><quote speaker="Holmes">My opinion is in no way altered.</quote></p>
-        <p><quote speaker="Alexander Holder">Then, for God’s sake, what was this dark business which was acted
-                in my house last night?</quote></p>
-        <p><quote speaker="Holmes">If you can call upon me at my Baker Street rooms to-morrow
-                morning between nine and ten I shall be happy to do what I can to make it clearer. I
-                understand that you give me _carte blanche_ to act for you, provided only that I get
-                back the gems, and that you place no limit on the sum I may draw.</quote></p>
-        <p><quote speaker="Alexander Holder">I would give my fortune to have them back.</quote></p>
-        <p><quote speaker="Holmes">Very good. I shall look into the matter between this and then.
-                Good-bye; it is just possible that I may have to come over here again before
-                evening.</quote></p>
-        <p>It was obvious to me that my companion’s mind was now made up about the case, although
-            what his conclusions were was more than I could even dimly imagine. Several times during
-            our homeward journey I endeavoured to sound him upon the point, but he always glided
-            away to some other topic, until at last I gave it over in despair. It was not yet three
-            when we found ourselves in our rooms once more. He hurried to his chamber and was down
-            again in a few minutes dressed as a common loafer. With his collar turned up, his shiny,
-            seedy coat, his red cravat, and his worn boots, he was a perfect sample of the
-            class.</p>
-        <p><quote speaker="Holmes">I think that this should do,</quote> said he, glancing into the
-            glass above the fireplace. <quote speaker="Holmes">I only wish that you could come with
-                me, <char gender="male">Watson</char>, but I fear that it won’t do. I may be on the
-                trail in this matter, or I may be following a will-o’-the-wisp, but I shall soon
-                know which it is. I hope that I may be back in a few hours.</quote> He cut a slice
-            of beef from the joint upon the sideboard, sandwiched it between two rounds of bread,
-            and thrusting this rude meal into his pocket he started off upon his expedition.</p>
-        <p>I had just finished my tea when he returned, evidently in excellent spirits, swinging an
-            old elastic-sided boot in his hand. He chucked it down into a corner and helped himself
-            to a cup of tea.</p>
-        <p><quote speaker="Holmes">I only looked in as I passed,</quote> said he. <quote
-                speaker="Holmes">I am going right on.</quote></p>
-        <p><quote speaker="Watson">Where to?</quote></p>
-        <p><quote speaker="Holmes">Oh, to the other side of the West End. It may be some time before
-                I get back. Don’t wait up for me in case I should be late.</quote></p>
-        <p><quote speaker="Watson">How are you getting on?</quote></p>
-        <p><quote speaker="Holmes">Oh, so so. Nothing to complain of. I have been out to Streatham
-                since I saw you last, but I did not call at the house. It is a very sweet little
-                problem, and I would not have missed it for a good deal. However, I must not sit
-                gossiping here, but must get these disreputable clothes off and return to my highly
-                respectable self.</quote></p>
-        <p>I could see by his manner that he had stronger reasons for satisfaction than his words
-            alone would imply. His eyes twinkled, and there was even a touch of colour upon his
-            sallow cheeks. He hastened upstairs, and a few minutes later I heard the slam of the
-            hall door, which told me that he was off once more upon his congenial hunt.</p>
-        <p>I waited until midnight, but there was no sign of his return, so I retired to my room. It
-            was no uncommon thing for him to be away for days and nights on end when he was hot upon
-            a scent, so that his lateness caused me no surprise. I do not know at what hour he came
-            in, but when I came down to breakfast in the morning there he was with a cup of coffee
-            in one hand and the paper in the other, as fresh and trim as possible.</p>
-        <p><quote speaker="Holmes">You will excuse my beginning without you, <char gender="male"
-                    >Watson</char>,</quote> said he, <quote speaker="Holmes">but you remember that
-                our client has rather an early appointment this morning.</quote></p>
-        <p><quote speaker="Watson">Why, it is after nine now,</quote> I answered. <quote
-                speaker="Watson">I should not be surprised if that were he. I thought I heard a
-                ring.</quote></p>
-        <p>It was, indeed, our friend the financier. I was shocked by the change which had come over
-            him, for his face which was naturally of a broad and massive mould, was now pinched and
-            fallen in, while his hair seemed to me at least a shade whiter. He entered with a
-            weariness and lethargy which was even more painful than his violence of the morning
-            before, and he dropped heavily into the armchair which I pushed forward for him.</p>
-        <p><quote speaker="Alexander Holder">I do not know what I have done to be so severely tried,</quote>
-            said he. <quote speaker="Alexander Holder">Only two days ago I was a happy and prosperous man,
-                without a care in the world. Now I am left to a lonely and dishonoured age. One
-                sorrow comes close upon the heels of another. My niece, <action><char gender="female"
-                    >Mary</char>, has deserted me</action>.</quote></p>
-        <p><quote speaker="Holmes">Deserted you?</quote></p>
-        <p><quote speaker="Alexander Holder">Yes. Her bed this morning had not been slept in, her room was
-                empty, and a note for me lay upon the hall table. I had said to her last night, in
-                sorrow and not in anger, that if she had married my boy all might have been well
-                with him. Perhaps it was thoughtless of me to say so. It is to that remark that she
-                refers in this note:</quote></p>
-        <p>
-            <quote speaker="Alexander Holder"><subq speaker="Mary">MY DEAREST UNCLE,—I feel that I have
-                    brought trouble upon you, and that if I had acted differently this terrible
-                    misfortune might never have occurred. I cannot, with this thought in my mind,
-                    ever again be happy under your roof, and I feel that I must leave you forever.
-                    Do not worry about my future, for that is provided for; and, above all, do not
-                    search for me, for it will be fruitless labour and an ill-service to me. In life
-                    or in death, I am ever your loving,</subq></quote></p>
-        <p>
-            <quote speaker="Alexander Holder"><subq speaker="Mary"><char gender="female"
-                >MARY</char>.</subq></quote></p>
-        <p>
-            <quote speaker="Alexander Holder">What could she mean by that note, Mr. <char gender="male"
-                    >Holmes</char>? Do you think it points to suicide?</quote></p>
-        <p><quote speaker="Holmes">No, no, nothing of the kind. It is perhaps the best possible
-                solution. I trust, <char gender="male">Mr. Holder</char>, that you are nearing the
-                end of your troubles.</quote></p>
-        <p><quote speaker="Alexander Holder">Ha! You say so! You have heard something, Mr. <char gender="male"
-                    >Holmes</char>; you have learned something! Where are the gems?</quote></p>
-        <p><quote speaker="Holmes">You would not think £ 1000 apiece an excessive sum for
-                them?</quote></p>
-        <p><quote speaker="Alexander Holder">I would pay ten.</quote></p>
-        <p><quote speaker="Holmes">That would be unnecessary. Three thousand will cover the matter.
-                And there is a little reward, I fancy. Have you your cheque-book? Here is a pen.
-                Better make it out for £ 4000.</quote></p>
-        <p>With a dazed face <char gender="male">the banker</char> made out the required check.
-                <action><char gender="male">Holmes</char> walked over to his desk, took out a little
-            triangular piece of gold with three gems in it, and threw it down upon the table</action>.</p>
-        <p>With a shriek of joy our client clutched it up.</p>
-        <p><quote speaker="Alexander Holder">You have it!</quote> he gasped. <quote speaker="Alexander Holder">I am
-                saved! I am saved!</quote></p>
-        <p>The reaction of joy was as passionate as his grief had been, and he hugged his recovered
-            gems to his bosom.</p>
-        <p><quote speaker="Holmes">There is one other thing you owe, <char gender="male">Mr.
-                    Holder</char>,</quote> said Sherlock <char gender="male">Holmes</char> rather
-            sternly.</p>
-        <p><quote speaker="Alexander Holder">Owe!</quote> He caught up a pen. <quote speaker="Alexander Holder">Name the
-                sum, and I will pay it.</quote></p>
-        <p><quote speaker="Holmes">No, the debt is not to me. You owe a very humble apology to that
-                noble lad, your son, who has carried himself in this matter as I should be proud to
-                see my own son do, should I ever chance to have one.</quote></p>
-        <p><quote speaker="Alexander Holder">Then it was not <char gender="male">Arthur</char> who took
-                them?</quote></p>
-        <p><quote speaker="Holmes">I told you yesterday, and I repeat to-day, that it was
-                not.</quote></p>
-        <p><quote speaker="Alexander Holder">You are sure of it! Then let us hurry to him at once to let him
-                know that the truth is known.</quote></p>
-        <p><quote speaker="Holmes">He knows it already. When I had cleared it all up I had an
-                interview with him, and finding that he would not tell me the story, I told it to
-                him, on which he had to confess that I was right and to add the very few details
-                which were not yet quite clear to me. Your news of this morning, however, may open
-                his lips.</quote></p>
-        <p><quote speaker="Alexander Holder">For Heaven’s sake, tell me, then, what is this extraordinary
-                mystery!</quote></p>
-        <p><quote speaker="Holmes">I will do so, and I will show you the steps by which I reached
-                it. And let me say to you, first, that which it is hardest for me to say and for you
-                to hear: there has been an understanding between Sir George <char gender="male"
-                    >Burnwell</char> and your niece <char gender="female">Mary</char>. They have now
-                fled together.</quote></p>
-        <p><quote speaker="Alexander Holder">My <char gender="female">Mary</char>? Impossible!</quote></p>
-        <p><quote speaker="Holmes">It is unfortunately more than possible; it is certain. Neither
-                you nor your son knew the true character of this man when you admitted him into your
-                family circle. He is one of the most dangerous men in England—a ruined gambler, an
-                absolutely desperate villain, a man without heart or conscience. Your niece knew
-                nothing of such men. When he breathed his vows to her, as he had done to a hundred
-                before her, she flattered herself that she alone had touched his heart. The devil
-                knows best what he said, but at least she became his tool and was in the habit of
-                seeing him nearly every evening.</quote></p>
-        <p><quote speaker="Alexander Holder">I cannot, and I will not, believe it!</quote> cried <char
-                gender="male">the banker</char> with an ashen face.</p>
-        <p><quote speaker="Holmes">I will tell you, then, what occurred in your house last night.
-                Your niece, when you had, as she thought, gone to your room, slipped down and talked
-                to her lover through the window which leads into the stable lane. His footmarks had
-                pressed right through the snow, so long had he stood there. She told him of the
-                coronet. His wicked lust for gold kindled at the news, and he bent her to his will.
-                I have no doubt that she loved you, but there are women in whom the love of a lover
-                extinguishes all other loves, and I think that she must have been one. She had
-                hardly listened to his instructions when she saw you coming downstairs, on which she
-                closed the window rapidly and told you about one of the servants’ escapade with her
-                wooden-legged lover, which was all perfectly true.</quote></p>
-        <p><quote speaker="Holmes">Your boy, <action><char gender="male">Arthur</char>, went to bed after
-                his interview with you but he slept badly on account of his uneasiness about his
-                club debts. In the middle of the night he heard a soft tread pass his door, so he
-                rose and, looking out, was surprised to see his cousin walking very stealthily along
-                the passage until she disappeared into your dressing-room. Petrified with
-                astonishment, the lad slipped on some clothes and waited there in the dark to see
-                what would come of this strange affair</action>. Presently she emerged from the room again,
-                and in the light of the passage-lamp your son saw that she carried the precious
-                coronet in her hands. She passed down the stairs, and he, thrilling with horror, ran
-                along and slipped behind the curtain near your door, whence he could see what passed
-                in the hall beneath. He saw her stealthily open the window, hand out the coronet to
-                someone in the gloom, and then closing it once more hurry back to her room, passing
-                quite close to where he stood hid behind the curtain.</quote></p>
-        <p><quote speaker="Holmes">As long as she was on the scene he could not take any action
-                without a horrible exposure of the woman whom he loved. But the instant that she was
-                gone he realised how crushing a misfortune this would be for you, and how
-                all-important it was to set it right. He rushed down, just as he was, in his bare
-                feet, opened the window, sprang out into the snow, and ran down the lane, where he
-                could see a dark figure in the moonlight. Sir George <action><char gender="male"
-                    >Burnwell</char> tried to get away</action>, but <action><char gender="male">Arthur</char> caught
-                him, and there was a struggle between them, your lad tugging at one side of the
-                coronet, and his opponent at the other</action>. In the scuffle, your son struck <char
-                    gender="male">Sir George</char> and cut him over the eye. Then something
-                suddenly snapped, and your son, finding that he had the coronet in his hands, rushed
-                back, closed the window, ascended to your room, and had just observed that the
-                coronet had been twisted in the struggle and was endeavouring to straighten it when
-                you appeared upon the scene.</quote></p>
-        <p><quote speaker="Alexander Holder">Is it possible?</quote> gasped <char gender="male">the
-                banker</char>.</p>
-        <p><quote speaker="Holmes">You then roused his anger by calling him names at a moment when
-                he felt that he had deserved your warmest thanks. He could not explain the true
-                state of affairs without betraying one who certainly deserved little enough
-                consideration at his hands. He took the more chivalrous view, however, and preserved
-                her secret.</quote></p>
-        <p><quote speaker="Alexander Holder">And that was why she shrieked and fainted when she saw the
-                coronet,</quote> cried <char gender="male">Mr. Holder</char>. <quote
-                speaker="Alexander Holder">Oh, my God! what a blind fool I have been! And his asking to be
-                allowed to go out for five minutes! The dear fellow wanted to see if the missing
-                piece were at the scene of the struggle. How cruelly I have misjudged
-            him!</quote></p>
-        <p><quote speaker="Holmes">When I arrived at the house,</quote> continued <char
-                gender="male">Holmes</char>, <quote speaker="Holmes">I at once went very carefully
-                round it to observe if there were any traces in the snow which might help me. I knew
-                that none had fallen since the evening before, and also that there had been a strong
-                frost to preserve impressions. I passed along the tradesmen’s path, but found it all
-                trampled down and indistinguishable. Just beyond it, however, at the far side of the
-                kitchen door, a woman had stood and talked with a man, whose round impressions on
-                one side showed that he had a wooden leg. I could even tell that they had been
-                disturbed, for the woman had run back swiftly to the door, as was shown by the deep
-                toe and light heel marks, while Wooden-leg had waited a little, and then had gone
-                away. I thought at the time that this might be the maid and her sweetheart, of whom
-                you had already spoken to me, and inquiry showed it was so. I passed round the
-                garden without seeing anything more than random tracks, which I took to be the
-                police; but when I got into the stable lane a very long and complex story was
-                written in the snow in front of me.</quote></p>
-        <p><quote speaker="Holmes">There was a double line of tracks of a booted man, and a second
-                double line which I saw with delight belonged to a man with naked feet. I was at
-                once convinced from what you had told me that the latter was your son. The first had
-                walked both ways, but the other had run swiftly, and as his tread was marked in
-                places over the depression of the boot, it was obvious that he had passed after the
-                other. I followed them up and found they led to the hall window, where Boots had
-                worn all the snow away while waiting. Then I walked to the other end, which was a
-                hundred yards or more down the lane. I saw where Boots had faced round, where the
-                snow was cut up as though there had been a struggle, and, finally, where a few drops
-                of blood had fallen, to show me that I was not mistaken. Boots had then run down the
-                lane, and another little smudge of blood showed that it was he who had been hurt.
-                When he came to the highroad at the other end, I found that the pavement had been
-                cleared, so there was an end to that clue.</quote></p>
-        <p><quote speaker="Holmes">On entering the house, however, I examined, as you remember, the
-                sill and framework of the hall window with my lens, and I could at once see that
-                someone had passed out. I could distinguish the outline of an instep where the wet
-                foot had been placed in coming in. I was then beginning to be able to form an
-                opinion as to what had occurred. A man had waited outside the window; someone had
-                brought the gems; the deed had been overseen by your son; he had pursued the thief;
-                had struggled with him; they had each tugged at the coronet, their united strength
-                causing injuries which neither alone could have effected. He had returned with the
-                prize, but had left a fragment in the grasp of his opponent. So far I was clear. The
-                question now was, who was the man and who was it brought him the
-            coronet?</quote></p>
-        <p><quote speaker="Holmes">It is an old maxim of mine that when you have excluded the
-                impossible, whatever remains, however improbable, must be the truth. Now, I knew
-                that it was not you who had brought it down, so there only remained your niece and
-                the maids. But if it were the maids, why should your son allow himself to be accused
-                in their place? There could be no possible reason. As he loved his cousin, however,
-                there was an excellent explanation why he should retain her secret—the more so as
-                the secret was a disgraceful one. When I remembered that you had seen her at that
-                window, and how she had fainted on seeing the coronet again, my conjecture became a
-                certainty.</quote></p>
-        <p><quote speaker="Holmes">And who could it be who was her confederate? A lover evidently,
-                for who else could outweigh the love and gratitude which she must feel to you? I
-                knew that you went out little, and that your circle of friends was a very limited
-                one. But among them was Sir George <char gender="male">Burnwell</char>. I had heard
-                of him before as being a man of evil reputation among women. It must have been he
-                who wore those boots and retained the missing gems. Even though he knew that <char
-                    gender="male">Arthur</char> had discovered him, he might still flatter himself
-                that he was safe, for the lad could not say a word without compromising his own
-                family.</quote></p>
-        <p><quote speaker="Holmes">Well, your own good sense will suggest what measures I took next.
-                I went in the shape of a loafer to <char gender="male">Sir George</char>’s house,
-                managed to pick up an acquaintance with his valet, learned that his master had cut
-                his head the night before, and, finally, at the expense of six shillings, made all
-                sure by buying a pair of his cast-off shoes. With these I journeyed down to
-                Streatham and saw that they exactly fitted the tracks.</quote></p>
-        <p><quote speaker="Alexander Holder">I saw an ill-dressed vagabond in the lane yesterday
-                evening,</quote> said Mr. Holder.</p>
-        <p><quote speaker="Holmes">Precisely. It was I. I found that I had my man, so I came home
-                and changed my clothes. It was a delicate part which I had to play then, for I saw
-                that a prosecution must be avoided to avert scandal, and I knew that so astute a
-                villain would see that our hands were tied in the matter. I went and saw him. At
-                first, of course, he denied everything. But when I gave him every particular that
-                had occurred, he tried to bluster and took down a life-preserver from the wall. I
-                knew my man, however, and I clapped a pistol to his head before he could strike.
-                Then he became a little more reasonable. I told him that we would give him a price
-                for the stones he held—£ 1000 apiece. That brought out the first signs of grief that
-                he had shown. <subq speaker="Sir GeorgeBurnwell">Why, dash it all!</subq> said he, <subq
-                    speaker="Sir George Burnwell">I’ve let them go at six hundred for the three!</subq> I soon
-                managed to get the address of the receiver who had them, on promising him that there
-                would be no prosecution. Off I set to him, and after much chaffering I got our
-                stones at £ 1000 apiece. Then I looked in upon your son, told him that all was
-                right, and eventually got to my bed about two o’clock, after what I may call a
-                really hard day’s work.</quote></p>
-        <p><quote speaker="Alexander Holder">A day which has saved England from a great public
-                scandal,</quote> said the banker, rising. <quote speaker="Alexander Holder">Sir, I cannot find
-                words to thank you, but you shall not find me ungrateful for what you have done.
-                Your skill has indeed exceeded all that I have heard of it. And now I must fly to my
-                dear boy to apologise to him for the wrong which I have done him. As to what you
-                tell me of poor <char gender="female">Mary</char>, it goes to my very heart. Not
-                even your skill can inform me where she is now.</quote></p>
-        <p><quote speaker="Holmes">I think that we may safely Holmes,</quote> returned <char
-                gender="male">Holmes</char>, <quote speaker="Holmes">that she is wherever Sir George
-                    <char gender="male">Burnwell</char> is. It is equally certain, too, that
-                whatever her sins are, they will soon receive a more than sufficient
-                punishment.</quote></p>
-    </story>
+        <title>XI. THE ADVENTURE OF THE BERYL CORONET</title>
+        <story>
+                <p><quote speaker="johnWatson"><char gender="male" name="sherlockHolmes"
+                                        >Holmes</char>,</quote> said I as <action><char gender = "male" name = "johnWatson">I</char> stood one morning in our
+                        bow-window looking down the street</action>, <quote speaker="johnWatson">here is a
+                                madman coming along. It seems rather sad that his relatives should
+                                allow him to come out alone.</quote></p>
+                <p><action><char gender = "male" name = "sherlockHolmes">My friend</char> rose lazily from his armchair and stood with his hands in the pockets
+                        of his dressing-gown, looking over my shoulder</action>. It was a bright, crisp
+                        February morning, and the snow of the day before still lay deep upon the
+                        ground, shimmering brightly in the wintry sun. Down the centre of Baker
+                        Street it had been ploughed into a brown crumbly band by the traffic, but at
+                        either side and on the heaped-up edges of the footpaths it still lay as
+                        white as when it fell. The grey pavement had been cleaned and scraped, but
+                        was still dangerously slippery, so that there were fewer passengers than
+                        usual. Indeed, from the direction of the Metropolitan Station no one was
+                        coming save the single gentleman whose eccentric conduct had drawn my
+                        attention.</p>
+                <p>He was a man of about fifty, tall, portly, and imposing, with a massive, strongly
+                        marked face and a commanding figure. He was dressed in a sombre yet rich
+                        style, in black frock-coat, shining hat, neat brown gaiters, and well-cut
+                        pearl-grey trousers. Yet his actions were in absurd contrast to the dignity
+                        of his dress and features, for he was running hard, with occasional little
+                        springs, such as a weary man gives who is little accustomed to set any tax
+                        upon his legs. <action>As <char gender = "male" name = "alexanderHolder">he</char> ran he jerked his hands up and down, waggled his head,
+                        and writhed his face into the most extraordinary contortions.</action></p>
+                <p><quote speaker="johnWatson">What on earth can be the matter with him?</quote> I
+                        asked. <quote speaker="johnWatson"><action><char gender = "male" name = "alexanderHolder">He</char> is looking up at the numbers of the
+                                houses.</action></quote></p>
+                <p><quote speaker="sherlockHolmes">I believe that he is coming here,</quote> said
+                                        <action><char gender="male" name = "sherlockHolmes">Holmes</char>, rubbing his
+                                hands</action>.</p>
+                <p><quote speaker="johnWatson">Here?</quote></p>
+                <p><quote speaker="sherlockHolmes">Yes; I rather think he is coming to consult me
+                                professionally. I think that I recognise the symptoms. Ha! did I not
+                                tell you?</quote> <action>As <char gender = "male" name = "alexanderHolder">he</char> spoke, the man, puffing and blowing, rushed
+                        at our door and pulled at our bell until the whole house resounded with the
+                        clanging.</action></p>
+                <p>A few moments later <action><char gender = "male" name = "alexanderHolder">he</char> was in our room, still puffing, still gesticulating</action>, but
+                        with so fixed a look of grief and despair in his eyes that our smiles were
+                        turned in an instant to horror and pity. For a while <action><char gender = "male" name = "alexanderHolder">he</char> could not get his
+                        words out, but swayed his body and plucked at his hair like one who has been
+                        driven to the extreme limits of his reason</action>. Then, <action>suddenly springing to his
+                                feet, <char gender = "male" name = "alexanderHolder">he</char> beat his head against the wall with such force</action> that <action><char gender = "male" name = "johnWatson, sherlockHolmes">we both</char> rushed
+                        upon him and tore him away to the centre of the room</action>. Sherlock <action><char
+                                        gender="male" name = "sherlockHolmes">Holmes</char> pushed him down into the
+                                easy-chair and, sitting beside him, patted his hand and chatted with
+                                him in the easy, soothing tones which he knew so well how to
+                                employ</action>.</p>
+                <p><quote speaker="sherlockHolmes">You have come to me to tell your story, have you
+                                not?</quote> said he. <quote speaker="sherlockHolmes">You are
+                                fatigued with your haste. Pray wait until you have recovered
+                                yourself, and then I shall be most happy to look into any little
+                                problem which you may submit to me.</quote></p>
+                <p><action><char gender = "male" name = "alexanderHolder">The man</char> sat for a minute or more with a heaving chest, fighting against his
+                        emotion. Then he passed his handkerchief over his brow, set his lips tight,
+                        and turned his face towards us.</action></p>
+                <p><quote speaker="alexanderHolder">No doubt you think me mad?</quote> said he.</p>
+                <p><quote speaker="sherlockHolmes">I see that you have had some great
+                                trouble,</quote> responded <char gender="male" name="sherlockHolmes"
+                                >Holmes</char>.</p>
+                <p><quote speaker="alexanderHolder">God knows I have!—a trouble which is enough to
+                                unseat my reason, so sudden and so terrible is it. Public disgrace I
+                                might have faced, although I am a man whose character has never yet
+                                borne a stain. Private affliction also is the lot of every man; but
+                                the two coming together, and in so frightful a form, have been
+                                enough to shake my very soul. Besides, it is not I alone. The very
+                                noblest in the land may suffer unless some way be found out of this
+                                horrible affair.</quote></p>
+                <p><quote speaker="sherlockHolmes">Pray compose yourself, sir,</quote> said <char
+                                gender="male" name = "sherlockHolmes">Holmes</char>, <quote speaker="sherlockHolmes">and let
+                                me have a clear account of who you are and what it is that has
+                                befallen you.</quote></p>
+                <p><quote speaker="alexanderHolder">My name,</quote> answered our visitor, <quote
+                                speaker="alexanderHolder">is probably familiar to your ears. I am
+                                        <char gender="male" name = "alexanderHolder">Alexander Holder</char>, of the banking
+                                firm of Holder &amp; Stevenson, of Threadneedle Street.</quote></p>
+                <p>The name was indeed well known to us as belonging to the senior partner in the
+                        second largest private banking concern in the City of London. What could
+                        have happened, then, to bring one of the foremost citizens of London to this
+                        most pitiable pass? <action><char gender = "male" name = "sherlockHolmes, johnWatson">We</char> waited, all curiosity</action>, until with another effort he
+                        braced himself to tell his story.</p>
+                <p><quote speaker="alexanderHolder">I feel that time is of value,</quote> said he;
+                                <quote speaker="alexanderHolder">that is why I hastened here when
+                                the police inspector suggested that I should secure your
+                                co-operation. <action><char gender = "male" name = "alexanderHolder">I</char> came to Baker Street by the Underground and hurried
+                                from there on foot</action>, for the cabs go slowly through this snow. That
+                                is why I was so out of breath, for I am a man who takes very little
+                                exercise. <action><char gender = "male" name = "alexanderHolder">I</char> feel better now, and I will put the facts before you as
+                                shortly and yet as clearly as I can</action>.</quote></p>
+                <p><quote speaker="alexanderHolder">It is, of course, well known to you that in a
+                                successful banking business as much depends upon our being able to
+                                find remunerative investments for our funds as upon our increasing
+                                our connection and the number of our depositors. One of our most
+                                lucrative means of laying out money is in the shape of loans, where
+                                the security is unimpeachable. We have done a good deal in this
+                                direction during the last few years, and there are many noble
+                                families to whom we have advanced large sums upon the security of
+                                their pictures, libraries, or plate.</quote></p>
+                <p><quote speaker="alexanderHolder">Yesterday morning <action><char gender = "male" name = "alexanderHolder">I</char> was seated in my office at
+                                the bank when a card was brought in to me by one of the clerks. </action>I
+                                started when I saw the name, for it was that of none other
+                                than—well, perhaps even to you I had better say no more than that it
+                                was a name which is a household word all over the earth—one of the
+                                highest, noblest, most exalted names in England. <action><char gender = "male" name = "alexanderHolder">I</char> was overwhelmed
+                                        by the honour and attempted, when he entered</action>, to say so, but <action><char gender = "male" name = "Clerk">he</char>
+                                plunged at once into business with the air of a man who wishes to
+                                hurry quickly through a disagreeable task.</action></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk"><char gender="male" name = "alexanderHolder">Mr.
+                                                Holder</char>,</subq> said he, <subq speaker="Clerk"
+                                        >I have been informed that you are in the habit of advancing
+                                        money.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">The firm does so
+                                        when the security is good.</subq> I answered.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">It is absolutely essential
+                                        to me,</subq> said he, <subq speaker="Clerk">that I should
+                                        have £ 50,000 at once. I could, of course, borrow so
+                                        trifling a sum ten times over from my friends, but I much
+                                        prefer to make it a matter of business and to carry out that
+                                        business myself. In my position you can readily understand
+                                        that it is unwise to place one’s self under
+                                        obligations.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">For how long,
+                                        may I ask, do you want this sum?</subq> I asked.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">Next Monday I have a large
+                                        sum due to me, and I shall then most certainly repay what
+                                        you advance, with whatever interest you think it right to
+                                        charge. But it is very essential to me that the money should
+                                        be paid at once.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">I should be
+                                        happy to advance it without further parley from my own
+                                        private purse,</subq> said I, <subq
+                                        speaker="alexanderHolder"> were it not that the strain would
+                                        be rather more than it could bear. If, on the other hand, I
+                                        am to do it in the name of the firm, then in justice to my
+                                        partner I must insist that, even in your case, every
+                                        businesslike precaution should be taken.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">I should much prefer to
+                                        have it so,</subq> said he, raising up a square, black
+                                morocco case which he had laid beside his chair. <subq
+                                        speaker="Clerk">You have doubtless heard of the Beryl
+                                        Coronet?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">One of the most
+                                        precious public possessions of the empire,</subq> said
+                                I.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">Precisely.</subq> <action><char gender = "male" name = "Clerk">He</char>
+                                opened the case</action>, and there, imbedded in soft, flesh-coloured velvet,
+                                lay the magnificent piece of jewellery which he had named. <subq
+                                        speaker="Clerk">There are thirty-nine enormous
+                                        beryls,</subq> said he, <subq speaker="Clerk">and the price
+                                        of the gold chasing is incalculable. The lowest estimate
+                                        would put the worth of the coronet at double the sum which I
+                                        have asked. I am prepared to leave it with you as my
+                                        security.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><action><char gender = "male" name = "alexanderHolder">I</char> took the precious case into my hands and
+                                looked in some perplexity from it to my illustrious
+                        client.</action></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">You doubt its
+                                        value?</subq> he asked.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">Not at all. I
+                                        only doubt—</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">The propriety of my
+                                        leaving it. You may set your mind at rest about that. I
+                                        should not dream of doing so were it not absolutely certain
+                                        that I should be able in four days to reclaim it. It is a
+                                        pure matter of form. Is the security
+                                sufficient?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder"
+                                >Ample.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">You understand, <char
+                        gender="male" name = "alexanderHolder">Mr. Holder</char>, that <action><char gender = "male" name = "Clerk">I</char> am giving
+                                        you a strong proof of the confidence which I have in you</action>,
+                                        founded upon all that I have heard of you. I rely upon you
+                                        not only to be discreet and to refrain from all gossip upon
+                                        the matter but, above all, to preserve this coronet with
+                                        every possible precaution because I need not say that a
+                                        great public scandal would be caused if any harm were to
+                                        befall it. Any injury to it would be almost as serious as
+                                        its complete loss, for there are no beryls in the world to
+                                        match these, and it would be impossible to replace them. <action><char gender = "male" name = "Clerk">I</char>
+                                        leave it with you, however, with every confidence, and I
+                                        shall call for it in person on Monday
+                                morning.</action></subq></quote></p>
+                <p><quote speaker="alexanderHolder">Seeing that my client was anxious to leave, I
+                        said no more but, <action>calling for my cashier, <char gender = "male" name = "alexanderHolder">I</char> ordered him to pay over
+                                fifty £ 1000 notes</action>. When I was alone once more, however, with the
+                                precious case lying upon the table in front of me, I could not but
+                                think with some misgivings of the immense responsibility which it
+                                entailed upon me. There could be no doubt that, as it was a national
+                                possession, a horrible scandal would ensue if any misfortune should
+                                occur to it. <action><char gender = "male" name = "alexanderHolder">I</char> already regretted having ever consented to take
+                                        charge of it</action>. However, it was too late to alter the matter now, so <action><char gender = "male" name = "alexanderHolder">I</char>
+                                locked it up in my private safe and turned once more to my
+                                work</action>.</quote></p>
+                <p><quote speaker="alexanderHolder">When evening came I felt that it would be an
+                                imprudence to leave so precious a thing in the office behind me.
+                                Bankers’ safes had been forced before now, and why should not mine
+                                be? If so, how terrible would be the position in which I should find
+                                myself! <action><char gender = "male" name = "alexanderHolder">I</char> determined, therefore, that for the next few days I would
+                                always carry the case backward and forward with me</action>, so that it might
+                        never be really out of my reach. With this intention, <action><char gender = "male" name = "alexanderHolder">I</char> called a cab
+                                and drove out to my house at Streatham, carrying the jewel with me.
+                                I did not breathe freely until I had taken it upstairs and locked it
+                                in the bureau of my dressing-room.</action></quote></p>
+                <p><quote speaker="alexanderHolder">And now a word as to my household, Mr. <char
+                        gender="male" name = "sherlockHolmes">Holmes</char>, for <action><char gender = "male" name = "alexanderHolder">I</char> wish you to thoroughly
+                                understand the situation</action>. My groom and my page sleep out of the
+                                house, and may be set aside altogether. I have three maid-servants
+                                who have been with me a number of years and whose absolute
+                                reliability is quite above suspicion. Another, <char gender = "female" name = "lucyParr">Lucy Parr</char>, the second
+                        waiting-maid, has only been in my service a few months. <action><char gender = "female" name = "lucyParr">She</char> came
+                                with an excellent character</action>, however, and has always given me
+                                satisfaction. She is a very pretty girl and has attracted admirers
+                                who have occasionally hung about the place. That is the only
+                                drawback which we have found to her, but we believe her to be a
+                                thoroughly good girl in every way.</quote></p>
+                <p><quote speaker="alexanderHolder">So much for the servants. My family itself is so
+                                small that it will not take me long to describe it. I am a widower
+                                and have an only son, <char gender="male" name = "arthurHolder">Arthur</char>. He has been
+                                a disappointment to me, Mr. <char gender="male" name = "sherlockHolmes">Holmes</char>—a
+                                grievous disappointment. I have no doubt that I am myself to blame.
+                                People tell me that <action><char gender = "male" name = "alexanderHolder">I</char> have spoiled him.</action> Very likely I have. When my
+                        dear wife died <action><char gender = "male" name = "alexanderHolder">I</char> felt that he was all I had to love</action>. I could not
+                        bear to see the smile fade even for a moment from his face. <action><char gender = "male" name = "alexanderHolder">I</char> have
+                                never denied him a wish</action>. Perhaps it would have been better for both
+                                of us had I been sterner, but I meant it for the best.</quote></p>
+                <p><quote speaker="alexanderHolder">It was naturally my intention that he should
+                                succeed me in my business, but he was not of a business turn. He was
+                                wild, wayward, and, to speak the truth, I could not trust him in the
+                                handling of large sums of money. When he was young <action><char gender = "male" name = "arthurHolder">he</char> became a
+                                member of an aristocratic club</action>, and there, having charming manners,
+                                he was soon the intimate of a number of men with long purses and
+                                expensive habits. <action><char gender = "male" name = "arthurHolder">He</char> learned to play heavily at cards and to
+                                squander money on the turf</action>, until he had again and again to come to
+                                me and implore me to give him an advance upon his allowance, that he
+                                might settle his debts of honour. <action><char gender = "male" name = "arthurHolder">He</char> tried more than once to break
+                                away from the dangerous company</action> which he was keeping, but each time
+                                the influence of his friend, Sir George <char gender="male"
+                                        name="georgeBurnwell">Burnwell</char>, was enough to draw
+                                him back again.</quote></p>
+                <p><quote speaker="alexanderHolder">And, indeed, I could not wonder that such a man
+                                as Sir George <char gender="male" name="georgeBurnwell"
+                                        >Burnwell</char> should gain an influence over him, for <action><char gender = "male" name = "arthurHolder">he</char>
+                                                has frequently brought him to my house</action>, and <action><char gender = "male" name = "alexanderHolder">I</char> have found myself that
+                                I could hardly resist the fascination of his manner</action>. He is older
+                                than <char gender="male" name = "arthurHolder">Arthur</char>, a man of the world to his
+                                finger-tips, one who had been everywhere, seen everything, a
+                                brilliant talker, and a man of great personal beauty. Yet when I
+                                think of him in cold blood, far away from the glamour of his
+                                presence, I am convinced from his cynical speech and the look which
+                                I have caught in his eyes that he is one who should be deeply
+                                distrusted. So I think, and so, too, thinks my little <char
+                                        gender="female" name="maryHolder">Mary</char>, who has a
+                                woman’s quick insight into character.</quote></p>
+                <p><quote speaker="alexanderHolder">And now there is only she to be described. She
+                                is my niece; but when my brother died five years ago and left her
+                                alone in the world <action><char gender = "male" name = "alexanderHolder">I</char> adopted her, and have looked upon her ever
+                                since as my daughter</action>. She is a sunbeam in my house—sweet, loving,
+                                beautiful, a wonderful manager and housekeeper, yet as tender and
+                                quiet and gentle as a woman could be. She is my right hand. I do not
+                                know what I could do without her. In only one matter has she ever
+                                gone against my wishes. Twice my boy has asked her to marry him, for
+                                he loves her devotedly, but each time she has refused him. I think
+                                that if anyone could have drawn him into the right path it would
+                                have been she, and that his marriage might have changed his whole
+                                life; but now, alas! it is too late—forever too late!</quote></p>
+                <p><quote speaker="alexanderHolder">Now, Mr. <char gender="male"
+                                        name="sherlockHolmes">Holmes</char>, you know the people who
+                                live under my roof, and I shall continue with my miserable
+                                story.</quote></p>
+                <p><quote speaker="alexanderHolder">When we were taking coffee in the drawing-room
+                                that night after dinner, I told <char gender="male"
+                                        name="arthurHolder">Arthur</char> and <char
+                                        gender="female" name = "maryHolder">Mary</char> my experience, and of the
+                                precious treasure which we had under our roof, suppressing only the
+                                name of my client. <action><char gender = "female" name = "lucyParr">Lucy Parr</char>, who had brought in the coffee, had, I
+                                am sure, left the room</action>; but I cannot swear that the door was closed.
+                                        <char gender="female" name="maryHolder">Mary</char> and
+                                        <char gender="male" name="arthurHolder">Arthur</char> were
+                                much interested and wished to see the famous coronet, but I thought
+                                it better not to disturb it.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Where have you put
+                                        it?</subq> asked <char gender="male" name = "arthurHolder">
+                        Arthur</char>.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">In my own
+                                        bureau.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Well, I hope to goodness
+                                        the house won’t be burgled during the night.</subq> said
+                                he.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">It is locked
+                                        up,</subq> I answered.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Oh, any old key will fit
+                                        that bureau. When I was a youngster I have opened it myself
+                                        with the key of the box-room cupboard.</subq></quote></p>
+                <p><quote speaker="alexanderHolder">He often had a wild way of talking, so that I
+                        thought little of what he said. <action><char gender = "male" name = "arthurHolder">He</char> followed me to my room, however,
+                                that night with a very grave face</action>.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Look here, dad,</subq>
+                                said he with his eyes cast down, <subq speaker="arthurHolder">can you let
+                                        me have £ 200?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">No, I
+                                        cannot!</subq> I answered sharply. <subq
+                                        speaker="alexanderHolder">I have been far too generous with
+                                        you in money matters.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">You have been very
+                                        kind,</subq> said he, <subq speaker="arthurHolder">but I must have
+                                        this money, or else I can never show my face inside the club
+                                        again.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">And a very good
+                                        thing, too!</subq> I cried.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Yes, but you would not
+                                        have me leave it a dishonoured man,</subq> said he. <subq
+                                        speaker="arthurHolder">I could not bear the disgrace. I must raise
+                                        the money in some way, and if you will not let me have it,
+                                        then I must try other means.</subq></quote></p>
+                <p><quote speaker="alexanderHolder">I was very angry, for this was the third demand
+                                during the month. <subq speaker="alexanderHolder">You shall not have
+                                        a farthing from me,</subq> I cried, on which <action><char gender = "male" name = "arthurHolder">he</char> bowed and
+                                left the room without another word</action>.</quote></p>
+                <p><quote speaker="alexanderHolder">When he was gone <action><char gender = "male" name = "alexanderHolder">I</char> unlocked my bureau, made sure
+                        that my treasure was safe, and locked it again</action>. Then <action><char gender = "male" name = "alexanderHolder">I</char> started to go
+                                round the house to see that all was secure—a duty</action> which I usually
+                                leave to <char gender="female" name="maryHolder">Mary</char> but
+                                which I thought it well to perform myself that night. As I came down
+                                the stairs I saw <char gender="female" name="maryHolder"
+                                        >Mary</char> herself at the side window of the hall, which
+                        <action><char gender = "female" name = "maryHolder">she</char> closed and fastened as I approached</action>.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="maryHolder">Tell me,
+                                        dad,</subq> said she, looking, I thought, a little
+                                disturbed, <subq speaker="maryHolder">did you give <char gender = "female" name = "lucyParr">Lucy</char>, the maid,
+                                        leave to go out to-night?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">Certainly
+                                        not.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="maryHolder"><action><char gender = "female" name = "lucyParr">She</char> came in just
+                                        now by the back door</action>. I have no doubt that she has only been
+                                        to the side gate to see someone, but I think that it is
+                                        hardly safe and should be stopped.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">You must speak
+                                        to her in the morning, or I will if you prefer it. Are you
+                                        sure that everything is fastened?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="maryHolder">Quite sure,
+                                        dad.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">Then,
+                        good-night.</subq> <action><char gender = "male" name = "alexanderHolder">I</char> kissed her and went up to my bedroom
+                                again</action>, where I was soon asleep.</quote></p>
+                <p><quote speaker="alexanderHolder">I am endeavouring to tell you everything, Mr.
+                                        <char gender="male" name = "sherlockHolmes">Holmes</char>, which may have any
+                        bearing upon the case, but <action><char gender = "male" name = "alexanderHolder">I</char> beg that you will question me upon any
+                                point which I do not make clear</action>.</quote></p>
+                <p><quote speaker="sherlockHolmes">On the contrary, your statement is singularly
+                                lucid.</quote></p>
+                <p><quote speaker="alexanderHolder"><action><char gender = "male" name = "alexanderHolder">I</char> come to a part of my story now in which I
+                                should wish to be particularly so</action>. I am not a very heavy sleeper,
+                                and the anxiety in my mind tended, no doubt, to make me even less so
+                                than usual. About two in the morning, then, <action><char gender = "male" name = "alexanderHolder">I</char> was awakened by some
+                                sound in the house</action>. It had ceased ere I was wide awake, but it had
+                                left an impression behind it as though a window had gently closed
+                                somewhere. <action><char gender = "male" name = "alexanderHolder"></char> lay listening with all my ears</action>. Suddenly, to my horror,
+                                there was a distinct sound of footsteps moving softly in the next
+                                room. <action><char gender = "male" name = "alexanderHolder">I</char> slipped out of bed, all palpitating with fear, and peeped
+                                round the corner of my dressing-room door</action>.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder"><char
+                                                gender="male" name="arthurHolder"
+                                        >Arthur</char>!</subq> I screamed, <subq
+                                        speaker="alexanderHolder">you villain! you thief! How dare
+                                        you touch that coronet?</subq></quote></p>
+                <p><quote speaker="alexanderHolder">The gas was half up, as I had left it, and my
+                                unhappy boy, dressed only in his shirt and trousers, was standing
+                                beside the light, holding the coronet in his hands. <action><char gender = "male" name = "arthurHolder">He</char> appeared to
+                                be wrenching at it, or bending it with all his strength</action>. At my cry
+                        <action><char gender = "male" name = "alexanderHolder">he</char> dropped it from his grasp and turned as pale as death</action>. <action><char gender = "male" name = "alexanderHolder">I</char> snatched
+                                it up and examined it</action>. One of the gold corners, with three of the
+                                beryls in it, was missing.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">You
+                                        blackguard!</subq> I shouted, beside myself with rage. <subq
+                                        speaker="alexanderHolder">You have destroyed it! You have
+                                        dishonoured me forever! Where are the jewels which you have
+                                        stolen?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Stolen!</subq> he
+                                cried.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">Yes,
+                                        thief!</subq> I roared, shaking him by the
+                        shoulder.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">There are none missing.
+                                        There cannot be any missing,</subq> said he.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">There are three
+                                        missing. And you know where they are. Must I call you a liar
+                                        as well as a thief? Did I not see you trying to tear off
+                                        another piece?</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">You have called me names
+                                        enough,</subq> said he, <subq speaker="arthurHolder">I will not
+                                        stand it any longer. I shall not say another word about this
+                                        business, since you have chosen to insult me. I will leave
+                                        your house in the morning and make my own way in the
+                                        world.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">You shall leave
+                                        it in the hands of the police!</subq> I cried half-mad with
+                                grief and rage. <subq speaker="alexanderHolder">I shall have this
+                                        matter probed to the bottom.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">You shall learn nothing
+                                        from me,</subq> said he with a passion such as I should not
+                                have thought was in his nature. <subq speaker="arthurHolder">If you choose
+                                        to call the police, let the police find what they
+                                        can.</subq></quote></p>
+                <p><quote speaker="alexanderHolder">By this time the whole house was astir, for <action><char gender = "male" name = "alexanderHolder">I</char>
+                                had raised my voice in my anger</action>. <action><char gender="female"
+                                                name="maryHolder">Mary</char> was the first to
+                                        rush into my room</action>, and, at the sight of the coronet
+                                and of <char gender="male" name="arthurHolder">Arthur</char>’s
+                        face, <action><char gender = "female" name = "maryHolder">she</char> read the whole story and, with a scream, fell down
+                                senseless on the ground</action>. <action><char gender = "male" name = "alexanderHolder">I</char> sent the housemaid for the police and put
+                                the investigation into their hands at once</action>. When the inspector and a
+                                constable entered the house, <action><char gender="male" name = "arthurHolder">
+                                                Arthur</char>, who had stood sullenly with his arms
+                                        folded, asked me whether it was my intention to charge him
+                                        with theft</action>. <action><char gender = "male" name = "alexanderHolder">I</char> answered that it had ceased to be a
+                                private matter</action>, but had become a public one, since the ruined
+                                coronet was national property. I was determined that the law should
+                                have its way in everything.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">At least,</subq> said he,
+                                        <subq speaker="arthurHolder">you will not have me arrested at
+                                        once. It would be to your advantage as well as mine if I
+                                        might leave the house for five minutes.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">That you may get
+                                        away, or perhaps that you may conceal what you have
+                                        stolen,</subq> said I. And then, realising the dreadful
+                        position in which I was placed, <action><char gender = "male" name = "alexanderHolder">I</char> implored him to remember that not
+                                only my honour but that of one who was far greater than I was at
+                                stake</action>; and that he threatened to raise a scandal which would
+                                convulse the nation. He might avert it all if he would but tell me
+                                what he had done with the three missing stones.</quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">You may as well
+                                        face the matter,</subq> said I; <subq
+                                        speaker="alexanderHolder">you have been caught in the act,
+                                        and no confession could make your guilt more heinous. If you
+                                        but make such reparation as is in your power, by telling us
+                                        where the beryls are, all shall be forgiven and
+                                        forgotten.</subq></quote></p>
+                <p><quote speaker="alexanderHolder"><subq speaker="arthurHolder">Keep your forgiveness for
+                        those who ask for it,</subq> <action><char gender = "male" name = "arthurHolder">he</char> answered, turning away from
+                                me with a sneer</action>. <action><char gender = "male" name = "alexanderHolder">I</char> saw that he was too hardened for any words of
+                                        mine to influence him</action>. There was but one way for it. <action><char gender = "male" name = "alexanderHolder">I</char> called in the
+                                inspector and gave him into custody</action>. A search was made at once not
+                                only of his person but of his room and of every portion of the house
+                                where he could possibly have concealed the gems; but no trace of
+                                them could be found, nor would the wretched boy open his mouth for
+                                all our persuasions and our threats. This morning he was removed to
+                                a cell, and I, after going through all the police formalities, have
+                                hurried round to you to implore you to use your skill in unravelling
+                                the matter. The police have openly confessed that they can at
+                                present make nothing of it. You may go to any expense which you
+                                think necessary. <action><char gender = "male" name = "alexanderHolder">I</char> have already offered a reward of £ 1000</action>. My God,
+                                what shall I do! I have lost my honour, my gems, and my son in one
+                                night. Oh, what shall I do!</quote></p>
+                <p><action><char gender = "male" name = "alexanderHolder">He</char> put a hand on either side of his head and rocked himself to and fro, droning
+                        to himself like a child whose grief has got beyond words.</action></p>
+                <p>Sherlock <action><char gender="male" name="sherlockHolmes">Holmes</char> sat
+                                silent for some few minutes, with his brows knitted and his eyes
+                                fixed upon the fire</action>.</p>
+                <p><quote speaker="sherlockHolmes">Do you receive much company?</quote> he
+                        asked.</p>
+                <p><quote speaker="alexanderHolder">None save my partner with his family and an
+                                occasional friend of <char gender="male" name="arthurHolder"
+                                        >Arthur</char>’s. Sir George <char gender="male" name = "georgeBurnwell">
+                                        Burnwell</char> has been several times lately. No one else,
+                                I think.</quote></p>
+                <p><quote speaker="sherlockHolmes">Do you go out much in society?</quote></p>
+                <p><quote speaker="alexanderHolder"><char gender="male" name="arthurHolder"
+                                        >Arthur</char> does. <char gender="female" name = "maryHolder">Mary</char> and I
+                                stay at home. We neither of us care for it.</quote></p>
+                <p><quote speaker="sherlockHolmes">That is unusual in a young girl.</quote></p>
+                <p><quote speaker="alexanderHolder">She is of a quiet nature. Besides, she is not
+                                so very young. She is four-and-twenty.</quote></p>
+                <p><quote speaker="sherlockHolmes">This matter, from what you say, seems to have
+                                been a shock to her also.</quote></p>
+                <p><quote speaker="alexanderHolder">Terrible! She is even more affected than
+                                I.</quote></p>
+                <p><quote speaker="sherlockHolmes">You have neither of you any doubt as to your
+                                son’s guilt?</quote></p>
+                <p><quote speaker="alexanderHolder">How can we have when I saw him with my own eyes
+                                with the coronet in his hands.</quote></p>
+                <p><quote speaker="sherlockHolmes">I hardly consider that a conclusive proof. Was
+                                the remainder of the coronet at all injured?</quote></p>
+                <p><quote speaker="alexanderHolder">Yes, it was twisted.</quote></p>
+                <p><quote speaker="sherlockHolmes">Do you not think, then, that he might have been
+                                trying to straighten it?</quote></p>
+                <p><quote speaker="alexanderHolder">God bless you! You are doing what you can for
+                                him and for me. But it is too heavy a task. What was he doing there
+                                at all? If his purpose were innocent, why did he not say
+                        so?</quote></p>
+                <p><quote speaker="sherlockHolmes">Precisely. And if it were guilty, why did he not
+                                invent a lie? His silence appears to me to cut both ways. There are
+                                several singular points about the case. What did the police think of
+                                the noise which awoke you from your sleep?</quote></p>
+                <p><quote speaker="alexanderHolder">They considered that it might be caused by
+                                                <action><char gender="male" name = "arthurHolder">Arthur</char>’s closing
+                                        his bedroom door.</action></quote></p>
+                <p><quote speaker="sherlockHolmes">A likely story! As if a man bent on felony would
+                                slam his door so as to wake a household. What did they say, then, of
+                                the disappearance of these gems?</quote></p>
+                <p><quote speaker="alexanderHolder">They are still sounding the planking and probing
+                                the furniture in the hope of finding them.</quote></p>
+                <p><quote speaker="sherlockHolmes">Have they thought of looking outside the
+                                house?</quote></p>
+                <p><quote speaker="alexanderHolder">Yes, they have shown extraordinary energy. The
+                                whole garden has already been minutely examined.</quote></p>
+                <p><quote speaker="sherlockHolmes">Now, my dear sir,</quote> said <char
+                                gender="male" name="sherlockHolmes">Holmes</char>, <quote
+                                speaker="sherlockHolmes">is it not obvious to you now that this
+                                matter really strikes very much deeper than either you or the police
+                                were at first inclined to think? It appeared to you to be a simple
+                                case; to me it seems exceedingly complex. Consider what is involved
+                                by your theory. You suppose that your son came down from his bed,
+                                went, at great risk, to your dressing-room, opened your bureau, took
+                                out your coronet, broke off by main force a small portion of it,
+                                went off to some other place, concealed three gems out of the
+                                thirty-nine, with such skill that nobody can find them, and then
+                                returned with the other thirty-six into the room in which he exposed
+                                himself to the greatest danger of being discovered. I ask you now,
+                                is such a theory tenable?</quote></p>
+                <p><quote speaker="alexanderHolder">But what other is there?</quote> cried <char
+                                gender="male" name = "alexanderHolder">the banker</char> with a gesture of despair. <quote
+                                speaker="alexanderHolder">If his motives were innocent, why does he
+                                not explain them?</quote></p>
+                <p><quote speaker="sherlockHolmes">It is our task to find that out,</quote> replied
+                                <char gender="male" name = "sherlockHolmes">Holmes</char>; <quote speaker="sherlockHolmes"
+                                >so now, if you please, <char gender="male" name = "alexanderHolder">Mr. Holder</char>, we
+                                will set off for Streatham together, and devote an hour to glancing
+                                a little more closely into details.</quote></p>
+                <p><action><char gender = "male" name = "sherlockHolmes">My friend</char> insisted upon my accompanying them in their expedition</action>, which I was
+                        eager enough to do, for my curiosity and sympathy were deeply stirred by the
+                        story to which we had listened. I confess that the guilt of <char
+                                gender="male" name="alexanderHolder">the banker</char>’s son
+                        appeared to me to be as obvious as it did to his unhappy father, but still I
+                        had such faith in <char gender="male" name="sherlockHolmes">Holmes</char>’
+                        judgment that I felt that there must be some grounds for hope as long as he
+                        was dissatisfied with the accepted explanation. <action><char gender = "male" name = "sherlockHolmes">He</char> hardly spoke a word the
+                        whole way out to the southern suburb, but sat with his chin upon his breast
+                        and his hat drawn over his eyes, sunk in the deepest thought</action>. Our client
+                        appeared to have taken fresh heart at the little glimpse of hope which had
+                        been presented to him, and <action><char gender = "male" name = "alexanderHolder">he</char> even broke into a desultory chat with me over
+                        his business affairs</action>. A short railway journey and a shorter walk brought us
+                        to Fairbank, the modest residence of the great financier.</p>
+                <p>Fairbank was a good-sized square house of white stone, standing back a little
+                        from the road. A double carriage-sweep, with a snow-clad lawn, stretched
+                        down in front to two large iron gates which closed the entrance. On the
+                        right side was a small wooden thicket, which led into a narrow path between
+                        two neat hedges stretching from the road to the kitchen door, and forming
+                        the tradesmen’s entrance. On the left ran a lane which led to the stables,
+                        and was not itself within the grounds at all, being a public, though little
+                        used, thoroughfare. <action><char gender="male" name="sherlockHolmes"
+                                        >Holmes</char> left us standing at the door and walked
+                                slowly all round the house, across the front, down the tradesmen’s
+                                path, and so round by the garden behind into the stable
+                                lane</action>. So long was he that <char gender="male" name = "alexanderHolder">Mr.
+                                Holder</char> and I went into the dining-room and waited by the fire
+                        until he should return. <action><char gender = "male" name = "alexanderHolder, johnWatson">We</char> were sitting there in silence</action> when the door
+                        opened and <action><char gender = "female" name = "maryHolder">a young lady</char> came in</action>. She was rather above the middle height,
+                        slim, with dark hair and eyes, which seemed the darker against the absolute
+                        pallor of her skin. I do not think that I have ever seen such deadly
+                        paleness in a woman’s face. Her lips, too, were bloodless, but her eyes were
+                        flushed with crying. As <action><char gender = "female" name = "maryHolder">she</char> swept silently into the room</action> she impressed me
+                        with a greater sense of grief than <char gender="male" name = "alexanderHolder">the banker</char> had
+                        done in the morning, and it was the more striking in her as she was
+                        evidently a woman of strong character, with immense capacity for
+                        self-restraint. <action>Disregarding my presence, <char gender = "female" name = "maryHolder">she</char> went straight to her uncle and
+                        passed her hand over his head with a sweet womanly caress</action>.</p>
+                <p><quote speaker="maryHolder">You have given orders that <char gender="male"
+                                        name="arthurHolder">Arthur</char> should be liberated,
+                                have you not, dad?</quote> she asked.</p>
+                <p><quote speaker="alexanderHolder">No, no, my girl, the matter must be probed to
+                                the bottom.</quote></p>
+                <p><quote speaker="maryHolder">But I am so sure that he is innocent. You know what
+                                woman’s instincts are. I know that he has done no harm and that you
+                                will be sorry for having acted so harshly.</quote></p>
+                <p><quote speaker="alexanderHolder">Why is he silent, then, if he is
+                                innocent?</quote></p>
+                <p><quote speaker="maryHolder">Who knows? Perhaps because he was so angry that you
+                                should suspect him.</quote></p>
+                <p><quote speaker="alexanderHolder">How could I help suspecting him, when I actually
+                                saw him with the coronet in his hand?</quote></p>
+                <p><quote speaker="maryHolder">Oh, but he had only picked it up to look at it. Oh,
+                                do, do take my word for it that he is innocent. Let the matter drop
+                                and say no more. It is so dreadful to think of our dear <char
+                                        gender="male" name="arthurHolder">Arthur</char> in
+                                prison!</quote></p>
+                <p><quote speaker="alexanderHolder">I shall never let it drop until the gems are
+                                found—never, <char gender="female" name = "maryHolder">Mary</char>! Your affection for
+                                        <char gender="male" name = "arthurHolder">Arthur</char> blinds you as to the awful
+                        consequences to me. Far from hushing the thing up, <action><char gender = "male" name = "alexanderHolder">I</char> have brought a
+                                gentleman down from London to inquire more deeply into
+                        it.</action></quote></p>
+                <p><quote speaker="maryHolder">This gentleman?</quote> she asked, facing round to
+                        me.</p>
+                <p><quote speaker="alexanderHolder">No, his friend. <action><char gender = "male" name = "sherlockHolmes">He</char> wished us to leave him alone</action>.
+                                He is round in the stable lane now.</quote></p>
+                <p><quote speaker="maryHolder">The stable lane?</quote> <action><char gender = "female" name = "maryHolder">She</char> raised her dark
+                        eyebrows.</action> <quote speaker="maryHolder">What can he hope to find there? Ah!
+                                this, I suppose, is he. I trust, sir, that you will succeed in
+                                proving, what I feel sure is the truth, that my cousin <char
+                                        gender="male" name="arthurHolder">Arthur</char> is
+                                innocent of this crime.</quote></p>
+                <p><quote speaker="sherlockHolmes">I fully share your opinion, and I trust, with
+                                you, that we may prove it,</quote> returned <char gender="male"
+                                name="sherlockHolmes">Holmes</char>, going back to the mat to knock
+                        the snow from his shoes. <quote speaker="sherlockHolmes">I believe I have
+                                the honour of addressing Miss <char gender="female" name = "maryHolder">Mary
+                                        Holder</char>. Might I ask you a question or
+                        two?</quote></p>
+                <p><quote speaker="maryHolder">Pray do, sir, if it may help to clear this horrible
+                                affair up.</quote></p>
+                <p><quote speaker="sherlockHolmes">You heard nothing yourself last
+                        night?</quote></p>
+                <p><quote speaker="maryHolder">Nothing, until my uncle here began to speak loudly.
+                        <action><char gender = "female" name = "maryHolder">I</char> heard that, and I came down</action>.</quote></p>
+                <p><quote speaker="sherlockHolmes">You shut up the windows and doors the night
+                                before. Did you fasten all the windows?</quote></p>
+                <p><quote speaker="maryHolder">Yes.</quote></p>
+                <p><quote speaker="sherlockHolmes">Were they all fastened this morning?</quote></p>
+                <p><quote speaker="maryHolder">Yes.</quote></p>
+                <p><quote speaker="sherlockHolmes">You have a maid who has a sweetheart? I think
+                                that you remarked to your uncle last night that she had been out to
+                                see him?</quote></p>
+                <p><quote speaker="maryHolder">Yes, and she was the girl who waited in the
+                                drawing-room, and who may have heard uncle’s remarks about the
+                                coronet.</quote></p>
+                <p><quote speaker="sherlockHolmes">I see. <action><char gender = "female" name = "maryHolder">You</char> infer that she may have gone out to
+                                tell her sweetheart, and that the two may have planned the
+                                robbery.</action></quote></p>
+                <p><quote speaker="alexanderHolder">But what is the good of all these vague
+                                theories,</quote> cried <char gender="male" name="alexanderHolder"
+                                >the banker</char> impatiently, <quote speaker="alexanderHolder"
+                                >when I have told you that I saw <char gender="male"
+                                        name="arthurHolder">Arthur</char> with the coronet in his
+                                hands?</quote></p>
+                <p><quote speaker="sherlockHolmes">Wait a little, <char gender="male"
+                                        name="alexanderHolder">Mr. Holder</char>. We must come back
+                                to that. About this girl, <char gender="female" name = "maryHolder">Miss Holder</char>.
+                                You saw her return by the kitchen door, I presume?</quote></p>
+                <p><quote speaker="maryHolder">Yes; <action>when <char gender = "female" name = "maryHolder">I</char> went to see if the door was fastened
+                                for the night I met her slipping in</action>. I saw the man, too, in the
+                                gloom.</quote></p>
+                <p><quote speaker="sherlockHolmes">Do you know him?</quote></p>
+                <p><quote speaker="maryHolder">Oh, yes! he is the greengrocer who brings our
+                                vegetables round. His name is <char gender="male" name = "francisProsper">Francis
+                                        Prosper</char>.</quote></p>
+                <p><quote speaker="sherlockHolmes">He stood,</quote> said <char gender="male"
+                                name="sherlockHolmes">Holmes</char>, <quote speaker="sherlockHolmes">to the
+                                left of the door—that is to say, farther up the path than is
+                                necessary to reach the door?</quote></p>
+                <p><quote speaker="maryHolder">Yes, he did.</quote></p>
+                <p><quote speaker="sherlockHolmes">And he is a man with a wooden leg?</quote></p>
+                <p>Something like fear sprang up in the young lady’s expressive black eyes. <quote
+                                speaker="maryHolder">Why, you are like a magician,</quote> said
+                        she. <quote speaker="maryHolder">How do you know that?</quote> She smiled,
+                        but there was no answering smile in <char gender="male"
+                                name="sherlockHolmes">Holmes</char>’ thin, eager face.</p>
+                <p><quote speaker="sherlockHolmes">I should be very glad now to go upstairs,</quote>
+                        said he. <quote speaker="sherlockHolmes">I shall probably wish to go over the
+                                outside of the house again. Perhaps I had better take a look at the
+                                lower windows before I go up.</quote></p>
+                <p><action><char gender = "male" name = "sherlockHolmes">He</char> walked swiftly round from one to the other, pausing only at the large one
+                        which looked from the hall onto the stable lane. This he opened and made a
+                        very careful examination of the sill with his powerful magnifying lens.</action>
+                                <quote speaker="sherlockHolmes">Now we shall go upstairs,</quote>
+                        said he at last.</p>
+                <p>The banker’s dressing-room was a plainly furnished little chamber, with a grey
+                        carpet, a large bureau, and a long mirror. <action><char gender="male"
+                                name="sherlockHolmes">Holmes</char> went to the bureau first and
+                        looked hard at the lock.</action></p>
+                <p><quote speaker="sherlockHolmes">Which key was used to open it?</quote> he
+                        asked.</p>
+                <p><quote speaker="alexanderHolder">That which my son himself indicated—that of the
+                                cupboard of the lumber-room.</quote></p>
+                <p><quote speaker="sherlockHolmes">Have you it here?</quote></p>
+                <p><quote speaker="alexanderHolder">That is it on the dressing-table.</quote></p>
+                <p><action>Sherlock <char gender="male" name="sherlockHolmes">Holmes</char> took it up and
+                        opened the bureau.</action></p>
+                <p><quote speaker="sherlockHolmes">It is a noiseless lock,</quote> said he. <quote
+                                speaker="sherlockHolmes"> It is no wonder that it did not wake you.
+                                This case, I presume, contains the coronet. We must have a look at
+                                it.</quote> <action><char gender = "male" name = "sherlockHolmes">He</char> opened the case, and taking out the diadem he laid it
+                        upon the table.</action> It was a magnificent specimen of the jeweller’s art, and the
+                        thirty-six stones were the finest that I have ever seen. At one side of the
+                        coronet was a cracked edge, where a corner holding three gems had been torn
+                        away.</p>
+                <p><quote speaker="sherlockHolmes">Now, <char gender="male" name="alexanderHolder"
+                                        >Mr. Holder</char>,</quote> said <char gender="male" name = "sherlockHolmes">
+                                Holmes</char>, <quote speaker="sherlockHolmes">here is the corner
+                                which corresponds to that which has been so unfortunately lost.
+                                Might I beg that you will break it off.</quote></p>
+                <p><action><char gender = "male" name = "alexanderHolder">The banker</char> recoiled in horror</action>. <quote speaker="alexanderHolder">I should not
+                                dream of trying,</quote> said he.</p>
+                <p><quote speaker="sherlockHolmes">Then I will.</quote>
+                        <action><char gender="male" name="sherlockHolmes">Holmes</char> suddenly bent his
+                        strength upon it, but without result.</action> <quote speaker="sherlockHolmes">I feel
+                                it give a little,</quote> said he; <quote speaker="sherlockHolmes">but,
+                                though I am exceptionally strong in the fingers, it would take me
+                                all my time to break it. An ordinary man could not do it. Now, what
+                                do you think would happen if I did break it, <char gender="male"
+                                        name="alexanderHolder">Mr. Holder</char>? There would be a
+                                noise like a pistol shot. Do you tell me that all this happened
+                                within a few yards of your bed and that you heard nothing of
+                                it?</quote></p>
+                <p><quote speaker="alexanderHolder">I do not know what to think. It is all dark to
+                                me.</quote></p>
+                <p><quote speaker="sherlockHolmes">But perhaps it may grow lighter as we go. What do
+                                you think, <char gender="female" name = "maryHolder">Miss Holder</char>?</quote></p>
+                <p><quote speaker="maryHolder">I confess that I still share my uncle’s
+                                perplexity.</quote></p>
+                <p><quote speaker="sherlockHolmes">Your son had no shoes or slippers on when you saw
+                                him?</quote></p>
+                <p><quote speaker="alexanderHolder">He had nothing on save only his trousers and
+                                shirt.</quote></p>
+                <p><quote speaker="sherlockHolmes">Thank you. We have certainly been favoured with
+                                extraordinary luck during this inquiry, and it will be entirely our
+                                own fault if we do not succeed in clearing the matter up. With your
+                                permission, <char gender="male" name = "alexanderHolder">Mr. Holder</char>, I shall now
+                                continue my investigations outside.</quote></p>
+                <p><action><char gender = "male" name = "sherlockHolmes">He</char> went alone, at his own request, for he explained that any unnecessary
+                        footmarks might make his task more difficult</action>. For an hour or more <action><char gender = "male" name = "sherlockHolmes">he</char> was at
+                        work, returning at last with his feet heavy with snow and his features as
+                        inscrutable as ever.</action></p>
+                <p><quote speaker="sherlockHolmes">I think that I have seen now all that there is to
+                                see, <char gender="male" name = "alexanderHolder">Mr. Holder</char>,</quote> said he; <quote
+                                speaker="sherlockHolmes">I can serve you best by returning to my
+                                rooms.</quote></p>
+                <p><quote speaker="alexanderHolder">But the gems, Mr. <char gender="male"
+                                        name="sherlockHolmes">Holmes</char>. Where are
+                        they?</quote></p>
+                <p><quote speaker="sherlockHolmes">I cannot tell.</quote></p>
+                <p>The banker wrung his hands. <quote speaker="alexanderHolder">I shall never see
+                                them again!</quote> he cried. <quote speaker="alexanderHolder">And
+                                my son? You give me hopes?</quote></p>
+                <p><quote speaker="sherlockHolmes">My opinion is in no way altered.</quote></p>
+                <p><quote speaker="alexanderHolder">Then, for God’s sake, what was this dark
+                                business which was acted in my house last night?</quote></p>
+                <p><quote speaker="sherlockHolmes">If you can call upon me at my Baker Street rooms
+                                to-morrow morning between nine and ten I shall be happy to do what I
+                                can to make it clearer. I understand that you give me _carte
+                                blanche_ to act for you, provided only that I get back the gems, and
+                                that you place no limit on the sum I may draw.</quote></p>
+                <p><quote speaker="alexanderHolder">I would give my fortune to have them
+                                back.</quote></p>
+                <p><quote speaker="sherlockHolmes">Very good. I shall look into the matter between
+                                this and then. Good-bye; it is just possible that I may have to come
+                                over here again before evening.</quote></p>
+                <p>It was obvious to me that my companion’s mind was now made up about the case,
+                        although what his conclusions were was more than I could even dimly imagine.
+                        Several times during our homeward journey I endeavoured to sound him upon
+                        the point, but he always glided away to some other topic, until at last I
+                        gave it over in despair. It was not yet three when we found ourselves in our
+                        rooms once more. <action><char gender = "male" name = "sherlockHolmes">He</char> hurried to his chamber and was down again in a few
+                        minutes dressed as a common loafer.</action> With his collar turned up, his shiny,
+                        seedy coat, his red cravat, and his worn boots, he was a perfect sample of
+                        the class.</p>
+                <p><quote speaker="sherlockHolmes">I think that this should do,</quote> <action>said <char gender = "male" name = "sherlockHolmes">he</char>,
+                        glancing into the glass above the fireplace</action>. <quote speaker="sherlockHolmes"
+                                >I only wish that you could come with me, <char gender="male" name = "johnWatson">
+                                        Watson</char>, but I fear that it won’t do. I may be on the
+                                trail in this matter, or I may be following a will-o’-the-wisp, but
+                                I shall soon know which it is. I hope that I may be back in a few
+                                hours.</quote> <action><char gender = "male" name = "sherlockHolmes">He</char> cut a slice of beef from the joint upon the
+                        sideboard, sandwiched it between two rounds of bread, and thrusting this
+                        rude meal into his pocket he started off upon his expedition.</action></p>
+                <p>I had just finished my tea when he returned, evidently in excellent spirits,
+                        swinging an old elastic-sided boot in his hand. <action><char gender = "male" name = "sherlockHolmes">He</char> chucked it down into a
+                        corner and helped himself to a cup of tea.</action></p>
+                <p><quote speaker="sherlockHolmes">I only looked in as I passed,</quote> said he.
+                                <quote speaker="sherlockHolmes">I am going right on.</quote></p>
+                <p><quote speaker="johnWatson">Where to?</quote></p>
+                <p><quote speaker="sherlockHolmes">Oh, to the other side of the West End. It may be
+                                some time before I get back. Don’t wait up for me in case I should
+                                be late.</quote></p>
+                <p><quote speaker="johnWatson">How are you getting on?</quote></p>
+                <p><quote speaker="sherlockHolmes">Oh, so so. Nothing to complain of. I have been
+                                out to Streatham since I saw you last, but I did not call at the
+                                house. It is a very sweet little problem, and I would not have
+                                missed it for a good deal. However, I must not sit gossiping here,
+                                but must get these disreputable clothes off and return to my highly
+                                respectable self.</quote></p>
+                <p>I could see by his manner that he had stronger reasons for satisfaction than his
+                        words alone would imply. His eyes twinkled, and there was even a touch of
+                        colour upon his sallow cheeks. <action><char gender = "male" name = "sherlockHolmes">He</char> hastened upstairs, and a few minutes later
+                        I heard the slam of the hall door</action>, which told me that he was off once more
+                        upon his congenial hunt.</p>
+                <p><action><char gender = "male" name = "johnWatson">I</char> waited until midnight, but there was no sign of his return, so I retired to my
+                        room</action>. It was no uncommon thing for him to be away for days and nights on end
+                        when he was hot upon a scent, so that his lateness caused me no surprise. I
+                        do not know at what hour he came in, but when I came down to breakfast in
+                        the morning there he was with a cup of coffee in one hand and the paper in
+                        the other, as fresh and trim as possible.</p>
+                <p><quote speaker="sherlockHolmes">You will excuse my beginning without you, <char
+                                        gender="male" name="johnWatson"> Watson</char>,</quote> said
+                        he, <quote speaker="sherlockHolmes">but you remember that our client has
+                                rather an early appointment this morning.</quote></p>
+                <p><quote speaker="johnWatson">Why, it is after nine now,</quote> I answered. <quote
+                                speaker="johnWatson">I should not be surprised if that were he. I
+                                thought I heard a ring.</quote></p>
+                <p>It was, indeed, our friend <char gender = "male" name = "alexanderHolder">the financier</char>. I was shocked by the change which had
+                        come over him, for his face which was naturally of a broad and massive
+                        mould, was now pinched and fallen in, while his hair seemed to me at least a
+                        shade whiter. <action><char gender = "male" name = "alexanderHolder">He</char> entered with a weariness and lethargy which was even more
+                        painful than his violence of the morning before, and he dropped heavily into
+                        the armchair which I pushed forward for him.</action></p>
+                <p><quote speaker="alexanderHolder">I do not know what I have done to be so severely
+                                tried,</quote> said he. <quote speaker="alexanderHolder">Only two
+                                days ago I was a happy and prosperous man, without a care in the
+                                world. Now I am left to a lonely and dishonoured age. One sorrow
+                                comes close upon the heels of another. My niece, <action><char
+                                                gender="female" name="maryHolder"> Mary</char>,
+                                        has deserted me</action>.</quote></p>
+                <p><quote speaker="sherlockHolmes">Deserted you?</quote></p>
+                <p><quote speaker="alexanderHolder">Yes. Her bed this morning had not been slept in,
+                                her room was empty, and a note for me lay upon the hall table. I had
+                                said to her last night, in sorrow and not in anger, that if she had
+                                married my boy all might have been well with him. Perhaps it was
+                                thoughtless of me to say so. It is to that remark that she refers in
+                                this note:</quote></p>
+                <p>
+                        <quote speaker="alexanderHolder"><subq speaker="maryHolder">MY DEAREST
+                                        UNCLE,—I feel that I have brought trouble upon you, and that
+                                        if I had acted differently this terrible misfortune might
+                                        never have occurred. I cannot, with this thought in my mind,
+                                        ever again be happy under your roof, and I feel that I must
+                                        leave you forever. Do not worry about my future, for that is
+                                        provided for; and, above all, do not search for me, for it
+                                        will be fruitless labour and an ill-service to me. In life
+                                        or in death, I am ever your loving,</subq></quote></p>
+                <p>
+                        <quote speaker="alexanderHolder"><subq speaker="maryHolder"><char
+                                                gender="female" name="maryHolder">
+                                        MARY</char>.</subq></quote></p>
+                <p>
+                        <quote speaker="alexanderHolder">What could she mean by that note, Mr. <char
+                                        gender="male" name="sherlockHolmes"> Holmes</char>? Do you
+                                think it points to suicide?</quote></p>
+                <p><quote speaker="sherlockHolmes">No, no, nothing of the kind. It is perhaps the
+                                best possible solution. I trust, <char gender="male"
+                                        name="alexanderHolder">Mr. Holder</char>, that you are
+                                nearing the end of your troubles.</quote></p>
+                <p><quote speaker="alexanderHolder">Ha! You say so! You have heard something, Mr.
+                                        <char gender="male" name="sherlockHolmes"> Holmes</char>;
+                                you have learned something! Where are the gems?</quote></p>
+                <p><quote speaker="sherlockHolmes">You would not think £ 1000 apiece an excessive
+                                sum for them?</quote></p>
+                <p><quote speaker="alexanderHolder">I would pay ten.</quote></p>
+                <p><quote speaker="sherlockHolmes">That would be unnecessary. Three thousand will
+                                cover the matter. And there is a little reward, I fancy. Have you
+                                your cheque-book? Here is a pen. Better make it out for £
+                                4000.</quote></p>
+                <p>With a dazed face <char gender="male" name="alexanderHolder">the banker</char>
+                        made out the required check. <action><char gender="male"
+                                        name="sherlockHolmes">Holmes</char> walked over to his desk,
+                                took out a little triangular piece of gold with three gems in it,
+                                and threw it down upon the table</action>.</p>
+                <p><action>With a shriek of joy <char gender = "male" name = "alexanderHolder">our client</char> clutched it up.</action></p>
+                <p><quote speaker="alexanderHolder">You have it!</quote> he gasped. <quote
+                                speaker="alexanderHolder">I am saved! I am saved!</quote></p>
+                <p>The reaction of joy was as passionate as his grief had been, and <action><char gender = "male" name = "alexanderHolder">he</char> hugged his
+                        recovered gems to his bosom.</action></p>
+                <p><quote speaker="sherlockHolmes">There is one other thing you owe, <char
+                                        gender="male" name="alexanderHolder">Mr.
+                                Holder</char>,</quote> said Sherlock <char gender="male"
+                                name="sherlockHolmes">Holmes</char> rather sternly.</p>
+                <p><quote speaker="alexanderHolder">Owe!</quote> <action><char gender = "male" name = "alexanderHolder">He</char> caught up a pen.</action> <quote
+                                speaker="alexanderHolder">Name the sum, and I will pay
+                        it.</quote></p>
+                <p><quote speaker="sherlockHolmes">No, the debt is not to me. You owe a very humble
+                                apology to that noble lad, your son, who has carried himself in this
+                                matter as I should be proud to see my own son do, should I ever
+                                chance to have one.</quote></p>
+                <p><quote speaker="alexanderHolder">Then it was not <char gender="male"
+                                        name="arthurHolder">Arthur</char> who took
+                        them?</quote></p>
+                <p><quote speaker="sherlockHolmes">I told you yesterday, and I repeat to-day, that
+                                it was not.</quote></p>
+                <p><quote speaker="alexanderHolder">You are sure of it! Then let us hurry to him at
+                                once to let him know that the truth is known.</quote></p>
+                <p><quote speaker="sherlockHolmes">He knows it already. When I had cleared it all up
+                                I had an interview with him, and finding that he would not tell me
+                                the story, I told it to him, on which <action><char gender = "male" name = "arthurHolder">he</char> had to confess that I was
+                                right and to add the very few details which were not yet quite clear
+                                to me</action>. Your news of this morning, however, may open his
+                                lips.</quote></p>
+                <p><quote speaker="alexanderHolder">For Heaven’s sake, tell me, then, what is this
+                                extraordinary mystery!</quote></p>
+                <p><quote speaker="sherlockHolmes">I will do so, and I will show you the steps by
+                                which I reached it. And let me say to you, first, that which it is
+                                hardest for me to say and for you to hear: there has been an
+                                understanding between Sir George <char gender="male"
+                                        name="georgeBurnwell"> Burnwell</char> and your niece <char
+                                        gender="female" name="maryHolder">Mary</char>. They have
+                                now fled together.</quote></p>
+                <p><quote speaker="alexanderHolder">My <char gender="female" name="maryHolder"
+                                        >Mary</char>? Impossible!</quote></p>
+                <p><quote speaker="sherlockHolmes">It is unfortunately more than possible; it is
+                                certain. Neither you nor your son knew the true character of this
+                                man when you admitted him into your family circle. He is one of the
+                                most dangerous men in England—a ruined gambler, an absolutely
+                                desperate villain, a man without heart or conscience. Your niece
+                                knew nothing of such men. When he breathed his vows to her, as he
+                                had done to a hundred before her, <action><char gender = "female" name = "maryHolder">she</char> flattered herself that she
+                                alone had touched his heart.</action> The devil knows best what he said, but
+                                at least she became his tool and was in the habit of seeing him
+                                nearly every evening.</quote></p>
+                <p><quote speaker="alexanderHolder">I cannot, and I will not, believe it!</quote>
+                        cried <char gender="male" name="alexanderHolder">the banker</char> with an
+                        ashen face.</p>
+                <p><quote speaker="sherlockHolmes">I will tell you, then, what occurred in your
+                        house last night. <action><char gender = "female" name = "maryHolder">Your niece</char>, when you had, as she thought, gone to
+                                your room, slipped down and talked to her lover through the window
+                                which leads into the stable lane</action>. His footmarks had pressed right
+                        through the snow, so long had he stood there. <action><char gender = "female" name = "maryHolder">She</char> told him of the
+                                coronet.</action> His wicked lust for gold kindled at the news, and he bent
+                                her to his will. I have no doubt that she loved you, but there are
+                                women in whom the love of a lover extinguishes all other loves, and
+                                I think that she must have been one. She had hardly listened to his
+                                instructions when she saw you coming downstairs, on which <action><char gender = "female" name = "maryHolder">she</char> closed
+                                the window rapidly and told you about one of the servants’ escapade
+                                with her wooden-legged lover</action>, which was all perfectly
+                        true.</quote></p>
+                <p><quote speaker="sherlockHolmes">Your boy, <action><char gender="male"
+                                                name="arthurHolder">Arthur</char>, went to bed
+                                        after his interview with you but he slept badly on account
+                                        of his uneasiness about his club debts.</action> In the middle of the
+                                        night <action><char gender = "male" name = "arthurHolder">he</char> heard a soft tread pass his door, so he rose and,
+                                                looking out</action>, was surprised to see <action><char gender = "female" name = "maryHolder">his cousin</char> walking very
+                                        stealthily along the passage until she disappeared into your
+                                        dressing-room</action>. Petrified with astonishment, <action><char gender = "male" name = "arthurHolder">the lad</char> slipped
+                                        on some clothes and waited there in the dark</action> to see what
+                        would come of this strange affair. Presently <action><char gender = "female" name = "maryHolder">she</char>
+                                emerged from the room again</action>, and in the light of the passage-lamp
+                        <action><char gender = "male" name = "arthurHolder">your son</char> saw that she carried the precious coronet in her hands</action>. <action><char gender = "female" name = "maryHolder">She</char>
+                                passed down the stairs</action>, and <action><char gender = "male" name = "arthurHolder">he</char>, thrilling with horror, ran along and
+                                slipped behind the curtain near your door, whence he could see what
+                                passed in the hall beneath</action>. <action><char gender = "male" name = "arthurHolder">He</char> saw her</action> <action>stealthily open the window,
+                                hand out the coronet to someone in the gloom, and then closing it
+                                once more hurry back to <char gender = "female" name = "maryHolder">her</char> room, passing quite close to where he
+                                stood hid behind the curtain</action>.</quote></p>
+                <p><quote speaker="sherlockHolmes">As long as she was on the scene he could not take
+                                any action without a horrible exposure of the woman whom he loved.
+                                But the instant that she was gone he realised how crushing a
+                                misfortune this would be for you, and how all-important it was to
+                                set it right. <action><char gender = "male" name = "arthurHolder">He</char> rushed down, just as he was, in his bare feet,
+                                opened the window, sprang out into the snow, and ran down the lane,
+                                where he could see a dark figure in the moonlight</action>. Sir George
+                                                <action><char gender="male" name="georgeBurnwell">
+                                                Burnwell</char> tried to get away</action>, but
+                                                <action><char gender="male" name="arthurHolder"
+                                                >Arthur</char> caught him, and there was a struggle
+                                        between them, your lad tugging at one side of the coronet,
+                                        and his opponent at the other</action>. In the scuffle, <action><char gender = "male" name = "arthurHolder">your
+                                son</char> struck</action> <char gender="male" name="georgeBurnwell">Sir
+                                        George</char> and <action><char gender = "male" name = "arthurHolder">cut him over the eye</char></action>. Then something
+                        suddenly snapped, and <action><char gender = "male" name = "arthurHolder">your son</char>, finding that he had the coronet in
+                                his hands, rushed back, closed the window, ascended to your room,
+                                and had just observed that the coronet had been twisted in the
+                                struggle and was endeavouring to straighten it</action> when you appeared
+                                upon the scene.</quote></p>
+                <p><quote speaker="alexanderHolder">Is it possible?</quote> gasped <char
+                                gender="male" name="alexanderHolder">the banker</char>.</p>
+                <p><quote speaker="sherlockHolmes"><action><char gender = "male" name = "alexanderHolder">You</char> then roused his anger by calling him names</action> at
+                                a moment when he felt that he had deserved your warmest thanks. He
+                                could not explain the true state of affairs without betraying one
+                                who certainly deserved little enough consideration at his hands. He
+                                took the more chivalrous view, however, and preserved her
+                                secret.</quote></p>
+                <p><quote speaker="alexanderHolder">And that was why <action><char gender = "female" name = "maryHolder">she</char> shrieked and fainted when
+                                she saw the coronet</action>,</quote> cried <char gender="male"
+                                name="alexanderHolder">Mr. Holder</char>. <quote
+                                speaker="alexanderHolder">Oh, my God! what a blind fool I have been!
+                                And his asking to be allowed to go out for five minutes! The dear
+                                fellow wanted to see if the missing piece were at the scene of the
+                                struggle. How cruelly I have misjudged him!</quote></p>
+                <p><quote speaker="sherlockHolmes">When I arrived at the house,</quote> continued
+                                <char gender="male" name="sherlockHolmes">Holmes</char>, <quote
+                                speaker="sherlockHolmes">I at once went very carefully round it to
+                                observe if there were any traces in the snow which might help me. I
+                                knew that none had fallen since the evening before, and also that
+                                there had been a strong frost to preserve impressions. <action><char gender = "male" name = "sherlockHolmes">I</char> passed
+                                along the tradesmen’s path, but found it all trampled down and
+                                indistinguishable</action>. Just beyond it, however, at the far side of the
+                                        kitchen door, <action><char gender = "female" name = "lucyParr">a woman</char> had stood and talked with a man</action>, whose round
+                                impressions on one side showed that he had a wooden leg. I could
+                                even tell that they had been disturbed, for the woman had run back
+                                swiftly to the door, as was shown by the deep toe and light heel
+                                marks, while Wooden-leg had waited a little, and then had gone away.
+                                I thought at the time that this might be the maid and her
+                                sweetheart, of whom you had already spoken to me, and inquiry showed
+                                it was so. <action><char gender = "male" name = "sherlockHolmes">I</char> passed round the garden without seeing anything more
+                                than random tracks</action>, which I took to be the police; but when I got
+                                into the stable lane a very long and complex story was written in
+                                the snow in front of me.</quote></p>
+                <p><quote speaker="sherlockHolmes">There was a double line of tracks of a booted
+                        man, and a second double line which <action><char gender = "male" name = "sherlockHolmes">I</char> saw with delight</action> belonged to a
+                        man with naked feet. <action><char gender = "male" name = "sherlockHolmes">I</char> was at once convinced from what you had told
+                                me that the latter was your son</action>. The first had walked both ways, but
+                                the other had run swiftly, and as his tread was marked in places
+                                over the depression of the boot, it was obvious that he had passed
+                                after the other. <action><char gender = "male" name = "sherlockHolmes">I</char> followed them up and found they led to the hall
+                                        window</action>, where Boots had worn all the snow away while waiting. Then <action><char gender = "male" name = "sherlockHolmes">I</char>
+                                walked to the other end, which was a hundred yards or more down the
+                                lane. I saw where Boots had faced round</action>, where the snow was cut up
+                                as though there had been a struggle, and, finally, where a few drops
+                                of blood had fallen, to show me that I was not mistaken. <action><char gender = "male" name = "georgeBurnwell">Boots</char> had
+                                then run down the lane</action>, and another little smudge of blood showed
+                        that it was he who had been hurt. When <action><char gender = "male" name = "georgeBurnwell">he</char> came to the highroad at
+                                the other end</action>, I found that the pavement had been cleared, so there
+                                was an end to that clue.</quote></p>
+                <p><quote speaker="sherlockHolmes"><action>On entering the house, however, <char gender = "male" name = "sherlockHolmes">I</char> examined, as
+                                you remember, the sill and framework of the hall window with my
+                                lens,</action> and <action><char gender = "male" name = "sherlockHolmes">I</char> could at once see that someone had passed out. I could
+                                distinguish the outline of an instep where the wet foot had been
+                                placed in coming in. I was then beginning to be able to form an
+                                opinion as to what had occurred</action>. A man had waited outside the
+                                window; someone had brought the gems; the deed had been overseen by
+                                your son; he had pursued the thief; had struggled with him; they had
+                                each tugged at the coronet, their united strength causing injuries
+                                which neither alone could have effected. <action><char gender = "male" name = "arthurHolder">He</char> had returned with the
+                                prize, but had left a fragment in the grasp of his opponent</action>. So far
+                                I was clear. The question now was, who was the man and who was it
+                                brought him the coronet?</quote></p>
+                <p><quote speaker="sherlockHolmes">It is an old maxim of mine that when you have
+                                excluded the impossible, whatever remains, however improbable, must
+                                be the truth. Now, I knew that it was not you who had brought it
+                                down, so there only remained your niece and the maids. But if it
+                                were the maids, why should your son allow himself to be accused in
+                                their place? There could be no possible reason. As he loved his
+                                cousin, however, there was an excellent explanation why he should
+                                retain her secret—the more so as the secret was a disgraceful one.
+                                When <action><char gender = "male" name = "sherlockHolmes">I</char> remembered that you had seen her at that window, and how she
+                                had fainted on seeing the coronet again</action>, my conjecture became a
+                                certainty.</quote></p>
+                <p><quote speaker="sherlockHolmes">And who could it be who was her confederate? A
+                                lover evidently, for who else could outweigh the love and gratitude
+                                which she must feel to you? I knew that you went out little, and
+                                that your circle of friends was a very limited one. But among them
+                                was Sir George <char gender="male" name="georgeBurnwell"
+                                        >Burnwell</char>. I had heard of him before as being a man
+                        of evil reputation among women. It must have been <action><char gender = "male" name = "georgeBurnwell">he</char> who wore those
+                                boots and retained the missing gems.</action> Even though he knew that <char
+                                        gender="male" name="arthurHolder">Arthur</char> had
+                                discovered him, he might still flatter himself that he was safe, for
+                                the lad could not say a word without compromising his own
+                                family.</quote></p>
+                <p><quote speaker="sherlockHolmes">Well, your own good sense will suggest what
+                        measures I took next. <action><char gender = "male" name = "sherlockHolmes">I</char> went in the shape of a loafer</action> to <char
+                                        gender="male" name="georgeBurnwell">Sir George</char>’s
+                                house, <action>managed to pick up an acquaintance with his valet, learned
+                                that his master had cut his head the night before, and, finally, at
+                                the expense of six shillings, made all sure by buying a pair of his
+                                cast-off shoes. With these <char gender = "male" name = "sherlockHolmes">I</char> journeyed down to Streatham and saw
+                                that they exactly fitted the tracks.</action></quote></p>
+                <p><quote speaker="alexanderHolder"><action><char gender = "male" name = "alexanderHolder">I</char> saw an ill-dressed vagabond in the lane
+                                yesterday evening</action>,</quote> said Mr. Holder.</p>
+                <p><quote speaker="sherlockHolmes">Precisely. It was I. <action><char gender = "male" name = "sherlockHolmes">I</char> found that I had my man,
+                                so I came home and changed my clothes</action>. It was a delicate part which
+                        I had to play then, for <action><char gender = "male" name = "sherlockHolmes">I</char> saw that a prosecution must be avoided to
+                                avert scandal, and I knew that so astute a villain would see that
+                                our hands were tied in the matter. I went and saw him.</action> At first, of
+                        course, <action><char gender = "male" name = "georgeBurnwell">he</char> denied everything</action>. But when <action><char gender = "male" name = "sherlockHolmes">I</char> gave him every particular
+                                that had occurred</action>, <action><char gender = "male" name = "georgeBurnwell">he</char> tried to bluster and took down a
+                                        life-preserver from the wall</action>. I knew my man, however, and <action><char gender = "male" name = "sherlockHolmes">I</char> clapped
+                                a pistol to his head before he could strike</action>. Then he became a little
+                        more reasonable. <action><char gender = "male" name = "sherlockHolmes">I</char> told him that we would give him a price for the
+                                stones he held—£ 1000 apiece</action>. That brought out the first signs of
+                                grief that he had shown. <subq speaker="georgeBurnwell">Why, dash it
+                                        all!</subq> said he, <subq speaker="georgeBurnwell">I’ve let
+                                                them go at six hundred for the three!</subq> <action><char gender = "male" name = "sherlockHolmes">I</char> soon managed
+                                to get the address of the receiver who had them, on promising him
+                                that there would be no prosecution.</action> <action>Off <char gender = "male" name = "sherlockHolmes">I</char> set to him, and after much
+                                chaffering I got our stones at £ 1000 apiece. Then I looked in upon
+                                your son, told him that all was right, and eventually got to my bed
+                                about two o’clock</action>, after what I may call a really hard day’s
+                                work.</quote></p>
+                <p><quote speaker="alexanderHolder">A day which has saved England from a great
+                                public scandal,</quote> said the banker, rising. <quote
+                                speaker="alexanderHolder">Sir, I cannot find words to thank you, but
+                                you shall not find me ungrateful for what you have done. Your skill
+                                has indeed exceeded all that I have heard of it. And now I must fly
+                                to my dear boy to apologise to him for the wrong which I have done
+                                him. As to what you tell me of poor <char gender="female"
+                                        name="maryHolder">Mary</char>, it goes to my very heart.
+                                Not even your skill can inform me where she is now.</quote></p>
+                <p><quote speaker="sherlockHolmes">I think that we may safely say,</quote> returned
+                                <char gender="male" name="sherlockHolmes">Holmes</char>, <quote
+                                speaker="sherlockHolmes">that she is wherever Sir George <char
+                                        gender="male" name="georgeBurnwell">Burnwell</char> is. It
+                                is equally certain, too, that whatever her sins are, they will soon
+                                receive a more than sufficient punishment.</quote></p>
+        </story>
 </passage>
