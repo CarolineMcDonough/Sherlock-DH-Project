@@ -109,14 +109,14 @@
                                         by the honour and attempted, when he entered</action>, to say so, but <action><char gender = "male" name = "Clerk">he</char>
                                 plunged at once into business with the air of a man who wishes to
                                 hurry quickly through a disagreeable task.</action></quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk"><char gender="male" name = "alexanderHolder">Mr.
-                                                Holder</char>,</subq> said he, <subq speaker="Clerk"
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk"><char gender="male" name = "alexanderHolder">Mr.
+                                                Holder</char>,</subq> said he, <subq speaker="u_Clerk"
                                         >I have been informed that you are in the habit of advancing
                                         money.</subq></quote></p>
                 <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">The firm does so
                                         when the security is good.</subq> I answered.</quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">It is absolutely essential
-                                        to me,</subq> said he, <subq speaker="Clerk">that I should
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">It is absolutely essential
+                                        to me,</subq> said he, <subq speaker="u_Clerk">that I should
                                         have £ 50,000 at once. I could, of course, borrow so
                                         trifling a sum ten times over from my friends, but I much
                                         prefer to make it a matter of business and to carry out that
@@ -125,7 +125,7 @@
                                         obligations.</subq></quote></p>
                 <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">For how long,
                                         may I ask, do you want this sum?</subq> I asked.</quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">Next Monday I have a large
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">Next Monday I have a large
                                         sum due to me, and I shall then most certainly repay what
                                         you advance, with whatever interest you think it right to
                                         charge. But it is very essential to me that the money should
@@ -138,19 +138,19 @@
                                         am to do it in the name of the firm, then in justice to my
                                         partner I must insist that, even in your case, every
                                         businesslike precaution should be taken.</subq></quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">I should much prefer to
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">I should much prefer to
                                         have it so,</subq> said he, raising up a square, black
                                 morocco case which he had laid beside his chair. <subq
-                                        speaker="Clerk">You have doubtless heard of the Beryl
+                                        speaker="u_Clerk">You have doubtless heard of the Beryl
                                         Coronet?</subq></quote></p>
                 <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">One of the most
                                         precious public possessions of the empire,</subq> said
                                 I.</quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">Precisely.</subq> <action><char gender = "male" name = "Clerk">He</char>
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">Precisely.</subq> <action><char gender = "male" name = "Clerk">He</char>
                                 opened the case</action>, and there, imbedded in soft, flesh-coloured velvet,
                                 lay the magnificent piece of jewellery which he had named. <subq
-                                        speaker="Clerk">There are thirty-nine enormous
-                                        beryls,</subq> said he, <subq speaker="Clerk">and the price
+                                        speaker="u_Clerk">There are thirty-nine enormous
+                                        beryls,</subq> said he, <subq speaker="u_Clerk">and the price
                                         of the gold chasing is incalculable. The lowest estimate
                                         would put the worth of the coronet at double the sum which I
                                         have asked. I am prepared to leave it with you as my
@@ -158,11 +158,11 @@
                 <p><quote speaker="alexanderHolder"><action><char gender = "male" name = "alexanderHolder">I</char> took the precious case into my hands and
                                 looked in some perplexity from it to my illustrious
                         client.</action></quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">You doubt its
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">You doubt its
                                         value?</subq> he asked.</quote></p>
                 <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder">Not at all. I
                                         only doubt—</subq></quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">The propriety of my
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">The propriety of my
                                         leaving it. You may set your mind at rest about that. I
                                         should not dream of doing so were it not absolutely certain
                                         that I should be able in four days to reclaim it. It is a
@@ -170,7 +170,7 @@
                                 sufficient?</subq></quote></p>
                 <p><quote speaker="alexanderHolder"><subq speaker="alexanderHolder"
                                 >Ample.</subq></quote></p>
-                <p><quote speaker="alexanderHolder"><subq speaker="Clerk">You understand, <char
+                <p><quote speaker="alexanderHolder"><subq speaker="u_Clerk">You understand, <char
                         gender="male" name = "alexanderHolder">Mr. Holder</char>, that <action><char gender = "male" name = "Clerk">I</char> am giving
                                         you a strong proof of the confidence which I have in you</action>,
                                         founded upon all that I have heard of you. I rely upon you
