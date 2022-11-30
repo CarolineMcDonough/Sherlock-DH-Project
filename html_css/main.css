@@ -683,3 +683,29 @@ li:nth-child(2n){
     padding:40px;
     text-align: left;
 }
+
+/* this is the div that represents actual box that displays for the sliding menu */
+#slidingMenu{
+    width:0;background-color: cornflowerblue; height:100%;transition:1s
+}
+/* styles related to the menu table in the bar */
+/* mostly centering stuff with margins and setting transition property for the box showing and hiding */
+#slidingMenu > table {
+    display: none;
+    margin-top: 16px;
+}
+#slidingMenu > table > tr{
+    display:flex;align-items: center;
+}   
+#slidingMenu > table > tr > p{
+    margin-left: 10px;
+}
+#slidingMenu > table > tr > img{
+    margin-left: -25px;
+}
+.transition{
+    transition:1s;
+}
+main.transition > h1{
+    margin-inline:auto;
+}
