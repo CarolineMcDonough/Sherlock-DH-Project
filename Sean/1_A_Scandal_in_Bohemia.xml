@@ -13,8 +13,8 @@
 
 <p>
 To Sherlock<char gender = "male" name = "sherlockHolmes">Holmes</char> she is always _the_ woman. I have seldom heard him
-mention her under any other name. In his eyes she eclipses and
-predominates the whole of her sex. It was not that he felt any emotion
+    mention her under any other name. In his eyes <action><char gender = "female" name = "ireneAdler">she</char> eclipses and
+predominates the whole of her sex</action>. It was not that he felt any emotion
 akin to love for <char gender = "female" name = "ireneAdler">Irene Adler</char>. All emotions, and that one particularly,
 were abhorrent to his cold, precise but admirably balanced mind. He
 was, I take it, the most perfect reasoning and observing machine that
@@ -36,46 +36,46 @@ I had seen little of<char gender = "male" name = "sherlockHolmes">Holmes</char> 
 from each other. My own complete happiness, and the home-centred
 interests which rise up around the man who first finds himself master
 of his own establishment, were sufficient to absorb all my attention,
-while<char gender = "male" name = "sherlockHolmes">Holmes</char>, who loathed every form of society with his whole Bohemian
+while<action><char gender = "male" name = "sherlockHolmes">Holmes</char>, who loathed every form of society with his whole Bohemian
 soul, remained in our lodgings in Baker Street, buried among his old
 books, and alternating from week to week between cocaine and ambition,
 the drowsiness of the drug, and the fierce energy of his own keen
-nature. He was still, as ever, deeply attracted by the study of crime,
-and occupied his immense faculties and extraordinary powers of
+nature</action>. He was still, as ever, deeply attracted by the study of crime,
+    and <action>occupied <char gender = "male" name = "sherlockHolmes">his</char> immense faculties and extraordinary powers of
 observation in following out those clues, and clearing up those
-mysteries which had been abandoned as hopeless by the official police.
-From time to time I heard some vague account of his doings: of his
+mysteries which had been abandoned as hopeless by the official police.</action>
+    From time to time I heard some vague account of his doings: of <action><char gender = "male" name = "sherlockHolmes">his</char>
 summons to Odessa in the case of the Trepoff murder, of his clearing up
 of the singular tragedy of the Atkinson brothers at Trincomalee, and
 finally of the mission which he had accomplished so delicately and
-successfully for the reigning family of Holland. Beyond these signs of
-his activity, however, which I merely shared with all the readers of
-the daily press, I knew little of my former friend and companion.
+successfully for the reigning family of Holland</action>. Beyond these signs of
+    his activity, however, which <action><char gender = "male" name = "johnWatson">I</char> merely shared with all the readers of
+the daily press,</action> I knew little of my former friend and companion.
 </p>
 
 <p>
-One night—it was on the twentieth of March, 1888—I was returning from a
+    One night—it was on the twentieth of March, 1888—<action><char gender = "male" name = "johnWatson">I</char> was returning from a
 journey to a patient (for I had now returned to civil practice), when
-my way led me through Baker Street. As I passed the well-remembered
-door, which must always be associated in my mind with my wooing, and
+my way led me through Baker Street</action>. As <action><char gender = "male" name = "johnWatson">I</char> passed the well-remembered
+door</action>, which must always be associated in my mind with my wooing, and
 with the dark incidents of the Study in Scarlet, I was seized with a
 keen desire to see<char gender = "male" name = "sherlockHolmes">Holmes</char> again, and to know how he was employing his
-extraordinary powers. His rooms were brilliantly lit, and, even as I
+    extraordinary powers. His rooms were brilliantly lit, and, even <action>as <char gender = "male" name = "johnWatson">I</char>
 looked up, I saw his tall, spare figure pass twice in a dark silhouette
-against the blind. He was pacing the room swiftly, eagerly, with his
-head sunk upon his chest and his hands clasped behind him. To me, who
+against the blind</action>. <action><char gender = "male" name = "sherlockHolmes">He</char> was pacing the room swiftly, eagerly, with his
+head sunk upon his chest and his hands clasped behind him</action>. To me, who
 knew his every mood and habit, his attitude and manner told their own
-story. He was at work again. He had risen out of his drug-created
-dreams and was hot upon the scent of some new problem. I rang the bell
-and was shown up to the chamber which had formerly been in part my own.
+story. <action><char gender = "male" name = "sherlockHolmes">He</char> was at work again. He had risen out of his drug-created
+    dreams and was hot upon the scent of some new problem</action>. <action><char gender = "male" name = "johnWatson">I</char> rang the bell
+and was shown up to the chamber which had formerly been in part my own.</action>
 </p>
 
 <p>
 His manner was not effusive. It seldom was; but he was glad, I think,
-to see me. With hardly a word spoken, but with a kindly eye, he waved
+to see me. With hardly a word spoken, but with a kindly eye, <action><char gender = "male" name = "sherlockHolmes">he</char> waved
 me to an armchair, threw across his case of cigars, and indicated a
 spirit case and a gasogene in the corner. Then he stood before the fire
-and looked me over in his singular introspective fashion.
+and looked me over in his singular introspective fashion</action>.
 </p>
 
 <p>
@@ -105,15 +105,15 @@ servant girl?</quote>
 
 <p>
 <quote speaker="johnWatson">My dear<char gender = "male" name = "sherlockHolmes">Holmes</char>,</quote> said I, <quote speaker="johnWatson">this is too much. You would certainly have
-been burned, had you lived a few centuries ago. It is true that I had a
-country walk on Thursday and came home in a dreadful mess, but as I
+    been burned, had you lived a few centuries ago. It is true that <action><char gender = "male" name = "johnWatson">I</char> had a
+country walk on Thursday and came home in a dreadful mess</action>, but as I
 have changed my clothes I can’t imagine how you deduce it. As to <char gender = "female" name = "Mary Jane">Mary
 Jane</char>, she is incorrigible, and my wife has given her notice, but there,
 again, I fail to see how you work it out.</quote>
 </p>
 
 <p>
-He chuckled to himself and rubbed his long, nervous hands together.
+    <action><char gender = "male" name = "sherlockHolmes">He</char> chuckled to himself and rubbed his long, nervous hands together.</action>
 </p>
 
 <p>
@@ -132,8 +132,8 @@ pronounce him to be an active member of the medical profession.</quote>
 </p>
 
 <p>
-I could not help laughing at the ease with which he explained his
-process of deduction. <quote speaker="johnWatson">When I hear you give your reasons,</quote> I remarked,
+    <action><char gender = "male" name = "johnWatson">I</char> could not help laughing at the ease with which he explained his
+process of deduction.</action> <quote speaker="johnWatson">When I hear you give your reasons,</quote> I remarked,
 <quote speaker="johnWatson">the thing always appears to me to be so ridiculously simple that I
 could easily do it myself, though at each successive instance of your
 reasoning I am baffled until you explain your process. And yet I
@@ -141,8 +141,8 @@ believe that my eyes are as good as yours.</quote>
 </p>
 
 <p>
-<quote speaker="sherlockHolmes">Quite so,</quote> he answered, lighting a cigarette, and throwing himself
-down into an armchair. <quote speaker="sherlockHolmes">You see, but you do not observe. The
+    <quote speaker="sherlockHolmes">Quite so,</quote> <action><char gender = "male" name = "sherlockHolmes">he</char> answered, lighting a cigarette, and throwing himself
+down into an armchair</action>. <quote speaker="sherlockHolmes">You see, but you do not observe. The
 distinction is clear. For example, you have frequently seen the steps
 which lead up from the hall to this room.</quote>
 </p>
@@ -172,9 +172,9 @@ which lead up from the hall to this room.</quote>
 my point. Now, I know that there are seventeen steps, because I have
 both seen and observed. By the way, since you are interested in these
 little problems, and since you are good enough to chronicle one or two
-of my trifling experiences, you may be interested in this.</quote> He threw
+of my trifling experiences, you may be interested in this.</quote> <action><char gender = "male" name = "sherlockHolmes">He</char> threw
 over a sheet of thick, pink-tinted notepaper which had been lying open
-upon the table. <quote speaker="sherlockHolmes">It came by the last post,</quote> said he. <quote speaker="sherlockHolmes">Read it aloud.</quote>
+upon the table</action>. <quote speaker="sherlockHolmes">It came by the last post,</quote> said he. <quote speaker="sherlockHolmes">Read it aloud.</quote>
 </p>
 
 <p>
@@ -205,8 +205,8 @@ it?</quote>
 </p>
 
 <p>
-I carefully examined the writing, and the paper upon which it was
-written.
+    <action><char gender = "male" name = "johnWatson">I</char> carefully examined the writing, and the paper upon which it was
+written.</action>
 </p>
 
 <p>
@@ -222,8 +222,8 @@ paper at all. Hold it up to the light.</quote>
 </p>
 
 <p>
-I did so, and saw a large "E" with a small "g", a "P", and a large "G"
-with a small "t" woven into the texture of the paper.
+    <action><char gender = "male" name = "johnWatson">I</char> did so, and saw a large "E" with a small "g", a "P", and a large "G"
+with a small "t" woven into the texture of the paper.</action>
 </p>
 
 <p>
@@ -243,8 +243,8 @@ from his shelves. <quote speaker="sherlockHolmes">Eglow, Eglonitz—here we are,
 German-speaking country—in Bohemia, not far from Carlsbad. ‘Remarkable
 as being the scene of the death of Wallenstein, and for its numerous
 glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of
-that?</quote> His eyes sparkled, and he sent up a great blue triumphant cloud
-from his cigarette.
+that?</quote> <action>His eyes sparkled, and <char gender = "male" name = "sherlockHolmes">he</char> sent up a great blue triumphant cloud
+from his cigarette.</action>
 </p>
 
 <p>
@@ -264,13 +264,13 @@ doubts.</quote>
 
 <p>
 As he spoke there was the sharp sound of horses’ hoofs and grating
-wheels against the curb, followed by a sharp pull at the bell.<char gender = "male" name = "sherlockHolmes">Holmes</char>
-whistled.
+wheels against the curb, followed by a sharp pull at the bell.<action><char gender = "male" name = "sherlockHolmes">Holmes</char>
+whistled.</action>
 </p>
 
 <p>
-<quote speaker="sherlockHolmes">A pair, by the sound,</quote> said he. <quote speaker="sherlockHolmes">Yes,</quote> he continued, glancing out of
-the window. <quote speaker="sherlockHolmes">A nice little brougham and a pair of beauties. A hundred
+    <quote speaker="sherlockHolmes">A pair, by the sound,</quote> said he. <quote speaker="sherlockHolmes">Yes,</quote> <action><char gender = "male" name = "sherlockHolmes">he</char> continued, glancing out of
+the window.</action> <quote speaker="sherlockHolmes">A nice little brougham and a pair of beauties. A hundred
 and fifty guineas apiece. There’s money in this case,<char gender = "male" name = "johnWatson">Watson</char>, if there
 is nothing else.</quote>
 </p>
@@ -304,7 +304,7 @@ authoritative tap.
 </p>
 
 <p>
-A man entered who could hardly have been less than six feet six inches
+    <action><char gender = "male" name = "kingBohemia">A man</char> entered</action> who could hardly have been less than six feet six inches
 in height, with the chest and limbs of a Hercules. His dress was rich
 with a richness which would, in England, be looked upon as akin to bad
 taste. Heavy bands of astrakhan were slashed across the sleeves and
@@ -344,13 +344,13 @@ alone.</quote>
 </p>
 
 <p>
-I rose to go, but<char gender = "male" name = "sherlockHolmes">Holmes</char> caught me by the wrist and pushed me back into
-my chair. <quote speaker="sherlockHolmes">It is both, or none,</quote> said he. <quote speaker="sherlockHolmes">You may say before this
+    <action><char gender = "male" name = "johnWatson">I</char> rose to go</action>, but<action><char gender = "male" name = "sherlockHolmes">Holmes</char> caught me by the wrist and pushed me back into
+my chair</action>. <quote speaker="sherlockHolmes">It is both, or none,</quote> said he. <quote speaker="sherlockHolmes">You may say before this
 gentleman anything which you may say to me.</quote>
 </p>
 
 <p>
-The Count shrugged his broad shoulders. <quote speaker="kingBohemia">Then I must begin,</quote> said he,
+    <action><char gender = "male" name = "kingBohemia">The Count</char> shrugged his broad shoulders</action>. <quote speaker="kingBohemia">Then I must begin,</quote> said he,
 <quote speaker="kingBohemia">by binding you both to absolute secrecy for two years; at the end of
 that time the matter will be of no importance. At present it is not too
 much to say that it is of such weight it may have an influence upon
@@ -385,15 +385,15 @@ kings of Bohemia.</quote>
 </p>
 
 <p>
-<quote speaker="sherlockHolmes">I was also aware of that,</quote> murmured<char gender = "male" name = "sherlockHolmes">Holmes</char>, settling himself down in
-his armchair and closing his eyes.
+<quote speaker="sherlockHolmes">I was also aware of that,</quote> murmured<action><char gender = "male" name = "sherlockHolmes">Holmes</char>, settling himself down in
+his armchair and closing his eyes.</action>
 </p>
 
 <p>
-Our visitor glanced with some apparent surprise at the languid,
-lounging figure of the man who had been no doubt depicted to him as the
-most incisive reasoner and most energetic agent in Europe.<char gender = "male" name = "sherlockHolmes">Holmes</char>
-slowly reopened his eyes and looked impatiently at his gigantic client.
+    <action><char gender = "male" name = "kingBohemia">Our visitor</char> glanced with some apparent surprise at the languid,
+lounging figure of the man</action> who had been no doubt depicted to him as the
+most incisive reasoner and most energetic agent in Europe.<action><char gender = "male" name = "sherlockHolmes">Holmes</char>
+slowly reopened his eyes and looked impatiently at his gigantic client.</action>
 </p>
 
 <p>
@@ -402,9 +402,9 @@ should be better able to advise you.</quote>
 </p>
 
 <p>
-The man sprang from his chair and paced up and down the room in
-uncontrollable agitation. Then, with a gesture of desperation, he tore
-the mask from his face and hurled it upon the ground. <quote speaker="kingBohemia">You are right,</quote>
+    <action><char gender = "male" name = "kingBohemia">The man</char> sprang from his chair and paced up and down the room in
+        uncontrollable agitation</action>. Then, <action>with a gesture of desperation, <char gender = "male" name = "kingBohemia">he</char> tore
+the mask from his face and hurled it upon the ground</action>. <quote speaker="kingBohemia">You are right,</quote>
 he cried; <quote speaker="kingBohemia">I am the <char gender = "male" name = "kingBohemia">King</char>. Why should I attempt to conceal it?</quote>
 </p>
 
@@ -416,17 +416,17 @@ Bohemia.</quote>
 </p>
 
 <p>
-<quote speaker="kingBohemia">But you can understand,</quote> said our strange visitor, sitting down once
-more and passing his hand over his high white forehead, <quote speaker="kingBohemia">you can
+    <quote speaker="kingBohemia">But you can understand,</quote> said <action><char gender = "male" name = "kingBohemia">our strange visitor</char>, sitting down once
+more and passing his hand over his high white forehead</action>, <quote speaker="kingBohemia">you can
 understand that I am not accustomed to doing such business in my own
 person. Yet the matter was so delicate that I could not confide it to
-an agent without putting myself in his power. I have come _incognito_
-from Prague for the purpose of consulting you.</quote>
+an agent without putting myself in his power. <action><char gender = "male" name = "kingBohemia">I</char> have come _incognito_
+from Prague for the purpose of consulting you</action>.</quote>
 </p>
 
 <p>
-<quote speaker="sherlockHolmes">Then, pray consult,</quote> said<char gender = "male" name = "sherlockHolmes">Holmes</char>, shutting his eyes once more.
-</p>
+<quote speaker="sherlockHolmes">Then, pray consult,</quote> said<action><char gender = "male" name = "sherlockHolmes">Holmes</char>, shutting his eyes once more.
+</action></p>
 
 <p>
 <quote speaker="kingBohemia">The facts are briefly these: Some five years ago, during a lengthy
@@ -439,9 +439,9 @@ visit to Warsaw, I made the acquaintance of the well-known adventuress,
 opening his eyes. For many years he had adopted a system of docketing
 all paragraphs concerning men and things, so that it was difficult to
 name a subject or a person on which he could not at once furnish
-information. In this case I found her biography sandwiched in between
+information. In this case <action><char gender = "male" name = "johnWatson">I</char> found her biography sandwiched in between
 that of a Hebrew rabbi and that of a staff-commander who had written a
-monograph upon the deep-sea fishes.
+monograph upon the deep-sea fishes</action>.
 </p>
 
 <p>
@@ -567,7 +567,7 @@ been waylaid. There has been no result.</quote>
 </p>
 
 <p>
-Holmes laughed. <quote speaker="sherlockHolmes">It is quite a pretty little problem,</quote> said he.
+    <action><char gender = "male" name = "sherlockHolmes">Holmes</char> laughed</action>. <quote speaker="sherlockHolmes">It is quite a pretty little problem,</quote> said he.
 </p>
 
 <p>
@@ -677,34 +677,34 @@ it on the table.
 </p>
 
 <p>
-<quote speaker="johnWatson">There are three hundred pounds in gold and seven hundred in notes,</quote> he
+<quote speaker="kingBohemia">There are three hundred pounds in gold and seven hundred in notes,</quote> he
 said.
 </p>
 
 <p>
-Holmes scribbled a receipt upon a sheet of his note-book and handed it
-to him.
+    <action><char gender = "male" name = "sherlockHolmes">Holmes</char> scribbled a receipt upon a sheet of his note-book and handed it
+to him.</action>
 </p>
 
 <p>
-<quote speaker="johnWatson">And Mademoiselle’s address?</quote> he asked.
+<quote speaker="sherlockHolmes">And Mademoiselle’s address?</quote> he asked.
 </p>
 
 <p>
-<quote speaker="johnWatson">Is Briony Lodge, Serpentine Avenue, St. John’s Wood.</quote>
+<quote speaker="kingBohemia">Is Briony Lodge, Serpentine Avenue, St. John’s Wood.</quote>
 </p>
 
 <p>
-Holmes took a note of it. <quote speaker="johnWatson">One other question,</quote> said he. <quote speaker="johnWatson">Was the
+    <action><char gender = "male" name = "sherlockHolmes">Holmes</char> took a note of it</action>. <quote speaker="sherlockHolmes">One other question,</quote> said he. <quote speaker="sherlockHolmes">Was the
 photograph a cabinet?</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">It was.</quote>
+<quote speaker="kingBohemia">It was.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Then, good-night, your <char gender = "male" name = "kingBohemia">Majesty</char>, and I trust that we shall soon have
+<quote speaker="sherlockHolmes">Then, good-night, your <char gender = "male" name = "kingBohemia">Majesty</char>, and I trust that we shall soon have
 some good news for you. And good-night,<char gender = "male" name = "johnWatson">Watson</char>,</quote> he added, as the
 wheels of the royal brougham rolled down the street. <quote speaker="johnWatson">If you will be
 good enough to call to-morrow afternoon at three o’clock I should like
@@ -714,10 +714,10 @@ to chat this little matter over with you.</quote>
 <chapter number="2">
 
 <p>
-At three o’clock precisely I was at Baker Street, but<char gender = "male" name = "sherlockHolmes">Holmes</char> had not
-yet returned. The landlady informed me that he had left the house
-shortly after eight o’clock in the morning. I sat down beside the fire,
-however, with the intention of awaiting him, however long he might be.
+    <action>At three o’clock precisely <char gender = "male" name = "sherlockHolmes">I</char> was at Baker Street</action>, but<char gender = "male" name = "sherlockHolmes">Holmes</char> had not
+    yet returned. The landlady informed me that <action><char gender = "male" name = "sherlockHolmes">he</char> had left the house
+        shortly after eight o’clock in the morning</action>. <action><char gender = "male" name = "johnWatson">I</char> sat down beside the fire,
+however, with the intention of awaiting him, however long he might be</action>.
 I was already deeply interested in his inquiry, for, though it was
 surrounded by none of the grim and strange features which were
 associated with the two crimes which I have already recorded, still,
@@ -735,17 +735,17 @@ possibility of his failing had ceased to enter into my head.
 It was close upon four before the door opened, and a drunken-looking
 groom, ill-kempt and side-whiskered, with an inflamed face and
 disreputable clothes, walked into the room. Accustomed as I was to my
-friend’s amazing powers in the use of disguises, I had to look three
-times before I was certain that it was indeed he. With a nod he
+friend’s amazing powers in the use of disguises, <action><char gender = "male" name = "johnWatson">I</char> had to look three
+    times before I was certain that it was indeed he</action>. <action>With a nod <char gender = "male" name = "sherlockHolmes">he</char>
 vanished into the bedroom, whence he emerged in five minutes
-tweed-suited and respectable, as of old. Putting his hands into his
+tweed-suited and respectable, as of old.</action> <action>Putting <char gender = "male" name = "sherlockHolmes">his</char> hands into his
 pockets, he stretched out his legs in front of the fire and laughed
-heartily for some minutes.
+heartily for some minutes.</action>
 </p>
 
 <p>
-<quote speaker="johnWatson">Well, really!</quote> he cried, and then he choked and laughed again until he
-was obliged to lie back, limp and helpless, in the chair.
+    <quote speaker="sherlockHolmes">Well, really!</quote> he cried, and then <action><char gender = "male" name = "sherlockHolmes">he</char> choked and laughed again until he
+was obliged to lie back, limp and helpless, in the chair</action>.
 </p>
 
 <p>
@@ -753,7 +753,7 @@ was obliged to lie back, limp and helpless, in the chair.
 </p>
 
 <p>
-<quote speaker="johnWatson">It’s quite too funny. I am sure you could never guess how I employed
+<quote speaker="sherlockHolmes">It’s quite too funny. I am sure you could never guess how I employed
 my morning, or what I ended by doing.</quote>
 </p>
 
@@ -763,30 +763,30 @@ perhaps the house, of Miss <char gender = "female" name = "ireneAdler">Irene Adl
 </p>
 
 <p>
-<quote speaker="johnWatson">Quite so; but the sequel was rather unusual. I will tell you, however.
-I left the house a little after eight o’clock this morning in the
-character of a groom out of work. There is a wonderful sympathy and
+<quote speaker="sherlockHolmes">Quite so; but the sequel was rather unusual. I will tell you, however.
+    <action><char gender = "male" name = "sherlockHolmes">I</char> left the house a little after eight o’clock this morning in the
+character of a groom out of work</action>. There is a wonderful sympathy and
 freemasonry among horsey men. Be one of them, and you will know all
-that there is to know. I soon found Briony Lodge. It is a _bijou_
+that there is to know. <action><char gender = "male" name = "sherlockHolmes">I</char> soon found Briony Lodge</action>. It is a _bijou_
 villa, with a garden at the back, but built out in front right up to
 the road, two stories. Chubb lock to the door. Large sitting-room on
 the right side, well furnished, with long windows almost to the floor,
 and those preposterous English window fasteners which a child could
 open. Behind there was nothing remarkable, save that the passage window
-could be reached from the top of the coach-house. I walked round it and
+could be reached from the top of the coach-house. <action><char gender = "male" name = "sherlockHolmes">I</char> walked round it and
 examined it closely from every point of view, but without noting
-anything else of interest.</quote>
+anything else of interest.</action></quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">“I then lounged down the street and found, as I expected, that there
+    <quote speaker="sherlockHolmes"><action><char gender = "male" name = "sherlockHolmes">I</char> then lounged down the street and found, as I expected, that there
 was a mews in a lane which runs down by one wall of the garden. I lent
 the ostlers a hand in rubbing down their horses, and received in
 exchange twopence, a glass of half-and-half, two fills of shag tobacco,
 and as much information as I could desire about Miss Adler, to say
 nothing of half a dozen other people in the neighbourhood in whom I was
 not in the least interested, but whose biographies I was compelled to
-listen to.</quote>
+listen to.</action></quote>
 </p>
 
 <p>
@@ -794,22 +794,22 @@ listen to.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Oh, she has turned all the men’s heads down in that part. She is the
-daintiest thing under a bonnet on this planet. So say the
-Serpentine-mews, to a man. She lives quietly, sings at concerts, drives
+    <quote speaker="sherlockHolmes">Oh, <action><char gender = "female" name = "ireneAdler">she</char> has turned all the men’s heads down in that part. She is the
+daintiest thing under a bonnet on this plane</action>t. So say the
+        Serpentine-mews, to a man. <action><char gender = "female" name = "ireneAdler">She</char> lives quietly, sings at concerts, drives
 out at five every day, and returns at seven sharp for dinner. Seldom
-goes out at other times, except when she sings. Has only one male
+goes out at other times, except when she sings.</action> Has only one male
 visitor, but a good deal of him. He is dark, handsome, and dashing,
-never calls less than once a day, and often twice. He is a Mr. Godfrey
-Norton, of the Inner Temple. See the advantages of a cabman as a
+never calls less than once a day, and often twice. He is a <char gender = "male" name = "godreyNorton">Mr. Godfrey
+Norton</char>, of the Inner Temple. See the advantages of a cabman as a
 confidant. They had driven him home a dozen times from Serpentine-mews,
-and knew all about him. When I had listened to all they had to tell, I
+and knew all about him. When I had listened to all they had to tell, <action><char gender = "male" name = "sherlockHolmes">I</char>
 began to walk up and down near Briony Lodge once more, and to think
-over my plan of campaign.</quote>
+over my plan of campaign</action>.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">“This Godfrey Norton was evidently an important factor in the matter.
+    <quote speaker="sherlockHolmes">This <char gender = "male" name = "godfreyNorton">Godfrey Norton</char> was evidently an important factor in the matter.
 He was a lawyer. That sounded ominous. What was the relation between
 them, and what the object of his repeated visits? Was she his client,
 his friend, or his mistress? If the former, she had probably
@@ -823,92 +823,91 @@ to understand the situation.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">I am following you closely,</quote> I answered.
+    <quote speaker="johnWatson"><action><char gender = "male" name = "johnWatson">I</char> am following you closely</action>,</quote> I answered.
 </p>
 
 <p>
-<quote speaker="johnWatson">I was still balancing the matter in my mind when a hansom cab drove up
-to Briony Lodge, and a gentleman sprang out. He was a remarkably
+<quote speaker="sherlockHolmes">I was still balancing the matter in my mind when a hansom cab drove up
+    to Briony Lodge, and <action><char gender = "male" name = "godfreyNorton">a gentleman</char> sprang out</action>. He was a remarkably
 handsome man, dark, aquiline, and moustached—evidently the man of whom
-I had heard. He appeared to be in a great hurry, shouted to the cabman
+I had heard. He appeared to be in a great hurry, <action><char gender = "male" name = "godreyNorton">shouted to the cabman
 to wait, and brushed past the maid who opened the door with the air of
-a man who was thoroughly at home.</quote>
+a man who was thoroughly at home</char></action>.</quote>
 </p>
 
 <p>
-“He was in the house about half an hour, and I could catch glimpses of
-him in the windows of the sitting-room, pacing up and down, talking
-excitedly, and waving his arms. Of her I could see nothing. Presently
-he emerged, looking even more flurried than before. As he stepped up to
+    <quote speaker = "sherlockHolmes">He was in the house about half an hour, and <action><char gender = "male" name = "sherlockHolmes">I</char> could catch glimpses of
+him in the windows of the sitting-room</action>, <action>pacing up and down, talking
+    excitedly, and waving <char gender = "male" name = "godfreyNorton">his</char> arms</action>. Of her I could see nothing. Presently
+        <action><char gender = "male" name = "godfreyNorton">he</char> emerged, looking even more flurried than before. As he stepped up to
 the cab, he pulled a gold watch from his pocket and looked at it
-earnestly, ‘Drive like the devil,’ he shouted, ‘first to Gross &amp;
+earnestly,</action> <subq speaker = "godfreyNorton">Drive like the devil,’ he shouted, ‘first to Gross &amp;
 Hankey’s in Regent Street, and then to the Church of St. Monica in the
-Edgeware Road. Half a guinea if you do it in twenty minutes!’
+Edgeware Road. Half a guinea if you do it in twenty minutes!</subq></quote>
 </p>
 
 <p>
-“Away they went, and I was just wondering whether I should not do well
+<quote speaker = "sherlockHolmes">Away they went, and I was just wondering whether I should not do well
 to follow them when up the lane came a neat little landau, the coachman
 with his coat only half-buttoned, and his tie under his ear, while all
 the tags of his harness were sticking out of the buckles. It hadn’t
-pulled up before she shot out of the hall door and into it. I only
-caught a glimpse of her at the moment, but she was a lovely woman, with
-a face that a man might die for.
+pulled up before <action><char gender = "female" name = "ireneAdler">she</char> shot out of the hall door and into it</action>. <action><char gender = "male" name = "sherlockHolmes">I</char> only
+caught a glimpse of her at the moment</action>, but she was a lovely woman, with
+a face that a man might die for.</quote>
 </p>
 
 <p>
-“‘The Church of St. Monica, John,’ she cried, ‘and half a sovereign if
-you reach it in twenty minutes.’
+<quote speaker = "sherlockHolmes"><subq speaker = "ireneAdler">The Church of St. Monica, John,</subq> she cried, <subq speaker = "ireneAdler">and half a sovereign if
+you reach it in twenty minutes.</subq></quote>
 </p>
 
 <p>
-“This was quite too good to lose,<char gender = "male" name = "johnWatson">Watson</char>. I was just balancing whether
+<quote speaker = "sherlockHolmes">This was quite too good to lose,<char gender = "male" name = "johnWatson">Watson</char>. I was just balancing whether
 I should run for it, or whether I should perch behind her landau when a
 cab came through the street. The driver looked twice at such a shabby
-fare, but I jumped in before he could object. ‘The Church of St.
-Monica,’ said I, ‘and half a sovereign if you reach it in twenty
-minutes.’ It was twenty-five minutes to twelve, and of course it was
-clear enough what was in the wind.
-</p>
+fare, but <action><char gender = "male" name = "sherlockHolmes">I</char> jumped in before he could object</action>. <subq speaker = "sherlockHolmes">The Church of St.
+Monica,</subq> said I, <subq speaker = "sherlockHolmes">and half a sovereign if you reach it in twenty
+minutes.</subq> It was twenty-five minutes to twelve, and of course it was
+clear enough what was in the wind.</quote></p>
 
 <p>
-“My cabby drove fast. I don’t think I ever drove faster, but the others
+<quote speaker = "sherlockHolmes">My cabby drove fast. I don’t think I ever drove faster, but the others
 were there before us. The cab and the landau with their steaming horses
-were in front of the door when I arrived. I paid the man and hurried
-into the church. There was not a soul there save the two whom I had
+were in front of the door when I arrived. <action><char gender = "male" name = "sherlockHolmes">I</char> paid the man and hurried
+into the church.</action> There was not a soul there save the two whom I had
 followed and a surpliced clergyman, who seemed to be expostulating with
-them. They were all three standing in a knot in front of the altar. I
+them. They were all three standing in a knot in front of the altar. <action><char gender = "male" name = "sherlockHolmes">I</char>
 lounged up the side aisle like any other idler who has dropped into a
-church. Suddenly, to my surprise, the three at the altar faced round to
-me, and Godfrey Norton came running as hard as he could towards me.
+church.</action> Suddenly, to my surprise, the three at the altar faced round to
+    me, and <action><char gender = "male" name = "godfreyNorton">Godfrey Norton</char> came running as hard as he could towards me.</action></quote>
 </p>
 
 <p>
-“‘Thank God,’ he cried. ‘You’ll do. Come! Come!’
+<quote speaker = "sherlockHolmes"><subq speaker = "godfreyNorton">Thank God,</subq> he cried. <subq speaker = "godfreyNorton">You’ll do. Come! Come!</subq></quote>
 </p>
 
 <p>
-“‘What then?’ I asked.
+<quote speaker = "sherlockHolmes"><subq speaker = "sherlockHolmes">What then?</subq> I asked.</quote>
 </p>
 
 <p>
-“‘Come, man, come, only three minutes, or it won’t be legal.’
+<quote speaker = "sherlockHolmes"><subq speaker = "godreyNorton">Come, man, come, only three minutes, or it won’t be legal.</subq></quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">“I was half-dragged up to the altar, and before I knew where I was I
+    <quote speaker="sherlockHolmes"><action><char gender = "male" name = "sherlockHolmes">I</char> was half-dragged up to the altar, and before I knew where I was I
 found myself mumbling responses which were whispered in my ear, and
 vouching for things of which I knew nothing, and generally assisting in
-the secure tying up of <char gender = "female" name = "ireneAdler">Irene Adler</char>, spinster, to Godfrey Norton,
-bachelor. It was all done in an instant, and there was the gentleman
-thanking me on the one side and the lady on the other, while the
+the secure tying up </action>of <char gender = "female" name = "ireneAdler">Irene Adler</char>, spinster, to <char gender = "male" name = "godfreyNorton">Godfrey Norton</char>,
+        bachelor. It was all done in an instant, and there was <action><char gender = "male" name = "godfreyNorton, ireneAdler">the gentleman
+thanking me on the one side and the lady</char> on the other</action>, while the
 clergyman beamed on me in front. It was the most preposterous position
 in which I ever found myself in my life, and it was the thought of it
 that started me laughing just now. It seems that there had been some
 informality about their license, that the clergyman absolutely refused
 to marry them without a witness of some sort, and that my lucky
 appearance saved the bridegroom from having to sally out into the
-streets in search of a best man. The bride gave me a sovereign, and I
+streets in search of a best man. <action><char gender = "female" name = "ireneAdler">The bride</char> gave me a sovereign</action>, and I
 mean to wear it on my watch chain in memory of the occasion.</quote>
 </p>
 
@@ -917,13 +916,13 @@ mean to wear it on my watch chain in memory of the occasion.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Well, I found my plans very seriously menaced. It looked as if the
+    <quote speaker="sherlockHolmes">Well, <action><char gender = "male" name = "sherlockHolmes">I</char> found my plans very seriously menaced</action>. It looked as if the
 pair might take an immediate departure, and so necessitate very prompt
-and energetic measures on my part. At the church door, however, they
-separated, he driving back to the Temple, and she to her own house. ‘I
-shall drive out in the park at five as usual,’ she said as she left
-him. I heard no more. They drove away in different directions, and I
-went off to make my own arrangements.</quote>
+and energetic measures on my part. <action>At the church door, however, <char gender = "male" name = "godfreyNorton, ireneAdler">they</char>
+separated, he driving back to the Temple, and she to her own house.</action> <subq speaker = "ireneAdler">I
+shall drive out in the park at five as usual</subq> she said as she left
+        him. I heard no more. <action><char gender = "male" name = "godfreyNorton, ireneAdler">They</char> drove away in different directions</action>, and <action><char gender = "male" name = "sherlockHolmes">I</char>
+went off to make my own arrangements</action>.</quote>
 </p>
 
 <p>
@@ -931,7 +930,7 @@ went off to make my own arrangements.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Some cold beef and a glass of beer,</quote> he answered, ringing the bell. <quote speaker="johnWatson">I
+    <quote speaker="sherlockHolmes">Some cold beef and a glass of beer,</quote> <action><char gender = "male" name = "sherlockHolmes">he answered</char>, ringing the bell</action>. <quote speaker="sherlockHolmes">I
 have been too busy to think of food, and I am likely to be busier still
 this evening. By the way, Doctor, I shall want your co-operation.</quote>
 </p>
@@ -941,7 +940,7 @@ this evening. By the way, Doctor, I shall want your co-operation.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">You don’t mind breaking the law?</quote>
+<quote speaker="sherlockHolmes">You don’t mind breaking the law?</quote>
 </p>
 
 <p>
@@ -949,7 +948,7 @@ this evening. By the way, Doctor, I shall want your co-operation.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Nor running a chance of arrest?</quote>
+<quote speaker="sherlockHolmes">Nor running a chance of arrest?</quote>
 </p>
 
 <p>
@@ -957,7 +956,7 @@ this evening. By the way, Doctor, I shall want your co-operation.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Oh, the cause is excellent!</quote>
+<quote speaker="sherlockHolmes">Oh, the cause is excellent!</quote>
 </p>
 
 <p>
@@ -965,7 +964,7 @@ this evening. By the way, Doctor, I shall want your co-operation.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">I was sure that I might rely on you.</quote>
+<quote speaker="sherlockHolmes">I was sure that I might rely on you.</quote>
 </p>
 
 <p>
@@ -973,11 +972,11 @@ this evening. By the way, Doctor, I shall want your co-operation.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">When Mrs. Turner has brought in the tray I will make it clear to you.
+    <quote speaker="sherlockHolmes">When <char gender = "female" name = "mrsTurner">Mrs. Turner</char> has brought in the tray I will make it clear to you.
 Now,</quote> he said as he turned hungrily on the simple fare that our
-landlady had provided, <quote speaker="johnWatson">I must discuss it while I eat, for I have not
+landlady had provided, <quote speaker="sherlockHolmes">I must discuss it while I eat, for I have not
 much time. It is nearly five now. In two hours we must be on the scene
-of action. Miss Irene, or Madame, rather, returns from her drive at
+of action. <char gender = "female" name = "ireneAdler">Miss Irene</char>, or Madame, rather, returns from her drive at
 seven. We must be at Briony Lodge to meet her.</quote>
 </p>
 
@@ -986,8 +985,8 @@ seven. We must be at Briony Lodge to meet her.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">You must leave that to me. I have already arranged what is to occur.
-There is only one point on which I must insist. You must not interfere,
+    <quote speaker="sherlockHolmes">You must leave that to me. <action><char gender = "male" name = "sherlockHolmes">I</char> have already arranged what is to occur.
+</action>There is only one point on which I must insist. You must not interfere,
 come what may. You understand?</quote>
 </p>
 
@@ -996,7 +995,7 @@ come what may. You understand?</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">To do nothing whatever. There will probably be some small
+<quote speaker="sherlockHolmes">To do nothing whatever. There will probably be some small
 unpleasantness. Do not join in it. It will end in my being conveyed
 into the house. Four or five minutes afterwards the sitting-room window
 will open. You are to station yourself close to that open window.</quote>
@@ -1007,7 +1006,7 @@ will open. You are to station yourself close to that open window.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">You are to watch me, for I will be visible to you.</quote>
+<quote speaker="sherlockHolmes">You are to watch me, for I will be visible to you.</quote>
 </p>
 
 <p>
@@ -1015,7 +1014,7 @@ will open. You are to station yourself close to that open window.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">And when I raise my hand—so—you will throw into the room what I give
+<quote speaker="sherlockHolmes">And when I raise my hand—so—you will throw into the room what I give
 you to throw, and will, at the same time, raise the cry of fire. You
 quite follow me?</quote>
 </p>
@@ -1025,8 +1024,8 @@ quite follow me?</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">It is nothing very formidable,</quote> he said, taking a long cigar-shaped
-roll from his pocket. <quote speaker="johnWatson">It is an ordinary plumber’s smoke-rocket, fitted
+    <quote speaker="sherlockHolmes">It is nothing very formidable,</quote> <action><char gender = "male" name = "sherlockHolmes">he</char> said, taking a long cigar-shaped
+roll from his pocket</action>. <quote speaker="sherlockHolmes">It is an ordinary plumber’s smoke-rocket, fitted
 with a cap at either end to make it self-lighting. Your task is
 confined to that. When you raise your cry of fire, it will be taken up
 by quite a number of people. You may then walk to the end of the
@@ -1041,7 +1040,7 @@ to wait you at the corner of the street.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">Precisely.</quote>
+<quote speaker="sherlockHolmes">Precisely.</quote>
 </p>
 
 <p>
@@ -1049,13 +1048,13 @@ to wait you at the corner of the street.</quote>
 </p>
 
 <p>
-<quote speaker="johnWatson">That is excellent. I think, perhaps, it is almost time that I prepare
+<quote speaker="sherlockHolmes">That is excellent. I think, perhaps, it is almost time that I prepare
 for the new role I have to play.</quote>
 </p>
 
 <p>
-He disappeared into his bedroom and returned in a few minutes in the
-character of an amiable and simple-minded Nonconformist clergyman. His
+    <action><char gender = "male" name = "sherlockHolmes">He</char> disappeared into his bedroom and returned in a few minutes in the
+character of an amiable and simple-minded Nonconformist clergyman</action>. His
 broad black hat, his baggy trousers, his white tie, his sympathetic
 smile, and general look of peering and benevolent curiosity were such
 as Mr. John Hare alone could have equalled. It was not merely that
