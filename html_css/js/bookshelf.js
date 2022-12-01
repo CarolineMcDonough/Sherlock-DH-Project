@@ -100,7 +100,8 @@ window.addEventListener('load', (event) => {
         bookshelf.style.setProperty('--hoverRy', '-10deg');
         bookshelf.style.setProperty('--hoverTy', '-20px');
         bookshelf.style.setProperty('--hoverTx', '0px');
-
+        bookshelf.style.setProperty('margin-left',  '20%');
+        
         bookshelf.style.marginBottom = "-120%";
         document.querySelector("div.smallShelf").style.display = "unset";
         document.querySelector("div.smallShelf").insertBefore(bookshelf, document.querySelector("div.smallShelf").firstChild);
@@ -114,7 +115,7 @@ window.addEventListener('load', (event) => {
           temp.style.left = "200px";
           temp.style.bottom = "300px";
           console.log(boundingclient);
-          temp.style.transform = `translateX(${window.innerWidth - 605}px)  translateY(-${boundingclient.top - boundingclient.height/10}px) scale(${scale})  rotateY(-60deg)`;
+          temp.style.transform = `translateX(${window.innerWidth - 580}px)  translateY(-${boundingclient.top - boundingclient.height/8}px) scale(${scale})  rotateY(-60deg)`;
           //put the books in the div in the bottom. 
           //start the single book animation
         });
@@ -122,7 +123,7 @@ window.addEventListener('load', (event) => {
           document.querySelector("div.storyText").style.display = 'unset';
 
           temp.style.top = temp.getBoundingClientRect().top - (temp.getBoundingClientRect().height*.21) + 'px';
-          temp.style.left = "-80px";
+          temp.style.left = "-60px";
           temp.style.position = "relative";
           temp.style.transition = "none";
           temp.style.marginLeft = "auto";

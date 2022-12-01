@@ -181,7 +181,31 @@ header>h1 {
 }
 @media screen and (max-width: 624px) {
     /* on even smaller screens mostly smartphones the title needs to be centered differently */
-    h1{position: absolute;top:10%;left:56%;margin:unset !important}
+    #introBody * h1{position: absolute;top:10%;left:56%;margin:unset !important}
+    #slidingMenu > table {
+        margin-top: -20px !important;
+    }
+    /* Pretty bad mobile responsiveness */
+    .smallShelf{
+        overflow:scroll;
+        width: 30% !important;
+    }
+    .mobileMenu * img{
+        transform:scale(.8);
+    }
+    /* .bookshelf{
+        margin-bottom: -350px !important;
+        grid-template-columns: 10% 10% 10% 10% !important;
+    }
+    .smallShelf > ul{margin-left:-8px !important} */
+    #storyPage *#menubutton {
+        top:5px !important;
+        left:50px !important;
+    }
+    #storyPage *#homebutton {
+        left:0px !important;
+        top:5px !important;
+    }
 }
 
 /* ############-LANDING PAGE MENU For big/medium_big screens-############ */
@@ -361,8 +385,7 @@ would not overlay the background over the #menubutton
 .mobileMenu>div>table>tr{
     display: block;
     width: 65%;
-    height: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 20%;
     margin-inline:auto;
 }
 
@@ -575,7 +598,7 @@ body#storybody{
     --yPos:-280px;
     width: 80%;
     margin-top: 25vh;
-    margin-left:auto;
+    margin-left:25%;
     display: grid;
     grid-template-columns: 10% 10% 10% 10% 10% 10%;
     column-gap: 30px;
@@ -711,11 +734,9 @@ li:nth-child(2n){
 /* mostly centering stuff with margins and setting transition property for the box showing and hiding */
 #slidingMenu > table {
     display: none;
-    margin-top: 50%;
+    margin-top: 15%;
 }
 #slidingMenu > table > tr{
-    display:flex;align-items: center;
-    margin-bottom: 180px;
 }   
 .transition{
     transition:1s;
