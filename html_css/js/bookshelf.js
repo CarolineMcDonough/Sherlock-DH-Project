@@ -60,9 +60,6 @@ window.addEventListener('load', (event) => {
     }
 
     bookshelf.addEventListener('click', (event) => {
-      document.querySelector("#storyTitle").style.display = "none";
-      document.querySelector("#storyPage").style.transition = "500ms";
-      document.querySelector("#storyPage").style.backdropFilter = "blur(5px)";
         var clickedBook = event.target.parentElement;
         // console.log(clickedBook);
         // console.log(event.target);
@@ -72,6 +69,9 @@ window.addEventListener('load', (event) => {
         if(clickedBook === document.querySelector("body") || bookshelf.classList.contains("minimizeBooks") || clickedBook === document.querySelector("main") || clickedBook === bookshelf){
             return;
         }
+        document.querySelector("#storyTitle").style.display = "none";
+        document.querySelector("#storyPage").style.transition = "500ms";
+        document.querySelector("#storyPage").style.backdropFilter = "blur(5px)";
         let boundingclient = clickedBook.getBoundingClientRect();
         // clickedBook.style.position = "absolute";
         clickedBook.style.top = boundingclient.top+"px";
