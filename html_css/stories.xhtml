@@ -7,29 +7,11 @@
     <!-- Link these styles but work in another document for this page for now -->
     <!-- <link rel="stylesheet" href="css/main.css"></link> -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="main.css"></link>
+    <link rel="stylesheet" href="main.css">
+    </link>
     <script src="js/bookshelf.js"></script>
     <script src="js/main.js"></script>
-    <style>
-        li:nth-child(2n+1){
-            background-color: cornflowerblue;
-        }
-        li:nth-child(2n){
-            background-color: blue;
-        }
-        .clayBorder li{
-            margin-left: -42px;
-        }
-        .storyText{
-            display:none;top:-950px;left:25%;background-color: white;width:50%;height:90vh;
-            position: relative;
-            overflow-y:scroll;
-            text-align: center;
-            padding-bottom: 200px;
-            line-height: 2rem;
-        }
-    </style>
-    
+
 </head>
 
 
@@ -45,38 +27,60 @@
                 <img src="https://freesvg.org/img/dynnamitt_home.png" alt="Page Sections"></img>
             </a>
         </button>
+        <h2 id="storyTitle">Stories</h2>
+
         <button id="nextbutton">
             <a href="stories.xhtml">
                 <img src="http://cdn.onlinewebfonts.com/svg/img_68073.png" alt="Page Sections"></img>
             </a>
         </button>
-    
+        <!-- 
+        <figure class="clayBorder">
+            <a href="methods.xhtml"><img src="assets/typewriter.png" alt="book menu icon"></img></a>
+            <figcaption><a href="methods.xhtml">Methodologies</a></figcaption>
+        </figure>
+        <figure class="clayBorder">
+            <a href="data.xhtml"><img src="assets/graphIcon.png" alt="book menu icon"></img></a>
+            <figcaption><a href="data.xhtml">Analysis</a></figcaption>
+        </figure>
+        <figure class="clayBorder">
+            <a href="conclusions.xhtml"><img src="assets/graphIcon.png" alt="book menu icon"></img></a>
+            <figcaption><a href="conclusions.xhtml">Analysis</a></figcaption>
+        </figure> -->
         <div id="slidingMenu">
             <table>
-                <tr class="glassBorder">
-                    <img src="assets/book.png" width="80" height="60" alt="book menu icon"></img>
-                    <p>Stories</p>
+                <tr>
+                    <figure class="clayBorder">
+                        <a href="stories.xhtml"><img src="assets/typewriter.png" alt="book menu icon"></img></a>
+                        <figcaption><a href="stories.xhtml">Stories</a></figcaption>
+                    </figure>
                 </tr>
-                <tr class="glassBorder">
-                    <img src="assets/book.png" width="80" height="60" alt="book menu icon"></img>
-                    <p>Analysis</p>
+                <tr>
+                    <figure class="clayBorder">
+                        <a href="methods.xhtml"><img src="assets/typewriter.png" alt="book menu icon"></img></a>
+                        <figcaption><a href="methods.xhtml">Methodologies</a></figcaption>
+                    </figure>
                 </tr>
-                <tr class="glassBorder">
-                    <img src="assets/book.png" width="80" height="60" alt="book menu icon"></img>
-                    <p>Conclusions</p>
+                <tr>
+                    <figure class="clayBorder">
+                        <a href="data.xhtml"><img src="assets/graphIcon.png" alt="book menu icon"></img></a>
+                        <figcaption><a href="data.xhtml">Analysis</a></figcaption>
+                    </figure>
                 </tr>
-                <tr class="glassBorder">
-                    <img src="assets/book.png" width="80" height="60" alt="book menu icon"></img>
-                    <p>Methodologies</p>
+                <tr>
+                    <figure class="clayBorder">
+                        <a href="conclusions.xhtml"><img src="assets/graphIcon.png" alt="book menu icon"></img></a>
+                        <figcaption><a href="conclusions.xhtml">Analysis</a></figcaption>
+                    </figure>
                 </tr>
             </table>
         </div>
     </div>
 
-    <main style="background:transparent;transition: 1s;">
-
-        <div class="bookshelf" style="margin-top:10%;--xPos:55%;--yPos:-280px">
-            <div class="book" style="background-color: white;">
+    <!-- <h1 id="storyTitle">Stories</h1> -->
+    <main id="storyViewerMain">
+        <div class="bookshelf">
+            <div class="book">
                 <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> PG </span>
@@ -84,80 +88,72 @@
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine" >
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine" >
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-    
-                    <div class="book">
-                <div class="side spine" style="background-color: white;">
+
+            <div class="book">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
                 <div class="side top"></div>
                 <div class="side cover"></div>
             </div>
-        
+
             <div class="book">
-                <div class="side spine" style="background-color: white;">
-                    <span class="spine-title"> Book Title </span>
-                    <span class="spine-author"> CD </span>
-                </div>
-                <div class="side top"></div>
-                <div class="side cover"></div>
-            </div>
-            <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
@@ -165,7 +161,15 @@
                 <div class="side cover"></div>
             </div>
             <div class="book">
-                <div class="side spine" style="background-color: white;">
+                <div class="side spine">
+                    <span class="spine-title"> Book Title </span>
+                    <span class="spine-author"> CD </span>
+                </div>
+                <div class="side top"></div>
+                <div class="side cover"></div>
+            </div>
+            <div class="book">
+                <div class="side spine">
                     <span class="spine-title"> Book Title </span>
                     <span class="spine-author"> CD </span>
                 </div>
@@ -173,142 +177,108 @@
                 <div class="side cover"></div>
             </div>
         </div>
-        
-        <div class="clayBorder smallShelf" style="">
-            <ul style="">
-                <li>Story #1</li>
-                <li>Story #2</li>
-                <li>Story #3</li>
-                <li>Story #4</li>
-                <li>Story #5</li>
-                <li>Story #6</li>
-                <li>Story #7</li>
-                <li>Story #8</li>
-                <li>Story #9</li>
-                <li>Story #10</li>
-                <li>Story #11</li>
-                <li>Story #12</li>
-            </ul>
-    
-            <div style="margin-left:20px">
-                <h2 class="sidebar_header">I want to find:</h2>
-                <h3 class="siderbar_sub_header">Men</h3>
-                <input type="checkbox" id="trauma" name="trauma" />
-                <label for="trauma"><strong style="color:red;">Actions</strong></label>
-                <br /><input type="checkbox" id="battle" name="battle" />
-                <label for="battle"><strong style="color:green;">Quotes</strong></label>
-                <br /><input type="checkbox" id="prep" name="prep" />
-                <label for="prep"><strong style="color:Pink;">Data</strong></label>
-                <br /><input type="checkbox" id="conditions" name="conditions" />
-                <label for="conditions"><strong style="color:Blue;">Stuff</strong></label>
-                <h4 class="sidebar_sub_header">Women</h4>
-                <input type="checkbox" id="trauma" name="trauma" />
-                <label for="trauma"><strong style="color:red;">Actions</strong></label>
-                <br /><input type="checkbox" id="battle" name="battle" />
-                <label for="battle"><strong style="color:green;">Quotes</strong></label>
-                <br /><input type="checkbox" id="prep" name="prep" />
-                <label for="prep"><strong style="color:Pink;">Data</strong></label>
-                <br /><input type="checkbox" id="conditions" name="conditions" />
-                <label for="conditions"><strong style="color:Blue;">Stuff</strong></label>
+
+        <div id="readingViewContentBox">
+
+            <div class="clayBorder smallShelf">
+                <ul>
+                    <li>Story #1</li>
+                    <li>Story #2</li>
+                    <li>Story #3</li>
+                    <li>Story #4</li>
+                    <li>Story #5</li>
+                    <li>Story #6</li>
+                    <li>Story #7</li>
+                    <li>Story #8</li>
+                    <li>Story #9</li>
+                    <li>Story #10</li>
+                    <li>Story #11</li>
+                    <li>Story #12</li>
+                </ul>
+
+                <div class="checkBoxBox">
+                    <h2 class="sidebar_header">I want to find:</h2>
+                    <h3 class="siderbar_sub_header">Men</h3>
+                    <input type="checkbox" id="trauma" name="trauma" />
+                    <label for="trauma"><strong style="color:red;">Actions</strong></label>
+                    <br /><input type="checkbox" id="battle" name="battle" />
+                    <label for="battle"><strong style="color:green;">Quotes</strong></label>
+                    <br /><input type="checkbox" id="prep" name="prep" />
+                    <label for="prep"><strong style="color:Pink;">Data</strong></label>
+                    <br /><input type="checkbox" id="conditions" name="conditions" />
+                    <label for="conditions"><strong style="color:Blue;">Stuff</strong></label>
+                    <h4 class="sidebar_sub_header">Women</h4>
+                    <input type="checkbox" id="trauma" name="trauma" />
+                    <label for="trauma"><strong style="color:red;">Actions</strong></label>
+                    <br /><input type="checkbox" id="battle" name="battle" />
+                    <label for="battle"><strong style="color:green;">Quotes</strong></label>
+                    <br /><input type="checkbox" id="prep" name="prep" />
+                    <label for="prep"><strong style="color:Pink;">Data</strong></label>
+                    <br /><input type="checkbox" id="conditions" name="conditions" />
+                    <label for="conditions"><strong style="color:Blue;">Stuff</strong></label>
+                </div>
+
             </div>
-    
-    
+
+            <div class="clayBorder storyText">
+                <h2>The Story of Stories</h2>
+                <p>
+        
+        Mrs. Hudson, the landlady of Sherlock Holmes, was a long-suffering
+        woman.  Not only was her first-floor flat invaded at all hours by
+        throngs of singular and often undesirable characters but her remarkable
+        lodger showed an eccentricity and irregularity in his life which must
+        have sorely tried her patience. His incredible untidiness, his
+        addiction to music at strange hours, his occasional revolver practice
+        within doors, his weird and often malodorous scientific experiments,
+        and the atmosphere of violence and danger which hung around him made
+        him the very worst tenant in London.  On the other hand, his payments
+        were princely. I have no doubt that the house might have been purchased
+        at the price which Holmes paid for his rooms during the years that I
+        was with him.
+        
+        The landlady stood in the deepest awe of him and never dared to
+        interfere with him, however outrageous his proceedings might seem.  She
+        was fond of him, too, for he had a remarkable gentleness and courtesy
+        in his dealings with women.  He disliked and distrusted the sex, but he
+        was always a chivalrous opponent. Knowing how genuine was her regard
+        for him, I listened earnestly to her story when she came to my rooms in
+        the second year of my married life and told me of the sad condition to
+        which my poor friend was reduced.
+        
+        "He's dying, Dr. Watson," said she.  "For three days he has been
+        sinking, and I doubt if he will last the day.  He would not let me get
+        a doctor.  This morning when I saw his bones sticking out of his face
+        and his great bright eyes looking at me I could stand no more of it.
+        'With your leave or without it, Mr. Holmes, I am going for a doctor
+        this very hour,' said I.  'Let it be Watson, then,' said he.  I
+        wouldn't waste an hour in coming to him, sir, or you may not see him
+        alive."
+        
+        I was horrified for I had heard nothing of his illness.  I need not say
+        that I rushed for my coat and my hat.  As we drove back I asked for the
+        details.
+        
+        "There is little I can tell you, sir.  He has been working at a case
+        down at Rotherhithe, in an alley near the river, and he has brought
+        this illness back with him.  He took to his bed on Wednesday afternoon
+        and has never moved since.  For these three days neither food nor drink
+        has passed his lips."
+        
+        "Good God!  Why did you not call in a doctor?"
+        
+        "He wouldn't have it, sir.  You know how masterful he is.  I didn't
+        dare to disobey him.  But he's not long for this world, as you'll see
+        for yourself the moment that you set eyes on him."
+        
+                </p>
+            </div>
+
+
         </div>
-    
-        <div class="clayBorder storyText">
-            <h2>The Story of Stories</h2>
-            <p style="padding:40px;text-align: left;">
-    
-    Mrs. Hudson, the landlady of Sherlock Holmes, was a long-suffering
-    woman.  Not only was her first-floor flat invaded at all hours by
-    throngs of singular and often undesirable characters but her remarkable
-    lodger showed an eccentricity and irregularity in his life which must
-    have sorely tried her patience. His incredible untidiness, his
-    addiction to music at strange hours, his occasional revolver practice
-    within doors, his weird and often malodorous scientific experiments,
-    and the atmosphere of violence and danger which hung around him made
-    him the very worst tenant in London.  On the other hand, his payments
-    were princely. I have no doubt that the house might have been purchased
-    at the price which Holmes paid for his rooms during the years that I
-    was with him.
-    
-    The landlady stood in the deepest awe of him and never dared to
-    interfere with him, however outrageous his proceedings might seem.  She
-    was fond of him, too, for he had a remarkable gentleness and courtesy
-    in his dealings with women.  He disliked and distrusted the sex, but he
-    was always a chivalrous opponent. Knowing how genuine was her regard
-    for him, I listened earnestly to her story when she came to my rooms in
-    the second year of my married life and told me of the sad condition to
-    which my poor friend was reduced.
-    
-    "He's dying, Dr. Watson," said she.  "For three days he has been
-    sinking, and I doubt if he will last the day.  He would not let me get
-    a doctor.  This morning when I saw his bones sticking out of his face
-    and his great bright eyes looking at me I could stand no more of it.
-    'With your leave or without it, Mr. Holmes, I am going for a doctor
-    this very hour,' said I.  'Let it be Watson, then,' said he.  I
-    wouldn't waste an hour in coming to him, sir, or you may not see him
-    alive."
-    
-    I was horrified for I had heard nothing of his illness.  I need not say
-    that I rushed for my coat and my hat.  As we drove back I asked for the
-    details.
-    
-    "There is little I can tell you, sir.  He has been working at a case
-    down at Rotherhithe, in an alley near the river, and he has brought
-    this illness back with him.  He took to his bed on Wednesday afternoon
-    and has never moved since.  For these three days neither food nor drink
-    has passed his lips."
-    
-    "Good God!  Why did you not call in a doctor?"
-    
-    "He wouldn't have it, sir.  You know how masterful he is.  I didn't
-    dare to disobey him.  But he's not long for this world, as you'll see
-    for yourself the moment that you set eyes on him."
-    
-    He was indeed a deplorable spectacle.  In the dim light of a foggy
-    November day the sick room was a gloomy spot, but it was that gaunt,
-    wasted face staring at me from the bed which sent a chill to my heart.
-    His eyes had the brightness of fever, there was a hectic flush upon
-    either cheek, and dark crusts clung to his lips; the thin hands upon
-    the coverlet twitched incessantly, his voice was croaking and
-    spasmodic.  He lay listlessly as I entered the room, but the sight of
-    me brought a gleam of recognition to his eyes.
-    
-    "Well, Watson, we seem to have fallen upon evil days," said he in a
-    feeble voice, but with something of his old carelessness of manner.
-    
-    "My dear fellow!" I cried, approaching him.
-    
-    "Stand back!  Stand right back!" said he with the sharp imperiousness
-    which I had associated only with moments of crisis. "If you approach
-    me, Watson, I shall order you out of the house."
-    
-    "But why?"
-    
-    "Because it is my desire.  Is that not enough?"
-    
-    Yes, Mrs. Hudson was right.  He was more masterful than ever.  It was
-    pitiful, however, to see his exhaustion.
-    
-    "I only wished to help," I explained.
-    
-    "Exactly!  You will help best by doing what you are told."
-    
-    "Certainly, Holmes."
-    
-    He relaxed the austerity of his manner.
-    
-    "You are not angry?" he asked, gasping for breath.
-    
-    Poor devil, how could I be angry when I saw him lying in such a plight
-    before me?
-    
-    "It's for your own sake, Watson," he croaked.
-            </p>
-        </div>
-    
-    
+
+
+
         <!-- <div class="bookshelf" style="-xPos:52%;-yPos:-200px">
             <div class="book" style="background-color: white;">
                 <div class="side spine">
