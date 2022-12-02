@@ -653,6 +653,7 @@ body#storybody{
     color: gold;
     writing-mode: vertical-rl;
     text-orientation: mixed;
+    transform: scale(3.0) translate(5px, 25px);
 }
 
 .spine-author {
