@@ -159,7 +159,7 @@ header>h1 {
     }
     figure{margin-inline: unset !important}
     /* center the title */
-    h1{margin-left:40% !important}
+    #introBody>header>h1{margin-left:40% !important}
 }
 /* SMARTPHONES */
 @media screen and (max-height: 685px){
@@ -177,11 +177,11 @@ header>h1 {
         flex-direction: row !important;
     }
     figure{margin-inline: unset !important}
-    h1{margin-left:25% !important}
+    #introBody>header>h1{margin-left:25% !important}
 }
 @media screen and (max-width: 624px) {
     /* on even smaller screens mostly smartphones the title needs to be centered differently */
-    #introBody * h1{position: absolute;top:10%;left:56%;margin:unset !important}
+    #introBody * h1{position: absolute;top:10%;left:15%;margin:unset !important}
     #slidingMenu > table {
         margin-top: -20px !important;
     }

@@ -122,6 +122,16 @@ window.addEventListener('load', (event) => {
         bookshelf.addEventListener('animationend', (e) => {
           document.querySelector("div.storyText").style.display = 'unset';
 
+          //After the book is pressed the css information of each book will correspond to a JS module containing 
+          //the XML data of the books which has been made into html with the xslt transformations
+          //the modules are imported like this inorder to drastically improve page load times. but the only issue is once 
+          //they are loaded they cannot be unloaded.
+          let getText = async() => {
+            text = await import("./stories/story1.js");
+            console.log(text);
+          }
+          getText();
+          
           temp.style.top = temp.getBoundingClientRect().top - (temp.getBoundingClientRect().height*.21) + 'px';
           temp.style.left = "-60px";
           temp.style.position = "relative";
@@ -131,8 +141,11 @@ window.addEventListener('load', (event) => {
             temp.style.display = "none";
             return;
           }
+          let text = "";
+
           temp.style.transform = `translateY(0px) translateX(-20px) scale(${scale}) rotateY(-60deg)`;
         });
+
 
     }, false);
 });

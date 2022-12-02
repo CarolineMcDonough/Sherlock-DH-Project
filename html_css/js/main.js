@@ -42,9 +42,6 @@ window.addEventListener('load', (event) => {
         mainContent.style.transform = "translateX(0px)";
         moveBooks.style.marginLeft = "0px";
       }
-      // setTimeout(() => {
-      //   menuItems.style.display = 'none';
-      // }, 1000)
     }
   });
 
