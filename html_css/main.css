@@ -92,6 +92,12 @@ header {
     background-color: transparent;
 }
 
+#github{
+    position: absolute;
+    right: 142px;
+    top: 10px;
+}
+
 /* I do not know why this is needed 
     -https://webplatform.github.io/docs/css/selectors/#:~:text=A%20comma-separated%20list%20of,into%20a%20comma-separated%20list.
         -A comma-separated list of selectors represents the union of all elements selected by each of the individual selectors in the list.
@@ -184,6 +190,10 @@ header>h1 {
         top: -150px !important;
         margin-left: 6px !important;
         flex-direction: row !important;
+    }
+
+    #github{
+        display: none!important;
     }
 
     #introBody * figure {
@@ -775,6 +785,7 @@ body#storybody {
     writing-mode: vertical-rl;
     text-orientation: mixed;
     transform: scale(3.0) translate(5px, 25px);
+    cursor: default;
 }
 
 .spine-author {
