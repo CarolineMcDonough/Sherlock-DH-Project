@@ -198,7 +198,6 @@ header>h1 {
 
     #introBody * figure {
         margin-inline: -25px !important;
-        transform: scale(0.8)
     }
 
     /* center the title */
@@ -261,26 +260,27 @@ header>h1 {
     .mobileMenu * img {
         transform: scale(.8);
     }
+    #introBody * figure {
+        transform: scale(.85);
+    }
     /* for when the bookshelf is fullscreen on small screens */
     .bookshelf {
         margin-left: 10% !important;
     }
     /* after a book is pressed on small screens */
     .smallShelf > .bookshelf{
-        margin-bottom: -350px !important;
-        margin-top: -100px!important;
-        margin-left: 27%;
+        margin-bottom: -280px !important;
+        margin-top: -20px!important;
+        margin-left: 23% !important;
         grid-template-columns: 10% 10% 10% 10% !important;
     }
 
     #storyPage *#menubutton {
-        top: 5px !important;
         left: 50px !important;
     }
 
     #storyPage *#homebutton {
         left: 0px !important;
-        top: 5px !important;
     }
 }
 
@@ -410,19 +410,19 @@ table>tr:nth-child(4)>figure, figure:nth-child(4) {
 
 /* button trigger hide and show image inside*/
 #menubutton {
-    top: 30px;
+    top: 16px;
     /* EDIT VALUE */
     left: 100px;
     /* EDIT VALUE */
 }
 
 #nextbutton {
-    right: 10px;
-    top: 20px;
+    right: 2px;
+    top: 15px;
 }
 
 #homebutton {
-    top: 28px;
+    top: 15px;
     left: 30px;
 }
 
@@ -728,9 +728,9 @@ body#storybody {
     --yPos: -280px;
     width: 80%;
     margin-top: 25vh;
-    margin-left: 25%;
+    margin-left: 30vw;
     display: grid;
-    grid-template-columns: 10% 10% 10% 10% 10% 10%;
+    grid-template-columns: 10% 10% 10% 10% 10%;
     column-gap: 30px;
     row-gap: 30px;
     /* flex-wrap: wrap;

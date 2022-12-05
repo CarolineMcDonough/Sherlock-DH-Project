@@ -47,7 +47,7 @@ function handleBookAnimation(event) {
   //else if title was clicked so the parent is the spine; go up one more parent and it should be the right book.
   else if(clickedBook.classList.contains("spine")){
     clickedBook = clickedBook.parentElement;
-    console.log({clickedBook});
+    // console.log({clickedBook});
   }
   document.querySelector("#storyTitle").style.display = "none";
   document.querySelector("#storyPage").style.transition = "500ms";
@@ -70,7 +70,6 @@ function handleBookAnimation(event) {
   //probably could be done with CSS maybe?
   bookshelf.classList.add("minimizeBooks");
   bookshelf.style.justifyContent = "center";
-  bookshelf.style.gridTemplateColumns = "fr fr fr fr" ;
   bookshelf.style.marginTop = "0";
   bookshelf.style.position = "unset";
 
@@ -102,10 +101,10 @@ function handleBookAnimation(event) {
     temp.style.display = "unset";
   }
   bookshelf.addEventListener('animationstart', (e) => {
-    console.log('Animation ended');
+    // console.log('Animation ended');
     temp.style.left = "200px";
     temp.style.bottom = "300px";
-    console.log(boundingclient);
+    // console.log(boundingclient);
     temp.style.transform = `translateX(${window.innerWidth - 580}px)  translateY(-${boundingclient.top - boundingclient.height/8}px) scale(${scale})  rotateY(-60deg)`;
     //put the books in the div in the bottom. 
     //start the single book animation
@@ -144,7 +143,7 @@ function handleBookAnimation(event) {
       //else if title was clicked so the parent is the spine; go up one more parent and it should be the right book.
       else if(clickedBook.classList.contains("spine")){
         clickedBook = clickedBook.parentElement;
-        console.log({clickedBook});
+        // console.log({clickedBook});
       }
 
       //swap the books.

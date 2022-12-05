@@ -11,11 +11,11 @@ window.addEventListener('load', (event) => {
     let mainContent = document.querySelector("main");
 
     let moveBooks = document.querySelector(".smallShelf");
-    console.log(menuItems);
+    // console.log(menuItems);
 
     let path = window.location.pathname;
     let page = path.split("/").pop();
-    console.log(menu.style.width);
+    // console.log(menu.style.width);
     //if the menu is not showing or if i have not set the style property yet.
     if (menu.style.width === '0px' || !menu.style.width)
     {
