@@ -265,7 +265,10 @@ header>h1 {
     }
     /* for when the bookshelf is fullscreen on small screens */
     .bookshelf {
-        margin-left: 10% !important;
+        margin-left: 20% !important;
+    }
+    #storyTitle{
+        margin-left: -10% !important;
     }
     /* after a book is pressed on small screens */
     .smallShelf > .bookshelf{
