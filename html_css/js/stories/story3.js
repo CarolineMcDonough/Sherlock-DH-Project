@@ -3,7 +3,7 @@
 //     const story;
 //   }, 1000)
 ;
-const story1 = `<h2>VII. THE ADVENTURE OF THE BLUE CARBUNCLE</h2>
+const story = `<h2>VII. THE ADVENTURE OF THE BLUE CARBUNCLE</h2>
 <p><span class="male" title="johnWatson">I had called upon my friend
             Sherlock Holmes</span> upon the second morning after Christmas,
       with the intention of wishing him the compliments of the season.
@@ -884,4 +884,4 @@ const story1 = `<h2>VII. THE ADVENTURE OF THE BLUE CARBUNCLE</h2>
             will begin another investigation, in which, also a bird will be the
             chief feature.</q></p>`;
 
-export default story1;
+export default story;

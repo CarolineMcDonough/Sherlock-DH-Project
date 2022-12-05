@@ -1,10 +1,23 @@
-/* EDIT VALUE- Means a significant value that will change how the page is viewed*/ 
-/* IMPORTANT VALUE- an edit value with key signifigance*/ 
-/* IMG VALUE- an value having to do with an image mostly width and height*/ 
+/* EDIT VALUE- Means a significant value that will change how the page is viewed*/
+/* IMPORTANT VALUE- an edit value with key signifigance*/
+/* IMG VALUE- an value having to do with an image mostly width and height*/
 
 /* ############-BORDER UTILITY CLASSES-############ */
 /* GLASS BORDER */
 /*https://css.glass*/
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+a{color:black}
 .glassBorder {
     background: rgba(255, 255, 255, 0.04);
     border-radius: 16px;
@@ -16,7 +29,7 @@
 }
 
 /* CLAY BORDER */
-.clayBorder{
+.clayBorder {
     /* NOTE background color should be set in the element that this is applied to */
     backdrop-filter: blur(5px);
     border-radius: 26px;
@@ -26,7 +39,7 @@
 /* ############-GLOBAL STYLES-############ */
 html {
     height: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 /* CSS for parallax scrolling adapted from 2 sources 
@@ -62,13 +75,15 @@ body#introBody {
 */
 header {
     height: 70vh;
-    padding: 5% 0 9%;/* IMPORTANT VALUE */
-    margin-left:120px;
-    
+    padding: 5% 0 9%;
+    /* IMPORTANT VALUE */
+    margin-left: 120px;
+
     position: relative;
     -webkit-transform-style: inherit;
     transform-style: inherit;
-    width: 100vw;    /* EDIT VALUE */
+    width: 100vw;
+    /* EDIT VALUE */
 
     display: flex;
     justify-content: center;
@@ -96,10 +111,13 @@ header:before {
 header::before {
     bottom: 0;
     content: "";
-    left: 120px;/* EDIT VALUE */
+    left: 120px;
+    /* EDIT VALUE */
     position: absolute;
-    right: 0;/* EDIT VALUE */
-    top: 0;/* EDIT VALUE */
+    right: 0;
+    /* EDIT VALUE */
+    top: 0;
+    /* EDIT VALUE */
     display: block;
     z-index: -100;
     background-image: url("https://www.christies.com/img/LotImages/2014/NYR/2014_NYR_02861_0223_000(doyle_arthur_conan_paget_sidney_illustrator_original_gouache_and_water024604).jpg?mode=max");
@@ -121,7 +139,7 @@ header * {
 /* text shadow for header text  */
 /* I chose to go with a more specific selector so i can use other h1 tags on other pages */
 header>h1 {
-    color:white;
+    color: white;
     background-color: transparent;
     text-shadow:
         -2px -2px 0 #000,
@@ -129,100 +147,152 @@ header>h1 {
         -2px 2px 0 #000,
         2px 2px 0 #000;
     width: fit-content;
-    max-width: 80vw;/* IMPORTANT VALUE */
-    margin-top:10%;/* IMPORTANT VALUE */
-    margin-left: -80px;/* IMPORTANT VALUE */
+    max-width: 80vw;
+    /* IMPORTANT VALUE */
+    margin-top: 10%;
+    /* IMPORTANT VALUE */
+    margin-left: -80px;
+    /* IMPORTANT VALUE */
     font-size: 3rem;
 }
 
 /* ############-HEADER MEDIA BEHAVIORS-############ */
 /* media behaviors for showing the mobile menu when the screen size is less then 800px */
 @media screen and (max-width: 800px) {
+
     /* hide our original menu */
     /* nav{
         display:none;
     } */
     /* the the image to full width */
-    header::before{
-        width:100%;
+    header::before {
+        width: 100%;
     }
-    header{width:100%;margin-left:-128px;margin-top:150px}
+
+    header {
+        width: 100%;
+        margin-left: -128px;
+        margin-top: 150px
+    }
+
     /* show mobile menu */
     /* .mobileMenu {display: unset !important;} */
-    nav{
+    nav {
         width: 100vw !important;
-        height:150px !important;
-        left:16% !important;
-        top:-150px !important;
+        height: 150px !important;
+        left: 94.5px !important;
+        top: -150px !important;
         margin-left: 6px !important;
         flex-direction: row !important;
     }
-    figure{margin-inline: unset !important}
-    /* center the title */
-    #introBody>header>h1{margin-left:40% !important}
-}
-/* SMARTPHONES */
-@media screen and (max-height: 685px){
-    header::before{
-        width:100%;
-    }
-    header{width:100%;margin-left:-128px;margin-top:150px}
-    nav{ 
-        width: 97% !important;
-        height:150px !important;
-        left:120px !important;
 
-        top:-150px !important;
+    #introBody * figure {
+        margin-inline: -25px !important;
+        transform: scale(0.8)
+    }
+
+    /* center the title */
+    #introBody>header>h1 {
+        margin-left: 40% !important
+    }
+}
+
+/* SMARTPHONES */
+@media screen and (max-height: 685px) {
+    header::before {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+        margin-left: -128px;
+        margin-top: 150px
+    }
+
+    nav {
+        width: 97% !important;
+        height: 150px !important;
+        left: 120px !important;
+
+        top: -150px !important;
         margin-left: 6px !important;
         flex-direction: row !important;
     }
-    figure{margin-inline: unset !important}
-    #introBody>header>h1{margin-left:25% !important}
+
+    figure {
+        margin-inline: unset !important
+    }
+
+    #introBody>header>h1 {
+        margin-left: 25% !important
+    }
 }
+
 @media screen and (max-width: 624px) {
+
     /* on even smaller screens mostly smartphones the title needs to be centered differently */
-    #introBody * h1{position: absolute;top:10%;left:15%;margin:unset !important}
-    #slidingMenu > table {
+    #introBody * h1 {
+        position: absolute;
+        top: 10%;
+        left: 15%;
+        margin: unset !important
+    }
+
+    #slidingMenu>table {
         margin-top: -20px !important;
     }
+
     /* Pretty bad mobile responsiveness */
-    .smallShelf{
-        overflow:scroll;
+    .smallShelf {
+        overflow: scroll;
         width: 30% !important;
     }
-    .mobileMenu * img{
-        transform:scale(.8);
+
+    .mobileMenu * img {
+        transform: scale(.8);
     }
-    /* .bookshelf{
+    /* for when the bookshelf is fullscreen on small screens */
+    .bookshelf {
+        margin-left: 10% !important;
+    }
+    /* after a book is pressed on small screens */
+    .smallShelf > .bookshelf{
         margin-bottom: -350px !important;
+        margin-top: -100px!important;
+        margin-left: 27%;
         grid-template-columns: 10% 10% 10% 10% !important;
     }
-    .smallShelf > ul{margin-left:-8px !important} */
+
     #storyPage *#menubutton {
-        top:5px !important;
-        left:50px !important;
+        top: 5px !important;
+        left: 50px !important;
     }
+
     #storyPage *#homebutton {
-        left:0px !important;
-        top:5px !important;
+        left: 0px !important;
+        top: 5px !important;
     }
 }
 
 /* ############-LANDING PAGE MENU For big/medium_big screens-############ */
 nav {
     /* important is needed here to overwrite the glass border styles*/
-    background: rgb(224,215,199) !important;
-    top:0;
+    background: rgb(224, 215, 199) !important;
+    top: 0;
     /* positioning */
-    left:-130px;/* EDIT VALUE */
+    left: -130px;
+    /* EDIT VALUE */
     position: absolute;
-    width:120px;/* EDIT VALUE */
+    width: 120px;
+    /* EDIT VALUE */
     max-width: 100vw;
-    top:0px;/* EDIT VALUE */
+    top: 0px;
+    /* EDIT VALUE */
 
-    height: 97%;/* EDIT VALUE */
+    height: 97%;
+    /* EDIT VALUE */
     max-height: 104vh;
-    display:flex;
+    display: flex;
     flex-direction: column;
     justify-content: space-around;
     margin-left: -1px;
@@ -241,16 +311,21 @@ figure {
     display: block;
     color: black;
 
-    margin-inline:auto;
+    margin-inline: auto;
     text-align: center;
-    width:120px;/* EDIT VALUE */
+    width: 120px;
+    /* EDIT VALUE */
     height: 120px;
-    min-height:120px;/* EDIT VALUE */
-    margin-left:6px;/* EDIT VALUE */
+    min-height: 120px;
+    /* EDIT VALUE */
+    margin-left: 6px;
+    /* EDIT VALUE */
 
 }
-figcaption{
-    color:white;
+
+figcaption {
+    color: white;
+    letter-spacing: 0.1em;
 }
 
 /* LANDING PAGE MENU BAR IMAGES AND TEXT */
@@ -258,38 +333,58 @@ figcaption{
 
 /* STORIES */
 figure:nth-child(1) * img {
-    width: 120px;/* IMG VALUE */
-    height: 120px;/* IMG VALUE */
+    width: 120px;
+    /* IMG VALUE */
+    height: 120px;
+    /* IMG VALUE */
     /* filter: drop-shadow(0 0 0.75rem cornflowerblue); */
 }
+
 /* METHODS */
 figure:nth-child(2) * img {
-    width: 120px;/* IMG VALUE */
+    width: 120px;
+    /* IMG VALUE */
     height: 120px;
     /* filter: drop-shadow(0 0 0.75rem yellow); */
 }
 
 /* ANALYSIS */
 figure:nth-child(3) * img {
-    width: 110px;/* IMG VALUE */
+    width: 110px;
+    /* IMG VALUE */
     height: 120px;
     /* filter: drop-shadow(0 0 0.75rem green); */
 }
 
 /* ANALYSIS02 for now */
 figure:nth-child(4) * img {
-    width: 110px;/* IMG VALUE */
+    width: 110px;
+    /* IMG VALUE */
     height: 120px;
 }
 
 /* landing page whole button container */
 /* Select all even figure children */
-figure:nth-child(2n) {
-    background-color: cornflowerblue;/* COLOR VALUE */
+figure:nth-child(1), table * .clayBorder:nth-child(1) {
+    background-color: #fe4e44;
+    /* COLOR VALUE */
 }
+
 /* Select all odd figure children */
-figure:nth-child(2n+1) {
-    background-color: darkblue;/* COLOR VALUE */
+table>tr:nth-child(2)>figure, figure:nth-child(2){
+    /* important is here because the selectors overlap */
+    background-color: #5794d1 !important;
+    /* COLOR VALUE */
+}
+
+table>tr:nth-child(3)>figure, figure:nth-child(3) {
+    background-color: #73bb73 !important;
+    /* COLOR VALUE */
+}
+
+table>tr:nth-child(4)>figure, figure:nth-child(4) {
+    background-color: #7752bb !important;
+    /* COLOR VALUE */
 }
 
 
@@ -321,7 +416,8 @@ figure:nth-child(2n+1) {
     left: 30px;
 }
 
-.mobileMenu>button>*>img,.mobileMenu>button>img {
+.mobileMenu>button>*>img,
+.mobileMenu>button>img {
     /* force the image to be black */
     filter: brightness(0%);
 
@@ -380,13 +476,14 @@ would not overlay the background over the #menubutton
     width: 100px;
     /* IMG VALUE */
     height: 80px;
-        /* IMG VALUE */
+    /* IMG VALUE */
 }
-.mobileMenu>div>table>tr{
+
+.mobileMenu>div>table>tr {
     display: block;
     width: 65%;
     margin-bottom: 20%;
-    margin-inline:auto;
+    margin-inline: auto;
 }
 
 /* ############-MAIN CONTENT AND PARAGRAPHS LANDING PAGE-############ */
@@ -519,14 +616,18 @@ footer {
         /* the two values for x and y are  */
         transform: translate(400px, 0) translate(0, 0) scale(1);
     }
+
     10% {
         transform: translate(calc(var(--xPos) / 10), 0) translate(calc(var(--yPos) / 10), 0) scale(.9);
     }
-    50%, 100% {
-        transform: translate(var(--xPos), 0) translate(0, var(--yPos)) scale(.45) ;
+
+    50%,
+    100% {
+        transform: translate(var(--xPos), 0) translate(0, var(--yPos)) scale(.45);
     }
 
 }
+
 .minimizeBooks {
     -webkit-animation-name: move;
     -webkit-animation-duration: 1200ms;
@@ -535,8 +636,8 @@ footer {
     -webkit-animation-fill-mode: forwards;
 }
 
-body#storyPage{
-    background: url(assets/satire.png) no-repeat center center fixed; 
+body#storyPage {
+    background: url(assets/satire.png) no-repeat center center fixed;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -547,10 +648,10 @@ body#storyPage{
     margin: unset;
 }
 
-#storyPage::before{
+#storyPage::before {
     content: "";
     position: absolute;
-    width : 100%;
+    width: 100%;
     height: 100%;
     -webkit-filter: blur(50px);
     -moz-filter: blur(50px);
@@ -563,14 +664,15 @@ body#storyPage{
     from {
         transform: translateX(-100%);
     }
+
     to {
         transform: translateX(0%);
     }
 }
 
 /* ############-STORY BODY-############ */
-body#storybody{
-    background: url(assets/satire.png) no-repeat center center fixed; 
+body#storybody {
+    background: url(assets/satire.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -582,23 +684,41 @@ body#storybody{
 
 
 /* ############-LEFT MENU STYLES-############ */
-.smallShelf{
-    
-    display:none;background:rgb(100, 200, 200, 0.4);--xPos:55%;--yPos:-280px;width:220px;z-index: 1;height:100vh;margin-left:0px;padding-top:60px;
-    border-radius: 0px 26px 26px 0px;margin-top: 3px;
+.smallShelf {
+
+    display: none;
+    /* this color is cornflower blue with 50% opacity it looks way better then before */
+    background: rgb(100 149 237 / 0.5);
+    --xPos: 55%;
+    --yPos: -280px;
+    width: 220px;
+    z-index: 1;
+    height: 100vh;
+    margin-left: 0px;
+    padding-top: 60px;
+    border-radius: 0px 26px 26px 0px;
+    margin-top: 3px;
 }
 
-.smallShelf > ul{
-    text-align:center; list-style: none;font-size:1.3rem;overflow-y: scroll; width: 75%;max-height: 150px;background-color: black;color:white;margin-left:7px
+.smallShelf>ul {
+    text-align: center;
+    list-style: none;
+    font-size: 1.3rem;
+    overflow-y: scroll;
+    width: 75%;
+    max-height: 150px;
+    background-color: black;
+    color: white;
+    margin-left: 7px
 }
 
 
 .bookshelf {
-    --xPos:55%;
-    --yPos:-280px;
+    --xPos: 55%;
+    --yPos: -280px;
     width: 80%;
     margin-top: 25vh;
-    margin-left:25%;
+    margin-left: 25%;
     display: grid;
     grid-template-columns: 10% 10% 10% 10% 10% 10%;
     column-gap: 30px;
@@ -606,7 +726,8 @@ body#storybody{
     /* flex-wrap: wrap;
     justify-content: space-around;
     align-items: center; */
-    margin-top:25vh;margin-bottom:auto;
+    margin-top: 25vh;
+    margin-bottom: auto;
 
 }
 
@@ -616,7 +737,7 @@ body#storybody{
     height: 280px;
     position: relative;
     margin-left: 1px;
-    margin-right:30px;
+    margin-right: 30px;
     transform-style: preserve-3d;
     transform: translateZ(0) rotateY(0);
     transition: transform 1s;
@@ -693,61 +814,79 @@ body#storybody{
 }
 
 /* STORY LIST, VISIBLE IN left menu after picking a story */
-li:nth-child(2n+1){
+li:nth-child(2n+1) {
     background-color: cornflowerblue;
 }
-li:nth-child(2n){
+
+li:nth-child(2n) {
     background-color: blue;
 }
-.clayBorder li{
+
+.clayBorder li {
     margin-left: -42px;
 }
 
 /* STORY PAGE TEXT, Hidden until a book is clicked */
-.storyText{
-    display:none;position:absolute;top:20px;left:25%;background-color: white;width:50%;height:90vh;
-    overflow-y:scroll;
+.storyText {
+    display: none;
+    position: absolute;
+    top: 20px;
+    left: 25%;
+    background-color: white;
+    width: 50%;
+    height: 90vh;
+    overflow-y: scroll;
     text-align: center;
     padding-bottom: 200px;
     line-height: 2rem;
 }
 
 
-.scrollableBookList{
-    margin-left:20px;
+.scrollableBookList {
+    margin-left: 20px;
 }
 
-.storyText > h2{
-    margin-inline:auto;
+#storyXMLbody>h2 {
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: -20px;
 }
 
-.storyText > p{
-    padding:40px;
+.storyText>p {
+    padding: 40px;
     text-align: left;
 }
 
 /* this is the div that represents actual box that displays for the sliding menu */
-#slidingMenu{
-    width:0;background-color: cornflowerblue; height:100%;transition:1s;
-    overflow:hidden;
+#slidingMenu {
+    width: 0;
+    background-color: cornflowerblue;
+    height: 100%;
+    transition: 1s;
+    overflow: hidden;
 }
+
 /* styles related to the menu table in the bar */
 /* mostly centering stuff with margins and setting transition property for the box showing and hiding */
-#slidingMenu > table {
+#slidingMenu>table {
     display: none;
     margin-top: 15%;
 }
-#slidingMenu > table > tr{
-}   
-.transition{
-    transition:1s;
+
+#slidingMenu>table>tr {}
+
+.transition {
+    transition: 1s;
 }
-main.transition > h1{
-    margin-inline:auto;
+
+main.transition>h1 {
+    margin-inline: auto;
 }
 
 #storyViewerMain {
-    background:transparent;transition: 1s;padding:unset
+    background: transparent;
+    transition: 1s;
+    padding: unset
 }
 
 
@@ -783,40 +922,46 @@ li:nth-child(2n) {
 }
 
 #readingViewContentBox {
-    display:flex
+    display: flex
 }
-@media screen and (max-width: 1105px){
+
+@media screen and (max-width: 1105px) {
     .storyText {
         margin-inline: unset;
-        width:60vw;
+        width: 60vw;
     }
 }
-@media screen and (max-width: 941px){
+
+@media screen and (max-width: 941px) {
     .storyText {
-        width:80vw;
+        width: 80vw;
         margin-top: 0px;
     }
-    #readingViewContentBox > .book {
+
+    #readingViewContentBox>.book {
         display: none;
     }
 }
+
 #storyTitle {
-    position:absolute;
-    font-size:3rem;
-    top:0px;
-    left:50%;
-    color:white;
-background-color: transparent;
-text-shadow:
--2px -2px 0 #000,
-2px -2px 0 #000,
--2px 2px 0 #000,
-2px 2px 0 #000;
+    position: absolute;
+    font-size: 3rem;
+    top: 0px;
+    left: 50%;
+    color: white;
+    background-color: transparent;
+    text-shadow:
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        2px 2px 0 #000;
 }
 
-.storyText > p {
-    padding:40px;text-align: left;
+.storyText>p {
+    padding: 40px;
+    text-align: left;
 }
-.checkBoxBox{
-    margin-left:20px;
+
+.checkBoxBox {
+    margin-left: 20px;
 }
