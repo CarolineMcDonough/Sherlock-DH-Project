@@ -10,24 +10,24 @@
 <chapter number="1">
 
 <p>
-Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the
-Theological College of St. George’s, was much addicted to opium. The
+    <action char = "isaWhitney"><char gender = "male">Isa Whitney</char>, brother of the late <char gender = "male">Elias Whitney, D.D., Principal of the
+Theological College of St. George’s</char>, was much addicted to opium</char>. The
 habit grew upon him, as I understand, from some foolish freak when he
-was at college; for having read De Quincey’s description of his dreams
+was at college;<action char = "isaWhitney"> for having read De Quincey’s description of his dreams
 and sensations, he had drenched his tobacco with laudanum in an attempt
 to produce the same effects. He found, as so many more have done, that
 the practice is easier to attain than to get rid of, and for many years
 he continued to be a slave to the drug, an object of mingled horror and
-pity to his friends and relatives. I can see him now, with yellow,
+pity to his friends and relatives.</action> I can see him now, with yellow,
 pasty face, drooping lids, and pin-point pupils, all huddled in a
 chair, the wreck and ruin of a noble man.
 </p>
 
 <p>
 One night—it was in June, ’89—there came a ring to my bell, about the
-hour when a man gives his first yawn and glances at the clock. I sat up
-in my chair, and my wife laid her needle-work down in her lap and made
-a little face of disappointment.
+hour when a man gives his first yawn and glances at the clock.<char gender = "male"> I</char> sat up
+    in my chair, and <action char = "maryWatson"<char gender = "female">>my wife</char> laid her needle-work down in her lap and made
+a little face of disappointment.</action>
 </p>
 
 <p>
@@ -40,24 +40,24 @@ I groaned, for I was newly come back from a weary day.
 
 <p>
 We heard the door open, a few hurried words, and then quick steps upon
-the linoleum. Our own door flew open, and a lady, clad in some
-dark-coloured stuff, with a black veil, entered the room.
+the linoleum. Our own door flew open, and<action char = "kateWhitney"> <char gender = "female">a lady</char>, clad in some
+dark-coloured stuff, with a black veil, entered the room.</action>
 </p>
 
 <p>
-    <quote speaker="kateWhitney">You will excuse my calling so late,</quote> she began, and then, suddenly
+    <quote speaker="kateWhitney">You will excuse my calling so late,</quote> she began, and then,<action char = "kateWhitney"> suddenly
 losing her self-control, she ran forward, threw her arms about my
-wife’s neck, and sobbed upon her shoulder. <quote speaker="kateWhitney">Oh, I’m in such trouble!</quote>
+wife’s neck, and sobbed upon her shoulder. </action><quote speaker="kateWhitney">Oh, I’m in such trouble!</quote>
     she cried; <quote speaker="kateWhitney">I do so want a little help.</quote>
 </p>
 
 <p>
-    <quote speaker="kateWhitney">Why,</quote> said my wife, pulling up her veil, <quote speaker="kateWhitney">it is Kate Whitney. How you
+    <quote speaker="maryWatson">Why,</quote> said <char gender = "female">my wife</char>,<action char = "maryWatson"> pulling up her veil</action>, <quote speaker="maryWatson">it is <char gender = "female">Kate Whitney.</char> How you
 startled me, Kate! I had not an idea who you were when you came in.</quote>
 </p>
 
 <p>
-    <quote speaker="kateWhitney">I didn’t know what to do, so I came straight to you.</quote> That was always
+    <quote speaker="kateWhitney"><action char = "kateWhitney">I didn’t know what to do, so I came straight to you.</action></quote> That was always
 the way. Folk who were in grief came to my wife like birds to a
 lighthouse.
 </p>
@@ -65,33 +65,33 @@ lighthouse.
 <p>
     <quote speaker="maryWatson">It was very sweet of you to come. Now, you must have some wine and
 water, and sit here comfortably and tell us all about it. Or should you
-rather that I sent James off to bed?</quote>
+rather that I sent <char gender = "male">James</char> off to bed?</quote>
 </p>
 
 <p>
-    <quote speaker="kateWhitney">Oh, no, no! I want the doctor’s advice and help, too. It’s about Isa.
-He has not been home for two days. I am so frightened about him!</quote>
+    <quote speaker="kateWhitney">Oh, no, no! I want<char gender = "male"> the doctor’s</char> advice and help, too. It’s about <action char = "isa"><char gender = "male">Isa.</char>
+        He has not been home for two days.</action> <action char = "kateWhitney">I am so frightened about him!</action></quote>
 </p>
 
 <p>
-It was not the first time that she had spoken to us of her husband’s
-trouble, to me as a doctor, to my wife as an old friend and school
-companion. We soothed and comforted her by such words as we could find.
-Did she know where her husband was? Was it possible that we could bring
+    <action char = "kateWhitney">It was not the first time that she had spoken to us of <char gender = "male">her husband’s</char>
+        trouble, to me as a doctor, to <char gender = "female">my wife</char> as an old friend and school
+companion. </action> We soothed and comforted her by such words as we could find.
+    Did she know where <char gender = "male">her husband </char>was? Was it possible that we could bring
 him back to her?
 </p>
 
 <p>
-It seems that it was. She had the surest information that of late he
+    It seems that it was.<action char = "kateWhitney"> She had the surest information that of late he
 had, when the fit was on him, made use of an opium den in the farthest
-east of the City. Hitherto his orgies had always been confined to one
-day, and he had come back, twitching and shattered, in the evening. But
+east of the City.</action> Hitherto his orgies had always been confined to one
+    day, and he had come back, twitching and shattered, in the evening. <action char = "isaWhitney">But
 now the spell had been upon him eight-and-forty hours, and he lay
 there, doubtless among the dregs of the docks, breathing in the poison
-or sleeping off the effects. There he was to be found, she was sure of
+or sleeping off the effects. </action>There he was to be found, she was sure of
 it, at the Bar of Gold, in Upper Swandam Lane. But what was she to do?
-How could she, a young and timid woman, make her way into such a place
-and pluck her husband out from among the ruffians who surrounded him?
+How could she, a young and timid woman, <action char = "kateWhitney">make her way into such a place
+and pluck her husband out from among the ruffians who surrounded him?</action>
 </p>
 
 <p>
@@ -149,14 +149,14 @@ mine here, Mr. Isa Whitney, and I wish to speak with him.</quote>
 </p>
 
 <p>
-There was a movement and an exclamation from my right, and peering
-through the gloom, I saw Whitney, pale, haggard, and unkempt, staring
+    There was<action char = "isaWhitney"> a movement and an exclamation from my right</action>, and peering
+through the gloom, I saw <action char = "isaWhitney">Whitney, pale, haggard, and unkempt, staring
 out at me.
 </p>
 
 <p>
-    <quote speaker="isaWhitney">My God! It’s Watson,</quote> said he. He was in a pitiable state of reaction,
-    with every nerve in a twitter. <quote speaker="isaWhitney">I say, Watson, what o’clock is it?</quote>
+    <quote speaker="isaWhitney">My God! It’s Watson,</quote> said he. <action char = "isaWhitney">He was in a pitiable state of reaction,
+    with every nerve in a twitter.</action> <quote speaker="isaWhitney">I say, Watson, what o’clock is it?</quote>
 </p>
 
 <p>
@@ -173,8 +173,8 @@ out at me.
 
 <p>
     <quote speaker="isaWhitney">Good heavens! I thought it was Wednesday. It is Wednesday. What d’you
-want to frighten a chap for?</quote> He sank his face onto his arms and began
-to sob in a high treble key.
+        want to frighten a chap for?</quote> <action char = "isaWhitney">He sank his face onto his arms and began
+to sob in a high treble key.</action>
 </p>
 
 <p>
@@ -183,9 +183,9 @@ days for you. You should be ashamed of yourself!</quote>
 </p>
 
 <p>
-    <quote speaker="isaWhitney">So I am. But you’ve got mixed, Watson, for I have only been here a few
-hours, three pipes, four pipes—I forget how many. But I’ll go home with
-you. I wouldn’t frighten Kate—poor little Kate. Give me your hand! Have
+    <quote speaker="isaWhitney"><action char = "isaWhitney">So I am.</action> But you’ve got mixed, Watson, for I have only been here a few
+        hours, three pipes, four pipes—I forget how many. <action char = "isaWhitney">But I’ll go home with
+you. I wouldn’t frighten Kate—poor little Kate.</action> Give me your hand! Have
 you a cab?</quote>
 </p>
 
@@ -194,7 +194,7 @@ you a cab?</quote>
 </p>
 
 <p>
-    <quote speaker="isaWhitney">Then I shall go in it. But I must owe something. Find what I owe,
+    <quote speaker="isaWhitney">Then <action char = "isaWhitney">I shall go in it. But I must owe something.</action> Find what I owe,
 Watson. I am all off colour. I can do nothing for myself.</quote>
 </p>
 
@@ -202,21 +202,21 @@ Watson. I am all off colour. I can do nothing for myself.</quote>
 I walked down the narrow passage between the double row of sleepers,
 holding my breath to keep out the vile, stupefying fumes of the drug,
 and looking about for the manager. As I passed the tall man who sat by
-the brazier I felt a sudden pluck at my skirt, and a low voice
-whispered, <quote speaker="johnWatson">Walk past me, and then look back at me.</quote> The words fell
+the brazier I felt <action char="u_sherlockHolmes">a sudden pluck at my skirt, and a low voice
+    whispered, <quote speaker="u_sherlockHolmes">Walk past me, and then look back at me.</quote></action> The words fell
 quite distinctly upon my ear. I glanced down. They could only have come
-from the old man at my side, and yet he sat now as absorbed as ever,
+from the old man at my side, and yet <action char="u_sherlockHolmes">he sat now as absorbed as ever,
 very thin, very wrinkled, bent with age, an opium pipe dangling down
 from between his knees, as though it had dropped in sheer lassitude
-from his fingers. I took two steps forward and looked back. It took all
+from his fingers.</action> I took two steps forward and looked back. It took all
 my self-control to prevent me from breaking out into a cry of
-astonishment. He had turned his back so that none could see him but I.
+astonishment. <action char="sherlockHolmes">He had turned his back so that none could see him but I.
 His form had filled out, his wrinkles were gone, the dull eyes had
 regained their fire, and there, sitting by the fire and grinning at my
 surprise, was none other than Sherlock Holmes. He made a slight motion
 to me to approach him, and instantly, as he turned his face half round
 to the company once more, subsided into a doddering, loose-lipped
-senility.
+senility.</action>
 </p>
 
 <p>
@@ -289,8 +289,8 @@ Briefly, Watson, I am in the midst of a very remarkable inquiry, and I
 have hoped to find a clue in the incoherent ramblings of these sots, as
 I have done before now. Had I been recognised in that den my life would
 not have been worth an hour’s purchase; for I have used it before now
-for my own purposes, and the rascally Lascar who runs it has sworn to
-have vengeance upon me. There is a trap-door at the back of that
+for my own purposes, and <action char="lascar">the rascally Lascar who runs it has sworn to
+have vengeance upon me.</action> There is a trap-door at the back of that
 building, near the corner of Paul’s Wharf, which could tell some
 strange tales of what has passed through it upon the moonless nights.</quote>
 </p>
@@ -302,8 +302,8 @@ strange tales of what has passed through it upon the moonless nights.</quote>
 <p>
     <quote speaker="sherlockHolmes">Ay, bodies, Watson. We should be rich men if we had £ 1000 for every
 poor devil who has been done to death in that den. It is the vilest
-murder-trap on the whole riverside, and I fear that Neville St. Clair
-has entered it never to leave it more. But our trap should be here.</quote> He
+murder-trap on the whole riverside, and I fear that <action char="nevilleStClair">Neville St. Clair
+has entered it never to leave it more.</action> But our trap should be here.</quote> He
 put his two forefingers between his teeth and whistled shrilly—a signal
 which was answered by a similar whistle from the distance, followed
 shortly by the rattle of wheels and the clink of horses’ hoofs.
@@ -395,7 +395,7 @@ Watson, and maybe you can see a spark where all is dark to me.</quote>
 </p>
 
 <p>
-    <quote speaker="sherlockHolmes">Some years ago—to be definite, in May, 1884—there came to Lee a
+    <quote speaker="sherlockHolmes">Some years ago—to be definite, in May, 1884—there came <action char="nevilleStClair">to Lee a
 gentleman, Neville St. Clair by name, who appeared to have plenty of
 money. He took a large villa, laid out the grounds very nicely, and
 lived generally in good style. By degrees he made friends in the
@@ -405,23 +405,23 @@ interested in several companies and went into town as a rule in the
 morning, returning by the 5:14 from Cannon Street every night. Mr. St.
 Clair is now thirty-seven years of age, is a man of temperate habits, a
 good husband, a very affectionate father, and a man who is popular with
-all who know him. I may add that his whole debts at the present moment,
+all who know him. </action>I may add that his whole debts at the present moment,
 as far as we have been able to ascertain, amount to £ 88 10_s_., while
 he has £ 220 standing to his credit in the Capital and Counties Bank.
 There is no reason, therefore, to think that money troubles have been
-weighing upon his mind. “Last Monday Mr. Neville St. Clair went into town rather earlier than
+weighing upon his mind. “<action char="nevilleStClair">Last Monday Mr. Neville St. Clair went into town rather earlier than
 usual, remarking before he started that he had two important
 commissions to perform, and that he would bring his little boy home a
-box of bricks. Now, by the merest chance, his wife received a telegram
+box of bricks. </action>Now, by the merest chance, his wife received a telegram
 upon this same Monday, very shortly after his departure, to the effect
 that a small parcel of considerable value which she had been expecting
 was waiting for her at the offices of the Aberdeen Shipping Company.
 Now, if you are well up in your London, you will know that the office
 of the company is in Fresno Street, which branches out of Upper Swandam
-Lane, where you found me to-night. Mrs. St. Clair had her lunch,
+Lane, where you found me to-night.<action char="mrsStClair"c Mrs. St. Clair had her lunch,
 started for the City, did some shopping, proceeded to the company’s
 office, got her packet, and found herself at exactly 4:35 walking
-through Swandam Lane on her way back to the station. Have you followed
+through Swandam Lane on her way back to the station.</action> Have you followed
 me so far?</quote>
 </p>
 
@@ -430,43 +430,43 @@ me so far?</quote>
 </p>
 
 <p>
-    <quote speaker="sherlockHolmes">If you remember, Monday was an exceedingly hot day, and Mrs. St. Clair
+    <quote speaker="sherlockHolmes">If you remember, Monday was an exceedingly hot day, and <action char="mrsStClair">Mrs. St. Clair
 walked slowly, glancing about in the hope of seeing a cab, as she did
 not like the neighbourhood in which she found herself. While she was
 walking in this way down Swandam Lane, she suddenly heard an
-ejaculation or cry, and was struck cold to see her husband looking down
+ejaculation or cry, and was struck cold </action>to see <action char="nevilleStClair">her husband looking down
 at her and, as it seemed to her, beckoning to her from a second-floor
-window. The window was open, and she distinctly saw his face, which she
-describes as being terribly agitated. He waved his hands frantically to
+window.</action> The window was open, and she distinctly saw his face, which she
+describes as being terribly agitated. <action char="nevilleStClair">He waved his hands frantically to
 her, and then vanished from the window so suddenly that it seemed to
 her that he had been plucked back by some irresistible force from
-behind. One singular point which struck her quick feminine eye was that
+behind. </action>One singular point <action char="mrsStClair">which struck her quick feminine eye </action>was that
 although he wore some dark coat, such as he had started to town in, he
 had on neither collar nor necktie.</quote>
 </p>
 
 <p>
-Convinced that something was amiss with him, she rushed down the
+    Convinced that something was amiss with him,<action char="mrsStClair"> she rushed down the
 steps—for the house was none other than the opium den in which you
 found me to-night—and running through the front room she attempted to
 ascend the stairs which led to the first floor. At the foot of the
-stairs, however, she met this Lascar scoundrel of whom I have spoken,
-who thrust her back and, aided by a Dane, who acts as assistant there,
-pushed her out into the street. Filled with the most maddening doubts
-and fears, she rushed down the lane and, by rare good-fortune, met in
+stairs, however, she met this Lascar scoundrel</action> of whom I have spoken,
+<action char="lascar">who thrust her back and, aided by a Dane, who acts as assistant there,
+pushed her out into the street.</action> Filled with the most maddening doubts
+    and fears, <action char="mrsStClair">she rushed down the lane and, by rare good-fortune, met in
 Fresno Street a number of constables with an inspector, all on their
-way to their beat. The inspector and two men accompanied her back, and
+way to their beat.</action> The inspector and two men accompanied her back, and
 in spite of the continued resistance of the proprietor, they made their
-way to the room in which Mr. St. Clair had last been seen. There was no
+way to the room in which<action char="nevilleStClair"> Mr. St. Clair had last been seen. </action>There was no
 sign of him there. In fact, in the whole of that floor there was no one
 to be found save a crippled wretch of hideous aspect, who, it seems,
-made his home there. Both he and the Lascar stoutly swore that no one
+made his home there. Both <action char="nevilleStClair">he and the<action char="lascar"> Lascar stoutly swore </action>></action>that no one
 else had been in the front room during the afternoon. So determined was
 their denial that the inspector was staggered, and had almost come to
-believe that Mrs. St. Clair had been deluded when, with a cry, she
+believe that Mrs. St. Clair had been deluded when, <action char="mrsStClair">with a cry, she
 sprang at a small deal box which lay upon the table and tore the lid
-from it. Out there fell a cascade of children’s bricks. It was the toy
-which he had promised to bring home.
+from it. Out there fell a cascade of children’s bricks.</action> It was the toy
+which<action char="NevilleStClair"> he had promised to bring home.
 </p>
 
 <p>
@@ -484,27 +484,27 @@ bedroom. Thrust away behind a curtain in the front room were all the
 clothes of Mr. Neville St. Clair, with the exception of his coat. His
 boots, his socks, his hat, and his watch—all were there. There were no
 signs of violence upon any of these garments, and there were no other
-traces of Mr. Neville St. Clair. Out of the window he must apparently
+traces of Mr. Neville St. Clair. Out of the window<action char="NevilleStClair"> he must apparently
 have gone for no other exit could be discovered, and the ominous
 bloodstains upon the sill gave little promise that he could save
-himself by swimming, for the tide was at its very highest at the moment
+himself by swimming,</action> for the tide was at its very highest at the moment
 of the tragedy.
 </p>
 
 <p>
 “And now as to the villains who seemed to be immediately implicated in
-the matter. The Lascar was known to be a man of the vilest antecedents,
+the matter. The Lascar was known to <action char="lascar">be a man of the vilest antecedents,
 but as, by Mrs. St. Clair’s story, he was known to have been at the
 foot of the stair within a very few seconds of her husband’s appearance
 at the window, he could hardly have been more than an accessory to the
-crime. His defence was one of absolute ignorance, and he protested that
+crime.</action> His defence was one of absolute ignorance, and<action char="lascar"> he protested that
 he had no knowledge as to the doings of Hugh Boone, his lodger, and
 that he could not account in any way for the presence of the missing
-gentleman’s clothes.
+gentleman’s clothes.</action>
 </p>
 
 <p>
-<quote speaker="">“So much for the Lascar manager. Now for the sinister cripple who lives
+<quote speaker="">“So much for the Lascar manager. Now for the <action char="hughBoone">sinister cripple who lives
 upon the second floor of the opium den, and who was certainly the last
 human being whose eyes rested upon Neville St. Clair. His name is Hugh
 Boone, and his hideous face is one which is familiar to every man who
@@ -528,17 +528,17 @@ mendicants and so, too, does his wit, for he is ever ready with a reply
 to any piece of chaff which may be thrown at him by the passers-by.
 This is the man whom we now learn to have been the lodger at the opium
 den, and to have been the last man to see the gentleman of whom we are
-in quest.</quote>
+in quest.</action></quote>
 </p>
 
 <p>
-    <quote speaker="johnWatson">But a cripple!</quote> said I. <quote speaker="johnWatson">What could he have done single-handed against
-a man in the prime of life?</quote>
+    <quote speaker="johnWatson">But a cripple!</quote> said I. <quote speaker="johnWatson">What could <action char="hughBoone">he have done single-handed against
+a man in the prime of life?</action></quote>
 </p>
 
 <p>
-    <quote speaker="sherlockHolmes">He is a cripple in the sense that he walks with a limp; but in other
-respects he appears to be a powerful and well-nurtured man. Surely your
+    <quote speaker="sherlockHolmes">He is a cripple in the sense that <action char="hughBoone">he walks with a limp; but in other
+respects he appears to be a powerful and well-nurtured man. </action>Surely your
 medical experience would tell you, Watson, that weakness in one limb is
 often compensated for by exceptional strength in the others.</quote>
 </p>
@@ -548,9 +548,9 @@ often compensated for by exceptional strength in the others.</quote>
 </p>
 
 <p>
-    <quote speaker="sherlockHolmes">Mrs. St. Clair had fainted at the sight of the blood upon the window,
+    <quote speaker="sherlockHolmes"><action char="mrsStClair">Mrs. St. Clair had fainted at the sight of the blood upon the window,
 and she was escorted home in a cab by the police, as her presence could
-be of no help to them in their investigations. Inspector Barton, who
+be of no help to them in their investigations. </action>Inspector Barton, who
 had charge of the case, made a very careful examination of the
 premises, but without finding anything which threw any light upon the
 matter. One mistake had been made in not arresting Boone instantly, as

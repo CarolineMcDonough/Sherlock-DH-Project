@@ -8,7 +8,7 @@ p =
     element p {
         mixed { (char | quote | action)* }
     }
-gender = attribute gender { "male" | "female" }
+gender = attribute gender { "male" | "female" | "mixed"}
 quote =
     element quote {
         speaker, 
