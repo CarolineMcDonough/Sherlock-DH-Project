@@ -45,7 +45,23 @@ window.addEventListener('load', (event) => {
 
 function checkboxListeners() {
   // document.querySelectorAll(".female");
-document.getElementById("actionMale").addEventListener("click", (e) => {
+  document.getElementById("actionMale").addEventListener("click", (e) => {
+      if (e.target.checked) {
+      //set male background stuff.
+      document.querySelectorAll(".male").forEach((maleAction) => {
+          maleAction.style.setProperty("font-style", "italic");
+          maleAction.style.setProperty("color", "yellow");
+          maleAction.style.setProperty("background-color", "midnightblue");
+      });
+      } else {
+      document.querySelectorAll(".male").forEach((maleAction) => {
+          maleAction.style.setProperty("font-style", "unset");
+          maleAction.style.setProperty("color", "black");
+          maleAction.style.setProperty("background-color", "transparent");
+      });
+      }
+  });
+  document.getElementById("actionMale").addEventListener("click", (e) => {
     if (e.target.checked) {
     //set male background stuff.
     document.querySelectorAll(".male").forEach((maleAction) => {
@@ -60,7 +76,7 @@ document.getElementById("actionMale").addEventListener("click", (e) => {
         maleAction.style.setProperty("background-color", "transparent");
     });
     }
-});
+  });
 }
 
 function getRandomInt(min, max) {
