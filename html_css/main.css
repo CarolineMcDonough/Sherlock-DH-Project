@@ -213,7 +213,7 @@ header>h1 {
 }
 
 /* SMARTPHONES */
-@media screen and (max-height: 685px) {
+@media screen and (max-height: 600px) {
     header::before {
         width: 100%;
     }
@@ -345,6 +345,11 @@ figure {
 figcaption {
     color: white;
     letter-spacing: 0.1em;
+}
+
+figure > a{
+    display:block;
+    margin-bottom:-2px;
 }
 
 /* LANDING PAGE MENU BAR IMAGES AND TEXT */
