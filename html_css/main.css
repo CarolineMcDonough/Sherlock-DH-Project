@@ -2,9 +2,10 @@
 /* IMPORTANT VALUE- an edit value with key signifigance*/
 /* IMG VALUE- an value having to do with an image mostly width and height*/
 
-/* ############-BORDER UTILITY CLASSES-############ */
-/* GLASS BORDER */
-/*https://css.glass*/
+
+/*=============================================
+=            Link Styles                      =
+=============================================*/
 
 a:link { text-decoration: none; }
 
@@ -16,6 +17,10 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+/* ############-BORDER UTILITY CLASSES-############ */
+/* GLASS BORDER */
+/*https://css.glass*/
 
 a{color:black}
 .glassBorder {
@@ -92,6 +97,7 @@ header {
     background-color: transparent;
 }
 
+/* github icon on the main screen. */
 #github{
     position: absolute;
     right: 142px;
@@ -549,35 +555,6 @@ main>p {
     margin-inline: auto;
 }
 
-/* ############-STICKY TOP BAR MENU-############ */
-
-/*good working styles for sticky menubar on pages other then the main page*/
-.menuBar {
-    /* sticky on all browsers */
-    position: -webkit-sticky;
-    position: sticky;
-
-    /* position will always be the same */
-    top: 0;
-    width: 100%;
-
-    /* 16 x Nrem == px
-        in this case - 3*16 = 48px
-        height: 48px
-    */
-    height: 3rem;
-
-    background: coral;
-
-    /* flex behaviors */
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
-
-    /* he is the king */
-    z-index: 100;
-}
-
 /* ############-FOOTER-############ */
 /* footer stuff right now its just size */
 footer {
@@ -585,35 +562,6 @@ footer {
     height: 40px;
     background-color: black;
 }
-
-
-/* NOT USING RN */
-/*an item on the sticky menubar*/
-/* .menuBarItem {
-    position: relative;
-    margin-top: 3px;
-    display: inline-block;
-    width: 200px;
-    background-color: antiquewhite;
-    text-align: center;
-    border: 1px solid black;
-    border-radius: 10px;
-    height: 30px;
-    vertical-align: middle;
-} */
-/* Not sure what this was for */
-/* .right-menu {
-    text-align: center;
-    width: fit-content;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    top: 20px;
-    right: 25px;
-    position: fixed;
-    transform:translateY(100px);
-    padding:5px;
-} */
 
 
 /*=============================================
@@ -813,7 +761,6 @@ body#storybody {
     width: 190px;
     height: 280px;
     top: 0px;
-    background-image: url("https://picsum.photos/190/280");
     background-size: contain;
     background-repeat: round;
     left: 50px;
