@@ -14,6 +14,7 @@
     <!-- =============================================================================================================================================================================================================== -->
     <!-- Variable containing ALL KNOWN FEMALE SPEAKERS FROM THE TEXTS -->
     <xsl:variable name="female-characters" select="'ireneAdler, randomWoman, elderlyWoman, marySutherland, maggieRyder, helenStoner, juliaStoner, maryHolder, maryWatson, kateWhitney, mrsStClair, unknownWoman, '"/>
+    <xsl:variable name="holmes-and-watson" select="'sherlockHolmes, johnWatson'"/>
     <!-- =============================================================================================================================================================================================================== -->
     
     <!-- ========================================================================================== -->
@@ -54,6 +55,11 @@
                     <xsl:apply-templates/>
                 </q>
             </xsl:when>
+            <xsl:when test="contains($holmes-and-watson, @speaker)">
+                <q class="sw-quote">
+                    <xsl:apply-templates/>
+                </q>
+            </xsl:when>
             <xsl:otherwise>
                 <q class="male-quote">
                     <xsl:apply-templates/>
@@ -66,6 +72,11 @@
         <xsl:choose>
             <xsl:when test="contains($female-characters, @speaker)">
                 <q class="female-quote">
+                    <xsl:apply-templates/>
+                </q>
+            </xsl:when>
+            <xsl:when test="contains($holmes-and-watson, @speaker)">
+                <q class="sw-quote">
                     <xsl:apply-templates/>
                 </q>
             </xsl:when>
@@ -83,9 +94,18 @@
     <!-- ========================================================================================== -->
     <!-- Templates for Actions -->
     <xsl:template match="action">
-        <span class="{char/@gender}" title="{char/@name}"> 
-            <xsl:apply-templates/>
-        </span>
+        <xsl:choose>
+            <xsl:when test="char[contains($holmes-and-watson,@name)]">
+                <span class="sw-action">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="{char/@gender}" title="{char/@name}"> 
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <!-- ========================================================================================== -->
     
