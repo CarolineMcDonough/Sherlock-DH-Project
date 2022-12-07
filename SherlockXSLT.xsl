@@ -50,12 +50,12 @@
     <xsl:template match="quote">
         <xsl:choose>
             <xsl:when test="contains($female-characters, @speaker)">
-                <q class="female-action">
+                <q class="female-quote">
                     <xsl:apply-templates/>
                 </q>
             </xsl:when>
             <xsl:otherwise>
-                <q class="male-action">
+                <q class="male-quote">
                     <xsl:apply-templates/>
                 </q>
             </xsl:otherwise>
@@ -65,12 +65,12 @@
     <xsl:template match="subq">
         <xsl:choose>
             <xsl:when test="contains($female-characters, @speaker)">
-                <q class="female-action">
+                <q class="female-quote">
                     <xsl:apply-templates/>
                 </q>
             </xsl:when>
             <xsl:otherwise>
-                <q class="male-action">
+                <q class="male-quote">
                     <xsl:apply-templates/>
                 </q>
             </xsl:otherwise>
