@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<passage>
-    <chapter number="3">III.</chapter>
-    <title>A CASE OF IDENTITY</title>
+<passage number="3">
+    <title>III. A CASE OF IDENTITY</title>
     <story>
 
         <p><quote speaker="sherlockHolmes">“My dear fellow,”</quote> said Sherlock Holmes as we sat

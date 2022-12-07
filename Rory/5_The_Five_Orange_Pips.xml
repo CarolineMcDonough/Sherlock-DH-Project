@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<!-- <?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?> -->
 <passage>
 <chapter number ="5">V.</chapter> <title>THE FIVE ORANGE PIPS</title>
 
@@ -204,7 +204,7 @@ his plate.</action> <action char = "johnOpenshaw">I began to laugh at this, but 
 lips at the sight of his face</action>. <action char = "eliasOpenshaw">His lip had fallen, his eyes were
 protruding, his skin the colour of putty, and he glared at the envelope
 which he still held in his trembling hand</action>, <quote speaker = "eliasOpenshaw">‘K. K. K.!’</quote> he shrieked, and
-then, <quote speaker ="colonel">‘My God, my God, my sins have overtaken me!’</quote>
+then, <quote speaker ="eliasOpenshaw">‘My God, my God, my sins have overtaken me!’</quote>
 
 <quote speaker="johnOpenshaw">“‘What is it, uncle?’</quote> I cried.
 
@@ -264,7 +264,7 @@ water was but two feet deep, so that the jury, having regard to his
 known eccentricity, brought in a verdict of ‘suicide.’ But I, who knew
 how <action char = "eliasOpenshaw">he winced from the very thought of death, had much ado to persuade
 myself that he had gone out of his way to meet it. </action>The matter passed,
-however, and my <action speaker ="joseph">father entered into possession of the estate, and of
+however, and my <action speaker ="josephOpenshaw">father entered into possession of the estate, and of
 some £ 14,000, which lay to his credit at the bank</action>.”</p>
 
  <p><quote speaker ="sherlockHolmes">“One moment,”</quote> Holmes interposed, <quote speaker ="sherlockHolmes">“your statement is, I foresee, one of
@@ -316,13 +316,13 @@ very letters. But what is this written above them?’</quote></p>
  <p><quote speaker = "johnOpenshaw">“‘The sundial in the garden. There is no other,’</quote> said I; <quote speaker = "johnWatson">‘but the
 papers must be those that are destroyed.’</quote></p>
 
- <p><quote speaker = "josephOpenshaw">“‘Pooh!’</quote> said he, gripping hard at his courage. <quote speaker ="sherlock">‘We are in a civilised
+ <p><quote speaker = "josephOpenshaw">“‘Pooh!’</quote> said he, gripping hard at his courage. <quote speaker ="sherlockHolmes">‘We are in a civilised
 land here, and we can’t have tomfoolery of this kind. Where does the
 thing come from?’</quote></p>
  
  <p><quote speaker = "johnOpenshaw">“‘From Dundee,’</quote> I answered, glancing at the postmark.</p>
 
- <p><quote speaker = "josephOpenshaw">“‘Some preposterous practical joke,’</quote> said he. <quote speaker ="sherlock">‘What have I to do with
+ <p><quote speaker = "josephOpenshaw">“‘Some preposterous practical joke,’</quote> said he. <quote speaker ="sherlockHolmes">‘What have I to do with
 sundials and papers? I shall take no notice of such nonsense.’</quote></p>
 
  <p><quote speaker = "johnOpenshaw">“‘I should certainly speak to the police,’</quote> I said.</p>
@@ -411,7 +411,7 @@ house with me.”</quote></p>
 
  <p><action char = "sherlockHolmes">Again Holmes raved in the air.</action></p>
 
- <p><quote speaker ="sherlockHolmes">“Why did you come to me?”</quote> he said, <quote speaker ="sherlock">“and, above all, why did you not
+ <p><quote speaker ="sherlockHolmes">“Why did you come to me?”</quote> he said, <quote speaker ="sherlockHolmes">“and, above all, why did you not
 come at once?”</quote></p>
 
  <p><quote speaker = "johnOpenshaw">“I did not know. It was only to-day that I spoke to Major Prendergast
@@ -630,7 +630,7 @@ voice—“have you never heard of the Ku Klux Klan?”</quote></p>
 
  <p><quote speaker = "johnWatson">“I never have.”</quote></p>
 
- <p><action char ="sherlockHolmes">Holmes turned over the leaves of the book upon his knee</action>. <quote speaker ="sherlock">“Here it is,”</quote>
+ <p><action char ="sherlockHolmes">Holmes turned over the leaves of the book upon his knee</action>. <quote speaker ="sherlockHolmes">“Here it is,”</quote>
 said he presently:</p>
 
  <p>“‘Ku Klux Klan. A name derived from the fanciful resemblance to the
@@ -693,7 +693,7 @@ have to go down to Horsham, after all.”</quote></p>
 
  <p><quote speaker = "johnWatson">“You will not go there first?”</quote></p>
 
- <p><quote speaker ="sherlock">“No, I shall commence with the City. Just ring the bell and the maid
+ <p><quote speaker ="sherlockHolmes">“No, I shall commence with the City. Just ring the bell and the maid
 will bring up your coffee.”</quote></p>
 
  <p><action char = "johnWatson">As I waited, I lifted the unopened newspaper from the table and glanced
@@ -702,7 +702,7 @@ heart.</action></p>
 
  <p><quote speaker = "johnWatson">“Holmes,”</quote> I cried, <quote speaker = "johnWatson">“you are too late.”</quote></p>
 
-  <p><quote speaker ="sherlock">“Ah!”</quote> said he, laying down his cup, <quote speaker ="sherlockHolmes">“I feared as much. How was it
+  <p><quote speaker ="sherlockHolmes">“Ah!”</quote> said he, laying down his cup, <quote speaker ="sherlockHolmes">“I feared as much. How was it
 done?”</quote> He spoke calmly, but I could see that he was deeply moved.</p>
 
   <p><quote speaker ="sherlockHolmes">“<action char = "johnWatson">My eye caught the name of Openshaw, and the heading ‘Tragedy Near
@@ -854,6 +854,6 @@ far out in the Atlantic a shattered stern-post of a boat was seen
 swinging in the trough of a wave, with the letters “L. S.” carved upon
 it, and that is all which we shall ever know of the fate of the Lone
 Star.</p>
-
+ </quote>
 </story>
 </passage>

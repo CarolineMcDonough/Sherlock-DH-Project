@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<!--<?xml-model href="../sherlock_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
 
 <passage number="6">
     
@@ -11,7 +11,7 @@
 
 <p>
     <action char = "isaWhitney"><char gender = "male">Isa Whitney</char>, brother of the late <char gender = "male">Elias Whitney, D.D., Principal of the
-Theological College of St. George’s</char>, was much addicted to opium</char>. The
+Theological College of St. George’s</char>, was much addicted to opium.</action> The
 habit grew upon him, as I understand, from some foolish freak when he
 was at college;<action char = "isaWhitney"> for having read De Quincey’s description of his dreams
 and sensations, he had drenched his tobacco with laudanum in an attempt
@@ -26,7 +26,7 @@ chair, the wreck and ruin of a noble man.
 <p>
 One night—it was in June, ’89—there came a ring to my bell, about the
 hour when a man gives his first yawn and glances at the clock.<char gender = "male"> I</char> sat up
-    in my chair, and <action char = "maryWatson"<char gender = "female">>my wife</char> laid her needle-work down in her lap and made
+    in my chair, and <action char = "maryWatson"><char gender = "female">my wife</char> laid her needle-work down in her lap and made
 a little face of disappointment.</action>
 </p>
 
@@ -151,7 +151,7 @@ mine here, Mr. Isa Whitney, and I wish to speak with him.</quote>
 <p>
     There was<action char = "isaWhitney"> a movement and an exclamation from my right</action>, and peering
 through the gloom, I saw <action char = "isaWhitney">Whitney, pale, haggard, and unkempt, staring
-out at me.
+out at me. </action>
 </p>
 
 <p>
@@ -418,7 +418,7 @@ that a small parcel of considerable value which she had been expecting
 was waiting for her at the offices of the Aberdeen Shipping Company.
 Now, if you are well up in your London, you will know that the office
 of the company is in Fresno Street, which branches out of Upper Swandam
-Lane, where you found me to-night.<action char="mrsStClair"c Mrs. St. Clair had her lunch,
+Lane, where you found me to-night.<action char="mrsStClair"> Mrs. St. Clair had her lunch,
 started for the City, did some shopping, proceeded to the company’s
 office, got her packet, and found herself at exactly 4:35 walking
 through Swandam Lane on her way back to the station.</action> Have you followed
@@ -466,7 +466,7 @@ their denial that the inspector was staggered, and had almost come to
 believe that Mrs. St. Clair had been deluded when, <action char="mrsStClair">with a cry, she
 sprang at a small deal box which lay upon the table and tore the lid
 from it. Out there fell a cascade of children’s bricks.</action> It was the toy
-which<action char="NevilleStClair"> he had promised to bring home.
+which<action char="NevilleStClair"> he had promised to bring home.</action>
 </p>
 
 <p>
@@ -504,7 +504,7 @@ gentleman’s clothes.</action>
 </p>
 
 <p>
-<quote speaker="">“So much for the Lascar manager. Now for the <action char="hughBoone">sinister cripple who lives
+<quote speaker="sherlockHolmes">“So much for the Lascar manager. Now for the <action char="hughBoone">sinister cripple who lives
 upon the second floor of the opium den, and who was certainly the last
 human being whose eyes rested upon Neville St. Clair. His name is Hugh
 Boone, and his hideous face is one which is familiar to every man who

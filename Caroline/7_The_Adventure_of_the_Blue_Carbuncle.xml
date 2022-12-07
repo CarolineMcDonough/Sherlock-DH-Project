@@ -6,7 +6,7 @@
         <title>VII. THE ADVENTURE OF THE BLUE CARBUNCLE</title>
 
         <story>
-                <p><char gender="male" name="johnWatson"<action char ="johnWatson">I</char> had called upon my friend
+                <p><action><char gender="male" name="johnWatson">I</char> had called upon my friend
                                 Sherlock Holmes</action> upon the second morning after Christmas,
                         with the intention of wishing him the compliments of the season.
                                <char gender="male" name="sherlockHolmes">He</char>
