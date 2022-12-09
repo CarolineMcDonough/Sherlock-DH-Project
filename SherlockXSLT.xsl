@@ -15,7 +15,7 @@
     
     <!-- ========================================================================================== -->
     <!-- Variable that selects all of the stories -->
-    <xsl:variable name="story_collection" as="document-node()+" select="collection('markup/?select=*.xml')"/>
+    <xsl:variable name="story_collection" as="document-node()" select="collection('markup/?select=*.xml')"/>
     <!-- ========================================================================================== -->
     
     
@@ -37,14 +37,14 @@
                 <link rel= "stylesheet" type="text/css" href="mcdonough_11-11-22.css"/>
             </head>
             <body>
-                <h1><xsl:apply-templates select="$story_collection//passage"/></h1>
-                <xsl:apply-templates select="$story_collection//passage/story/p"/>
+                <xsl:apply-templates select="//title"/>
+                <xsl:apply-templates select="//p"/>
             </body>
         </html>
     </xsl:template>
     
-    <xsl:template match="passage">
-        <xsl:apply-templates select="title"/>
+    <xsl:template match="title">
+        <h2><xsl:apply-templates/></h2>
     </xsl:template>
 
 

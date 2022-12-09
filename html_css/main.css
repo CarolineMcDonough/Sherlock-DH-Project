@@ -780,13 +780,13 @@ body#storybody {
 }
 
 /* STORY LIST, VISIBLE IN left menu after picking a story */
-li:nth-child(2n+1) {
+/* li:nth-child(2n+1) {
     background-color: cornflowerblue;
 }
 
 li:nth-child(2n) {
     background-color: blue;
-}
+} */
 
 .clayBorder li {
     margin-left: -42px;
@@ -860,13 +860,6 @@ main.transition>h1 {
 
 /* STORIES.xhtml dump for now needs comments */
 /* TODO: comments */
-li:nth-child(2n+1) {
-    background-color: cornflowerblue;
-}
-
-li:nth-child(2n) {
-    background-color: blue;
-}
 
 .clayBorder li {
     margin-left: -42px;
@@ -930,4 +923,8 @@ li:nth-child(2n) {
 
 .checkBoxBox {
     margin-left: 20px;
+}
+
+h3, h4{
+    text-align:center;
 }

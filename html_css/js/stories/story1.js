@@ -3,885 +3,1330 @@
 //     const story;
 //   }, 1000)
 ;
-const story1 = `<h2>VII. THE ADVENTURE OF THE BLUE CARBUNCLE</h2>
-<p><span class="male" title="johnWatson">I had called upon my friend
-            Sherlock Holmes</span> upon the second morning after Christmas,
-      with the intention of wishing him the compliments of the season.
-      <span class="male" title="sherlockHolmes">He
-            was lounging upon the sofa</span> in a purple dressing-gown, a
-      pipe-rack within his reach upon the right, and a pile of crumpled morning
-      papers, evidently newly studied, near at hand. Beside the couch was a wooden
-      chair, and on the angle of the back hung a very seedy and disreputable
-      hard-felt hat, much the worse for wear, and cracked in several places. A
-      lens and a forceps lying upon the seat of the chair suggested that the hat
-      had been suspended in this manner for the purpose of examination.
-</p>
-<p><q class="johnWatson">You are engaged,</q> said I; <q class="johnWatson">perhaps I interrupt you.</q></p>
-<p><q class="sherlockHolmes">Not at all. I am glad to have a friend with whom
-            I can discuss my results. The matter is a perfectly trivial
-            one</q>—he jerked his thumb in the direction of the old
-      hat—<q class="sherlockHolmes">but there are points in
-            connection with it which are not entirely devoid of interest and
-            even of instruction.</q></p>
-<p><span class="male" title="johnWatson">I seated myself in his
-            armchair</span> and warmed my hands before his crackling fire, for
-      a sharp frost had set in, and the windows were thick with the ice crystals.
-      <q class="johnWatson">I suppose,</q> I remarked, <q class="johnWatson">that, homely as it looks, this thing
-            has some
-            deadly story linked on to it—that it is the clue which will guide
-            you in the solution of some mystery and the punishment of some
-            crime.</q>
-</p>
-<p><q class="sherlockHolmes">No, no. No crime,</q> said Sherlock Holmes,
-      laughing. <q class="sherlockHolmes">Only one of those whimsical little
-            incidents which will happen when you have four million human beings
-            all jostling each other within the space of a few square miles. Amid
-            the action and reaction of so dense a swarm of humanity, every
-            possible combination of events may be expected to take place, and
-            many a little problem will be presented which may be striking and
-            bizarre without being criminal. We have already had experience of
-            such.</q></p>
-<p><q class="johnWatson">So much so,</q> I remarked, <q class="johnWatson">that of the last six cases which I have
-            added
-            to my notes, three have been entirely free of any legal
-            crime.</q></p>
-<p><q class="sherlockHolmes">Precisely. You allude to my attempt to recover
-            the Irene Adler papers, to the singular case of Miss Mary
-            Sutherland, and to the adventure of the man with the twisted lip.
-            Well, I have no doubt that this small matter will fall into the same
-            innocent category. You know Peterson, the
-            commissionaire?</q></p>
-<p><q class="johnWatson">Yes.</q></p>
-<p><q class="sherlockHolmes">It is to him that this trophy
-            belongs.</q></p>
-<p><q class="johnWatson">It is his hat.</q></p>
-<p><q class="sherlockHolmes">No, no, he found it. Its owner is unknown. I beg
-            that you will look upon it not as a battered billycock but as an
-            intellectual problem. And, first, as to how it came here. It arrived
-            upon Christmas morning, in company with a good fat goose, which is,
-            I have no doubt, roasting at this moment in front of Peterson's
-            fire. The facts are these: about four o'clock on Christmas morning,
-            Peterson, who, as you know, is a very honest fellow, was returning
-            from some small jollification and was making his way homeward down
-            Tottenham Court Road. In front of him he saw, in the gaslight, a
-            tallish man, walking with a slight stagger, and carrying a white
-            goose slung over his shoulder. As he reached the corner of Goodge
-            Street, a row broke out between this stranger and a little knot of
-            roughs. One of the latter knocked off the man's hat, on which he
-            raised his stick to defend himself and, swinging it over his head,
-            smashed the shop window behind him. Peterson had rushed forward to
-            protect the stranger from his assailants; but the man, shocked at
-            having broken the window, and seeing an official-looking person in
-            uniform rushing towards him, dropped his goose, took to his heels,
-            and vanished amid the labyrinth of small streets which lie at the
-            back of Tottenham Court Road. The roughs had also fled at the
-            appearance of Peterson, so that he was left in possession of the
-            field of battle, and also of the spoils of victory in the shape of
-            this battered hat and a most unimpeachable Christmas
-            goose.</q></p>
-<p><q class="johnWatson">Which surely he restored to their owner?</q></p>
-<p><q class="sherlockHolmes">My dear fellow, there lies the problem. It is
-            true that 'For Mrs. Henry Baker' was printed upon a small card which
-            was tied to the bird's left leg, and it is also true that the
-            initials 'H. B.' are legible upon the lining of this hat, but as
-            there are some thousands of Bakers, and some hundreds of Henry
-            Bakers in this city of ours, it is not easy to restore lost property
-            to any one of them.</q></p>
-<p><q class="johnWatson">What, then, did Peterson do?</q></p>
-<p><q class="sherlockHolmes"><span class="male" title="commissionairePeterson">He brought
-                  round both hat and goose to me on Christmas
-                  morning</span>, knowing that even the smallest problems are of
-            interest to me. The goose we retained until this morning, when there
-            were signs that, in spite of the slight frost, it would be well that
-            it should be eaten without unnecessary delay. <span class="male" title="commissionairePeterson">Its
-                  finder has carried it off</span>,
-            therefore, to fulfil the ultimate destiny of a goose, while I
-            continue to retain the hat of the unknown gentleman who lost his
-            Christmas dinner.</q></p>
-<p><q class="johnWatson">Did he not advertise?</q></p>
-<p><q class="sherlockHolmes">No.</q></p>
-<p><q class="johnWatson">Then, what clue could you have as to his
-            identity?</q></p>
-<p><q class="sherlockHolmes">Only as much as we can deduce.</q></p>
-<p><q class="johnWatson">From his hat?</q></p>
-<p><q class="sherlockHolmes">Precisely.</q></p>
-<p><q class="johnWatson">But you are joking. What can you gather from this old
-            battered felt?</q></p>
-<p><q class="sherlockHolmes">Here is my lens. You know my methods. What can
-            you gather yourself as to the individuality of the man who has worn
-            this article?</q></p>
-<p>I took the tattered object in my hands and turned it over rather ruefully. It was
-      a very ordinary black hat of the usual round shape, hard and much the worse
-      for wear. The lining had been of red silk, but was a good deal discoloured.
-      There was no maker's name; but, as Holmes had remarked, the initials "H. B."
-      were scrawled upon one side. It was pierced in the brim for a hat-securer,
-      but the elastic was missing. For the rest, it was cracked, exceedingly
-      dusty, and spotted in several places, although there seemed to have been
-      some attempt to hide the discoloured patches by smearing them with ink.</p>
-<p><q class="johnWatson">I can see nothing,</q> said I, handing it back to
-      my friend.</p>
-<p><q class="sherlockHolmes">On the contrary, Watson, you can see everything.
-            You fail, however, to reason from what you see. You are too timid in
-            drawing your inferences.</q></p>
-<p><q class="johnWatson">Then, pray tell me what it is that you can infer from
-            this hat?</q></p>
-<p><span class="male" title="sherlockHolmes">He picked it up and
-            gazed at it</span> in the peculiar introspective fashion which was
-      characteristic of him. <q class="sherlockHolmes">It is perhaps less
-            suggestive than it might have been,</q> he remarked, <q class="sherlockHolmes">and yet there are a few
-            inferences which
-            are very distinct, and a few others which represent at least a
-            strong balance of probability. That the man was highly intellectual
-            is of course obvious upon the face of it, and also that he was
-            fairly well-to-do within the last three years, although he has now
-            fallen upon evil days. He had foresight, but has less now than
-            formerly, pointing to a moral retrogression, which, when taken with
-            the decline of his fortunes, seems to indicate some evil influence,
-            probably drink, at work upon him. This may account also for the
-            obvious fact that his wife has ceased to love him.</q></p>
-<p><q class="johnWatson">My dear Holmes!</q></p>
-<p><q class="sherlockHolmes">He has, however, retained some degree of
-            self-respect,</q> he continued, disregarding my remonstrance.
-      <q class="sherlockHolmes">He is a man who leads a sedentary
-            life, goes out little, is out of training entirely, is middle-aged,
-            has grizzled hair which he has had cut within the last few days, and
-            which he anoints with lime-cream. These are the more patent facts
-            which are to be deduced from his hat. Also, by the way, that it is
-            extremely improbable that he has gas laid on in his
-            house.</q>
-</p>
-<p><q class="johnWatson">You are certainly joking, Holmes.</q></p>
-<p><q class="sherlockHolmes">Not in the least. Is it possible that even now,
-            when I give you these results, you are unable to see how they are
-            attained?</q></p>
-<p><q class="johnWatson">I have no doubt that I am very stupid, but I must
-            confess that I am unable to follow you. For example, how did you
-            deduce that this man was intellectual?</q></p>
-<p>For answer Holmes clapped the hat upon his head. It came right over the forehead
-      and settled upon the bridge of his nose. <q class="sherlockHolmes">It
-            is a question of cubic capacity,</q> said he; <q class="sherlockHolmes">a man with so large a brain
-            must have
-            something in it.</q></p>
-<p><q class="johnWatson">The decline of his fortunes, then?</q></p>
-<p><q class="sherlockHolmes">This hat is three years old. These flat brims
-            curled at the edge came in then. It is a hat of the very best
-            quality. Look at the band of ribbed silk and the excellent lining.
-            If this man could afford to buy so expensive a hat three years ago,
-            and has had no hat since, then he has assuredly gone down in the
-            world.</q></p>
-<p><q class="johnWatson">Well, that is clear enough, certainly. But how about
-            the foresight and the moral retrogression?</q></p>
-<p>Sherlock Holmes laughed. <q class="sherlockHolmes">Here is the
-            foresight,</q> said he putting his finger upon the little disc
-      and loop of the hat-securer. <q class="sherlockHolmes">They are never
-            sold upon hats. If this man ordered one, it is a sign of a certain
-            amount of foresight, since he went out of his way to take this
-            precaution against the wind. But since we see that he has broken the
-            elastic and has not troubled to replace it, it is obvious that he
-            has less foresight now than formerly, which is a distinct proof of a
-            weakening nature. On the other hand, he has endeavoured to conceal
-            some of these stains upon the felt by daubing them with ink, which
-            is a sign that he has not entirely lost his
-            self-respect.</q></p>
-<p><q class="johnWatson">Your reasoning is certainly plausible.</q></p>
-<p><q class="sherlockHolmes">The further points, that he is middle-aged, that
-            his hair is grizzled, that it has been recently cut, and that he
-            uses lime-cream, are all to be gathered from a close examination of
-            the lower part of the lining. The lens discloses a large number of
-            hair-ends, clean cut by the scissors of the barber. They all appear
-            to be adhesive, and there is a distinct odour of lime-cream. This
-            dust, you will observe, is not the gritty, grey dust of the street
-            but the fluffy brown dust of the house, showing that it has been
-            hung up indoors most of the time, while the marks of moisture upon
-            the inside are proof positive that the wearer perspired very freely,
-            and could therefore, hardly be in the best of training.</q></p>
-<p><q class="johnWatson">But his wife—you said that she had ceased to love
-            him.</q></p>
-<p><q class="sherlockHolmes">This hat has not been brushed for weeks. When I
-            see you, my dear Watson, with a week's accumulation of dust upon
-            your hat, and when your wife allows you to go out in such a state, I
-            shall fear that you also have been unfortunate enough to lose your
-            wife's affection.</q></p>
-<p><q class="johnWatson">But he might be a bachelor.</q></p>
-<p><q class="sherlockHolmes">Nay, he was bringing home the goose as a
-            peace-offering to his wife. Remember the card upon the bird's
-            leg.</q></p>
-<p><q class="johnWatson">You have an answer to everything. But how on earth do
-            you deduce that the gas is not laid on in his house?</q></p>
-<p><q class="sherlockHolmes">One tallow stain, or even two, might come by
-            chance; but when I see no less than five, I think that there can be
-            little doubt that the individual must be brought into frequent
-            contact with burning tallow—walks upstairs at night probably with
-            his hat in one hand and a guttering candle in the other. Anyhow, he
-            never got tallow-stains from a gas-jet. Are you
-            satisfied?</q></p>
-<p><q class="johnWatson">Well, it is very ingenious,</q> said I, laughing;
-      <q class="johnWatson">but since, as you said just now, there
-            has been no crime committed, and no harm done save the loss of a
-            goose, all this seems to be rather a waste of energy.</q>
-</p>
-<p>Sherlock Holmes had opened his mouth to reply, when the door flew open, and
-      <span class="male" title="commissionairePeterson">Peterson, the commissionaire, rushed into the
-            apartment</span> with flushed cheeks and the face of a man who is
-      dazed with astonishment.
-</p>
-<p><q class="commissionairePeterson">The goose, Mr. Holmes! The goose,
-            sir!</q> he gasped.</p>
-<p><q class="sherlockHolmes">Eh? What of it, then? Has it returned to life and
-            flapped off through the kitchen window?</q> Holmes twisted
-      himself round upon the sofa to get a fairer view of the man's excited
-      face.</p>
-<p><q class="commissionairePeterson">See here, sir! See what my wife found in
-            its crop!</q>
-      <span class="male" title="commissionairePeterson">He held out
-            his hand and displayed</span> upon the centre of the palm a
-      brilliantly scintillating blue stone, rather smaller than a bean in size,
-      but of such purity and radiance that it twinkled like an electric point in
-      the dark hollow of his hand.
-</p>
-<p><span class="male" title="sherlockHolmes">Sherlock Holmes sat
-            up</span> with a whistle. <q class="sherlockHolmes">By Jove,
-            Peterson!</q> said he, <q class="sherlockHolmes">this is
-            treasure trove indeed. I suppose you know what you have
-            got?</q></p>
-<p><q class="commissionairePeterson">A diamond, sir? A precious stone. It cuts
-            into glass as though it were putty.</q></p>
-<p><q class="sherlockHolmes">It's more than a precious stone. It is _the_
-            precious stone.</q></p>
-<p><q class="johnWatson">Not the Countess of Morcar's blue carbuncle!</q>
-      I ejaculated.</p>
-<p><q class="sherlockHolmes">Precisely so. I ought to know its size and shape,
-            seeing that I have read the advertisement about it in _The Times_
-            every day lately. It is absolutely unique, and its value can only be
-            conjectured, but the reward offered of £ 1000 is certainly not
-            within a twentieth part of the market price.</q></p>
-<p><q class="commissionairePeterson">A thousand pounds! Great Lord of
-            mercy!</q>
-      <span class="male" title="commissionairePeterson">The commissionaire plumped down into a chair</span>
-      and stared from one to the other of us.
-</p>
-<p><q class="sherlockHolmes">That is the reward, and I have reason to know
-            that there are sentimental considerations in the background which
-            would induce the Countess to part with half her fortune if she could
-            but recover the gem.</q></p>
-<p><q class="johnWatson">It was lost, if I remember aright, at the Hotel
-            Cosmopolitan,</q> I remarked.</p>
-<p><q class="sherlockHolmes">Precisely so, on December 22nd, just five days
-            ago. John Horner, a plumber, was accused of having abstracted it
-            from the lady's jewel-case. The evidence against him was so strong
-            that the case has been referred to the Assizes. I have some account
-            of the matter here, I believe.</q>
-      <span class="male" title="sherlockHolmes">He rummaged amid
-            his newspapers, glancing over the dates, until at last he smoothed
-            one out,</span> doubled it over, and read the following
-      paragraph:
-</p>
-<p><q class="sherlockHolmes">Hotel Cosmopolitan Jewel Robbery. John Horner,
-            26, plumber, was brought up upon the charge of having upon the 22nd
-            inst., abstracted from the jewel-case of the Countess of Morcar the
-            valuable gem known as the blue carbuncle. James Ryder,
-            upper-attendant at the hotel, gave his evidence to the effect that
-            he had shown Horner up to the dressing-room of the Countess of
-            Morcar upon the day of the robbery in order that he might solder the
-            second bar of the grate, which was loose. He had remained with
-            Horner some little time, but had finally been called away. On
-            returning, he found that Horner had disappeared, that the bureau had
-            been forced open, and that the small morocco casket in which, as it
-            afterwards transpired, the Countess was accustomed to keep her
-            jewel, was lying empty upon the dressing-table. Ryder instantly gave
-            the alarm, and Horner was arrested the same evening; but the stone
-            could not be found either upon his person or in his rooms. Catherine
-            Cusack, maid to the Countess, deposed to having heard Ryder's cry of
-            dismay on discovering the robbery, and to having rushed into the
-            room, where she found matters as described by the last witness.
-            Inspector Bradstreet, B division, gave evidence as to the arrest of
-            Horner, who struggled frantically, and protested his innocence in
-            the strongest terms. Evidence of a previous conviction for robbery
-            having been given against the prisoner, the magistrate refused to
-            deal summarily with the offence, but referred it to the Assizes.
-            Horner, who had shown signs of intense emotion during the
-            proceedings, fainted away at the conclusion and was carried out of
-            court.</q></p>
-<p><q class="sherlockHolmes">Hum! So much for the police-court,</q> said
-      Holmes thoughtfully, tossing aside the paper. <q class="sherlockHolmes">The question for us now to solve is
-            the
-            sequence of events leading from a rifled jewel-case at one end to
-            the crop of a goose in Tottenham Court Road at the other. You see,
-            Watson, our little deductions have suddenly assumed a much more
-            important and less innocent aspect. Here is the stone; the stone
-            came from the goose, and the goose came from Mr. Henry Baker, the
-            gentleman with the bad hat and all the other characteristics with
-            which I have bored you. So now we must set ourselves very seriously
-            to finding this gentleman and ascertaining what part he has played
-            in this little mystery. To do this, we must try the simplest means
-            first, and these lie undoubtedly in an advertisement in all the
-            evening papers. If this fail, I shall have recourse to other
-            methods.</q></p>
-<p><q class="johnWatson">What will you say?</q></p>
-<p><q class="sherlockHolmes">Give me a pencil and that slip of paper. Now,
-            then: 'Found at the corner of Goodge Street, a goose and a black
-            felt hat. Mr. Henry Baker can have the same by applying at 6:30 this
-            evening at 221B, Baker Street.' That is clear and
-            concise.</q></p>
-<p><q class="johnWatson">Very. But will he see it?</q></p>
-<p><q class="sherlockHolmes">Well, he is sure to keep an eye on the papers,
-            since, to a poor man, the loss was a heavy one. He was clearly so
-            scared by his mischance in breaking the window and by the approach
-            of Peterson that he thought of nothing but flight, but since then he
-            must have bitterly regretted the impulse which caused him to drop
-            his bird. Then, again, the introduction of his name will cause him
-            to see it, for everyone who knows him will direct his attention to
-            it. Here you are, Peterson, run down to the advertising agency and
-            have this put in the evening papers.</q></p>
-<p><q class="commissionairePeterson">In which, sir?</q></p>
-<p><q class="sherlockHolmes">Oh, in the _Globe_, _Star_, _Pall Mall_, _St.
-            James's Gazette_, _Evening News_, _Standard_, _Echo_, and any others
-            that occur to you.</q></p>
-<p><q class="commissionairePeterson">Very well, sir. And this
-            stone?</q></p>
-<p><q class="sherlockHolmes">Ah, yes, I shall keep the stone. Thank you. And,
-            I say, Peterson, just buy a goose on your way back and leave it here
-            with me, for we must have one to give to this gentleman in place of
-            the one which your family is now devouring.</q></p>
-<p>When the commissionaire had gone, <span class="male" title="sherlockHolmes">Holmes took up the stone and
-            held it against the light.</span>
-      <q class="sherlockHolmes">It's a bonny thing,</q> said he. <q class="sherlockHolmes">Just see how it glints
-            and sparkles. Of
-            course it is a nucleus and focus of crime. Every good stone is. They
-            are the devil's pet baits. In the larger and older jewels every
-            facet may stand for a bloody deed. This stone is not yet twenty
-            years old. It was found in the banks of the Amoy River in southern
-            China and is remarkable in having every characteristic of the
-            carbuncle, save that it is blue in shade instead of ruby red. In
-            spite of its youth, it has already a sinister history. There have
-            been two murders, a vitriol-throwing, a suicide, and several
-            robberies brought about for the sake of this forty-grain weight of
-            crystallised charcoal. Who would think that so pretty a toy would be
-            a purveyor to the gallows and the prison? I'll lock it up in my
-            strong box now and drop a line to the Countess to say that we have
-            it.</q>
-</p>
-<p><q class="johnWatson">Do you think that this man Horner is
-            innocent?</q></p>
-<p><q class="sherlockHolmes">I cannot tell.</q></p>
-<p><q class="johnWatson">Well, then, do you imagine that this other one, Henry
-            Baker, had anything to do with the matter?</q></p>
-<p><q class="sherlockHolmes">It is, I think, much more likely that Henry Baker
-            is an absolutely innocent man, who had no idea that the bird which
-            he was carrying was of considerably more value than if it were made
-            of solid gold. That, however, I shall determine by a very simple
-            test if we have an answer to our advertisement.</q></p>
-<p><q class="johnWatson">And you can do nothing until then?</q></p>
-<p><q class="sherlockHolmes">Nothing.</q></p>
-<p><q class="johnWatson">In that case I shall continue my professional round.
-            But I shall come back in the evening at the hour you have mentioned,
-            for I should like to see the solution of so tangled a
-            business.</q></p>
-<p><q class="sherlockHolmes">Very glad to see you. I dine at seven. There is a
-            woodcock, I believe. By the way, in view of recent occurrences,
-            perhaps I ought to ask Mrs. Hudson to examine its crop.</q></p>
-<p>I had been delayed at a case, and it was a little after half-past six when
-      <span class="male" title="johnWatson">I found
-            myself in Baker Street</span> once more. As <span class="male" title="johnWatson">I approached the
-            house</span> I saw a tall man in a Scotch bonnet with a coat which
-      was buttoned up to his chin waiting outside in the bright semicircle which
-      was thrown from the fanlight. Just as I arrived the door was opened, and we
-      were shown up together to Holmes' room.
-</p>
-<p><q class="sherlockHolmes">Mr. Henry Baker, I believe,</q> said
-      <span class="male" title="sherlockHolmes">he,
-            rising from his armchair and greeting his visitor</span> with the
-      easy air of geniality which he could so readily assume. <q class="sherlockHolmes">Pray take this chair by
-            the fire, Mr.
-            Baker. It is a cold night, and I observe that your circulation is
-            more adapted for summer than for winter. Ah, Watson, you have just
-            come at the right time. Is that your hat, Mr. Baker?</q>
-</p>
-<p><q class="henryBaker">Yes, sir, that is undoubtedly my hat.</q></p>
-<p>He was a large man with rounded shoulders, a massive head, and a broad,
-      intelligent face, sloping down to a pointed beard of grizzled brown. A touch
-      of red in nose and cheeks, with a slight tremor of his extended hand,
-      recalled Holmes' surmise as to his habits. His rusty black frock-coat was
-      buttoned right up in front, with the collar turned up, and his lank wrists
-      protruded from his sleeves without a sign of cuff or shirt. He spoke in a
-      slow staccato fashion, choosing his words with care, and gave the impression
-      generally of a man of learning and letters who had had ill-usage at the
-      hands of fortune.</p>
-<p><q class="sherlockHolmes">We have retained these things for some
-            days,</q> said Holmes, <q class="sherlockHolmes">because
-            we expected to see an advertisement from you giving your address. I
-            am at a loss to know now why you did not advertise.</q></p>
-<p>Our visitor gave a rather shamefaced laugh. <q class="henryBaker">Shillings
-            have not been so plentiful with me as they once were,</q> he
-      remarked. <q class="henryBaker">I had no doubt that the gang of roughs
-            who assaulted me had carried off both my hat and the bird. I did not
-            care to spend more money in a hopeless attempt at recovering
-            them.</q></p>
-<p><q class="sherlockHolmes">Very naturally. By the way, about the bird, we
-            were compelled to eat it.</q></p>
-<p><q class="henryBaker">To eat it!</q>
-      <span class="male" title="henryBaker">Our visitor half rose
-            from his chair</span> in his excitement.
-</p>
-<p><q class="sherlockHolmes">Yes, it would have been of no use to anyone had
-            we not done so. But I presume that this other goose upon the
-            sideboard, which is about the same weight and perfectly fresh, will
-            answer your purpose equally well?</q></p>
-<p><q class="henryBaker">Oh, certainly, certainly,</q> answered Mr. Baker
-      with a sigh of relief.</p>
-<p><q class="sherlockHolmes">Of course, we still have the feathers, legs,
-            crop, and so on of your own bird, so if you wish—</q></p>
-<p>The man burst into a hearty laugh. <q class="henryBaker">They might be
-            useful to me as relics of my adventure,</q> said he, <q class="henryBaker">but beyond that I can
-            hardly see what use the
-            _disjecta membra_ of my late acquaintance are going to be to me. No,
-            sir, I think that, with your permission, I will confine my
-            attentions to the excellent bird which I perceive upon the
-            sideboard.</q></p>
-<p><span class="male" title="sherlockHolmes">Sherlock Holmes glanced
-            sharply across at me</span> with a slight shrug of his
-      shoulders.</p>
-<p><q class="sherlockHolmes">There is your hat, then, and there your
-            bird,</q> said he. <q class="sherlockHolmes">By the way,
-            would it bore you to tell me where you got the other one from? I am
-            somewhat of a fowl fancier, and I have seldom seen a better grown
-            goose.</q></p>
-<p><q class="henryBaker">Certainly, sir,</q> said <span class="male" title="henryBaker">Baker, who had risen
-            and tucked his newly gained property under his arm</span>. <q class="henryBaker">There are a few of us
-            who frequent the Alpha
-            Inn, near the Museum—we are to be found in the Museum itself during
-            the day, you understand. This year our good host, Windigate by name,
-            instituted a goose club, by which, on consideration of some few
-            pence every week, we were each to receive a bird at Christmas. My
-            pence were duly paid, and the rest is familiar to you. I am much
-            indebted to you, sir, for a Scotch bonnet is fitted neither to my
-            years nor my gravity.</q> With a comical pomposity of manner
-      <span class="male" title="henryBaker">he
-            bowed solemnly</span> to both of us and strode off upon his
-      way.
-</p>
-<p><q class="sherlockHolmes">So much for Mr. Henry Baker,</q> said Holmes
-      when he had closed the door behind him. <q class="sherlockHolmes">It
-            is quite certain that he knows nothing whatever about the matter.
-            Are you hungry, Watson?</q></p>
-<p><q class="johnWatson">Not particularly.</q></p>
-<p><q class="sherlockHolmes">Then I suggest that we turn our dinner into a
-            supper and follow up this clue while it is still hot.</q></p>
-<p><q class="johnWatson">By all means.</q></p>
-<p>It was a bitter night, so <span class="male" title="sherlockHolmes, johnWatson">we drew on our
-            ulsters and wrapped cravats about our throats</span>. Outside, the
-      stars were shining coldly in a cloudless sky, and the breath of the
-      passers-by blew out into smoke like so many pistol shots. Our footfalls rang
-      out crisply and loudly as <span class="male" title="sherlockHolmes, johnWatson">we swung through
-            the doctors' quarter</span>, Wimpole Street, Harley Street, and so
-      through Wigmore Street into Oxford Street. In a quarter of an hour we were
-      in Bloomsbury at the Alpha Inn, which is a small public-house at the corner
-      of one of the streets which runs down into Holborn. <span class="male" title="sherlockHolmes">Holmes pushed
-            open the door</span> of the private bar and ordered two glasses of
-      beer from the ruddy-faced, white-aproned landlord.</p>
-<p><q class="sherlockHolmes">Your beer should be excellent if it is as good as
-            your geese,</q> said he.</p>
-<p><q class="windigate">My geese!</q> The man seemed surprised.</p>
-<p><q class="sherlockHolmes">Yes. I was speaking only half an hour ago to Mr.
-            Henry Baker, who was a member of your goose club.</q></p>
-<p><q class="windigate">Ah! yes, I see. But you see, sir, them's not _our_
-            geese.</q></p>
-<p><q class="sherlockHolmes">Indeed! Whose, then?</q></p>
-<p><q class="windigate">Well, I got the two dozen from a salesman in Covent
-            Garden.</q></p>
-<p><q class="sherlockHolmes">Indeed? I know some of them. Which was
-            it?</q></p>
-<p><q class="windigate">Breckinridge is his name.</q></p>
-<p><q class="sherlockHolmes">Ah! I don't know him. Well, here's your good
-            health landlord, and prosperity to your house.
-            Good-night.</q></p>
-<p><q class="sherlockHolmes">Now for Mr. Breckinridge,</q> he continued,
-      buttoning up his coat as we came out into the frosty air. <q class="sherlockHolmes">Remember, Watson that
-            though we have so
-            homely a thing as a goose at one end of this chain, we have at the
-            other a man who will certainly get seven years' penal servitude
-            unless we can establish his innocence. It is possible that our
-            inquiry may but confirm his guilt; but, in any case, we have a line
-            of investigation which has been missed by the police, and which a
-            singular chance has placed in our hands. Let us follow it out to the
-            bitter end. Faces to the south, then, and quick march!</q></p>
-<p>We passed across Holborn, down Endell Street, and so through a zigzag of slums to
-      Covent Garden Market. One of the largest stalls bore the name of
-      Breckinridge upon it, and the proprietor a horsey-looking man, with a sharp
-      face and trim side-whiskers was helping a boy to put up the shutters.</p>
-<p><q class="sherlockHolmes">Good-evening. It's a cold night,</q> said
-      Holmes.</p>
-<p><span class="male" title="breckinridge">The salesman nodded and
-            shot a questioning glance at my companion.</span></p>
-<p><q class="sherlockHolmes">Sold out of geese, I see,</q> continued
-      Holmes, pointing at the bare slabs of marble.</p>
-<p><q class="breckinridge">Let you have five hundred to-morrow
-            morning.</q></p>
-<p><q class="sherlockHolmes">That's no good.</q></p>
-<p><q class="breckinridge">Well, there are some on the stall with the
-            gas-flare.</q></p>
-<p><q class="sherlockHolmes">Ah, but I was recommended to you.</q></p>
-<p><q class="breckinridge">Who by?</q></p>
-<p><q class="sherlockHolmes">The landlord of the Alpha.</q></p>
-<p><q class="breckinridge">Oh, yes; I sent him a couple of dozen.</q></p>
-<p><q class="sherlockHolmes">Fine birds they were, too. Now where did you get
-            them from?</q></p>
-<p>To my surprise the question provoked a burst of anger from the salesman.</p>
-<p><q class="breckinridge">Now, then, mister,</q> said he, with his head
-      cocked and his arms akimbo, <q class="breckinridge">what are you
-            driving at? Let's have it straight, now.</q></p>
-<p><q class="sherlockHolmes">It is straight enough. I should like to know who
-            sold you the geese which you supplied to the Alpha.</q></p>
-<p><q class="breckinridge">Well then, I shan't tell you. So now!</q></p>
-<p><q class="sherlockHolmes">Oh, it is a matter of no importance; but I don't
-            know why you should be so warm over such a trifle.</q></p>
-<p><q class="breckinridge">Warm! You'd be as warm, maybe, if you were as
-            pestered as I am. When I pay good money for a good article there
-            should be an end of the business; but it's 'Where are the geese?'
-            and 'Who did you sell the geese to?' and 'What will you take for the
-            geese?' One would think they were the only geese in the world, to
-            hear the fuss that is made over them.</q></p>
-<p><q class="sherlockHolmes">Well, I have no connection with any other people
-            who have been making inquiries,</q> said Holmes carelessly.
-      <q class="sherlockHolmes">If you won't tell us the bet is off,
-            that is all. But I'm always ready to back my opinion on a matter of
-            fowls, and I have a fiver on it that the bird I ate is country
-            bred.</q>
-</p>
-<p><q class="breckinridge">Well, then, you've lost your fiver, for it's town
-            bred,</q> snapped the salesman.</p>
-<p><q class="sherlockHolmes">It's nothing of the kind.</q></p>
-<p><q class="breckinridge">I say it is.</q></p>
-<p><q class="sherlockHolmes">I don't believe it.</q></p>
-<p><q class="breckinridge">D'you think you know more about fowls than I, who
-            have handled them ever since I was a nipper? I tell you, all those
-            birds that went to the Alpha were town bred.</q></p>
-<p><q class="sherlockHolmes">You'll never persuade me to believe
-            that.</q></p>
-<p><q class="breckinridge">Will you bet, then?</q></p>
-<p><q class="sherlockHolmes">It's merely taking your money, for I know that I
-            am right. But I'll have a sovereign on with you, just to teach you
-            not to be obstinate.</q></p>
-<p>The salesman chuckled grimly. <q class="breckinridge">Bring me the books,
-            Bill,</q> said he.</p>
-<p><span class="male" title="bill">The small boy brought round a
-            small thin volume and a great greasy-backed one</span>, laying
-      them out together beneath the hanging lamp.</p>
-<p><q class="breckinridge">Now then, Mr. Cocksure,</q> said the salesman,
-      <q class="breckinridge">I thought that I was out of geese, but
-            before I finish you'll find that there is still one left in my shop.
-            You see this little book?</q>
-</p>
-<p><q class="sherlockHolmes">Well?</q></p>
-<p><q class="breckinridge">That's the list of the folk from whom I buy. D'you
-            see? Well, then, here on this page are the country folk, and the
-            numbers after their names are where their accounts are in the big
-            ledger. Now, then! You see this other page in red ink? Well, that is
-            a list of my town suppliers. Now, look at that third name. Just read
-            it out to me.</q></p>
-<p><q class="sherlockHolmes">Mrs. Oakshott, 117, Brixton Road—249,</q>
-      read Holmes.</p>
-<p><q class="breckinridge">Quite so. Now turn that up in the
-            ledger.</q></p>
-<p><span class="male" title="sherlockHolmes">Holmes turned to the
-            page</span> indicated. <q class="sherlockHolmes">Here you
-            are, 'Mrs. Oakshott, 117, Brixton Road, egg and poultry
-            supplier.'</q></p>
-<p><q class="breckinridge">Now, then, what's the last entry?</q></p>
-<p><q class="sherlockHolmes">'December 22nd. Twenty-four geese at 7_s_.
-            6_d_.'</q></p>
-<p><q class="breckinridge">Quite so. There you are. And
-            underneath?</q></p>
-<p><q class="sherlockHolmes">'Sold to Mr. Windigate of the Alpha, at
-            12_s_.'</q></p>
-<p><q class="breckinridge">What have you to say now?</q></p>
-<p>Sherlock Holmes looked deeply chagrined. <span class="male" title="sherlockHolmes">He drew a sovereign from his
-            pocket and threw it down upon the slab, turning away with the air of
-            a man whose disgust is too deep for words</span>. A few yards off
-      he stopped under a lamp-post and laughed in the hearty, noiseless fashion
-      which was peculiar to him.</p>
-<p><q class="sherlockHolmes">When you see a man with whiskers of that cut and
-            the 'Pink 'un' protruding out of his pocket, you can always draw him
-            by a bet,</q> said he. <q class="sherlockHolmes">I daresay
-            that if I had put £ 100 down in front of him, that man would not
-            have given me such complete information as was drawn from him by the
-            idea that he was doing me on a wager. Well, Watson, we are, I fancy,
-            nearing the end of our quest, and the only point which remains to be
-            determined is whether we should go on to this Mrs. Oakshott
-            to-night, or whether we should reserve it for to-morrow. It is clear
-            from what that surly fellow said that there are others besides
-            ourselves who are anxious about the matter, and I
-            should—</q></p>
-<p>His remarks were suddenly cut short by a loud hubbub which broke out from the
-      stall which we had just left. Turning round we saw a little rat-faced fellow
-      standing in the centre of the circle of yellow light which was thrown by the
-      swinging lamp, while <span class="male" title="breckinridge">Breckinridge, the salesman, framed in the door
-            of
-            his stall, was shaking his fists</span> fiercely at the cringing
-      figure.</p>
-<p><q class="breckinridge">I've had enough of you and your geese,</q> he
-      shouted. <q class="breckinridge">I wish you were all at the devil
-            together. If you come pestering me any more with your silly talk
-            I'll set the dog at you. You bring Mrs. Oakshott here and I'll
-            answer her, but what have you to do with it? Did I buy the geese off
-            you?</q></p>
-<p><q class="jamesRyder">No; but one of them was mine all the same,</q>
-      whined the little man.</p>
-<p><q class="breckinridge">Well, then, ask Mrs. Oakshott for it.</q></p>
-<p><q class="jamesRyder">She told me to ask you.</q></p>
-<p><q class="breckinridge">Well, you can ask the King of Proosia, for all I
-            care. I've had enough of it. Get out of this!</q> He rushed
-      fiercely forward, and the inquirer flitted away into the darkness.</p>
-<p><q class="sherlockHolmes">Ha! this may save us a visit to Brixton
-            Road,</q> whispered Holmes. <q class="sherlockHolmes">Come
-            with me, and we will see what is to be made of this fellow.</q>
-      Striding through the scattered knots of people who lounged round the flaring
-      stalls, <span class="male" title="sherlockHolmes">my
-            companion speedily overtook the little man</span>
-      and touched him upon the shoulder. He sprang round, and I could see in the
-      gas-light that every vestige of colour had been driven from his face.</p>
-<p><q class="jamesRyder">Who are you, then? What do you want?</q> he asked
-      in a quavering voice.</p>
-<p><q class="sherlockHolmes">You will excuse me,</q> said Holmes blandly,
-      <q class="sherlockHolmes">but I could not help overhearing the
-            questions which you put to the salesman just now. I think that I
-            could be of assistance to you.</q>
-</p>
-<p><q class="jamesRyder">You? Who are you? How could you know anything of the
-            matter?</q></p>
-<p><q class="sherlockHolmes">My name is Sherlock Holmes. It is my business to
-            know what other people don't know.</q></p>
-<p><q class="jamesRyder">But you can know nothing of this?</q></p>
-<p><q class="sherlockHolmes">Excuse me, I know everything of it. You are
-            endeavouring to trace some geese which were sold by Mrs. Oakshott,
-            of Brixton Road, to a salesman named Breckinridge, by him in turn to
-            Mr. Windigate, of the Alpha, and by him to his club, of which Mr.
-            Henry Baker is a member.</q></p>
-<p><q class="jamesRyder">Oh, sir, you are the very man whom I have longed to
-            meet,</q> cried the little fellow with outstretched hands and
-      quivering fingers. <q class="jamesRyder">I can hardly explain to you
-            how interested I am in this matter.</q></p>
-<p><span class="male" title="sherlockHolmes">Sherlock Holmes hailed a
-            four-wheeler</span> which was passing. <q class="sherlockHolmes">In that case we had better discuss it
-            in a
-            cosy room rather than in this wind-swept market-place,</q> said
-      he. <q class="sherlockHolmes">But pray tell me, before we go farther,
-            who it is that I have the pleasure of assisting.</q></p>
-<p><span class="male" title="jamesRyder">The man hesitated for an
-            instant</span>. <q class="jamesRyder">My name is John
-            Robinson,</q> he answered with a sidelong glance.</p>
-<p><q class="sherlockHolmes">No, no; the real name,</q> said Holmes
-      sweetly. <q class="sherlockHolmes">It is always awkward doing business
-            with an alias.</q></p>
-<p>A flush sprang to the white cheeks of the stranger. <q class="jamesRyder">Well then,</q> said he, <q
-            class="jamesRyder">my real
-            name is James Ryder.</q></p>
-<p><q class="sherlockHolmes">Precisely so. Head attendant at the Hotel
-            Cosmopolitan. Pray step into the cab, and I shall soon be able to
-            tell you everything which you would wish to know.</q></p>
-<p><span class="male" title="jamesRyder">The little man stood
-            glancing from one to the other of us with half-frightened,
-            half-hopeful eyes</span>, as one who is not sure whether he is on
-      the verge of a windfall or of a catastrophe. Then <span class="male" title="jamesRyder">he stepped into the
-            cab</span>, and in half an hour we were back in the sitting-room
-      at Baker Street. Nothing had been said during our drive, but the high, thin
-      breathing of our new companion, and the claspings and unclaspings of his
-      hands, spoke of the nervous tension within him.</p>
-<p><q class="sherlockHolmes">Here we are!</q> said Holmes cheerily as we
-      filed into the room. <q class="sherlockHolmes">The fire looks very
-            seasonable in this weather. You look cold, Mr. Ryder. Pray take the
-            basket-chair. I will just put on my slippers before we settle this
-            little matter of yours. Now, then! You want to know what became of
-            those geese?</q></p>
-<p><q class="jamesRyder">Yes, sir.</q></p>
-<p><q class="sherlockHolmes">Or rather, I fancy, of that goose. It was one
-            bird, I imagine in which you were interested—white, with a black bar
-            across the tail.</q></p>
-<p>Ryder quivered with emotion. <q class="jamesRyder">Oh, sir,</q> he
-      cried, <q class="jamesRyder">can you tell me where it went
-            to?</q></p>
-<p><q class="sherlockHolmes">It came here.</q></p>
-<p><q class="jamesRyder">Here?</q></p>
-<p><q class="sherlockHolmes">Yes, and a most remarkable bird it proved. I
-            don't wonder that you should take an interest in it. It laid an egg
-            after it was dead—the bonniest, brightest little blue egg that ever
-            was seen. I have it here in my museum.</q></p>
-<p><span class="male" title="jamesRyder">Our visitor staggered to his
-            feet and clutched the mantelpiece with his right hand</span>.
-      <span class="male" title="sherlockHolmes">Holmes unlocked his strong-box and held up the blue
-            carbuncle</span>, which shone out like a star, with a cold,
-      brilliant, many-pointed radiance. <span class="male" title="jamesRyder">Ryder stood glaring</span> with a
-      drawn face, uncertain whether to claim or to disown it.
-</p>
-<p><q class="sherlockHolmes">The game's up, Ryder,</q> said Holmes
-      quietly. <q class="sherlockHolmes">Hold up, man, or you'll be into the
-            fire! Give him an arm back into his chair, Watson. He's not got
-            blood enough to go in for felony with impunity. Give him a dash of
-            brandy. So! Now he looks a little more human. What a shrimp it is,
-            to be sure!</q></p>
-<p>For a moment <span class="male" title="jamesRyder">he had
-            staggered and nearly fallen</span>, but the brandy brought a tinge
-      of colour into his cheeks, and <span class="male" title="jamesRyder">he sat staring</span> with frightened
-      eyes at his
-      accuser.</p>
-<p><q class="sherlockHolmes">I have almost every link in my hands, and all the
-            proofs which I could possibly need, so there is little which you
-            need tell me. Still, that little may as well be cleared up to make
-            the case complete. You had heard, Ryder, of this blue stone of the
-            Countess of Morcar's?</q></p>
-<p><q class="jamesRyder">It was Catherine Cusack who told me of it,</q>
-      said he in a crackling voice.</p>
-<p><q class="sherlockHolmes">I see—her ladyship's waiting-maid. Well, the
-            temptation of sudden wealth so easily acquired was too much for you,
-            as it has been for better men before you; but you were not very
-            scrupulous in the means you used. It seems to me, Ryder, that there
-            is the making of a very pretty villain in you. You knew that this
-            man Horner, the plumber, had been concerned in some such matter
-            before, and that suspicion would rest the more readily upon him.
-            What did you do, then? <span class="male" title="jamesRyder">You made some small job</span> in my
-            lady's room—you and your confederate Cusack—and <span class="male" title="jamesRyder">you managed
-                  that he should be the man sent for</span>. Then, when he
-            had left, <span class="male" title="jamesRyder">you
-                  rifled the jewel-case, raised the alarm, and had this
-                  unfortunate man arrested</span>. You then—</q></p>
-<p><span class="male" title="jamesRyder">Ryder threw himself down
-            suddenly upon the rug and clutched at my companion's knees</span>.
-      <q class="jamesRyder">For God's sake, have mercy!</q> he
-      shrieked. <q class="jamesRyder">Think of my father! Of my mother! It
-            would break their hearts. I never went wrong before! I never will
-            again. I swear it. I'll swear it on a Bible. Oh, don't bring it into
-            court! For Christ's sake, don't!</q>
-</p>
-<p><q class="sherlockHolmes">Get back into your chair!</q> said Holmes
-      sternly. <q class="sherlockHolmes">It is very well to cringe and crawl
-            now, but you thought little enough of this poor Horner in the dock
-            for a crime of which he knew nothing.</q></p>
-<p><q class="jamesRyder">I will fly, Mr. Holmes. I will leave the country,
-            sir. Then the charge against him will break down.</q></p>
-<p><q class="sherlockHolmes">Hum! We will talk about that. And now let us hear
-            a true account of the next act. How came the stone into the goose,
-            and how came the goose into the open market? Tell us the truth, for
-            there lies your only hope of safety.</q></p>
-<p>Ryder passed his tongue over his parched lips. <q class="jamesRyder">I will
-            tell you it just as it happened, sir,</q> said he. <q class="jamesRyder">When Horner had been
-            arrested, it seemed to me
-            that it would be best for me to get away with the stone at once, for
-            I did not know at what moment the police might not take it into
-            their heads to search me and my room. There was no place about the
-            hotel where it would be safe. <span class="male" title="jamesRyder">I went out, as if on some
-                  commission</span>, and <span class="male" title="jamesRyder">I made for my sister's
-                  house</span>. She had married a man named Oakshott, and
-            lived in Brixton Road, where she fattened fowls for the market. All
-            the way there every man I met seemed to me to be a policeman or a
-            detective; and, for all that it was a cold night, the sweat was
-            pouring down my face before I came to the Brixton Road. My sister
-            asked me what was the matter, and why I was so pale; but I told her
-            that I had been upset by the jewel robbery at the hotel. Then
-            <span class="male" title="jamesRyder">I went into the back yard and smoked a
-                  pipe</span> and wondered what it would be best to
-            do.</q></p>
-<p><q class="jamesRyder">I had a friend once called Maudsley, who went to the
-            bad, and has just been serving his time in Pentonville. One day he
-            had met me, and fell into talk about the ways of thieves, and how
-            they could get rid of what they stole. I knew that he would be true
-            to me, for I knew one or two things about him; so I made up my mind
-            to go right on to Kilburn, where he lived, and take him into my
-            confidence. He would show me how to turn the stone into money. But
-            how to get to him in safety? <span class="male" title="jamesRyder">I thought of the agonies I
-                  had gone through in coming from the hotel</span>. I might
-            at any moment be seized and searched, and there would be the stone
-            in my waistcoat pocket. <span class="male" title="jamesRyder">I was leaning against the
-                  wall</span> at the time and looking at the geese which
-            were waddling about round my feet, and suddenly an idea came into my
-            head which showed me how I could beat the best detective that ever
-            lived.</q></p>
-<p><q class="jamesRyder">My sister had told me some weeks before that I might
-            have the pick of her geese for a Christmas present, and I knew that
-            she was always as good as her word. <span class="male" title="jamesRyder">I would take my
-                  goose</span> now, and in it I would carry my stone to
-            Kilburn. There was a little shed in the yard, and behind this
-            <span class="male" title="jamesRyder">I drove one of the birds</span>—a fine big
-            one, white, with a barred tail. <span class="male" title="jamesRyder">I caught it</span>, and
-            prying its bill open, <span class="male" title="jamesRyder">I thrust the stone down its throat</span>
-            as far as my finger could reach. The bird gave a gulp, and I felt
-            the stone pass along its gullet and down into its crop. But the
-            creature flapped and struggled, and out came my sister to know what
-            was the matter. As I turned to speak to her the brute broke loose
-            and fluttered off among the others.</q></p>
-<p><q class="jamesRyder"><q class="maggieRyder">Whatever were you doing
-                  with that bird, Jem?</q><br /> says she. <q class="jamesRyder">Well,</q><br /> said I, <q
-                  class="jamesRyder">you said you'd give me one for
-                  Christmas, and I was feeling which was the fattest.</q><br />
-            <q class="maggieRyder">Oh,</q><br /> says she, <q class="maggieRyder">we've set yours aside for
-                  you—Jem's
-                  bird, we call it. It's the big white one over yonder.
-                  There's twenty-six of them, which makes one for you, and one
-                  for us, and two dozen for the market.</q><br />
-            <q class="jamesRyder">Thank you, Maggie,</q><br /> says I; <q class="jamesRyder">but if it is all the
-                  same to you, I'd
-                  rather have that one I was handling just now.</q><br />
-            <q class="maggieRyder">The other is a good three pound
-                  heavier,</q><br /> said she, <q class="maggieRyder">and we
-                  fattened it expressly for you.</q><br />
-            <q class="jamesRyder">Never mind. I'll have the other, and I'll
-                  take it now,</q><br /> said I. <q class="maggieRyder">Oh,
-                  just as you like,</q><br /> said she, a little huffed. <q class="maggieRyder">Which is it you
-                  want, then?</q><br />
-            <q class="jamesRyder">That white one with the barred tail,
-                  right in the middle of the flock.</q><br />
-            <q class="maggieRyder">Oh, very well. Kill it and take it with
-                  you.</q></q></p>
-<p><q class="jamesRyder">Well, <span class="male" title="jamesRyder">I did what she said</span>, Mr. Holmes,
-            and <span class="male" title="jamesRyder">I carried
-                  the bird all the way to Kilburn</span>. <span class="male" title="jamesRyder">I told my pal what
-                  I had done</span>, for he was a man that it was easy to tell a thing like
-            that to. He laughed until he choked, and we got a knife and opened
-            the goose. My heart turned to water, for there was no sign of the
-            stone, and I knew that some terrible mistake had occurred. <span class="male" title="jamesRyder">I
-                  left
-                  the bird, rushed back to my sister's, and hurried into the back
-                  yard.</span> There was not a bird to be seen there.</q></p>
-<p><q class="jamesRyder"><q class="jamesRyder">Where are they all,
-                  Maggie?</q><br /> I cried. <q class="maggieRyder">Gone to
-                  the dealer</q><br />s, Jem.' <q class="jamesRyder">Which
-                  dealer's?</q><br />
-            <q class="maggieRyder">Breckinridge, of Covent Garden.</q><br />
-            <q class="jamesRyder">But was there another with a barred
-                  tail?</q><br /> I asked, <q class="jamesRyder">the same as
-                  the one I chose?</q><br />
-            <q class="maggieRyder">Yes, Jem; there were two barred-tailed
-                  ones, and I could never tell them apart.</q></q></p>
-<p><q class="jamesRyder">Well, then, of course I saw it all, and <span class="male" title="jamesRyder">I ran off
-                  as
-                  hard as my feet would carry me</span> to this man Breckinridge; but he had
-            sold the lot at once, and not one word would he tell me as to where
-            they had gone. You heard him yourselves to-night. Well, he has
-            always answered me like that. My sister thinks that I am going mad.
-            Sometimes I think that I am myself. And now—and now I am myself a
-            branded thief, without ever having touched the wealth for which I
-            sold my character. God help me! God help me!</q> He burst into
-      convulsive sobbing, with his face buried in his hands.</p>
-<p>There was a long silence, broken only by his heavy breathing and by the measured
-      tapping of Sherlock Holmes' finger-tips upon the edge of the table. Then my
-      friend rose and threw open the door.</p>
-<p><q class="sherlockHolmes">Get out!</q> said he.</p>
-<p><q class="jamesRyder">What, sir! Oh, Heaven bless you!</q></p>
-<p><q class="sherlockHolmes">No more words. Get out!</q></p>
-<p>And no more words were needed. There was a rush, a clatter upon the stairs, the
-      bang of a door, and the crisp rattle of running footfalls from the
-      street.</p>
-<p><q class="sherlockHolmes">After all, Watson,</q> said Holmes, reaching
-      up his hand for his clay pipe, <q class="sherlockHolmes">I am not
-            retained by the police to supply their deficiencies. If Horner were
-            in danger it would be another thing; but this fellow will not appear
-            against him, and the case must collapse. I suppose that I am
-            commuting a felony, but it is just possible that I am saving a soul.
-            This fellow will not go wrong again; he is too terribly frightened.
-            Send him to gaol now, and you make him a gaol-bird for life.
-            Besides, it is the season of forgiveness. Chance has put in our way
-            a most singular and whimsical problem, and its solution is its own
-            reward. If you will have the goodness to touch the bell, Doctor, we
-            will begin another investigation, in which, also a bird will be the
-            chief feature.</q></p>`;
+const story1 = `
+<h2>I. A SCANDAL IN BOHEMIA</h2>
+<p>
+   To SherlockHolmes she is always _the_ woman. I have seldom heard him
+   mention her under any other name. In his eyes <span class="female" title="ireneAdler">she eclipses and
+      predominates the whole of her sex</span>. It was not that he felt any emotion
+   akin to love for Irene Adler. All emotions, and that one particularly,
+   were abhorrent to his cold, precise but admirably balanced mind. He
+   was, I take it, the most perfect reasoning and observing machine that
+   the world has seen, but as a lover he would have placed himself in a
+   false position. He never spoke of the softer passions, save with a gibe
+   and a sneer. They were admirable things for the observer—excellent for
+   drawing the veil from men’s motives and actions. But for the trained
+   reasoner to admit such intrusions into his own delicate and finely
+   adjusted temperament was to introduce a distracting factor which might
+   throw a doubt upon all his mental results. Grit in a sensitive
+   instrument, or a crack in one of his own high-power lenses, would not
+   be more disturbing than a strong emotion in a nature such as his. And
+   yet there was but one woman to him, and that woman was the late Irene
+   Adler, of dubious and questionable memory.
+   </p>
+<p>
+   I had seen little ofHolmes lately. My marriage had drifted us away
+   from each other. My own complete happiness, and the home-centred
+   interests which rise up around the man who first finds himself master
+   of his own establishment, were sufficient to absorb all my attention,
+   while<span class="sw-action">Holmes, who loathed every form of society with his whole Bohemian
+      soul, remained in our lodgings in Baker Street, buried among his old
+      books, and alternating from week to week between cocaine and ambition,
+      the drowsiness of the drug, and the fierce energy of his own keen
+      nature</span>. He was still, as ever, deeply attracted by the study of crime,
+   and <span class="sw-action">occupied his immense faculties and extraordinary powers of
+      observation in following out those clues, and clearing up those
+      mysteries which had been abandoned as hopeless by the official police.</span>
+   From time to time I heard some vague account of his doings: of <span class="sw-action">his
+      summons to Odessa in the case of the Trepoff murder, of his clearing up
+      of the singular tragedy of the Atkinson brothers at Trincomalee, and
+      finally of the mission which he had accomplished so delicately and
+      successfully for the reigning family of Holland</span>. Beyond these signs of
+   his activity, however, which <span class="sw-action">I merely shared with all the readers of
+      the daily press,</span> I knew little of my former friend and companion.
+   </p>
+<p>
+   One night—it was on the twentieth of March, 1888—<span class="sw-action">I was returning from a
+      journey to a patient (for I had now returned to civil practice), when
+      my way led me through Baker Street</span>. As <span class="sw-action">I passed the well-remembered
+      door</span>, which must always be associated in my mind with my wooing, and
+   with the dark incidents of the Study in Scarlet, I was seized with a
+   keen desire to seeHolmes again, and to know how he was employing his
+   extraordinary powers. His rooms were brilliantly lit, and, even <span class="sw-action">as I
+      looked up, I saw his tall, spare figure pass twice in a dark silhouette
+      against the blind</span>. <span class="sw-action">He was pacing the room swiftly, eagerly, with his
+      head sunk upon his chest and his hands clasped behind him</span>. To me, who
+   knew his every mood and habit, his attitude and manner told their own
+   story. <span class="sw-action">He was at work again. He had risen out of his drug-created
+      dreams and was hot upon the scent of some new problem</span>. <span class="sw-action">I rang the bell
+      and was shown up to the chamber which had formerly been in part my own.</span>
+   </p>
+<p>
+   His manner was not effusive. It seldom was; but he was glad, I think,
+   to see me. With hardly a word spoken, but with a kindly eye, <span class="sw-action">he waved
+      me to an armchair, threw across his case of cigars, and indicated a
+      spirit case and a gasogene in the corner. Then he stood before the fire
+      and looked me over in his singular introspective fashion</span>.
+   </p>
+<p>
+   <q class="sw-quote">Wedlock suits you,</q> he remarked. <q class="sw-quote">I think,Watson, that you have put
+      on seven and a half pounds since I saw you.</q>
+   </p>
+<p>
+   <q class="sw-quote">Seven!</q> I answered.
+   </p>
+<p>
+   <q class="sw-quote">Indeed, I should have thought a little more. Just a trifle more, I
+      fancy,Watson. And in practice again, I observe. You did not tell me
+      that you intended to go into harness.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then, how do you know?</q>
+   </p>
+<p>
+   <q class="sw-quote">I see it, I deduce it. How do I know that you have been getting
+      yourself very wet lately, and that you have a most clumsy and careless
+      servant girl?</q>
+   </p>
+<p>
+   <q class="sw-quote">My dearHolmes,</q> said I, <q class="sw-quote">this is too much. You would certainly have
+      been burned, had you lived a few centuries ago. It is true that <span class="sw-action">I had a
+         country walk on Thursday and came home in a dreadful mess</span>, but as I
+      have changed my clothes I can’t imagine how you deduce it. As to Mary
+      Jane, she is incorrigible, and my wife has given her notice, but there,
+      again, I fail to see how you work it out.</q>
+   </p>
+<p>
+   <span class="sw-action">He chuckled to himself and rubbed his long, nervous hands together.</span>
+   </p>
+<p>
+   <q class="sw-quote">It is simplicity itself,</q> said he; <q class="sw-quote">my eyes tell me that on the inside
+      of your left shoe, just where the firelight strikes it, the leather is
+      scored by six almost parallel cuts. Obviously they have been caused by
+      someone who has very carelessly scraped round the edges of the sole in
+      order to remove crusted mud from it. Hence, you see, my double
+      deduction that you had been out in vile weather, and that you had a
+      particularly malignant boot-slitting specimen of the London slavey. As
+      to your practice, if a gentleman walks into my rooms smelling of
+      iodoform, with a black mark of nitrate of silver upon his right
+      forefinger, and a bulge on the right side of his top-hat to show where
+      he has secreted his stethoscope, I must be dull, indeed, if I do not
+      pronounce him to be an active member of the medical profession.</q>
+   </p>
+<p>
+   <span class="sw-action">I could not help laughing at the ease with which he explained his
+      process of deduction.</span> <q class="sw-quote">When I hear you give your reasons,</q> I remarked,
+   <q class="sw-quote">the thing always appears to me to be so ridiculously simple that I
+      could easily do it myself, though at each successive instance of your
+      reasoning I am baffled until you explain your process. And yet I
+      believe that my eyes are as good as yours.</q>
+   </p>
+<p>
+   <q class="sw-quote">Quite so,</q> <span class="sw-action">he answered, lighting a cigarette, and throwing himself
+      down into an armchair</span>. <q class="sw-quote">You see, but you do not observe. The
+      distinction is clear. For example, you have frequently seen the steps
+      which lead up from the hall to this room.</q>
+   </p>
+<p>
+   <q class="sw-quote">Frequently.</q>
+   </p>
+<p>
+   <q class="sw-quote">How often?</q>
+   </p>
+<p>
+   <q class="sw-quote">Well, some hundreds of times.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then how many are there?</q>
+   </p>
+<p>
+   <q class="sw-quote">How many? I don’t know.</q>
+   </p>
+<p>
+   <q class="sw-quote">Quite so! You have not observed. And yet you have seen. That is just
+      my point. Now, I know that there are seventeen steps, because I have
+      both seen and observed. By the way, since you are interested in these
+      little problems, and since you are good enough to chronicle one or two
+      of my trifling experiences, you may be interested in this.</q> <span class="sw-action">He threw
+      over a sheet of thick, pink-tinted notepaper which had been lying open
+      upon the table</span>. <q class="sw-quote">It came by the last post,</q> said he. <q class="sw-quote">Read it aloud.</q>
+   </p>
+<p>
+   The note was undated, and without either signature or address.
+   </p>
+<p>
+   <q class="sw-quote">There will call upon you to-night, at a quarter to eight o’clock,</q> it
+   said, <q class="sw-quote">a gentleman who desires to consult you upon a matter of the very
+      deepest moment. Your recent services to one of the royal houses of
+      Europe have shown that you are one who may safely be trusted with
+      matters which are of an importance which can hardly be exaggerated.
+      This account of you we have from all quarters received. Be in your
+      chamber then at that hour, and do not take it amiss if your visitor
+      wear a mask.</q>
+   </p>
+<p>
+   <q class="sw-quote">This is indeed a mystery,</q> I remarked. <q class="sw-quote">What do you imagine that it
+      means?</q>
+   </p>
+<p>
+   <q class="sw-quote">I have no data yet. It is a capital mistake to theorise before one has
+      data. Insensibly one begins to twist facts to suit theories, instead of
+      theories to suit facts. But the note itself. What do you deduce from
+      it?</q>
+   </p>
+<p>
+   <span class="sw-action">I carefully examined the writing, and the paper upon which it was
+      written.</span>
+   </p>
+<p>
+   <q class="sw-quote">The man who wrote it was presumably well to do,</q> I remarked,
+   endeavouring to imitate my companion’s processes. <q class="sw-quote">Such paper could not
+      be bought under half a crown a packet. It is peculiarly strong and
+      stiff.</q>
+   </p>
+<p>
+   <q class="sw-quote">Peculiar—that is the very word,</q> saidHolmes. <q class="sw-quote">It is not an English
+      paper at all. Hold it up to the light.</q>
+   </p>
+<p>
+   <span class="sw-action">I did so, and saw a large "E" with a small "g", a "P", and a large "G"
+      with a small "t" woven into the texture of the paper.</span>
+   </p>
+<p>
+   <q class="sw-quote">What do you make of that?</q> askedHolmes.
+   </p>
+<p>
+   <q class="sw-quote">The name of the maker, no doubt; or his monogram, rather.</q>
+   </p>
+<p>
+   <q class="sw-quote">Not at all. The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’
+      which is the German for ‘Company.’ It is a customary contraction like
+      our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us
+      glance at our Continental Gazetteer.</q> He took down a heavy brown volume
+   from his shelves. <q class="sw-quote">Eglow, Eglonitz—here we are, Egria. It is in a
+      German-speaking country—in Bohemia, not far from Carlsbad. ‘Remarkable
+      as being the scene of the death of Wallenstein, and for its numerous
+      glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of
+      that?</q> <span class="sw-action">His eyes sparkled, and he sent up a great blue triumphant cloud
+      from his cigarette.</span>
+   </p>
+<p>
+   <q class="sw-quote">The paper was made in Bohemia,</q> I said.
+   </p>
+<p>
+   <q class="sw-quote">Precisely. And the man who wrote the note is a German. Do you note the
+      peculiar construction of the sentence—‘This account of you we have from
+      all quarters received.’ A Frenchman or Russian could not have written
+      that. It is the German who is so uncourteous to his verbs. It only
+      remains, therefore, to discover what is wanted by this German who
+      writes upon Bohemian paper and prefers wearing a mask to showing his
+      face. And here he comes, if I am not mistaken, to resolve all our
+      doubts.</q>
+   </p>
+<p>
+   As he spoke there was the sharp sound of horses’ hoofs and grating
+   wheels against the curb, followed by a sharp pull at the bell.<span class="sw-action">Holmes
+      whistled.</span>
+   </p>
+<p>
+   <q class="sw-quote">A pair, by the sound,</q> said he. <q class="sw-quote">Yes,</q> <span class="sw-action">he continued, glancing out of
+      the window.</span> <q class="sw-quote">A nice little brougham and a pair of beauties. A hundred
+      and fifty guineas apiece. There’s money in this case,Watson, if there
+      is nothing else.</q>
+   </p>
+<p>
+   <q class="sw-quote">I think that I had better go,Holmes.</q>
+   </p>
+<p>
+   <q class="sw-quote">Not a bit, Doctor. Stay where you are. I am lost without my Boswell.
+      And this promises to be interesting. It would be a pity to miss it.</q>
+   </p>
+<p>
+   <q class="sw-quote">But your client—</q>
+   </p>
+<p>
+   <q class="sw-quote">Never mind him. I may want your help, and so may he. Here he comes.
+      Sit down in that armchair, Doctor, and give us your best attention.</q>
+   </p>
+<p>
+   A slow and heavy step, which had been heard upon the stairs and in the
+   passage, paused immediately outside the door. Then there was a loud and
+   authoritative tap.
+   </p>
+<p>
+   <q class="sw-quote">Come in!</q> saidHolmes.
+   </p>
+<p>
+   <span class="male" title="kingBohemia">A man entered</span> who could hardly have been less than six feet six inches
+   in height, with the chest and limbs of a Hercules. His dress was rich
+   with a richness which would, in England, be looked upon as akin to bad
+   taste. Heavy bands of astrakhan were slashed across the sleeves and
+   fronts of his double-breasted coat, while the deep blue cloak which was
+   thrown over his shoulders was lined with flame-coloured silk and
+   secured at the neck with a brooch which consisted of a single flaming
+   beryl. Boots which extended halfway up his calves, and which were
+   trimmed at the tops with rich brown fur, completed the impression of
+   barbaric opulence which was suggested by his whole appearance. He
+   carried a broad-brimmed hat in his hand, while he wore across the upper
+   part of his face, extending down past the cheekbones, a black vizard
+   mask, which he had apparently adjusted that very moment, for his hand
+   was still raised to it as he entered. From the lower part of the face
+   he appeared to be a man of strong character, with a thick, hanging lip,
+   and a long, straight chin suggestive of resolution pushed to the length
+   of obstinacy.
+   </p>
+<p>
+   <q class="male-quote">You had my note?</q> he asked with a deep harsh voice and a strongly
+   marked German accent. <q class="male-quote">I told you that I would call.</q> He looked from
+   one to the other of us, as if uncertain which to address.
+   </p>
+<p>
+   <q class="sw-quote">Pray take a seat,</q> saidHolmes. <q class="sw-quote">This is my friend and colleague, Dr.
+      Watson, who is occasionally good enough to help me in my cases. Whom
+      have I the honour to address?</q>
+   </p>
+<p>
+   <q class="male-quote">You may address me as the Count Von Kramm, a Bohemian nobleman. I
+      understand that this gentleman, your friend, is a man of honour and
+      discretion, whom I may trust with a matter of the most extreme
+      importance. If not, I should much prefer to communicate with you
+      alone.</q>
+   </p>
+<p>
+   <span class="sw-action">I rose to go</span>, but<span class="sw-action">Holmes caught me by the wrist and pushed me back into
+      my chair</span>. <q class="sw-quote">It is both, or none,</q> said he. <q class="sw-quote">You may say before this
+      gentleman anything which you may say to me.</q>
+   </p>
+<p>
+   <span class="male" title="kingBohemia">The Count shrugged his broad shoulders</span>. <q class="male-quote">Then I must begin,</q> said he,
+   <q class="male-quote">by binding you both to absolute secrecy for two years; at the end of
+      that time the matter will be of no importance. At present it is not too
+      much to say that it is of such weight it may have an influence upon
+      European history.</q>
+   </p>
+<p>
+   <q class="sw-quote">I promise,</q> saidHolmes.
+   </p>
+<p>
+   <q class="sw-quote">And I.</q>
+   </p>
+<p>
+   <q class="male-quote">You will excuse this mask,</q> continued our strange visitor. <q class="male-quote">The august
+      person who employs me wishes his agent to be unknown to you, and I may
+      confess at once that the title by which I have just called myself is
+      not exactly my own.</q>
+   </p>
+<p>
+   <q class="sw-quote">I was aware of it,</q> saidHolmes dryly.
+   </p>
+<p>
+   <q class="male-quote">The circumstances are of great delicacy, and every precaution has to
+      be taken to quench what might grow to be an immense scandal and
+      seriously compromise one of the reigning families of Europe. To speak
+      plainly, the matter implicates the great House of Ormstein, hereditary
+      kings of Bohemia.</q>
+   </p>
+<p>
+   <q class="sw-quote">I was also aware of that,</q> murmured<span class="sw-action">Holmes, settling himself down in
+      his armchair and closing his eyes.</span>
+   </p>
+<p>
+   <span class="male" title="kingBohemia">Our visitor glanced with some apparent surprise at the languid,
+      lounging figure of the man</span> who had been no doubt depicted to him as the
+   most incisive reasoner and most energetic agent in Europe.<span class="sw-action">Holmes
+      slowly reopened his eyes and looked impatiently at his gigantic client.</span>
+   </p>
+<p>
+   <q class="sw-quote">If your Majesty would condescend to state your case,</q> he remarked, <q class="sw-quote">I
+      should be better able to advise you.</q>
+   </p>
+<p>
+   <span class="male" title="kingBohemia">The man sprang from his chair and paced up and down the room in
+      uncontrollable agitation</span>. Then, <span class="male" title="kingBohemia">with a gesture of desperation, he tore
+      the mask from his face and hurled it upon the ground</span>. <q class="male-quote">You are right,</q>
+   he cried; <q class="male-quote">I am the King. Why should I attempt to conceal it?</q>
+   </p>
+<p>
+   <q class="sw-quote">Why, indeed?</q> murmuredHolmes. <q class="sw-quote">Your Majesty had not spoken before I
+      was aware that I was addressing Wilhelm Gottsreich Sigismond von
+      Ormstein, Grand Duke of Cassel-Felstein, and hereditary King of
+      Bohemia.</q>
+   </p>
+<p>
+   <q class="male-quote">But you can understand,</q> said <span class="male" title="kingBohemia">our strange visitor, sitting down once
+      more and passing his hand over his high white forehead</span>, <q class="male-quote">you can
+      understand that I am not accustomed to doing such business in my own
+      person. Yet the matter was so delicate that I could not confide it to
+      an agent without putting myself in his power. <span class="male" title="kingBohemia">I have come _incognito_
+         from Prague for the purpose of consulting you</span>.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then, pray consult,</q> said<span class="sw-action">Holmes, shutting his eyes once more.
+      </span></p>
+<p>
+   <q class="male-quote">The facts are briefly these: Some five years ago, during a lengthy
+      visit to Warsaw, I made the acquaintance of the well-known adventuress,
+      Irene Adler. The name is no doubt familiar to you.</q>
+   </p>
+<p>
+   <q class="sw-quote">Kindly look her up in my index, Doctor,</q> murmuredHolmes without
+   opening his eyes. For many years he had adopted a system of docketing
+   all paragraphs concerning men and things, so that it was difficult to
+   name a subject or a person on which he could not at once furnish
+   information. In this case <span class="sw-action">I found her biography sandwiched in between
+      that of a Hebrew rabbi and that of a staff-commander who had written a
+      monograph upon the deep-sea fishes</span>.
+   </p>
+<p>
+   <q class="sw-quote">Let me see!</q> saidHolmes. <q class="sw-quote">Hum! Born in New Jersey in the year 1858.
+      Contralto—hum! La Scala, hum! Prima donna Imperial Opera of Warsaw—yes!
+      Retired from operatic stage—ha! Living in London—quite so! Your
+      Majesty, as I understand, became entangled with this young person,
+      wrote her some compromising letters, and is now desirous of getting
+      those letters back.</q>
+   </p>
+<p>
+   <q class="male-quote">Precisely so. But how—</q>
+   </p>
+<p>
+   <q class="sw-quote">Was there a secret marriage?</q>
+   </p>
+<p>
+   <q class="male-quote">None.</q>
+   </p>
+<p>
+   <q class="sw-quote">No legal papers or certificates?</q>
+   </p>
+<p>
+   <q class="male-quote">None.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then I fail to follow your Majesty. If this young person should
+      produce her letters for blackmailing or other purposes, how is she to
+      prove their authenticity?</q>
+   </p>
+<p>
+   <q class="male-quote">There is the writing.</q>
+   </p>
+<p>
+   <q class="sw-quote">Pooh, pooh! Forgery.</q>
+   </p>
+<p>
+   <q class="male-quote">My private note-paper.</q>
+   </p>
+<p>
+   <q class="sw-quote">Stolen.</q>
+   </p>
+<p>
+   <q class="male-quote">My own seal.</q>
+   </p>
+<p>
+   <q class="sw-quote">Imitated.</q>
+   </p>
+<p>
+   <q class="male-quote">My photograph.</q>
+   </p>
+<p>
+   <q class="sw-quote">Bought.</q>
+   </p>
+<p>
+   <q class="male-quote">We were both in the photograph.</q>
+   </p>
+<p>
+   <q class="sw-quote">Oh, dear! That is very bad! Your Majesty has indeed committed an
+      indiscretion.</q>
+   </p>
+<p>
+   <q class="male-quote">I was mad—insane.</q>
+   </p>
+<p>
+   <q class="sw-quote">You have compromised yourself seriously.</q>
+   </p>
+<p>
+   <q class="male-quote">I was only Crown Prince then. I was young. I am but thirty now.</q>
+   </p>
+<p>
+   <q class="sw-quote">It must be recovered.</q>
+   </p>
+<p>
+   <q class="male-quote">We have tried and failed.</q>
+   </p>
+<p>
+   <q class="sw-quote">Your Majesty must pay. It must be bought.</q>
+   </p>
+<p>
+   <q class="male-quote">She will not sell.</q>
+   </p>
+<p>
+   <q class="sw-quote">Stolen, then.</q>
+   </p>
+<p>
+   <q class="male-quote">Five attempts have been made. Twice burglars in my pay ransacked her
+      house. Once we diverted her luggage when she travelled. Twice she has
+      been waylaid. There has been no result.</q>
+   </p>
+<p>
+   <q class="sw-quote">No sign of it?</q>
+   </p>
+<p>
+   <q class="male-quote">Absolutely none.</q>
+   </p>
+<p>
+   <span class="sw-action">Holmes laughed</span>. <q class="sw-quote">It is quite a pretty little problem,</q> said he.
+   </p>
+<p>
+   <q class="male-quote">But a very serious one to me,</q> returned the King reproachfully.
+   </p>
+<p>
+   <q class="sw-quote">Very, indeed. And what does she propose to do with the photograph?</q>
+   </p>
+<p>
+   <q class="male-quote">To ruin me.</q>
+   </p>
+<p>
+   <q class="sw-quote">But how?</q>
+   </p>
+<p>
+   <q class="male-quote">I am about to be married.</q>
+   </p>
+<p>
+   <q class="sw-quote">So I have heard.</q>
+   </p>
+<p>
+   <q class="male-quote">To Clotilde Lothman von Saxe-Meningen, second daughter of the King of
+      Scandinavia. You may know the strict principles of her family. She is
+      herself the very soul of delicacy. A shadow of a doubt as to my conduct
+      would bring the matter to an end.</q>
+   </p>
+<p>
+   <q class="sw-quote">And Irene Adler?</q>
+   </p>
+<p>
+   <q class="male-quote">Threatens to send them the photograph. And she will do it. I know that
+      she will do it. You do not know her, but she has a soul of steel. She
+      has the face of the most beautiful of women, and the mind of the most
+      resolute of men. Rather than I should marry another woman, there are no
+      lengths to which she would not go—none.</q>
+   </p>
+<p>
+   <q class="sw-quote">You are sure that she has not sent it yet?</q>
+   </p>
+<p>
+   <q class="male-quote">I am sure.</q>
+   </p>
+<p>
+   <q class="sw-quote">And why?</q>
+   </p>
+<p>
+   <q class="male-quote">Because she has said that she would send it on the day when the
+      betrothal was publicly proclaimed. That will be next Monday.</q>
+   </p>
+<p>
+   <q class="sw-quote">Oh, then we have three days yet,</q> saidHolmes with a yawn. <q class="sw-quote">That is
+      very fortunate, as I have one or two matters of importance to look into
+      just at present. Your Majesty will, of course, stay in London for the
+      present?</q>
+   </p>
+<p>
+   <q class="male-quote">Certainly. You will find me at the Langham under the name of the Count
+      Von Kramm.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then I shall drop you a line to let you know how we progress.</q>
+   </p>
+<p>
+   <q class="male-quote">Pray do so. I shall be all anxiety.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then, as to money?</q>
+   </p>
+<p>
+   <q class="male-quote">You have _carte blanche_.</q>
+   </p>
+<p>
+   <q class="sw-quote">Absolutely?</q>
+   </p>
+<p>
+   <q class="male-quote">I tell you that I would give one of the provinces of my kingdom to
+      have that photograph.</q>
+   </p>
+<p>
+   <q class="sw-quote">And for present expenses?</q>
+   </p>
+<p>
+   The King took a heavy chamois leather bag from under his cloak and laid
+   it on the table.
+   </p>
+<p>
+   <q class="male-quote">There are three hundred pounds in gold and seven hundred in notes,</q> he
+   said.
+   </p>
+<p>
+   <span class="sw-action">Holmes scribbled a receipt upon a sheet of his note-book and handed it
+      to him.</span>
+   </p>
+<p>
+   <q class="sw-quote">And Mademoiselle’s address?</q> he asked.
+   </p>
+<p>
+   <q class="male-quote">Is Briony Lodge, Serpentine Avenue, St. John’s Wood.</q>
+   </p>
+<p>
+   <span class="sw-action">Holmes took a note of it</span>. <q class="sw-quote">One other question,</q> said he. <q class="sw-quote">Was the
+      photograph a cabinet?</q>
+   </p>
+<p>
+   <q class="male-quote">It was.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then, good-night, your Majesty, and I trust that we shall soon have
+      some good news for you. And good-night,Watson,</q> he added, as the
+   wheels of the royal brougham rolled down the street. <q class="sw-quote">If you will be
+      good enough to call to-morrow afternoon at three o’clock I should like
+      to chat this little matter over with you.</q>
+   </p>
+<p>
+   <span class="sw-action">At three o’clock precisely I was at Baker Street</span>, butHolmes had not
+   yet returned. The landlady informed me that <span class="sw-action">he had left the house
+      shortly after eight o’clock in the morning</span>. <span class="sw-action">I sat down beside the fire,
+      however, with the intention of awaiting him, however long he might be</span>.
+   I was already deeply interested in his inquiry, for, though it was
+   surrounded by none of the grim and strange features which were
+   associated with the two crimes which I have already recorded, still,
+   the nature of the case and the exalted station of his client gave it a
+   character of its own. Indeed, apart from the nature of the
+   investigation which my friend had on hand, there was something in his
+   masterly grasp of a situation, and his keen, incisive reasoning, which
+   made it a pleasure to me to study his system of work, and to follow the
+   quick, subtle methods by which he disentangled the most inextricable
+   mysteries. So accustomed was I to his invariable success that the very
+   possibility of his failing had ceased to enter into my head.
+   </p>
+<p>
+   It was close upon four before the door opened, and a drunken-looking
+   groom, ill-kempt and side-whiskered, with an inflamed face and
+   disreputable clothes, walked into the room. Accustomed as I was to my
+   friend’s amazing powers in the use of disguises, <span class="sw-action">I had to look three
+      times before I was certain that it was indeed he</span>. <span class="sw-action">With a nod he
+      vanished into the bedroom, whence he emerged in five minutes
+      tweed-suited and respectable, as of old.</span> <span class="sw-action">Putting his hands into his
+      pockets, he stretched out his legs in front of the fire and laughed
+      heartily for some minutes.</span>
+   </p>
+<p>
+   <q class="sw-quote">Well, really!</q> he cried, and then <span class="sw-action">he choked and laughed again until he
+      was obliged to lie back, limp and helpless, in the chair</span>.
+   </p>
+<p>
+   <q class="sw-quote">What is it?</q>
+   </p>
+<p>
+   <q class="sw-quote">It’s quite too funny. I am sure you could never guess how I employed
+      my morning, or what I ended by doing.</q>
+   </p>
+<p>
+   <q class="sw-quote">I can’t imagine. I suppose that you have been watching the habits, and
+      perhaps the house, of Miss Irene Adler.</q>
+   </p>
+<p>
+   <q class="sw-quote">Quite so; but the sequel was rather unusual. I will tell you, however.
+      <span class="sw-action">I left the house a little after eight o’clock this morning in the
+         character of a groom out of work</span>. There is a wonderful sympathy and
+      freemasonry among horsey men. Be one of them, and you will know all
+      that there is to know. <span class="sw-action">I soon found Briony Lodge</span>. It is a _bijou_
+      villa, with a garden at the back, but built out in front right up to
+      the road, two stories. Chubb lock to the door. Large sitting-room on
+      the right side, well furnished, with long windows almost to the floor,
+      and those preposterous English window fasteners which a child could
+      open. Behind there was nothing remarkable, save that the passage window
+      could be reached from the top of the coach-house. <span class="sw-action">I walked round it and
+         examined it closely from every point of view, but without noting
+         anything else of interest.</span></q>
+   </p>
+<p>
+   <q class="sw-quote"><span class="sw-action">I then lounged down the street and found, as I expected, that there
+         was a mews in a lane which runs down by one wall of the garden. I lent
+         the ostlers a hand in rubbing down their horses, and received in
+         exchange twopence, a glass of half-and-half, two fills of shag tobacco,
+         and as much information as I could desire about Miss Adler, to say
+         nothing of half a dozen other people in the neighbourhood in whom I was
+         not in the least interested, but whose biographies I was compelled to
+         listen to.</span></q>
+   </p>
+<p>
+   <q class="sw-quote">And what of Irene Adler?</q> I asked.
+   </p>
+<p>
+   <q class="sw-quote">Oh, <span class="female" title="ireneAdler">she has turned all the men’s heads down in that part. She is the
+         daintiest thing under a bonnet on this plane</span>t. So say the
+      Serpentine-mews, to a man. <span class="female" title="ireneAdler">She lives quietly, sings at concerts, drives
+         out at five every day, and returns at seven sharp for dinner. Seldom
+         goes out at other times, except when she sings.</span> Has only one male
+      visitor, but a good deal of him. He is dark, handsome, and dashing,
+      never calls less than once a day, and often twice. He is a Mr. Godfrey
+      Norton, of the Inner Temple. See the advantages of a cabman as a
+      confidant. They had driven him home a dozen times from Serpentine-mews,
+      and knew all about him. When I had listened to all they had to tell, <span class="sw-action">I
+         began to walk up and down near Briony Lodge once more, and to think
+         over my plan of campaign</span>.</q>
+   </p>
+<p>
+   <q class="sw-quote">This Godfrey Norton was evidently an important factor in the matter.
+      He was a lawyer. That sounded ominous. What was the relation between
+      them, and what the object of his repeated visits? Was she his client,
+      his friend, or his mistress? If the former, she had probably
+      transferred the photograph to his keeping. If the latter, it was less
+      likely. On the issue of this question depended whether I should
+      continue my work at Briony Lodge, or turn my attention to the
+      gentleman’s chambers in the Temple. It was a delicate point, and it
+      widened the field of my inquiry. I fear that I bore you with these
+      details, but I have to let you see my little difficulties, if you are
+      to understand the situation.</q>
+   </p>
+<p>
+   <q class="sw-quote"><span class="sw-action">I am following you closely</span>,</q> I answered.
+   </p>
+<p>
+   <q class="sw-quote">I was still balancing the matter in my mind when a hansom cab drove up
+      to Briony Lodge, and <span class="male" title="godfreyNorton">a gentleman sprang out</span>. He was a remarkably
+      handsome man, dark, aquiline, and moustached—evidently the man of whom
+      I had heard. He appeared to be in a great hurry, <span class="male" title="godreyNorton">shouted to the cabman
+         to wait, and brushed past the maid who opened the door with the air of
+         a man who was thoroughly at home</span>.</q>
+   </p>
+<p>
+   <q class="sw-quote">He was in the house about half an hour, and <span class="sw-action">I could catch glimpses of
+         him in the windows of the sitting-room</span>, <span class="male" title="godfreyNorton">pacing up and down, talking
+         excitedly, and waving his arms</span>. Of her I could see nothing. Presently
+      <span class="male" title="godfreyNorton">he emerged, looking even more flurried than before. As he stepped up to
+         the cab, he pulled a gold watch from his pocket and looked at it
+         earnestly,</span> <q class="male-quote">Drive like the devil,’ he shouted, ‘first to Gross &amp;
+         Hankey’s in Regent Street, and then to the Church of St. Monica in the
+         Edgeware Road. Half a guinea if you do it in twenty minutes!</q></q>
+   </p>
+<p>
+   <q class="sw-quote">Away they went, and I was just wondering whether I should not do well
+      to follow them when up the lane came a neat little landau, the coachman
+      with his coat only half-buttoned, and his tie under his ear, while all
+      the tags of his harness were sticking out of the buckles. It hadn’t
+      pulled up before <span class="female" title="ireneAdler">she shot out of the hall door and into it</span>. <span class="sw-action">I only
+         caught a glimpse of her at the moment</span>, but she was a lovely woman, with
+      a face that a man might die for.</q>
+   </p>
+<p>
+   <q class="sw-quote"><q class="female-quote">The Church of St. Monica, John,</q><br/> she cried, <q class="female-quote">and half a sovereign if
+         you reach it in twenty minutes.</q></q>
+   </p>
+<p>
+   <q class="sw-quote">This was quite too good to lose,Watson. I was just balancing whether
+      I should run for it, or whether I should perch behind her landau when a
+      cab came through the street. The driver looked twice at such a shabby
+      fare, but <span class="sw-action">I jumped in before he could object</span>. <q class="sw-quote">The Church of St.
+         Monica,</q><br/> said I, <q class="sw-quote">and half a sovereign if you reach it in twenty
+         minutes.</q> It was twenty-five minutes to twelve, and of course it was
+      clear enough what was in the wind.</q></p>
+<p>
+   <q class="sw-quote">My cabby drove fast. I don’t think I ever drove faster, but the others
+      were there before us. The cab and the landau with their steaming horses
+      were in front of the door when I arrived. <span class="sw-action">I paid the man and hurried
+         into the church.</span> There was not a soul there save the two whom I had
+      followed and a surpliced clergyman, who seemed to be expostulating with
+      them. They were all three standing in a knot in front of the altar. <span class="sw-action">I
+         lounged up the side aisle like any other idler who has dropped into a
+         church.</span> Suddenly, to my surprise, the three at the altar faced round to
+      me, and <span class="male" title="godfreyNorton">Godfrey Norton came running as hard as he could towards me.</span></q>
+   </p>
+<p>
+   <q class="sw-quote"><q class="male-quote">Thank God,</q><br/> he cried. <q class="male-quote">You’ll do. Come! Come!</q></q>
+   </p>
+<p>
+   <q class="sw-quote"><q class="sw-quote">What then?</q> I asked.</q>
+   </p>
+<p>
+   <q class="sw-quote"><q class="male-quote">Come, man, come, only three minutes, or it won’t be legal.</q></q>
+   </p>
+<p>
+   <q class="sw-quote"><span class="sw-action">I was half-dragged up to the altar, and before I knew where I was I
+         found myself mumbling responses which were whispered in my ear, and
+         vouching for things of which I knew nothing, and generally assisting in
+         the secure tying up </span>of Irene Adler, spinster, to Godfrey Norton,
+      bachelor. It was all done in an instant, and there was <span class="male" title="godfreyNorton, ireneAdler">the gentleman
+         thanking me on the one side and the lady on the other</span>, while the
+      clergyman beamed on me in front. It was the most preposterous position
+      in which I ever found myself in my life, and it was the thought of it
+      that started me laughing just now. It seems that there had been some
+      informality about their license, that the clergyman absolutely refused
+      to marry them without a witness of some sort, and that my lucky
+      appearance saved the bridegroom from having to sally out into the
+      streets in search of a best man. <span class="female" title="ireneAdler">The bride gave me a sovereign</span>, and I
+      mean to wear it on my watch chain in memory of the occasion.</q>
+   </p>
+<p>
+   <q class="sw-quote">This is a very unexpected turn of affairs,</q> said I; <q class="sw-quote">and what then?</q>
+   </p>
+<p>
+   <q class="sw-quote">Well, <span class="sw-action">I found my plans very seriously menaced</span>. It looked as if the
+      pair might take an immediate departure, and so necessitate very prompt
+      and energetic measures on my part. <span class="male" title="godfreyNorton, ireneAdler">At the church door, however, they
+         separated, he driving back to the Temple, and she to her own house.</span> <q class="female-quote">I
+         shall drive out in the park at five as usual</q> she said as she left
+      him. I heard no more. <span class="male" title="godfreyNorton, ireneAdler">They drove away in different directions</span>, and <span class="sw-action">I
+         went off to make my own arrangements</span>.</q>
+   </p>
+<p>
+   <q class="sw-quote">Which are?</q>
+   </p>
+<p>
+   <q class="sw-quote">Some cold beef and a glass of beer,</q> <span class="sw-action">he answered, ringing the bell</span>. <q class="sw-quote">I
+      have been too busy to think of food, and I am likely to be busier still
+      this evening. By the way, Doctor, I shall want your co-operation.</q>
+   </p>
+<p>
+   <q class="sw-quote">I shall be delighted.</q>
+   </p>
+<p>
+   <q class="sw-quote">You don’t mind breaking the law?</q>
+   </p>
+<p>
+   <q class="sw-quote">Not in the least.</q>
+   </p>
+<p>
+   <q class="sw-quote">Nor running a chance of arrest?</q>
+   </p>
+<p>
+   <q class="sw-quote">Not in a good cause.</q>
+   </p>
+<p>
+   <q class="sw-quote">Oh, the cause is excellent!</q>
+   </p>
+<p>
+   <q class="sw-quote">Then I am your man.</q>
+   </p>
+<p>
+   <q class="sw-quote">I was sure that I might rely on you.</q>
+   </p>
+<p>
+   <q class="sw-quote">But what is it you wish?</q>
+   </p>
+<p>
+   <q class="sw-quote">When Mrs. Turner has brought in the tray I will make it clear to you.
+      Now,</q> he said as he turned hungrily on the simple fare that our
+   landlady had provided, <q class="sw-quote">I must discuss it while I eat, for I have not
+      much time. It is nearly five now. In two hours we must be on the scene
+      of action. Miss Irene, or Madame, rather, returns from her drive at
+      seven. We must be at Briony Lodge to meet her.</q>
+   </p>
+<p>
+   <q class="sw-quote">And what then?</q>
+   </p>
+<p>
+   <q class="sw-quote">You must leave that to me. <span class="sw-action">I have already arranged what is to occur.
+         </span>There is only one point on which I must insist. You must not interfere,
+      come what may. You understand?</q>
+   </p>
+<p>
+   <q class="sw-quote">I am to be neutral?</q>
+   </p>
+<p>
+   <q class="sw-quote">To do nothing whatever. There will probably be some small
+      unpleasantness. Do not join in it. It will end in my being conveyed
+      into the house. Four or five minutes afterwards the sitting-room window
+      will open. You are to station yourself close to that open window.</q>
+   </p>
+<p>
+   <q class="sw-quote">Yes.</q>
+   </p>
+<p>
+   <q class="sw-quote">You are to watch me, for I will be visible to you.</q>
+   </p>
+<p>
+   <q class="sw-quote">Yes.</q>
+   </p>
+<p>
+   <q class="sw-quote">And when I raise my hand—so—you will throw into the room what I give
+      you to throw, and will, at the same time, raise the cry of fire. You
+      quite follow me?</q>
+   </p>
+<p>
+   <q class="sw-quote">Entirely.</q>
+   </p>
+<p>
+   <q class="sw-quote">It is nothing very formidable,</q> <span class="sw-action">he said, taking a long cigar-shaped
+      roll from his pocket</span>. <q class="sw-quote">It is an ordinary plumber’s smoke-rocket, fitted
+      with a cap at either end to make it self-lighting. Your task is
+      confined to that. When you raise your cry of fire, it will be taken up
+      by quite a number of people. You may then walk to the end of the
+      street, and I will rejoin you in ten minutes. I hope that I have made
+      myself clear?</q>
+   </p>
+<p>
+   <q class="sw-quote">I am to remain neutral, to get near the window, to watch you, and at
+      the signal to throw in this object, then to raise the cry of fire, and
+      to wait you at the corner of the street.</q>
+   </p>
+<p>
+   <q class="sw-quote">Precisely.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then you may entirely rely on me.</q>
+   </p>
+<p>
+   <q class="sw-quote">That is excellent. I think, perhaps, it is almost time that I prepare
+      for the new role I have to play.</q>
+   </p>
+<p>
+   <span class="sw-action">He disappeared into his bedroom and returned in a few minutes in the
+      character of an amiable and simple-minded Nonconformist clergyman</span>. His
+   broad black hat, his baggy trousers, his white tie, his sympathetic
+   smile, and general look of peering and benevolent curiosity were such
+   as Mr. John Hare alone could have equalled. It was not merely that
+   Holmes changed his costume. His expression, his manner, his very soul
+   seemed to vary with every fresh part that he assumed. The stage lost a
+   fine actor, even as science lost an acute reasoner, when he became a
+   specialist in crime.
+   </p>
+<p>
+   It was a quarter past six when we left Baker Street, and it still
+   wanted ten minutes to the hour when we found ourselves in Serpentine
+   Avenue. It was already dusk, and the lamps were just being lighted as
+   we paced up and down in front of Briony Lodge, waiting for the coming
+   of its occupant. The house was just such as I had pictured it from
+   SherlockHolmes’ succinct description, but the locality appeared to be
+   less private than I expected. On the contrary, for a small street in a
+   quiet neighbourhood, it was remarkably animated. There was a group of
+   shabbily dressed men smoking and laughing in a corner, a
+   scissors-grinder with his wheel, two guardsmen who were flirting with a
+   nurse-girl, and several well-dressed young men who were lounging up and
+   down with cigars in their mouths.
+   </p>
+<p>
+   <q class="sw-quote">You see,</q> remarkedHolmes, as we paced to and fro in front of the
+   house, <q class="sw-quote">this marriage rather simplifies matters. The photograph becomes
+      a double-edged weapon now. The chances are that she would be as averse
+      to its being seen by Mr. Godfrey Norton, as our client is to its coming
+      to the eyes of his princess. Now the question is, Where are we to find
+      the photograph?</q>
+   </p>
+<p>
+   <q class="sw-quote">Where, indeed?</q>
+   </p>
+<p>
+   <q class="sw-quote">It is most unlikely that she carries it about with her. It is cabinet
+      size. Too large for easy concealment about a woman’s dress. She knows
+      that the King is capable of having her waylaid and searched. Two
+      attempts of the sort have already been made. We may take it, then, that
+      she does not carry it about with her.</q>
+   </p>
+<p>
+   <q class="sw-quote">Where, then?</q>
+   </p>
+<p>
+   <q class="sw-quote">Her banker or her lawyer. There is that double possibility. But I am
+      inclined to think neither. Women are naturally secretive, and they like
+      to do their own secreting. Why should she hand it over to anyone else?
+      She could trust her own guardianship, but she could not tell what
+      indirect or political influence might be brought to bear upon a
+      business man. Besides, remember that she had resolved to use it within
+      a few days. It must be where she can lay her hands upon it. It must be
+      in her own house.</q>
+   </p>
+<p>
+   <q class="sw-quote">But it has twice been burgled.</q>
+   </p>
+<p>
+   <q class="sw-quote">Pshaw! They did not know how to look.</q>
+   </p>
+<p>
+   <q class="sw-quote">But how will you look?</q>
+   </p>
+<p>
+   <q class="sw-quote">I will not look.</q>
+   </p>
+<p>
+   <q class="sw-quote">What then?</q>
+   </p>
+<p>
+   <q class="sw-quote">I will get her to show me.</q>
+   </p>
+<p>
+   <q class="sw-quote">But she will refuse.</q>
+   </p>
+<p>
+   <q class="sw-quote">She will not be able to. But I hear the rumble of wheels. It is her
+      carriage. Now carry out my orders to the letter.</q>
+   </p>
+<p>
+   As he spoke the gleam of the sidelights of a carriage came round the
+   curve of the avenue. It was a smart little landau which rattled up to
+   the door of Briony Lodge. As it pulled up, one of the loafing men at
+   the corner dashed forward to open the door in the hope of earning a
+   copper, but was elbowed away by another loafer, who had rushed up with
+   the same intention. A fierce quarrel broke out, which was increased by
+   the two guardsmen, who took sides with one of the loungers, and by the
+   scissors-grinder, who was equally hot upon the other side. A blow was
+   struck, and in an instant the lady, who had stepped from her carriage,
+   was the centre of a little knot of flushed and struggling men, who
+   struck savagely at each other with their fists and sticks.Holmes
+   dashed into the crowd to protect the lady; but, just as he reached her,
+   <span class="sw-action">he gave a cry and dropped to the ground, with the blood running freely
+      down his face</span>. At his fall the guardsmen took to their heels in one
+   direction and the loungers in the other, while a number of better
+   dressed people, who had watched the scuffle without taking part in it,
+   crowded in to help the lady and to attend to the injured man. Irene
+   Adler, as I will still call her, had hurried up the steps; but <span class="female" title="ireneAdler">she
+      stood at the top with her superb figure outlined against the lights of
+      the hall, looking back into the street</span>.
+   </p>
+<p>
+   <q class="female-quote">Is the poor gentleman much hurt?</q> she asked.
+   </p>
+<p>
+   <q class="male-quote">He is dead,</q> cried several voices.
+   </p>
+<p>
+   <q class="male-quote">No, no, there’s life in him!</q> shouted another. <q class="male-quote">But he’ll be gone
+      before you can get him to hospital.</q>
+   </p>
+<p>
+   <q class="female-quote">He’s a brave fellow,</q> said a woman. <q class="female-quote">They would have had the lady’s
+      purse and watch if it hadn’t been for him. They were a gang, and a
+      rough one, too. Ah, he’s breathing now.</q>
+   </p>
+<p>
+   <q class="male-quote">He can’t lie in the street. May we bring him in, marm?</q>
+   </p>
+<p>
+   <q class="female-quote">Surely. Bring him into the sitting-room. There is a comfortable sofa.
+      This way, please!</q>
+   </p>
+<p>
+   Slowly and solemnly <span class="sw-action">he was borne into Briony Lodge and laid out in the
+      principal room</span>, while <span class="sw-action">I still observed the proceedings from my post by
+      the window</span>. The lamps had been lit, but the blinds had not been drawn,
+   so that I could seeHolmes as he lay upon the couch. I do not know
+   whether he was seized with compunction at that moment for the part he
+   was playing, but I know that I never felt more heartily ashamed of
+   myself in my life than when I saw the beautiful creature against whom I
+   was conspiring, or the grace and kindliness with which she waited upon
+   the injured man. And yet it would be the blackest treachery toHolmes
+   to draw back now from the part which he had intrusted to me. I hardened
+   my heart, and took the smoke-rocket from under my ulster. After all, I
+   thought, we are not injuring her. We are but preventing her from
+   injuring another.
+   </p>
+<p>
+   <span class="sw-action">Holmes had sat up upon the couch</span>, and I saw him motion like a man who
+   is in need of air. A maid rushed across and threw open the window. At
+   the same instant I saw him raise his hand and at the signal <span class="sw-action">I tossed my
+      rocket into the room</span> with a cry of <q class="sw-quote">Fire!</q> The word was no sooner out
+   of my mouth than the whole crowd of spectators, well dressed and
+   ill—gentlemen, ostlers, and servant maids—joined in a general shriek of
+   <q class="sw-quote">Fire!</q> Thick clouds of smoke curled through the room and out at the
+   open window. I caught a glimpse of rushing figures, and a moment later
+   the voice ofHolmes from within assuring them that it was a false
+   alarm. <span class="sw-action">Slipping through the shouting crowd I made my way to the corner
+      of the street, and in ten minutes was rejoiced to find my friend’s arm
+      in mine, and to get away from the scene of uproar</span>. <span class="sw-action">He walked swiftly
+      and in silence for some few minutes</span> until we had turned down one of the
+   quiet streets which lead towards the Edgeware Road.
+   </p>
+<p>
+   <q class="sw-quote">You did it very nicely, Doctor,</q> he remarked. <q class="sw-quote">Nothing could have been
+      better. It is all right.</q>
+   </p>
+<p>
+   <q class="sw-quote">You have the photograph?</q>
+   </p>
+<p>
+   <q class="sw-quote">I know where it is.</q>
+   </p>
+<p>
+   <q class="sw-quote">And how did you find out?</q>
+   </p>
+<p>
+   <q class="sw-quote">She showed me, as I told you she would.</q>
+   </p>
+<p>
+   <q class="sw-quote">I am still in the dark.</q>
+   </p>
+<p>
+   <q class="sw-quote">I do not wish to make a mystery,</q> said he, laughing. <q class="sw-quote">The matter was
+      perfectly simple. You, of course, saw that everyone in the street was
+      an accomplice. They were all engaged for the evening.</q>
+   </p>
+<p>
+   <q class="sw-quote">I guessed as much.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then, when the row broke out, I had a little moist red paint in the
+      palm of my hand. <span class="sw-action">I rushed forward, fell down, clapped my hand to my
+         face, and became a piteous spectacle</span>. It is an old trick.</q>
+   </p>
+<p>
+   <q class="sw-quote">That also I could fathom.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then they carried me in. She was bound to have me in. What else could
+      she do? And into her sitting-room, which was the very room which I
+      suspected. It lay between that and her bedroom, and I was determined to
+      see which. They laid me on a couch, I motioned for air, they were
+      compelled to open the window, and you had your chance.</q>
+   </p>
+<p>
+   <q class="sw-quote">How did that help you?</q>
+   </p>
+<p>
+   <q class="sw-quote">It was all-important. When a woman thinks that her house is on fire,
+      her instinct is at once to rush to the thing which she values most. It
+      is a perfectly overpowering impulse, and I have more than once taken
+      advantage of it. In the case of the Darlington Substitution Scandal it
+      was of use to me, and also in the Arnsworth Castle business. A married
+      woman grabs at her baby; an unmarried one reaches for her jewel-box.
+      Now it was clear to me that our lady of to-day had nothing in the house
+      more precious to her than what we are in quest of. She would rush to
+      secure it. The alarm of fire was admirably done. The smoke and shouting
+      were enough to shake nerves of steel. She responded beautifully. The
+      photograph is in a recess behind a sliding panel just above the right
+      bell-pull. She was there in an instant, and I caught a glimpse of it as
+      she half drew it out. When I cried out that it was a false alarm, she
+      replaced it, glanced at the rocket, rushed from the room, and I have
+      not seen her since. <span class="sw-action">I rose, and, making my excuses, escaped from the
+         house. I hesitated whether to attempt to secure the photograph at once</span>;
+      but the coachman had come in, and as he was watching me narrowly, it
+      seemed safer to wait. A little over-precipitance may ruin all.</q>
+   </p>
+<p>
+   <q class="sw-quote">And now?</q> I asked.
+   </p>
+<p>
+   <q class="sw-quote">Our quest is practically finished. I shall call with the King
+      to-morrow, and with you, if you care to come with us. We will be shown
+      into the sitting-room to wait for the lady, but it is probable that
+      when she comes she may find neither us nor the photograph. It might be
+      a satisfaction to his Majesty to regain it with his own hands.</q>
+   </p>
+<p>
+   <q class="sw-quote">And when will you call?</q>
+   </p>
+<p>
+   <q class="sw-quote">At eight in the morning. She will not be up, so that we shall have a
+      clear field. Besides, we must be prompt, for this marriage may mean a
+      complete change in her life and habits. I must wire to the King without
+      delay.</q>
+   </p>
+<p>
+   We had reached Baker Street and had stopped at the door. <span class="sw-action">He was
+      searching his pockets for the key</span> when someone passing said:
+   </p>
+<p>
+   <q class="male-quote">Good-night, Mister SherlockHolmes.</q>
+   </p>
+<p>
+   There were several people on the pavement at the time, but the greeting
+   appeared to come from a slim youth in an ulster who had hurried by.
+   </p>
+<p>
+   <q class="sw-quote">I’ve heard that voice before,</q> saidHolmes, staring down the dimly lit
+   street. <q class="sw-quote">Now, I wonder who the deuce that could have been.</q>
+   </p>
+<p>
+   I slept at Baker Street that night, and we were engaged upon our toast
+   and coffee in the morning when the King of Bohemia rushed into the
+   room.
+   </p>
+<p>
+   <q class="male-quote">You have really got it!</q> he cried, grasping SherlockHolmes by either
+   shoulder and looking eagerly into his face.
+   </p>
+<p>
+   <q class="sw-quote">Not yet.</q>
+   </p>
+<p>
+   <q class="male-quote">But you have hopes?</q>
+   </p>
+<p>
+   <q class="sw-quote">I have hopes.</q>
+   </p>
+<p>
+   <q class="male-quote">Then, come. I am all impatience to be gone.</q>
+   </p>
+<p>
+   <q class="sw-quote">We must have a cab.</q>
+   </p>
+<p>
+   <q class="male-quote">No, my brougham is waiting.</q>
+   </p>
+<p>
+   <q class="sw-quote">Then that will simplify matters.</q> We descended and started off once
+   more for Briony Lodge.
+   </p>
+<p>
+   <q class="sw-quote">Irene Adler is married,</q> remarkedHolmes.
+   </p>
+<p>
+   <q class="male-quote">Married! When?</q>
+   </p>
+<p>
+   <q class="sw-quote">Yesterday.</q>
+   </p>
+<p>
+   <q class="male-quote">But to whom?</q>
+   </p>
+<p>
+   <q class="sw-quote">To an English lawyer named Norton.</q>
+   </p>
+<p>
+   <q class="male-quote">But she could not love him.</q>
+   </p>
+<p>
+   <q class="sw-quote">I am in hopes that she does.</q>
+   </p>
+<p>
+   <q class="male-quote">And why in hopes?</q>
+   </p>
+<p>
+   <q class="sw-quote">Because it would spare your Majesty all fear of future annoyance. If
+      the lady loves her husband, she does not love your Majesty. If she does
+      not love your Majesty, there is no reason why she should interfere with
+      your Majesty’s plan.</q>
+   </p>
+<p>
+   <q class="male-quote">It is true. And yet—! Well! I wish she had been of my own station!
+      What a queen she would have made!</q> He relapsed into a moody silence,
+   which was not broken until we drew up in Serpentine Avenue.
+   </p>
+<p>
+   The door of Briony Lodge was open, and <span class="female" title="elderlyWoman">an elderly woman stood upon the
+      steps. She watched us with a sardonic eye as we stepped from the
+      brougham.</span>
+   </p>
+<p>
+   <q class="female-quote">Mr. SherlockHolmes, I believe?</q> said she.
+   </p>
+<p>
+   <q class="sw-quote">I am Mr.Holmes,</q> answered <span class="sw-action">my companion, looking at her with a
+      questioning and rather startled gaze</span>.
+   </p>
+<p>
+   <q class="female-quote">Indeed! My mistress told me that you were likely to call.<span class="female" title="ireneAdler">She left
+         this morning with her husband by the 5:15 train from Charing Cross for
+         the Continent</span>.</q>
+   </p>
+<p>
+   <q class="sw-quote">What!</q> <span class="sw-action">SherlockHolmes staggered back, white with chagrin and
+      surprise.</span> <q class="sw-quote">Do you mean that she has left England?</q>
+   </p>
+<p>
+   <q class="female-quote">Never to return.</q>
+   </p>
+<p>
+   <q class="male-quote">And the papers?</q> asked the King hoarsely. <q class="female-quote">All is lost.</q>
+   </p>
+<p>
+   <q class="male-quote">We shall see.</q> He pushed past the servant and rushed into the
+   drawing-room, followed by the King and myself. The furniture was
+   scattered about in every direction, with dismantled shelves and open
+   drawers, as if the lady had hurriedly ransacked them before her flight.
+   Holmes rushed at the bell-pull, tore back a small sliding shutter, and,
+   plunging in his hand, pulled out a photograph and a letter. The
+   photograph was of Irene Adler herself in evening dress, the letter was
+   superscribed to SherlockHolmes, Esq. To be left till called for. My
+   friend tore it open, and we all three read it together. It was dated at
+   midnight of the preceding night and ran in this way:
+   </p>
+<p>
+   <q class="female-quote">MY DEAR MR. SHERLOCK HOLMES,—You really did it very well. You took
+      me in completely. Until after the alarm of fire, I had not a
+      suspicion. But then, when I found how I had betrayed myself, I
+      began to think. I had been warned against you months ago. I had
+      been told that, if the King employed an agent, it would certainly
+      be you. And your address had been given me. Yet, with all this, you
+      made me reveal what you wanted to know. Even after I became
+      suspicious, I found it hard to think evil of such a dear, kind old
+      clergyman. But, you know, I have been trained as an actress myself.
+      Male costume is nothing new to me. I often take advantage of the
+      freedom which it gives. I sent John, the coachman, to watch you,
+      ran upstairs, got into my walking clothes, as I call them, and came
+      down just as you departed.</q>
+   </p>
+<p>
+   <q class="female-quote">Well, <span class="female" title="ireneAdler">I followed you to your door, and so made sure that I was
+         really an object of interest</span> to the celebrated Mr. SherlockHolmes.
+      Then <span class="female" title="ireneAdler">I, rather imprudently, wished you good-night, and started for
+         the Temple to see my husband</span>.</q>
+   </p>
+<p>
+   <q class="female-quote">We both thought the best resource was flight, when pursued by so
+      formidable an antagonist; so you will find the nest empty when you
+      call to-morrow. As to the photograph, your client may rest in
+      peace. I love and am loved by a better man than he. The King may do
+      what he will without hindrance from one whom he has cruelly
+      wronged. I keep it only to safeguard myself, and to preserve a
+      weapon which will always secure me from any steps which he might
+      take in the future. I leave a photograph which he might care to
+      possess; and I remain, dear Mr. SherlockHolmes,</q>
+   </p>
+<p>
+   <q class="female-quote">Very truly yours,</q>
+   </p>
+<p>
+   <q class="female-quote">“IRENE NORTON, _née_ ADLER.</q>
+   </p>
+<p>
+   <q class="male-quote">What a woman—oh, what a woman!</q> cried the King of Bohemia, when we had
+   all three read this epistle. <q class="male-quote">Did I not tell you how quick and resolute
+      she was? Would she not have made an admirable queen? Is it not a pity
+      that she was not on my level?</q>
+   </p>
+<p>
+   <q class="sw-quote">From what I have seen of the lady, she seems, indeed, to be on a very
+      different level to your Majesty,</q> saidHolmes coldly. <q class="sw-quote">I am sorry that
+      I have not been able to bring your Majesty’s business to a more
+      successful conclusion.</q>
+   </p>
+<p>
+   <q class="male-quote">On the contrary, my dear sir,</q> cried the King; <q class="male-quote">nothing could be more
+      successful. I know that her word is inviolate. The photograph is now as
+      safe as if it were in the fire.</q>
+   </p>
+<p>
+   <q class="sw-quote">I am glad to hear your Majesty say so.</q>
+   </p>
+<p>
+   <q class="male-quote">I am immensely indebted to you. Pray tell me in what way I can reward
+      you. This ring—</q> <span class="male" title="kingBohemia">He slipped an emerald snake ring from his finger and
+      held it out upon the palm of his hand</span>.
+   </p>
+<p>
+   <q class="sw-quote">Your Majesty has something which I should value even more highly,</q>
+   saidHolmes.
+   </p>
+<p>
+   <q class="male-quote">You have but to name it.</q>
+   </p>
+<p>
+   <q class="sw-quote">This photograph!</q>
+   </p>
+<p>
+   The King stared at him in amazement.
+   </p>
+<p>
+   <q class="male-quote">Irene’s photograph!</q> he cried. <q class="male-quote">Certainly, if you wish it.</q>
+   </p>
+<p>
+   <q class="sw-quote">I thank your Majesty. Then there is no more to be done in the matter.
+      I have the honour to wish you a very good morning.</q> <span class="sw-action">He bowed, and,
+      turning away</span> without observing the hand which the King had stretched
+   out to him, he set off in my company for his chambers.
+   </p>
+<p>
+   And that was how a great scandal threatened to affect the kingdom of
+   Bohemia, and how the best plans of Mr. SherlockHolmes were beaten by a
+   woman’s wit. He used to make merry over the cleverness of women, but I
+   have not heard him do it of late. And when he speaks of Irene Adler, or
+   when he refers to her photograph, it is always under the honourable
+   title of _the_ woman.
+   </p>
+`;
 
 export default story1;
