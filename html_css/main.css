@@ -7,22 +7,33 @@
 =            Link Styles                      =
 =============================================*/
 
-a:link { text-decoration: none; }
+a:link {
+    text-decoration: none;
+}
 
 
-a:visited { text-decoration: none; }
+a:visited {
+    text-decoration: none;
+}
 
 
-a:hover { text-decoration: none; }
+a:hover {
+    text-decoration: none;
+}
 
 
-a:active { text-decoration: none; }
+a:active {
+    text-decoration: none;
+}
 
 /* ############-BORDER UTILITY CLASSES-############ */
 /* GLASS BORDER */
 /*https://css.glass*/
 
-a{color:black}
+a {
+    color: black
+}
+
 .glassBorder {
     background: rgba(255, 255, 255, 0.04);
     border-radius: 16px;
@@ -98,7 +109,7 @@ header {
 }
 
 /* github icon on the main screen. */
-#github{
+#github {
     position: absolute;
     right: 142px;
     top: 10px;
@@ -198,8 +209,8 @@ header>h1 {
         flex-direction: row !important;
     }
 
-    #github{
-        display: none!important;
+    #github {
+        display: none !important;
     }
 
     #introBody * figure {
@@ -266,20 +277,24 @@ header>h1 {
     .mobileMenu * img {
         transform: scale(.8);
     }
+
     #introBody * figure {
         transform: scale(.85);
     }
+
     /* for when the bookshelf is fullscreen on small screens */
     .bookshelf {
         margin-left: 20% !important;
     }
-    #storyTitle{
+
+    #storyTitle {
         margin-left: -10% !important;
     }
+
     /* after a book is pressed on small screens */
-    .smallShelf > .bookshelf{
+    .smallShelf>.bookshelf {
         margin-bottom: -280px !important;
-        margin-top: -20px!important;
+        margin-top: -20px !important;
         margin-left: 23% !important;
         grid-template-columns: 10% 10% 10% 10% !important;
     }
@@ -290,6 +305,9 @@ header>h1 {
 
     #storyPage *#homebutton {
         left: 0px !important;
+    }
+    .swText{
+        font-size: .75rem !important;
     }
 }
 
@@ -347,9 +365,9 @@ figcaption {
     letter-spacing: 0.1em;
 }
 
-figure > a{
-    display:block;
-    margin-bottom:-2px;
+figure>a {
+    display: block;
+    margin-bottom: -2px;
 }
 
 /* LANDING PAGE MENU BAR IMAGES AND TEXT */
@@ -389,24 +407,28 @@ figure:nth-child(4) * img {
 
 /* landing page whole button container */
 /* Select all even figure children */
-figure:nth-child(1), table * .clayBorder:nth-child(1) {
+figure:nth-child(1),
+table * .clayBorder:nth-child(1) {
     background-color: #fe4e44;
     /* COLOR VALUE */
 }
 
 /* Select all odd figure children */
-table>tr:nth-child(2)>figure, figure:nth-child(2){
+table>tr:nth-child(2)>figure,
+figure:nth-child(2) {
     /* important is here because the selectors overlap */
     background-color: #5794d1 !important;
     /* COLOR VALUE */
 }
 
-table>tr:nth-child(3)>figure, figure:nth-child(3) {
+table>tr:nth-child(3)>figure,
+figure:nth-child(3) {
     background-color: #73bb73 !important;
     /* COLOR VALUE */
 }
 
-table>tr:nth-child(4)>figure, figure:nth-child(4) {
+table>tr:nth-child(4)>figure,
+figure:nth-child(4) {
     background-color: #7752bb !important;
     /* COLOR VALUE */
 }
@@ -925,6 +947,74 @@ main.transition>h1 {
     margin-left: 20px;
 }
 
-h3, h4{
-    text-align:center;
+h3,
+h4 {
+    text-align: center;
+}
+
+#storyImage1 {
+    background-image: url("assets/covers/cover2.png");
+}
+
+#storyImage2 {
+    background-image: url("assets/covers/cover2.png");
+}
+
+#storyImage3 {
+    background-image: url("assets/covers/cover3.png");
+}
+
+#storyImage4 {
+    background-image: url("assets/covers/cover5.png");
+}
+
+#storyImage5 {
+    background-image: url("assets/covers/cover6.png");
+}
+
+#storyImage6 {
+    background-image: url("assets/covers/cover7.png");
+}
+
+#storyImage7 {
+    background-image: url("assets/covers/cover8.png");
+}
+
+#storyImage8 {
+    background-image: url("assets/covers/cover4.png");
+}
+
+#storyImage9 {
+    background-image: url("assets/covers/cover4.png");
+}
+
+input#actionMale,
+input#quotesMale {
+    accent-color: midnightblue;
+}
+
+input#actionFemale,
+input#quotesFemale {
+    accent-color: rebeccaPurple;
+}
+
+input#actionBoth {
+    accent-color: #73bb73;
+}
+
+input#actionSW,
+#quotesSW {
+    accent-color: firebrick;
+}
+
+.aboutTheDevelopers>span{
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+.aboutSpacer{
+    height:30px;
+}
+.bold{
+    font-weight: bold;
 }
