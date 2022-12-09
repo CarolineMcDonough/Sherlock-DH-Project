@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Methodology</title>
+   </head>
+   <body>
+      <h1 id="our-methodology">Our Methodology</h1>
+      <h2 id="story-selection">Story Selection</h2>
+      <p>We chose our set of stories for this project by examining the available Project Gutenberg
+         texts and selecting the collection of stories that seemed most reasonable to mark up— a
+         group of short (and therefore manageable) stories, already collected into a single book. We
+         then split the stories among ourselves and marked them up according to the methodology
+         listed below.</p>
+      <h2 id="markup-methods">Markup Methods</h2>
+      <p>In order to determine the perceived agency of characters in our selected stories, we
+         examined two metrics: the number of words a character said, and the number of actions they
+         performed.</p>
+      <p>After adding in the requisite structural tags (chapters,t paragraphs, and the like), we
+         marked up our texts by:</p>
+      <ul>
+         <li>Using regular expressions to locate quotes (based on pairs of single or double quotes
+            with text between them) and replace the &quot; or &#39; with <code>&lt;q&gt;</code>
+            tags</li>
+         <li>Adding <code>@speaker</code> elements to each quote with the name of the character
+            speaking</li>
+         <li>Manually reading and locating actions in the text<ul>
+               <li>For more information about how we determined what qualified as an action, visit
+                     <a href="https://github.com/CarolineMcDonough/Sherlock-DH-Project/issues/8"
+                     >this issue on our github</a>.</li>
+            </ul>
+         </li>
+         <li>Locating the name or pronoun of the character performing the action and wrapping it in
+            a <code>&lt;char&gt;</code> tag with attributes for the <code>@name</code> and
+               <code>@gender</code> of the character</li>
+      </ul>
+      <p>
+         <em>Though our original research question called for additional markup denoting the
+            alignment of a character, we decided to forgo that step in favor of focusing on the
+            markup we kept.</em>
+      </p>
+   </body>
+</html>
