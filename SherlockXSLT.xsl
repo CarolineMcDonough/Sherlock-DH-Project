@@ -11,9 +11,18 @@
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
         include-content-type="no" indent="yes"/>
     
+    
+    
+    <!-- ========================================================================================== -->
+    <!-- Variable that selects all of the stories -->
+    <xsl:variable name="story_collection" as="document-node()+" select="collection('markup/?select=*.xml')"/>
+    <!-- ========================================================================================== -->
+    
+    
     <!-- =============================================================================================================================================================================================================== -->
     <!-- Variable containing ALL KNOWN FEMALE SPEAKERS FROM THE TEXTS -->
     <xsl:variable name="female-characters" select="'ireneAdler, randomWoman, elderlyWoman, marySutherland, maggieRyder, helenStoner, juliaStoner, maryHolder, maryWatson, kateWhitney, mrsStClair, unknownWoman, '"/>
+    <!-- Variable for just Holmes and Watson, to keep them separate from the rest of the non-main characters -->
     <xsl:variable name="holmes-and-watson" select="'sherlockHolmes, johnWatson'"/>
     <!-- =============================================================================================================================================================================================================== -->
     
@@ -28,12 +37,16 @@
                 <link rel= "stylesheet" type="text/css" href="mcdonough_11-11-22.css"/>
             </head>
             <body>
-                <h1>Sample of a Reading View</h1>
-                <h2><xsl:apply-templates select="passage/title"/></h2>
-                <xsl:apply-templates select="passage/story/p"/>
+                <h1><xsl:apply-templates select="$story_collection//passage"/></h1>
+                <xsl:apply-templates select="$story_collection//passage/story/p"/>
             </body>
         </html>
     </xsl:template>
+    
+    <xsl:template match="passage">
+        <xsl:apply-templates select="title"/>
+    </xsl:template>
+
 
     <!-- ========================================================================================== -->
     <!-- Basic Paragraph Template— 
