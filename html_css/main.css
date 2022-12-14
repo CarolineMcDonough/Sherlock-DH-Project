@@ -1018,3 +1018,78 @@ input#actionSW,
 .bold{
     font-weight: bold;
 }
+
+.pie-chart {
+    margin-inline: auto;
+	background:
+		radial-gradient(
+			circle closest-side,
+			white 0,
+			white 15%,
+			transparent 10%,
+			transparent 60%,
+			white 0
+		),
+		conic-gradient(
+			rebeccapurple 0,
+			rebeccapurple 8.5%,
+      midnightblue 8.5%,
+			midnightblue 39.7%,
+      firebrick 39.7%,
+			firebrick 100%
+	);
+	position: relative;
+	width: 500px;
+	min-height: 350px;
+	outline: 1px solid #e1e1e1;
+}
+.pie-chart h4 {
+  text-align: center;
+	margin: 1rem;
+}
+.pie-chart cite {
+	position: absolute;
+	bottom: 0;
+	font-size: .8rem;
+	padding: 1rem;
+	color: gray;
+}
+.pie-chart figcaption {
+    color:black;
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+	font-size: smaller;
+	text-align: right;
+}
+.pie-chart span:after {
+	display: inline-block;
+	content: "";
+	width: 0.8em;
+	height: 0.8em;
+	margin-left: 0.4em;
+	height: 0.8em;
+	border-radius: 0.2em;
+	background: currentColor;
+}
+.pie-chart span:nth-of-type(1) {
+    color: rebeccapurple;
+}
+.pie-chart span:nth-of-type(2) {
+    color: midnightblue
+}
+.pie-chart span:nth-of-type(3) {
+    color: firebrick
+}
+.pie-chart > p{
+    color: white;
+}
+.pie-chart>p:nth-of-type(1){
+    transform:translate(65px,115px)
+}
+.pie-chart>p:nth-of-type(2){
+    transform:translate(22px,2px)
+}
+.pie-chart>p:nth-of-type(3){
+    transform:translate(-60px,35px)
+}
