@@ -143,7 +143,7 @@ header::before {
     /* EDIT VALUE */
     display: block;
     z-index: -100;
-    background-image: url("https://www.christies.com/img/LotImages/2014/NYR/2014_NYR_02861_0223_000(doyle_arthur_conan_paget_sidney_illustrator_original_gouache_and_water024604).jpg?mode=max");
+    background-image: url("assets/homePage.webp");
     background-size: cover;
     -webkit-transform: translateZ(-1px) scale(2);
     transform-origin: center center 0;
@@ -306,10 +306,6 @@ header>h1 {
     #storyPage *#homebutton {
         left: 0px !important;
     }
-
-    .swText {
-        font-size: .75rem !important;
-    }
 }
 
 /* ############-LANDING PAGE MENU For big/medium_big screens-############ */
@@ -375,8 +371,9 @@ figure>a {
 /* all four images in the menubar in secuential order */
 
 /* STORIES */
-figure:nth-child(1) * img {
+figure:nth-child(1) * img, table>tr:nth-child(1)>figure * img {
     width: 120px;
+    transform:translateY(6px);
     /* IMG VALUE */
     height: 120px;
     /* IMG VALUE */
@@ -384,15 +381,17 @@ figure:nth-child(1) * img {
 }
 
 /* METHODS */
-figure:nth-child(2) * img {
-    width: 120px;
+figure:nth-child(2) * img, table>tr:nth-child(2)>figure * img {
+    width: 140px;
+    margin-left:-8px;
+    transform:translateY(-5px);
     /* IMG VALUE */
     height: 120px;
     /* filter: drop-shadow(0 0 0.75rem yellow); */
 }
 
 /* ANALYSIS */
-figure:nth-child(3) * img {
+figure:nth-child(3) * img, table>tr:nth-child(3)>figure * img {
     width: 110px;
     /* IMG VALUE */
     height: 120px;
@@ -400,8 +399,10 @@ figure:nth-child(3) * img {
 }
 
 /* ANALYSIS02 for now */
-figure:nth-child(4) * img {
-    width: 110px;
+figure:nth-child(4) * img, table>tr:nth-child(4)>figure * img {
+    width: 140px;
+    margin-left:-25px;
+    transform:translateY(-5px);
     /* IMG VALUE */
     height: 120px;
 }
@@ -626,7 +627,7 @@ footer {
 }
 
 body#storyPage {
-    background: url(assets/satire.png) no-repeat center center fixed;
+    background: url(assets/satire.webp) no-repeat center center fixed;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -661,7 +662,7 @@ body#storyPage {
 
 /* ############-STORY BODY-############ */
 body#storybody {
-    background: url(assets/satire.png) no-repeat center center fixed;
+    background: url(assets/satire.webp) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -955,39 +956,39 @@ h4 {
 }
 
 #storyImage1 {
-    background-image: url("assets/covers/cover1.png");
+    background-image: url("assets/covers/cover1.webp");
 }
 
 #storyImage2 {
-    background-image: url("assets/covers/cover2.png");
+    background-image: url("assets/covers/cover2.webp");
 }
 
 #storyImage3 {
-    background-image: url("assets/covers/cover3.png");
+    background-image: url("assets/covers/cover3.webp");
 }
 
 #storyImage4 {
-    background-image: url("assets/covers/cover5.png");
+    background-image: url("assets/covers/cover5.webp");
 }
 
 #storyImage5 {
-    background-image: url("assets/covers/cover6.png");
+    background-image: url("assets/covers/cover6.webp");
 }
 
 #storyImage6 {
-    background-image: url("assets/covers/cover7.png");
+    background-image: url("assets/covers/cover7.webp");
 }
 
 #storyImage7 {
-    background-image: url("assets/covers/cover8.png");
+    background-image: url("assets/covers/cover8.webp");
 }
 
 #storyImage8 {
-    background-image: url("assets/covers/cover9.png");
+    background-image: url("assets/covers/cover9.webp");
 }
 
 #storyImage9 {
-    background-image: url("assets/covers/cover4.png");
+    background-image: url("assets/covers/cover4.webp");
 }
 
 input#actionMale,
