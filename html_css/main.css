@@ -306,7 +306,8 @@ header>h1 {
     #storyPage *#homebutton {
         left: 0px !important;
     }
-    .swText{
+
+    .swText {
         font-size: .75rem !important;
     }
 }
@@ -1008,101 +1009,112 @@ input#actionSW,
     accent-color: firebrick;
 }
 
-.aboutTheDevelopers>span{
+.aboutTheDevelopers>span {
     font-weight: bold;
     display: block;
     text-align: center;
 }
-.aboutSpacer{
-    height:30px;
+
+.aboutSpacer {
+    height: 30px;
 }
-.bold{
+
+.bold {
     font-weight: bold;
 }
 
 .pie-chart {
     margin-inline: auto;
-	background:
-		radial-gradient(
-			circle closest-side,
-			white 0,
-			white 15%,
-			transparent 10%,
-			transparent 60%,
-			white 0
-		),
-		conic-gradient(
-			rebeccapurple 0,
-			rebeccapurple 8.5%,
-      midnightblue 8.5%,
-			midnightblue 39.7%,
-      firebrick 39.7%,
-			firebrick 100%
-	);
-	position: relative;
-	width: 60vw;
+    background:
+        radial-gradient(circle closest-side,
+            white 0,
+            white 15%,
+            transparent 10%,
+            transparent 60%,
+            white 0),
+        conic-gradient(rebeccapurple 0,
+            rebeccapurple 8.5%,
+            midnightblue 8.5%,
+            midnightblue 39.7%,
+            firebrick 39.7%,
+            firebrick 100%);
+    position: relative;
+    width: 60vw;
     max-width: 600px;
-	min-height: 350px;
-	outline: 1px solid #e1e1e1;
+    min-height: 350px;
+    outline: 1px solid #e1e1e1;
 }
+
 .pie-chart h4 {
-  text-align: center;
-	margin: 1rem;
+    text-align: center;
+    margin: 1rem;
 }
+
 .pie-chart cite {
-	position: absolute;
-	bottom: 0;
-	font-size: .8rem;
-	padding: 1rem;
-	color: gray;
+    position: absolute;
+    bottom: 0;
+    font-size: .8rem;
+    padding: 1rem;
+    color: gray;
 }
+
 .pie-chart figcaption {
-    color:black;
-	position: absolute;
-	bottom: 1em;
-	right: 1em;
-	font-size: smaller;
-	text-align: right;
+    color: black;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    font-size: smaller;
+    text-align: right;
 }
+
 .pie-chart span:after {
-	display: inline-block;
-	content: "";
-	width: 0.8em;
-	height: 0.8em;
-	margin-left: 0.4em;
-	height: 0.8em;
-	border-radius: 0.2em;
-	background: currentColor;
+    display: inline-block;
+    content: "";
+    width: 0.8em;
+    height: 0.8em;
+    margin-left: 0.4em;
+    height: 0.8em;
+    border-radius: 0.2em;
+    background: currentColor;
 }
+
 .pie-chart span:nth-of-type(1) {
     color: rebeccapurple;
 }
+
 .pie-chart span:nth-of-type(2) {
     color: midnightblue
 }
+
 .pie-chart span:nth-of-type(3) {
     color: firebrick
 }
-.pie-chart > p{
+
+.pie-chart>p {
     color: white;
 }
-.pie-chart>p:nth-of-type(1){
-    transform:translate(65px,115px)
-}
-.pie-chart>p:nth-of-type(2){
-    transform:translate(20px,8px)
-}
-.pie-chart>p:nth-of-type(3){
-    transform:translate(-60px,35px)
+
+.pie-chart>p:nth-of-type(1) {
+    transform: translate(65px, 115px)
 }
 
-.checkBoxBox > h2 {
-    margin-bottom:-15px;
-    margin-left:-1px;
+.pie-chart>p:nth-of-type(2) {
+    transform: translate(20px, 8px)
 }
-.checkBoxBox > h3{
-    margin-bottom:10px;
+
+.pie-chart>p:nth-of-type(3) {
+    transform: translate(-60px, 35px)
 }
-.checkBoxBox > h3:nth-of-type(2){
-    margin-top:10px;
+
+.checkBoxBox>h2 {
+    margin-bottom: -15px;
+    margin-left: -1px;
+}
+
+.checkBoxBox>h3 {
+    margin-bottom: 10px;
+}
+
+.checkBoxBox>h3:nth-of-type(2) {
+    margin-top: 10px;
 }
