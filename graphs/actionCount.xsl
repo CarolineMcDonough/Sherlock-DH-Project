@@ -18,11 +18,7 @@
     <!-- ================================================================== -->
     <xsl:template match="/">
         
-        <svg width="450" height="450">
-            <g transform="translate(25, 150)">
-                
-            </g>
-        </svg>
+       
     </xsl:template>
     <xsl:template match="story/p">
         

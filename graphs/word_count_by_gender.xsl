@@ -26,7 +26,7 @@
     <xsl:variable name="spacing" as="xs:double" select="100"/>
     <xsl:variable name="barWidth" select="65" as="xs:integer"/>
     <xsl:variable name="interbarSpacing" select="$barWidth div 2" as="xs:double"/>
-    <xsl:variable name="max-width" as="xs:double" select="(($barWidth + $interbarSpacing) * 3 + $interbarSpacing"/>s
+    <xsl:variable name="max_width" as="xs:double" select="($barWidth + $interbarSpacing) * 3 + $interbarSpacing"/>
     <!-- Variable containing ALL KNOWN FEMALE SPEAKERS FROM THE TEXTS -->
     <xsl:variable name="female-characters" select="'ireneAdler, randomWoman, elderlyWoman, marySutherland, maggieRyder, helenStoner, juliaStoner, maryHolder, maryWatson, kateWhitney, mrsStClair, unknownWoman, '"/>
     <!-- Variable for just Holmes and Watson, to keep them separate from the rest of the non-main characters -->
@@ -34,11 +34,12 @@
     <!-- ================================================================== -->
     <!-- Wordcount Variables                                                    -->
     <!-- ================================================================== -->
-    <xsl:variable name="femaleWordcount" as="xs:double" select="(count(//quote[contains($female-characters, @speaker)]))"/>
-    <xsl:variable name="maleWordcount" as="xs:double" select="(count(//quote[not(contains($holmes-and-watson, @speaker)) and not(contains($female-characters, @speaker))]))"/>
+    <xsl:variable name="femaleWordcount" as="xs:double" select="$story_collection//quote[contains($female-characters, @speaker)]"/>
+    <xsl:variable name="maleWordcount" as="xs:double" select="$story_collection//quote[not(contains($holmes-and-watson, @speaker)) and not(contains($female-characters, @speaker))]"/>
 
-    <xsl:variable name="shWordcount" as="xs:double" select="(count(//quote[contains($holmes-and-watson, @speaker)]))"/>
+    <xsl:variable name="shWordcount" as="xs:double" select=".  $story_collection//quote[contains($holmes-and-watson, @speaker)]"/>
     
+   
     
     
     <!-- ================================================================== -->
@@ -46,7 +47,9 @@
     <!-- ================================================================== -->
     <xsl:template match="/">
         
-        <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">
+        <xsl:value-of select="string-length(normalize-space($femaleWordcount))-string-length(translate(normalize-space($femaleWordcount),' ','')) +1"/>
+        
+        <svg height="{$max_height + 100} " width="{$max_width + 200}" viewBox="-50, -{$max_height + 50}, {$max_width + 50}, {$max_height + 100}">
         
         </svg>
     </xsl:template>
