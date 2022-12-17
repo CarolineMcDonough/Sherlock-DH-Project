@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" height="600 " width="875" viewBox="-50, -550, 725, 600">
+   <rect x="75" y="-237" width="150" height="237" fill="midnightBlue" stroke-width="3"></rect>
+   <text x="150" y="20" text-anchor="middle">
+      Male Actions
+      </text>
+   <rect x="300" y="-76" width="150" height="76" fill="rebeccaPurple" stroke-width="3"></rect>
+   <text x="375" y="20" text-anchor="middle">
+      Female Actions
+      </text>
+   <rect x="525" y="-167" width="150" height="167" fill="fireBrick" stroke-width="3"></rect>
+   <text x="600" y="20" text-anchor="middle">
+      Holmes/Watson Actions
+      </text>
+   <line x1="0" y1="0" x2="750" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"></line>
+   <line x1="0" y1="0" x2="0" y2="-500" stroke="black" stroke-width="5" stroke-linecap="square"></line>
+   <text x="-40" y="-250" text-anchor="middle" transform="rotate(-90, -70, -250)">
+      Number of Actions
+      </text>
+   <text x="-30" y="-491.6666666666667" text-anchor="middle">500</text>
+   <text x="-30" y="-375" text-anchor="middle">375</text>
+   <text x="-30" y="-250" text-anchor="middle">250</text>
+   <text x="-30" y="-125" text-anchor="middle">125</text>
+   <text x="-30" y="0">0</text></svg>
