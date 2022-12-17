@@ -21,6 +21,7 @@
         <xsl:variable name="femaleCharCount" as="xs:double" select="(count(//char[@gender = 'female']))"/>
         <xsl:variable name="maleCharCount" as="xs:double" select="(count(//char[@gender = 'male']))"/>
     </xsl:template>
+   
     
     <xsl:template match="/">
         <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">
@@ -38,8 +39,6 @@
             </text>
         </svg>
     </xsl:template>
-    
-    
 </xsl:stylesheet>
 
     
