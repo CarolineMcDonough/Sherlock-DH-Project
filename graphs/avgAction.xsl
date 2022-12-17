@@ -32,33 +32,14 @@
   
     <xsl:template match="/">
         <!--SVG body for bar graph -->
-        <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">
-            
-            <rect x="{$bar-spacing}" y="-{$maleCount}" width="{$bar-width}" height="{$maleCount}" fill="midnightBlue" stroke-width="3"/>
-            <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
-                Average Male Actions
-            </text>
-            
-            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleCount}" width="{$bar-width}" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/>
-            <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
-               Average Female Actions
-            </text>   
-            
-            <text x="{(3 * $bar-spacing) + $bar-width}" y="-510" text-anchor="middle" font-size="25">
-                Total Actions by Gender
-            </text>
-            
-            <line x1="0" y1="0" x2="{$max-width + $bar-spacing}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
-            <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
-            <text x="-40" y="-{$max-height div 2}" text-anchor="middle" transform="rotate(-90, -70, -{$max-height div 2})">
-                Number of Actions
-            </text>
-            <text x="-30" y="-{$max-height - ($max-height div 60)}" text-anchor="middle">500</text>
-            <text x="-30" y="-{$max-height * 0.75}" text-anchor="middle">375</text>
-            <text x="-30" y="-{$max-height div 2}" text-anchor="middle">250</text>
-            <text x="-30" y="-{$max-height * 0.25}" text-anchor="middle">125</text>
-            <text x="-30" y="0">0</text>
-        </svg>
+        <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">                         
+            <!--male bar!-->             <rect x="{$bar-spacing}" y="-{$maleCount}" width="{$bar-width}" height="{$maleCount}" fill="midnightBlue" stroke-width="3"/>
+        <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
+        Average agency afforded per male character</text><!--female bar!--><rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleCount}" width="{$bar-width}" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/> 
+            <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">                 Average agency afforded per female character             </text>                          <text x="-30" y="-{$max-height - ($max-height div 60)}" text-anchor="middle">500</text>             
+            <text x="-30" y="-{$max-height * 0.75}" text-anchor="middle">375</text>             <text x="-30" y="-{$max-height div 2}" text-anchor="middle">250</text>             <text x="-30" y="-{$max-height * 0.25}" text-anchor="middle">125</text>             <text x="-30" y="0"></text>         </svg>
+        
+       
     </xsl:template>
 </xsl:stylesheet>
 
