@@ -41,9 +41,7 @@
             <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleCount}" width="{$bar-width}" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/>
             <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
                Average Female Actions
-            </text>
-            
-            
+            </text>   
         </svg>
     </xsl:template>
 </xsl:stylesheet>
