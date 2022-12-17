@@ -3,12 +3,12 @@
    <text x="150" y="20" text-anchor="middle">
       Average actions/male
       </text>
-   <rect x="300" y="-76" width="150" height="76" fill="rebeccaPurple" stroke-width="3"></rect>
+   <rect x="300" y="-87" width="150" height="87" fill="rebeccaPurple" stroke-width="3"></rect>
    <text x="375" y="20" text-anchor="middle">
       Average actions/female
-      </text>
-   <text x="-30" y="-491.6666666666667" text-anchor="middle">500</text>
-   <text x="-30" y="-375" text-anchor="middle">375</text>
-   <text x="-30" y="-250" text-anchor="middle">250</text>
-   <text x="-30" y="-125" text-anchor="middle">125</text>
-   <text x="-30" y="0">0</text></svg>
+   </text>
+   <text x="-30" y="-250" text-anchor="middle">12</text>
+   <text x="-30" y="-200" text-anchor="middle">10</text>
+   <text x="-30" y="-150" text-anchor="middle">6</text>
+   <text x="-30" y="-90" text-anchor="middle">2</text>
+</svg>

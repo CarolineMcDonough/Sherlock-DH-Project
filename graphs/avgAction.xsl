@@ -21,43 +21,36 @@
     <xsl:variable name="max-height" as="xs:double" select="$y-scale * 100"/>
     
     <!--count elements for char and action count per gender-->
-    <xsl:variable name="femaleCharCount" as="xs:double" select="12"/>
-    <xsl:variable name="maleCharCount" as="xs:double" select="count(//span [@class eq 'male'])"/> 
+    <xsl:variable name="actionCountFemale" as="xs:double" select="(sum(//action/char[@gender = 'female']))"/> 
+    <xsl:variable name="actionCountMale" as="xs:double" select="(sum(//action/char[@gender = 'male']))"/> 
+    <xsl:variable name="charCountMale" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
     
+    <!---->
     
-    <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
-    <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
-    
-    <xsl:variable name="femaleCount" as="xs:double" select="sum($femaleActionCount) div sum($femaleCharCount)"/>
-    <xsl:variable name="maleCount" as="xs:double" select="sum($maleActionCount) div sum($maleCharCount)"/>
-    
-  
+    <xsl:variable name="femaleCount" as="xs:double" select= "($actionCountFemale div 12)"/>
+    <xsl:variable name="maleCount" as="xs:double" select="($actionCountMale div $charCountMale)"/>
+
     <xsl:template match="/">
         
         
-        
         <svg xmlns="http://www.w3.org/2000/svg" height="600 " width="875" viewBox="-50, -550, 725, 600">
-            
-            <rect x="{(2 * $bar-spacing)}" y="-{$maleCount}" width="{$bar-width}" height="{$maleCount}" fill="midnightBlue" stroke-width="3"/>
-            <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
+          
+            <rect x="75" y="-{$maleCount}" width="150" height="{$maleCount}" fill="midnightBlue" stroke-width="3"/>
+            <text x="150" y="20" text-anchor="middle">
                 Average actions/male
             </text>
             
-            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleCount}" width="150" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/>
-            <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
-                Average actions/female- 2.0
+            <rect x="75" y="-{$femaleCount}" width="150" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/>
+            <text x="150" y="20" text-anchor="middle">
+                Average actions/female
             </text>
-     
-            <text x="-30" y="-491.6666666666667" text-anchor="middle">500</text>
-            <text x="-30" y="-375" text-anchor="middle">375</text>
-            <text x="-30" y="-250" text-anchor="middle">250</text>
-            <text x="-30" y="-125" text-anchor="middle">125</text>
-            <text x="-30" y="0">0</text>
-        </svg>
-        
-       
+           
+        <text x="-30" y="-491.6666666666667" text-anchor="middle">10</text>
+        <text x="-30" y="-375" text-anchor="middle">6</text>
+        <text x="-30" y="-250" text-anchor="middle">4</text>
+        <text x="-30" y="-125" text-anchor="middle">2</text>
+        <text x="-30" y="0">0</text></svg>
     </xsl:template>
-    
 </xsl:stylesheet>
 
     
