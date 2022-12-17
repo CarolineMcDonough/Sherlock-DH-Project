@@ -32,9 +32,23 @@
             <line x1="0" y1="0" x2="{$max-width}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
             <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
             <!-- MALE BAR -->
-            <rect x="{$bar-spacing}" y="-{$action_count_male}" width="{$bar-width}" height="{$action_count_male}" fill="midnightBlue" stroke="#6495ED" stroke-width="3"/>
-            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$action_count_female}" width="{$bar-width}" height="{$action_count_female}" fill="rebeccaPurple" stroke="#6495ED" stroke-width="3"/>
-            <rect x="{(3 * $bar-spacing) + (2 * $bar-width)}" y="-{$action_count_sw}" width="{$bar-width}" height="{$action_count_sw}" fill="fireBrick" stroke="#6495ED" stroke-width="3"/>
+            <rect x="{$bar-spacing}" y="-{$action_count_male}" width="{$bar-width}" height="{$action_count_male}" fill="midnightBlue" stroke-width="3"/>
+            <text x="{$bar-spacing}" y="20" text-anchor="middle">
+                Male Actions
+            </text>
+            
+            <!-- FEMALE BAR -->
+            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$action_count_female}" width="{$bar-width}" height="{$action_count_female}" fill="rebeccaPurple" stroke-width="3"/>
+            <text x="{(2 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
+                Female Actions
+            </text>
+            
+            <!-- Holmes and Watson BAR -->
+            <rect x="{(3 * $bar-spacing) + (2 * $bar-width)}" y="-{$action_count_sw}" width="{$bar-width}" height="{$action_count_sw}" fill="fireBrick" stroke-width="3"/>
+            <text x="{(3 * $bar-spacing) + (2 * $bar-width)}" y="20" text-anchor="middle">
+                Holmes/Watson Actions
+            </text>
+            
         </svg>
             
     </xsl:template>
