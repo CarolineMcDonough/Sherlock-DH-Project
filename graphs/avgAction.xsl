@@ -15,10 +15,7 @@
     
     <xsl:variable name="femaleCharCount" as="xs:double" select="count(//span [@class eq 'female'])"/> 
     <xsl:variable name="maleCharCount" as="xs:double" select="count(//span [@class eq 'male'])"/> 
-    
-    
-    <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
-    <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
+    <xsl:variable name="maleActionCount" as="xs:double" select="(count(//span [@gender = 'male']))"/>
   
     <xsl:template match="/">
         
@@ -26,7 +23,7 @@
             <line x1="0" y1="0" x2="{$max-width}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
             <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
             
-            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleActionCount / $femaleCharCount}" width="{$bar-width}" height="{$femaleActionCount / $femaleCharCount}" fill="rebeccaPurple" stroke-width="3"/>
+            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleActionCount / 12}" width="{$bar-width}" height="{$femaleActionCount / $femaleCharCount}" fill="rebeccaPurple" stroke-width="3"/>
             <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
                 Average Action Count per Female
             </text>
