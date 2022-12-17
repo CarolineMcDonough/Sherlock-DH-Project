@@ -23,9 +23,10 @@
     <!--count elements for char and action count per gender-->
     <xsl:variable name="maleCharCount" as="xs:double" select="count(//span [@class eq 'male'])"/> 
     <xsl:variable name="femaleCharCount" as="xs:double" select="12"/>
-    <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//span [@gender eq 'female']))"/>
-    <xsl:variable name="maleActionCount" as="xs:double" select="(count(//span [@gender eq 'male']))"/>
     
+    <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
+    <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
+  
     <xsl:variable name="femaleCount" as="xs:double" select="($femaleActionCount div 12)"/>
     <xsl:variable name="maleCount" as="xs:double" select="($maleActionCount div $maleCharCount)"/>
   
@@ -42,6 +43,21 @@
             <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
                Average Female Actions
             </text>   
+            
+            <text x="{(3 * $bar-spacing) + $bar-width}" y="-510" text-anchor="middle" font-size="25">
+                Total Actions by Gender
+            </text>
+            
+            <line x1="0" y1="0" x2="{$max-width + $bar-spacing}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
+            <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
+            <text x="-40" y="-{$max-height div 2}" text-anchor="middle" transform="rotate(-90, -70, -{$max-height div 2})">
+                Number of Actions
+            </text>
+            <text x="-30" y="-{$max-height - ($max-height div 60)}" text-anchor="middle">500</text>
+            <text x="-30" y="-{$max-height * 0.75}" text-anchor="middle">375</text>
+            <text x="-30" y="-{$max-height div 2}" text-anchor="middle">250</text>
+            <text x="-30" y="-{$max-height * 0.25}" text-anchor="middle">125</text>
+            <text x="-30" y="0">0</text>
         </svg>
     </xsl:template>
 </xsl:stylesheet>
