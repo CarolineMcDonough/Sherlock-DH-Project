@@ -27,20 +27,29 @@
     <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
     <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
   
-    <xsl:variable name="femaleCount" as="xs:double" select="($femaleActionCount div 12)"/>
-    <xsl:variable name="maleCount" as="xs:double" select="($maleActionCount div $maleCharCount)"/>
+    
   
     <xsl:template match="/">
-        <!--SVG body for bar graph -->
-        <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">                         
-            <!--male bar!-->             <rect x="{$bar-spacing}" y="-{$maleCount}" width="{$bar-width}" height="{$maleCount}" fill="midnightBlue" stroke-width="3"/>
-        <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
-        Average agency afforded per male character</text><!--female bar!--><rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleCount}" width="{$bar-width}" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/> 
-            <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">                 Average agency afforded per female character             </text>                          <text x="-30" y="-{$max-height - ($max-height div 60)}" text-anchor="middle">500</text>             
-            <text x="-30" y="-{$max-height * 0.75}" text-anchor="middle">375</text>             <text x="-30" y="-{$max-height div 2}" text-anchor="middle">250</text>             <text x="-30" y="-{$max-height * 0.25}" text-anchor="middle">125</text>             <text x="-30" y="0"></text>         </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" height="600 " width="875" viewBox="-50, -550, 725, 600">
+            <rect x="75" y="-237" width="150" height="237" fill="midnightBlue" stroke-width="3"></rect>
+            <text x="150" y="20" text-anchor="middle">
+                Average actions/male
+            </text>
+            <rect x="300" y="-76" width="150" height="76" fill="rebeccaPurple" stroke-width="3"></rect>
+            <text x="375" y="20" text-anchor="middle">
+                Average actions/female
+            </text>
+     
+            <text x="-30" y="-491.6666666666667" text-anchor="middle">500</text>
+            <text x="-30" y="-375" text-anchor="middle">375</text>
+            <text x="-30" y="-250" text-anchor="middle">250</text>
+            <text x="-30" y="-125" text-anchor="middle">125</text>
+            <text x="-30" y="0">0</text>
+        </svg>
         
        
     </xsl:template>
+    
 </xsl:stylesheet>
 
     
