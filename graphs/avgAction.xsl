@@ -1,44 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    exclude-result-prefixes="#all"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     xmlns="http://www.w3.org/2000/svg" version="3.0">
-    
-    
-        <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
-            include-content-type="no" indent="yes"/>
-             <xsl:strip-space elements="story"/>
+    <xsl:output method="xml" indent="yes"/>
     
     <xsl:variable name="story_collection" as="document-node()+" select="collection('markup/?select=*.xml')"/>
     
-    <xsl:variable name="max_height" as="xs:double" select="500"/>
-    <xsl:variable name="spacing" as="xs:double" select="100"/>
-    <xsl:variable name="barWidth" select="65" as="xs:integer"/>
-    <xsl:variable name="interbarSpacing" select="$barWidth div 2" as="xs:double"/>
-    <xsl:variable name="max_width" as="xs:double" select="($barWidth + $interbarSpacing) * 3 + $interbarSpacing"/>
+    <xsl:variable name="bar-width" as="xs:double" select="150"/>
+    <xsl:variable name="bar-spacing" as="xs:double" select="$bar-width div 2"/>
+    <xsl:variable name="max-width" as="xs:double" select="($bar-width + $bar-spacing) * 3"/>
+    <xsl:variable name="y-scale" as="xs:double" select="5"/>
+    <xsl:variable name="max-height" as="xs:double" select="$y-scale * 100"/>
 
-
-
-<xsl:template match="story/p">
-    <xsl:variable name="femaleCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
-    <xsl:variable name="maleCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
     
-</xsl:template>
+   
+    <xsl:template match="story/p">  
+        <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
+        <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
+        <xsl:variable name="femaleCharCount" as="xs:double" select="(count(//char[@gender = 'female']))"/>
+        <xsl:variable name="maleCharCount" as="xs:double" select="(count(//char[@gender = 'male']))"/>
+    </xsl:template>
     
     <xsl:template match="/">
-        <xsl:value-of select="string-length(normalize-space($femaleCount))-string-length(translate(normalize-space($femaleCount),' ','')) +1"/>
-        <xsl:value-of select="string-length(normalize-space($maleCount))-string-length(translate(normalize-space($maleCount),' ','')) +1"/>    
-            <svg>
-                
-            </svg>
-        
+        <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">
+            <line x1="0" y1="0" x2="{$max-width}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
+            <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
+            
+            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleActionCount / $femaleCharCount}" width="{$bar-width}" height="{$femaleActionCount / $femaleCharCount}" fill="rebeccaPurple" stroke-width="3"/>
+            <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
+                Average Action Count per Female
+            </text>
+            
+            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$maleActionCount / $maleCharCount}" width="{$bar-width}" height="{$maleActionCount / $maleCharCount}" fill="midnightBlue" stroke-width="3"/>
+            <text x="{(3 * $bar-spacing) + $bar-width}" y="20" text-anchor="middle">
+                Average Action Count per Male
+            </text>
+        </svg>
     </xsl:template>
     
     
-    
-    
-    
-    
 </xsl:stylesheet>
+
+    
+    
+    
+    
