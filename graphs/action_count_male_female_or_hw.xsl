@@ -51,6 +51,9 @@
             <!-- ================================================================ -->
             <!-- Axes and their Labels                                            -->
             <!-- ================================================================ -->
+            <text x="{(3 * $bar-spacing) + $bar-width}" y="-510" text-anchor="middle" font-size="25">
+                Total Actions by Gender
+            </text>
             
             <line x1="0" y1="0" x2="{$max-width + $bar-spacing}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
             <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
