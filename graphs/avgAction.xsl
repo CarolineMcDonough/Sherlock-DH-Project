@@ -21,23 +21,31 @@
     <xsl:variable name="max-height" as="xs:double" select="$y-scale * 100"/>
     
     <!--count elements for char and action count per gender-->
-    <xsl:variable name="maleCharCount" as="xs:double" select="count(//span [@class eq 'male'])"/> 
     <xsl:variable name="femaleCharCount" as="xs:double" select="12"/>
+    <xsl:variable name="maleCharCount" as="xs:double" select="count(//span [@class eq 'male'])"/> 
+    
     
     <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
     <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
-  
+    
+    <xsl:variable name="femaleCount" as="xs:double" select="sum($femaleActionCount) div sum($femaleCharCount)"/>
+    <xsl:variable name="maleCount" as="xs:double" select="sum($maleActionCount) div sum($maleCharCount)"/>
     
   
     <xsl:template match="/">
+        
+        
+        
         <svg xmlns="http://www.w3.org/2000/svg" height="600 " width="875" viewBox="-50, -550, 725, 600">
-            <rect x="75" y="-237" width="150" height="237" fill="midnightBlue" stroke-width="3"></rect>
-            <text x="150" y="20" text-anchor="middle">
+            
+            <rect x="{(2 * $bar-spacing)}" y="-{$maleCount}" width="{$bar-width}" height="{$maleCount}" fill="midnightBlue" stroke-width="3"/>
+            <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
                 Average actions/male
             </text>
-            <rect x="300" y="-76" width="150" height="76" fill="rebeccaPurple" stroke-width="3"></rect>
-            <text x="375" y="20" text-anchor="middle">
-                Average actions/female
+            
+            <rect x="{(2 * $bar-spacing) + $bar-width}" y="-{$femaleCount}" width="150" height="{$femaleCount}" fill="rebeccaPurple" stroke-width="3"/>
+            <text x="{2 * $bar-spacing}" y="20" text-anchor="middle">
+                Average actions/female- 2.0
             </text>
      
             <text x="-30" y="-491.6666666666667" text-anchor="middle">500</text>
