@@ -12,18 +12,16 @@
     <xsl:variable name="max-width" as="xs:double" select="($bar-width + $bar-spacing) * 3"/>
     <xsl:variable name="y-scale" as="xs:double" select="5"/>
     <xsl:variable name="max-height" as="xs:double" select="$y-scale * 100"/>
-
     
-   
-    <xsl:template match="story/p">  
-        <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
-        <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
-        <xsl:variable name="femaleCharCount" as="xs:double" select="(count(//char[@gender = 'female']))"/>
-        <xsl:variable name="maleCharCount" as="xs:double" select="(count(//char[@gender = 'male']))"/>
-    </xsl:template>
-   
+    <xsl:variable name="femaleCharCount" as="xs:double" select="count(//span [@class eq 'female'])"/> 
+    <xsl:variable name="maleCharCount" as="xs:double" select="count(//span [@class eq 'male'])"/> 
     
+    
+    <xsl:variable name="femaleActionCount" as="xs:double" select="(count(//action/char[@gender = 'female']))"/>
+    <xsl:variable name="maleActionCount" as="xs:double" select="(count(//action/char[@gender = 'male']))"/>
+  
     <xsl:template match="/">
+        
         <svg height="{$max-height + 100} " width="{$max-width + 200}" viewBox="-50, -{$max-height + 50}, {$max-width + 50}, {$max-height + 100}">
             <line x1="0" y1="0" x2="{$max-width}" y2="0" stroke="black" stroke-width="5" stroke-linecap="square"/>
             <line x1="0" y1="0" x2="0" y2="-{$max-height}" stroke="black" stroke-width="5" stroke-linecap="square"/>
