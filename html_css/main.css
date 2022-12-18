@@ -1119,3 +1119,17 @@ input#actionSW,
 .checkBoxBox>h3:nth-of-type(2) {
     margin-top: 10px;
 }
+
+#actionsGenderGraph{
+    display:block;
+    margin-right: 10%;
+    margin-left: auto;
+    max-height: 10%;
+    max-width:80%;
+}
+#RORYGRAPH{
+    height: 400px;
+    margin-top: -150px;
+    margin-left: auto;
+    display: block;
+}
