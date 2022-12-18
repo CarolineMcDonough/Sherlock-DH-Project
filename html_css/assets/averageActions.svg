@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" height="600 " width="875" viewBox="-50, -550, 725, 600">
+   <rect x="75" y="-237" width="150" height="237" fill="midnightBlue" stroke-width="3"></rect>
+   <text x="150" y="20" text-anchor="middle">
+      Average actions/male
+      </text>
+   <rect x="300" y="-87" width="150" height="87" fill="rebeccaPurple" stroke-width="3"></rect>
+   <text x="375" y="20" text-anchor="middle">
+      Average actions/female
+   </text>
+   <text x="-30" y="-250" text-anchor="middle">12</text>
+   <text x="-30" y="-200" text-anchor="middle">10</text>
+   <text x="-30" y="-150" text-anchor="middle">6</text>
+   <text x="-30" y="-90" text-anchor="middle">2</text>
+</svg>
